@@ -1,0 +1,179 @@
+ Compare
+
+ Timestamp is 523ee63f (Sun Sep 22 15:44:47 2013)
+
+ Preferred load address is 10000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00000050H .idata$5                CODE
+ 0001:00000050 0000037cH .rdata                  CODE
+ 0001:000003cc 0000007cH .rdata$debug            CODE
+ 0001:00000450 00002bf5H .text                   CODE
+ 0001:00003048 00000014H .idata$2                CODE
+ 0001:0000305c 00000014H .idata$3                CODE
+ 0001:00003070 00000050H .idata$4                CODE
+ 0001:000030c0 0000012cH .idata$6                CODE
+ 0001:000031f0 00000090H .edata                  CODE
+ 0002:00000000 00000258H .data                   DATA
+ 0002:00000258 000001b4H .bss                    DATA
+ 0003:00000000 00000058H .rsrc$01                DATA
+ 0003:00000060 00000380H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base       Lib:Object
+
+ 0000:00000000       ___safe_se_handler_count   00000000     <absolute>
+ 0000:00000000       ___safe_se_handler_table   00000000     <absolute>
+ 0001:00000000       __imp__CreateFileW@28      10001000     kernel32:KERNEL32.dll
+ 0001:00000004       __imp__FindClose@4         10001004     kernel32:KERNEL32.dll
+ 0001:00000008       __imp__FindFirstFileW@8    10001008     kernel32:KERNEL32.dll
+ 0001:0000000c       __imp__FindNextFileW@8     1000100c     kernel32:KERNEL32.dll
+ 0001:00000010       __imp__ReadFile@20         10001010     kernel32:KERNEL32.dll
+ 0001:00000014       __imp__CloseHandle@4       10001014     kernel32:KERNEL32.dll
+ 0001:00000018       __imp__GetTickCount@0      10001018     kernel32:KERNEL32.dll
+ 0001:0000001c       __imp__lstrcmpW@8          1000101c     kernel32:KERNEL32.dll
+ 0001:00000020       __imp__lstrcpyW@8          10001020     kernel32:KERNEL32.dll
+ 0001:00000024       __imp__lstrcatW@8          10001024     kernel32:KERNEL32.dll
+ 0001:00000028       __imp__lstrlenW@4          10001028     kernel32:KERNEL32.dll
+ 0001:0000002c       __imp__PeekConsoleInputW@16 1000102c     kernel32:KERNEL32.dll
+ 0001:00000030       __imp__GetConsoleTitleW@8  10001030     kernel32:KERNEL32.dll
+ 0001:00000034       __imp__SetConsoleTitleW@4  10001034     kernel32:KERNEL32.dll
+ 0001:00000038       __imp__ReadConsoleInputW@16 10001038     kernel32:KERNEL32.dll
+ 0001:0000003c       __imp__HeapFree@12         1000103c     kernel32:KERNEL32.dll
+ 0001:00000040       __imp__GetProcessHeap@0    10001040     kernel32:KERNEL32.dll
+ 0001:00000044       __imp__HeapAlloc@12        10001044     kernel32:KERNEL32.dll
+ 0001:00000048       __imp__HeapReAlloc@16      10001048     kernel32:KERNEL32.dll
+ 0001:0000004c       \177KERNEL32_NULL_THUNK_DATA 1000104c     kernel32:KERNEL32.dll
+ 0001:00000088       _MainGuid                  10001088     Compare.obj
+ 0001:00000098       _MenuGuid                  10001098     Compare.obj
+ 0001:000000a8       _DialogGuid                100010a8     Compare.obj
+ 0001:000000c8       ??_C@_11LOCGONAA@?$AA?$AA@ 100010c8     Compare.obj
+ 0001:000000cc       ??_C@_17LGKOMLJ@?$AA?4?$AA?4?$AA?4?$AA?$AA@ 100010cc     Compare.obj
+ 0001:000000d4       ??_C@_1CE@FBOAEKEI@?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AAS?$AAu?$AAb?$AAf?$AAo?$AAl?$AAd?$AAe?$AAr?$AAs?$AA?$AA@ 100010d4     Compare.obj
+ 0001:000000f8       ??_C@_1CA@KJDAALFO@?$AAU?$AAs?$AAe?$AAM?$AAa?$AAx?$AAS?$AAc?$AAa?$AAn?$AAD?$AAe?$AAp?$AAt?$AAh?$AA?$AA@ 100010f8     Compare.obj
+ 0001:00000118       ??_C@_1BK@GGEMFANC@?$AAM?$AAa?$AAx?$AAS?$AAc?$AAa?$AAn?$AAD?$AAe?$AAp?$AAt?$AAh?$AA?$AA@ 10001118     Compare.obj
+ 0001:00000134       ??_C@_1CA@MDABALAC@?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AAS?$AAe?$AAl?$AAe?$AAc?$AAt?$AAe?$AAd?$AA?$AA@ 10001134     Compare.obj
+ 0001:00000154       ??_C@_1BI@HJKFLAP@?$AAC?$AAo?$AAm?$AAp?$AAa?$AAr?$AAe?$AAT?$AAi?$AAm?$AAe?$AA?$AA@ 10001154     Compare.obj
+ 0001:0000016c       ??_C@_1CC@GIIFACBC@?$AAL?$AAo?$AAw?$AAP?$AAr?$AAe?$AAc?$AAi?$AAs?$AAi?$AAo?$AAn?$AAT?$AAi?$AAm?$AAe?$AA?$AA@ 1000116c     Compare.obj
+ 0001:00000190       ??_C@_1EE@EFHMKIOD@?$AAI?$AAg?$AAn?$AAo?$AAr?$AAe?$AAP?$AAo?$AAs?$AAs?$AAi?$AAb?$AAl?$AAe?$AAT?$AAi?$AAm?$AAe?$AAZ?$AAo?$AAn?$AAe?$AAD?$AAi?$AAf?$AAf?$AAe?$AAr?$AAe?$AAn?$AAc?$AAe@ 10001190     Compare.obj
+ 0001:000001d4       ??_C@_1BI@PLJFHCFF@?$AAC?$AAo?$AAm?$AAp?$AAa?$AAr?$AAe?$AAS?$AAi?$AAz?$AAe?$AA?$AA@ 100011d4     Compare.obj
+ 0001:000001ec       ??_C@_1CA@JKHJMABM@?$AAC?$AAo?$AAm?$AAp?$AAa?$AAr?$AAe?$AAC?$AAo?$AAn?$AAt?$AAe?$AAn?$AAt?$AAs?$AA?$AA@ 100011ec     Compare.obj
+ 0001:0000020c       ??_C@_1CM@MCIOEKOG@?$AAC?$AAo?$AAm?$AAp?$AAa?$AAr?$AAe?$AAC?$AAo?$AAn?$AAt?$AAe?$AAn?$AAt?$AAs?$AAI?$AAg?$AAn?$AAo?$AAr?$AAe?$AA?$AA@ 1000120c     Compare.obj
+ 0001:00000238       ??_C@_1BO@PEKJDKMD@?$AAI?$AAg?$AAn?$AAo?$AAr?$AAe?$AAN?$AAe?$AAw?$AAL?$AAi?$AAn?$AAe?$AAs?$AA?$AA@ 10001238     Compare.obj
+ 0001:00000258       ??_C@_1CC@EJJKPBBK@?$AAI?$AAg?$AAn?$AAo?$AAr?$AAe?$AAW?$AAh?$AAi?$AAt?$AAe?$AAs?$AAp?$AAa?$AAc?$AAe?$AA?$AA@ 10001258     Compare.obj
+ 0001:0000027c       ??_C@_1CE@FJPIMCHB@?$AAM?$AAe?$AAs?$AAs?$AAa?$AAg?$AAe?$AAW?$AAh?$AAe?$AAn?$AAN?$AAo?$AAD?$AAi?$AAf?$AAf?$AA?$AA@ 1000127c     Compare.obj
+ 0001:000002a0       ??_C@_1M@KNJIDFOP@?$AA9?$AA9?$AA9?$AA9?$AA9?$AA?$AA@ 100012a0     Compare.obj
+ 0001:000002ac       ??_C@_1BC@ENICKDH@?$AAC?$AAo?$AAn?$AAt?$AAe?$AAn?$AAt?$AAs?$AA?$AA@ 100012ac     Compare.obj
+ 0001:000002c0       ??_C@_1BG@EEJFCAOO@?$AAS?$AAh?$AAo?$AAw?$AAH?$AAi?$AAd?$AAd?$AAe?$AAn?$AA?$AA@ 100012c0     Compare.obj
+ 0001:000002d8       ??_C@_17FPIFMLJN@?$AAE?$AAs?$AAc?$AA?$AA@ 100012d8     Compare.obj
+ 0001:000002e0       ??_C@_19MJCDBCKE@?$AA?2?$AA?2?$AA?$DP?$AA?2?$AA?$AA@ 100012e0     Compare.obj
+ 0001:000002ec       ??_C@_15DDHGOCBH@?$AA?4?$AA?4?$AA?$AA@ 100012ec     Compare.obj
+ 0001:000002f4       ??_C@_13JOFGPIOO@?$AA?4?$AA?$AA@ 100012f4     Compare.obj
+ 0001:000002f8       ??_C@_15PKPONJIK@?$AA?2?$AA?$CK?$AA?$AA@ 100012f8     Compare.obj
+ 0001:00000300       ??_C@_13BBDEGPLJ@?$AA?$CK?$AA?$AA@ 10001300     Compare.obj
+ 0001:00000304       ??_C@_1BA@NIFMCONN@?$AAC?$AAo?$AAm?$AAp?$AAa?$AAr?$AAe?$AA?$AA@ 10001304     Compare.obj
+ 0001:00000318       ??_C@_1EM@KDLPMJGE@?$AAA?$AAd?$AAv?$AAa?$AAn?$AAc?$AAe?$AAd?$AA?5?$AAF?$AAi?$AAl?$AAe?$AA?5?$AAC?$AAo?$AAm?$AAp?$AAa?$AAr?$AAe?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AAM?$AAa@ 10001318     Compare.obj
+ 0001:00000364       ??_C@_1DE@BGKMIKPD@?$AAE?$AAu?$AAg?$AAe?$AAn?$AAe?$AA?5?$AAR?$AAo?$AAs?$AAh?$AAa?$AAl?$AA?5?$AA?$CG?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AAG?$AAr?$AAo?$AAu?$AAp?$AA?$AA@ 10001364     Compare.obj
+ 0001:00000398       ??_C@_1O@PNMIMBDD@?$AAC?$AAO?$AAN?$AAI?$AAN?$AA$?$AA?$AA@ 10001398     Compare.obj
+ 0001:000003a8       ??_C@_1CE@FMMDKAAJ@?$AAC?$AAo?$AAm?$AAp?$AAa?$AAr?$AAe?$AAB?$AAu?$AAf?$AAf?$AAe?$AAr?$AAS?$AAi?$AAz?$AAe?$AA?$AA@ 100013a8     Compare.obj
+ 0001:00000450       __alloca_probe             10001450     chkstk.obj
+ 0001:00000450       __chkstk                   10001450 f   chkstk.obj
+ 0001:00000480       ??0SimpleString@@QAE@PB_W@Z 10001480 f i Compare.obj
+ 0001:00000510       ??0SimpleString@@QAE@PB_WI@Z 10001510 f i Compare.obj
+ 0001:00000590       ?BuildName@FileName@@QAEPB_WPB_W0@Z 10001590 f i Compare.obj
+ 0001:00001400       ?FreePanelItems@@YAXAAUOwnPanelInfo@@0@Z 10002400 f   Compare.obj
+ 0001:00001610       ?GetPanelItem@@YAXPAXW4FILE_CONTROL_COMMANDS@@HPAUPluginPanelItem@@@Z 10002610 f   Compare.obj
+ 0001:000017b0       ?Inflate@SimpleString@@QAEXI@Z 100027b0 f i Compare.obj
+ 0001:00001860       ?Replace@SimpleString@@QAEAAV1@IIPB_WI@Z 10002860 f i Compare.obj
+ 0001:00001fa0       ?ShowDialogProc@@YGHPAXHH0@Z 10002fa0 f   Compare.obj
+ 0001:000024c0       ?isnewline@@YA_NH@Z        100034c0 f   Compare.obj
+ 0001:000024e0       _GetGlobalInfoW@4          100034e0 f   Compare.obj
+ 0001:000025a0       _GetPluginInfoW@4          100035a0 f   Compare.obj
+ 0001:000025f0       _OpenW@4                   100035f0 f   Compare.obj
+ 0001:00002e20       _SetStartupInfoW@4         10003e20 f   Compare.obj
+ 0001:00002e50       _free                      10003e50 f   libCRT:free.obj
+ 0001:00002e70       _malloc                    10003e70 f   libCRT:malloc.obj
+ 0001:00002e90       _realloc                   10003e90 f   libCRT:realloc.obj
+ 0001:00002ee0       _wcschr                    10003ee0 f   libCRT:strchr.obj
+ 0001:00002f10       _wcsdup                    10003f10 f   libCRT:strdup.obj
+ 0001:00002f50       _memmove                   10003f50 f   libCRT:memmove.obj
+ 0001:00002fb0       ??_V@YAXPAX@Z              10003fb0 f   libCRT:delete_array.obj
+ 0001:00002fc0       ??_U@YAPAXI@Z              10003fc0 f   libCRT:new_array.obj
+ 0001:00002fd0       _memcpy                    10003fd0 f   libCRT:memcpy.obj
+ 0001:00003000       _memset                    10004000 f   libCRT:memset.obj
+ 0001:00003030       ??3@YAXPAX@Z               10004030 f   libCRT:delete.obj
+ 0001:00003040       ??2@YAPAXI@Z               10004040 f   libCRT:new.obj
+ 0001:00003048       __IMPORT_DESCRIPTOR_KERNEL32 10004048     kernel32:KERNEL32.dll
+ 0001:0000305c       __NULL_IMPORT_DESCRIPTOR   1000405c     kernel32:KERNEL32.dll
+ 0002:00000258       ?Opt@@3UOptions@@A         10005258     Compare.obj
+
+ entry point at        0000:00000000
+
+ Static symbols
+
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0001:000000b8       _FarGuid                   100010b8     Compare.obj
+ 0001:00000450       $$000000                   10001450     chkstk.obj
+ 0001:00000650       ?BuildPanelIndex@@YA_NPBUOwnPanelInfo@@PAUFileIndex@@PAX@Z 10001650 f   Compare.obj
+ 0001:000007b0       ?CheckForEsc@@YA_NXZ       100017b0 f   Compare.obj
+ 0001:00000900       ?CompareDirs@@YA_NPBUOwnPanelInfo@@0_NH@Z 10001900 f   Compare.obj
+ 0001:00000c30       ?CompareFiles@@YA_NPBUPluginPanelItem@@0PB_W1H@Z 10001c30 f   Compare.obj
+ 0001:000013a0       ?FreeDirList@@YAXPAUOwnPanelInfo@@@Z 100023a0 f   Compare.obj
+ 0001:000014f0       ?GetDirList@@YAHPAUOwnPanelInfo@@PB_W@Z 100024f0 f   Compare.obj
+ 0001:000016d0       ?GetSetting@@YA_JW4FARSETTINGS_SUBFOLDERS@@PB_W@Z 100026d0 f   Compare.obj
+ 0001:00001820       ?PICompare@@YGHPBX0PAX@Z   10002820 f   Compare.obj
+ 0001:00001970       ?ShowDialog@@YA_N_N0@Z     10002970 f   Compare.obj
+ 0001:00001f5c       $LN94                      10002f5c     Compare.obj
+ 0001:00001f7c       $LN85                      10002f7c     Compare.obj
+ 0001:000020e0       ?ShowMessage@@YAXPB_W0@Z   100030e0 f   Compare.obj
+ 0001:00002260       ?SplitCopy@@YAHQAPA_WHPA_WPB_W@Z 10003260 f   Compare.obj
+ 0001:00002440       ?WFD2FFD@@YAXAAU_WIN32_FIND_DATAW@@AAUPluginPanelItem@@@Z 10003440 f   Compare.obj
+ 0001:000031de       .idata$6                   100041de     kernel32:KERNEL32.dll
+ 0001:000031f0       .edata                     100041f0     Compare.exp
+ 0001:00003218       rgpv                       10004218     Compare.exp
+ 0001:00003228       rgszName                   10004228     Compare.exp
+ 0001:00003238       rgwOrd                     10004238     Compare.exp
+ 0001:00003240       szName                     10004240     Compare.exp
+ 0001:0000324c       $N00001                    1000424c     Compare.exp
+ 0001:0000325b       $N00002                    1000425b     Compare.exp
+ 0001:0000326a       $N00003                    1000426a     Compare.exp
+ 0001:00003270       $N00004                    10004270     Compare.exp
+ 0002:00000000       _nAdds                     10005000     Compare.obj
+ 0002:00000004       _hConInp                   10005004     Compare.obj
+ 0002:00000008       ?InitItems@?1??ShowDialog@@YA_N_N0@Z@4PAUInitDialogItem@?1??1@YA_N00@Z@A 10005008     Compare.obj
+ 0002:00000254       ?iCounter@?6??CompareDirs@@YA_NPBUOwnPanelInfo@@0_NH@Z@4HA 10005254     Compare.obj
+ 0002:00000290       _Info                      10005290     Compare.obj
+ 0002:00000318       _FSF                       10005318     Compare.obj
+ 0002:000003d4       _iTruncLen                 100053d4     Compare.obj
+ 0002:000003d8       _bOpenFail                 100053d8     Compare.obj
+ 0002:000003d9       _bBrokenByEsc              100053d9     Compare.obj
+ 0002:000003dc       _bufSize                   100053dc     Compare.obj
+ 0002:000003e0       _AFilter                   100053e0     Compare.obj
+ 0002:000003e4       _PFilter                   100053e4     Compare.obj
+ 0002:000003e8       _ABuf                      100053e8     Compare.obj
+ 0002:000003ec       _PBuf                      100053ec     Compare.obj
+ 0002:000003f0       ?dwTicks@?1??ShowMessage@@YAXPB_W0@Z@4KA 100053f0     Compare.obj
+ 0002:000003f4       ?CompareContents@?1??ShowDialogProc@@YGHPAXHH0@Z@4HA 100053f4     Compare.obj
+ 0002:000003f8       ?CompareContentsIgnore@?1??ShowDialogProc@@YGHPAXHH0@Z@4HA 100053f8     Compare.obj
+ 0002:000003fc       ?ProcessSubfolders@?1??ShowDialogProc@@YGHPAXHH0@Z@4HA 100053fc     Compare.obj
+ 0002:00000400       ?CompareTime@?1??ShowDialogProc@@YGHPAXHH0@Z@4HA 10005400     Compare.obj
+ 0002:00000404       ?dwTicks@?3??CheckForEsc@@YA_NXZ@4KA 10005404     Compare.obj
+ 0002:00000408       ?PluginMenuStrings@?1??GetPluginInfoW@@9@4@4PAPB_WA 10005408     Compare.obj
+ 0003:00000060       $R000000                   10006060     Compare.res

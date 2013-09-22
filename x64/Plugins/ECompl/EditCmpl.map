@@ -1,0 +1,1044 @@
+Archive member included because of file (symbol)
+
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+                              ../o/EditCmpl.o (wcscpy)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+                              ../o/EditCmpl.o (memset)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+                              ../o/EditCmpl.o (memmove)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+                              ../o/MatPat.o (wcslen)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+                              ../o/cmpl.o (wcschr)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+                              ../o/cmpl.o (wcsncmp)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+                              ../o/cmpl.o (wcsncpy)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+                              ../o/cmpl.o (memcpy)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+                              ../o/string.o (__imp__wcsrev)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+                              ../o/string.o (memcmp)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+                              ../o/ListBoxEx.o (malloc)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+                              ../o/ListBoxEx.o (free)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+                              c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o) (_head_lib64_libmsvcrt_a)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+                              c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o) (__lib64_libmsvcrt_a_iname)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+                              ../o/mcmpl.o (__imp_MessageBeep)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o)
+                              c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o) (_head_lib64_libuser32_a)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejt.o)
+                              c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o) (__lib64_libuser32_a_iname)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+                              ../o/cmpl.o (__imp_GetProcessHeap)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+                              ../o/cmpl.o (__imp_HeapAlloc)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+                              ../o/cmpl.o (__imp_HeapFree)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+                              ../o/acmpl.o (__imp_CreateThread)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+                              ../o/acmpl.o (__imp_CreateFileW)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+                              ../o/acmpl.o (__imp_ResumeThread)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+                              ../o/acmpl.o (__imp_WaitForMultipleObjects)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+                              ../o/acmpl.o (__imp_WaitForSingleObject)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+                              ../o/acmpl.o (__imp_GetExitCodeThread)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+                              ../o/string.o (__imp_HeapReAlloc)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+                              ../o/ListBoxEx.o (__imp_Beep)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+                              c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o) (_head_lib64_libkernel32_a)
+c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+                              c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o) (__lib64_libkernel32_a_iname)
+
+Discarded input sections
+
+ .text$_ZN10CFarDialog5CheckEi
+                0x0000000000000000       0x20 ../o/mcmpl.o
+ .xdata$_ZN10CFarDialog5CheckEi
+                0x0000000000000000        0x8 ../o/mcmpl.o
+ .pdata$_ZN10CFarDialog5CheckEi
+                0x0000000000000000        0xc ../o/mcmpl.o
+ .text$_ZN10CFarDialog3StrEi
+                0x0000000000000000       0x20 ../o/mcmpl.o
+ .xdata$_ZN10CFarDialog3StrEi
+                0x0000000000000000        0x4 ../o/mcmpl.o
+ .pdata$_ZN10CFarDialog3StrEi
+                0x0000000000000000        0xc ../o/mcmpl.o
+ .text$_ZN10CFarDialog3StrEi
+                0x0000000000000000       0x20 ../o/acmpl.o
+ .xdata$_ZN10CFarDialog3StrEi
+                0x0000000000000000        0x4 ../o/acmpl.o
+ .pdata$_ZN10CFarDialog3StrEi
+                0x0000000000000000        0xc ../o/acmpl.o
+ .text$_ZN15avl_window_dataD1Ev
+                0x0000000000000000       0x20 ../o/avl_windows.o
+ .xdata$_ZN15avl_window_dataD1Ev
+                0x0000000000000000        0x8 ../o/avl_windows.o
+ .pdata$_ZN15avl_window_dataD1Ev
+                0x0000000000000000        0xc ../o/avl_windows.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000066bc0000                __image_base__ = 0x66bc0000
+                0x0000000000000001                __dll__ = 0x1
+                0x0000000066bc0000                __ImageBase = 0x66bc0000
+                0x0000000000001000                __section_alignment__ = 0x1000
+                0x0000000000000200                __file_alignment__ = 0x200
+                0x0000000000000004                __major_os_version__ = 0x4
+                0x0000000000000000                __minor_os_version__ = 0x0
+                0x0000000000000000                __major_image_version__ = 0x0
+                0x0000000000000000                __minor_image_version__ = 0x0
+                0x0000000000000005                __major_subsystem_version__ = 0x5
+                0x0000000000000002                __minor_subsystem_version__ = 0x2
+                0x0000000000000003                __subsystem__ = 0x3
+                0x0000000000200000                __size_of_stack_reserve__ = 0x200000
+                0x0000000000001000                __size_of_stack_commit__ = 0x1000
+                0x0000000000100000                __size_of_heap_reserve__ = 0x100000
+                0x0000000000001000                __size_of_heap_commit__ = 0x1000
+                0x0000000000000000                __loader_flags__ = 0x0
+                0x0000000000000000                __dll_characteristics__ = 0x0
+LOAD ../o/EditCmpl.o
+LOAD ../o/MatPat.o
+LOAD ../o/cmpl.o
+LOAD ../o/mcmpl.o
+LOAD ../o/acmpl.o
+LOAD ../o/avl_words.o
+LOAD ../o/avl_windows.o
+LOAD ../o/string.o
+LOAD ../o/memory.o
+LOAD ../o/ListBoxEx.o
+LOAD ../bin/EditCmpl.dll.exp
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/libgcc.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmoldname.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libadvapi32.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libshell32.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/libgcc.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmoldname.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a
+LOAD c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a
+                0x00000000000002f0                . = SIZEOF_HEADERS
+                0x0000000000001000                . = ALIGN (__section_alignment__)
+
+.text           0x0000000066bc1000     0x7400
+ *(.init)
+ .init          0x0000000066bc1000        0x0 ../bin/EditCmpl.dll.exp
+ *(.text)
+ .text          0x0000000066bc1000      0x480 ../o/EditCmpl.o
+                0x0000000066bc1029                DllMainCRTStartup
+                0x0000000066bc102f                GetMsg(int)
+                0x0000000066bc11e8                GetGlobalInfoW@4
+                0x0000000066bc11e8                GetGlobalInfoW
+                0x0000000066bc128a                SetStartupInfoW
+                0x0000000066bc128a                SetStartupInfoW@4
+                0x0000000066bc1346                GetPluginInfoW
+                0x0000000066bc1346                GetPluginInfoW@4
+                0x0000000066bc139f                OpenW
+                0x0000000066bc139f                OpenW@4
+                0x0000000066bc13e5                ConfigureW@4
+                0x0000000066bc13e5                ConfigureW
+                0x0000000066bc13fa                ProcessEditorEventW
+                0x0000000066bc13fa                ProcessEditorEventW@4
+                0x0000000066bc141d                ProcessEditorInputW@4
+                0x0000000066bc141d                ProcessEditorInputW
+                0x0000000066bc1438                ExitFARW
+                0x0000000066bc1438                ExitFARW@4
+ .text          0x0000000066bc1480       0xc0 ../o/MatPat.o
+                0x0000000066bc1480                MatchPattern(unsigned short*, unsigned short*, unsigned short)
+ .text          0x0000000066bc1540     0x1910 ../o/cmpl.o
+                0x0000000066bc1540                TCompletion::Root(void*)
+                0x0000000066bc1543                ConfigDialogProc(void*, long long, long long, void*)
+                0x0000000066bc15be                TCompletion::InitItems(FarDialogItem*)
+                0x0000000066bc19a0                TCompletion::~TCompletion()
+                0x0000000066bc19a0                TCompletion::~TCompletion()
+                0x0000000066bc19d0                TCompletion::~TCompletion()
+                0x0000000066bc19ea                TCompletion::StoreItems(CFarDialog&)
+                0x0000000066bc1af8                TCompletion::TCompletion()
+                0x0000000066bc1af8                TCompletion::TCompletion()
+                0x0000000066bc1b90                TCompletion::Cleanup()
+                0x0000000066bc1bb6                TCompletion::InsertWordIntoList(string const&)
+                0x0000000066bc1c08                TCompletion::AddWord(string const&)
+                0x0000000066bc1e0c                TCompletion::IsAlpha(unsigned int)
+                0x0000000066bc1e5a                TCompletion::GetPreWord()
+                0x0000000066bc2056                TCompletion::AddWords(unsigned short const*, int, int)
+                0x0000000066bc218a                TCompletion::DoSearch()
+                0x0000000066bc23f8                TCompletion::GetLocalData()
+                0x0000000066bc2448                TCompletion::SetCurPos(int, int)
+                0x0000000066bc2496                TCompletion::PutWord(string)
+                0x0000000066bc26fe                TCompletion::GetValue(void*, unsigned long long, wchar_t const*, bool)
+                0x0000000066bc2766                TCompletion::GetValue(void*, unsigned long long, wchar_t const*, long long)
+                0x0000000066bc27c8                TCompletion::GetValue(void*, unsigned long long, wchar_t const*, wchar_t*, unsigned long long)
+                0x0000000066bc2846                TCompletion::GetValue(void*, unsigned long long, wchar_t const*, void*, unsigned long long)
+                0x0000000066bc28ca                TCompletion::SetValue(void*, unsigned long long, wchar_t const*, long long)
+                0x0000000066bc291e                TCompletion::SetValue(void*, unsigned long long, wchar_t const*, wchar_t*)
+                0x0000000066bc2972                TCompletion::SetOptions()
+                0x0000000066bc2b02                TCompletion::SetValue(void*, unsigned long long, wchar_t const*, void const*, unsigned long long)
+                0x0000000066bc2b62                TCompletion::GetOptions()
+                0x0000000066bc2d1e                TCompletion::ShowDialog()
+ .text          0x0000000066bc2e50     0x10b0 ../o/mcmpl.o
+                0x0000000066bc2e50                fcmp(void const*, void const*, void*)
+                0x0000000066bc2e56                TMenuCompletion::GetItemCount()
+                0x0000000066bc2e5c                TMenuCompletion::DialogWidth()
+                0x0000000066bc2e62                TMenuCompletion::DialogHeight()
+                0x0000000066bc2e68                TMenuCompletion::DialogProc(void*, int, int, void*)
+                0x0000000066bc2ec0                TMenuCompletion::InitItems(FarDialogItem*)
+                0x0000000066bc3030                TMenuCompletion::SetOptions()
+                0x0000000066bc358e                TMenuCompletion::~TMenuCompletion()
+                0x0000000066bc358e                TMenuCompletion::~TMenuCompletion()
+                0x0000000066bc359e                TMenuCompletion::~TMenuCompletion()
+                0x0000000066bc35b8                TMenuCompletion::StoreItems(CFarDialog&)
+                0x0000000066bc3652                TMenuCompletion::ShowMenu(string&)
+                0x0000000066bc3ba0                TMenuCompletion::CompleteWord()
+                0x0000000066bc3d1e                TMenuCompletion::GetOptions()
+                0x0000000066bc3e72                TMenuCompletion::TMenuCompletion()
+                0x0000000066bc3e72                TMenuCompletion::TMenuCompletion()
+ .text          0x0000000066bc3f00     0x1550 ../o/acmpl.o
+                0x0000000066bc3f8a                TAutoCompletion::Root(void*)
+                0x0000000066bc3fc4                TAutoCompletion::GetItemCount()
+                0x0000000066bc3fca                TAutoCompletion::DialogWidth()
+                0x0000000066bc3fd0                TAutoCompletion::DialogHeight()
+                0x0000000066bc3fd6                GetKey(void*, long long, long long, void*)
+                0x0000000066bc4064                TAutoCompletion::InitItems(FarDialogItem*)
+                0x0000000066bc4358                TAutoCompletion::DialogProc(void*, int, int, void*)
+                0x0000000066bc45e4                TAutoCompletion::SetOptions()
+                0x0000000066bc4743                SearchThread(void*)
+                0x0000000066bc4748                TAutoCompletion::~TAutoCompletion()
+                0x0000000066bc4748                TAutoCompletion::~TAutoCompletion()
+                0x0000000066bc4758                TAutoCompletion::~TAutoCompletion()
+                0x0000000066bc47a6                TAutoCompletion::StoreItems(CFarDialog&)
+                0x0000000066bc4872                TAutoCompletion::CheckText(int, int, avl_window_data*)
+                0x0000000066bc4964                TAutoCompletion::Colorize(FarColor, avl_window_data*)
+                0x0000000066bc49e8                TAutoCompletion::DeColorize(avl_window_data*)
+                0x0000000066bc4a38                TAutoCompletion::AcceptVariant(avl_window_data*)
+                0x0000000066bc4a98                TAutoCompletion::DeleteVariant(avl_window_data*)
+                0x0000000066bc4bcc                TAutoCompletion::ProcessEditorInput(_INPUT_RECORD const*)
+                0x0000000066bc4d92                TAutoCompletion::PutVariant(avl_window_data*)
+                0x0000000066bc5036                TAutoCompletion::CompleteWord()
+                0x0000000066bc507a                TAutoCompletion::GetOptions()
+                0x0000000066bc51fe                TAutoCompletion::TAutoCompletion()
+                0x0000000066bc51fe                TAutoCompletion::TAutoCompletion()
+                0x0000000066bc52b8                TAutoCompletion::ProcessEditorEvent(int, void*, int)
+ .text          0x0000000066bc5450      0x2e0 ../o/avl_words.o
+                0x0000000066bc5450                avl_word_tree::compare(avl_node<avl_word_data>*, avl_word_data*)
+                0x0000000066bc549a                avl_word_data::init()
+                0x0000000066bc54ae                avl_word_data::avl_word_data()
+                0x0000000066bc54ae                avl_word_data::avl_word_data()
+                0x0000000066bc54c6                avl_word_data::avl_word_data(string const&)
+                0x0000000066bc54c6                avl_word_data::avl_word_data(string const&)
+                0x0000000066bc54fe                avl_word_data::inc_ref()
+                0x0000000066bc5502                avl_word_data::get_ref() const
+                0x0000000066bc5506                avl_word_data::get_data() const
+                0x0000000066bc550a                avl_word_tree::recurse_iterate(avl_node<avl_word_data>*, void*, int&, void (*)(void*, int&, avl_word_data&))
+                0x0000000066bc5564                avl_word_tree::iterate(void*, int&, void (*)(void*, int&, avl_word_data&))
+                0x0000000066bc558a                avl_word_tree::get_max_len()
+                0x0000000066bc5590                avl_word_tree::get_partial()
+                0x0000000066bc5596                avl_word_tree::clear()
+                0x0000000066bc55b2                avl_word_tree::~avl_word_tree()
+                0x0000000066bc55b2                avl_word_tree::~avl_word_tree()
+                0x0000000066bc55e2                avl_word_tree::~avl_word_tree()
+                0x0000000066bc55fc                avl_word_tree::avl_word_tree()
+                0x0000000066bc55fc                avl_word_tree::avl_word_tree()
+                0x0000000066bc5624                avl_word_tree::insert(avl_word_data*)
+ .text          0x0000000066bc5730      0x120 ../o/avl_windows.o
+                0x0000000066bc5730                avl_window_tree::compare(avl_node<avl_window_data>*, avl_window_data*)
+                0x0000000066bc573a                avl_window_data::clear()
+                0x0000000066bc5766                avl_window_data::avl_window_data(int)
+                0x0000000066bc5766                avl_window_data::avl_window_data(int)
+                0x0000000066bc5790                avl_window_tree::query(int)
+                0x0000000066bc57f6                avl_window_tree::~avl_window_tree()
+                0x0000000066bc57f6                avl_window_tree::~avl_window_tree()
+                0x0000000066bc581e                avl_window_tree::~avl_window_tree()
+                0x0000000066bc5838                avl_window_tree::avl_window_tree()
+                0x0000000066bc5838                avl_window_tree::avl_window_tree()
+ .text          0x0000000066bc5850      0x490 ../o/string.o
+                0x0000000066bc5850                string::init()
+                0x0000000066bc588e                string::enlarge(unsigned long long)
+                0x0000000066bc58fa                string::copy(unsigned short const*, unsigned long long)
+                0x0000000066bc594a                string::copy(unsigned short const*)
+                0x0000000066bc5998                string::copy(string const&)
+                0x0000000066bc59d8                string::string()
+                0x0000000066bc59d8                string::string()
+                0x0000000066bc59de                string::string(unsigned short const*)
+                0x0000000066bc59de                string::string(unsigned short const*)
+                0x0000000066bc5a02                string::string(unsigned short const*, unsigned long long)
+                0x0000000066bc5a02                string::string(unsigned short const*, unsigned long long)
+                0x0000000066bc5a30                string::string(string const&)
+                0x0000000066bc5a30                string::string(string const&)
+                0x0000000066bc5a54                string::~string()
+                0x0000000066bc5a54                string::~string()
+                0x0000000066bc5a6e                string::operator=(string const&)
+                0x0000000066bc5a8a                string::operator=(unsigned short const*)
+                0x0000000066bc5aa0                string::operator()(unsigned short const*, unsigned long long)
+                0x0000000066bc5ab6                string::operator unsigned short const*() const
+                0x0000000066bc5ac6                string::operator[](unsigned long long)
+                0x0000000066bc5ada                string::length() const
+                0x0000000066bc5aec                string::reverse()
+                0x0000000066bc5b00                string::hash()
+                0x0000000066bc5b52                string::hash(unsigned long long)
+                0x0000000066bc5b58                string::get()
+                0x0000000066bc5b68                string::clear()
+                0x0000000066bc5b86                string::operator+=(unsigned short)
+                0x0000000066bc5bde                operator==(string const&, string const&)
+                0x0000000066bc5c34                operator+(string&, string&)
+ .text          0x0000000066bc5ce0       0x60 ../o/memory.o
+                0x0000000066bc5ce0                operator new(unsigned long long)
+                0x0000000066bc5d0a                operator delete(void*)
+                0x0000000066bc5d3b                __cxa_pure_virtual
+ .text          0x0000000066bc5d40     0x19b0 ../o/ListBoxEx.o
+                0x0000000066bc60b2                ListBoxExDialogProc(void*, long long, long long, void*)
+ .text          0x0000000066bc76f0        0x0 ../bin/EditCmpl.dll.exp
+ .text          0x0000000066bc76f0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+                0x0000000066bc76f0                wcscpy
+ .text          0x0000000066bc76f8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+                0x0000000066bc76f8                memset
+ .text          0x0000000066bc7700        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+                0x0000000066bc7700                memmove
+ .text          0x0000000066bc7708        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+                0x0000000066bc7708                wcslen
+ .text          0x0000000066bc7710        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+                0x0000000066bc7710                wcschr
+ .text          0x0000000066bc7718        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+                0x0000000066bc7718                wcsncmp
+ .text          0x0000000066bc7720        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+                0x0000000066bc7720                wcsncpy
+ .text          0x0000000066bc7728        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+                0x0000000066bc7728                memcpy
+ .text          0x0000000066bc7730        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+                0x0000000066bc7730                _wcsrev
+ .text          0x0000000066bc7738        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+                0x0000000066bc7738                memcmp
+ .text          0x0000000066bc7740        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+                0x0000000066bc7740                malloc
+ .text          0x0000000066bc7748        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+                0x0000000066bc7748                free
+ .text          0x0000000066bc7750        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .text          0x0000000066bc7750        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .text          0x0000000066bc7750        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+                0x0000000066bc7750                MessageBeep
+ *fill*         0x0000000066bc7758        0x8 
+ .text          0x0000000066bc7760        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o)
+ .text          0x0000000066bc7760        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejt.o)
+ .text          0x0000000066bc7760        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+                0x0000000066bc7760                GetProcessHeap
+ .text          0x0000000066bc7768        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+                0x0000000066bc7768                HeapAlloc
+ .text          0x0000000066bc7770        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+                0x0000000066bc7770                HeapFree
+ .text          0x0000000066bc7778        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+                0x0000000066bc7778                CreateThread
+ .text          0x0000000066bc7780        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+                0x0000000066bc7780                CreateFileW
+ .text          0x0000000066bc7788        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+                0x0000000066bc7788                ResumeThread
+ .text          0x0000000066bc7790        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+                0x0000000066bc7790                WaitForMultipleObjects
+ .text          0x0000000066bc7798        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+                0x0000000066bc7798                WaitForSingleObject
+ .text          0x0000000066bc77a0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+                0x0000000066bc77a0                GetExitCodeThread
+ .text          0x0000000066bc77a8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+                0x0000000066bc77a8                HeapReAlloc
+ .text          0x0000000066bc77b0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+                0x0000000066bc77b0                Beep
+ *fill*         0x0000000066bc77b8        0x8 
+ .text          0x0000000066bc77c0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .text          0x0000000066bc77c0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ *(SORT(.text$*))
+ .text$_ZN10CFarDialog3StrEi
+                0x0000000066bc77c0       0x20 ../o/cmpl.o
+                0x0000000066bc77c0                CFarDialog::Str(int)
+ .text$_ZN10CFarDialog5CheckEi
+                0x0000000066bc77e0       0x20 ../o/cmpl.o
+                0x0000000066bc77e0                CFarDialog::Check(int)
+ .text$_ZN15avl_window_dataD1Ev
+                0x0000000066bc7800       0x20 ../o/acmpl.o
+                0x0000000066bc7800                avl_window_data::~avl_window_data()
+ .text$_ZN8avl_nodeI13avl_word_dataE4initEv
+                0x0000000066bc7820       0x20 ../o/avl_words.o
+                0x0000000066bc7820                avl_node<avl_word_data>::init()
+ .text$_ZN8avl_nodeI13avl_word_dataED0Ev
+                0x0000000066bc7840       0x20 ../o/avl_words.o
+                0x0000000066bc7840                avl_node<avl_word_data>::~avl_node()
+ .text$_ZN8avl_nodeI13avl_word_dataED1Ev
+                0x0000000066bc7860       0x40 ../o/avl_words.o
+                0x0000000066bc7860                avl_node<avl_word_data>::~avl_node()
+ .text$_ZN8avl_nodeI15avl_window_dataE4initEv
+                0x0000000066bc78a0       0x20 ../o/acmpl.o
+                0x0000000066bc78a0                avl_node<avl_window_data>::init()
+ .text$_ZN8avl_nodeI15avl_window_dataED0Ev
+                0x0000000066bc78c0       0x20 ../o/acmpl.o
+                0x0000000066bc78c0                avl_node<avl_window_data>::~avl_node()
+ .text$_ZN8avl_nodeI15avl_window_dataED1Ev
+                0x0000000066bc78e0       0x40 ../o/acmpl.o
+                0x0000000066bc78e0                avl_node<avl_window_data>::~avl_node()
+ .text$_ZN8avl_treeI13avl_word_dataE10rightgrownEPP8avl_nodeIS0_E
+                0x0000000066bc7920       0xb0 ../o/avl_words.o
+                0x0000000066bc7920                avl_tree<avl_word_data>::rightgrown(avl_node<avl_word_data>**)
+ .text$_ZN8avl_treeI13avl_word_dataE14recurse_deleteEP8avl_nodeIS0_E
+                0x0000000066bc79d0       0x40 ../o/avl_words.o
+                0x0000000066bc79d0                avl_tree<avl_word_data>::recurse_delete(avl_node<avl_word_data>*)
+ .text$_ZN8avl_treeI13avl_word_dataE15internal_insertEPP8avl_nodeIS0_EPS0_PS6_
+                0x0000000066bc7a10      0x100 ../o/avl_words.o
+                0x0000000066bc7a10                avl_tree<avl_word_data>::internal_insert(avl_node<avl_word_data>**, avl_word_data*, avl_word_data**)
+ .text$_ZN8avl_treeI13avl_word_dataE5clearEv
+                0x0000000066bc7b10       0x30 ../o/avl_words.o
+                0x0000000066bc7b10                avl_tree<avl_word_data>::clear()
+ .text$_ZN8avl_treeI13avl_word_dataE9leftgrownEPP8avl_nodeIS0_E
+                0x0000000066bc7b40       0xb0 ../o/avl_words.o
+                0x0000000066bc7b40                avl_tree<avl_word_data>::leftgrown(avl_node<avl_word_data>**)
+ .text$_ZN8avl_treeI13avl_word_dataED0Ev
+                0x0000000066bc7bf0       0x10 ../o/avl_words.o
+                0x0000000066bc7bf0                avl_tree<avl_word_data>::~avl_tree()
+ .text$_ZN8avl_treeI13avl_word_dataED1Ev
+                0x0000000066bc7c00       0x10 ../o/avl_words.o
+                0x0000000066bc7c00                avl_tree<avl_word_data>::~avl_tree()
+ .text$_ZN8avl_treeI15avl_window_dataE10findlowestEP8avl_nodeIS0_EPS4_P7AVL_RES
+                0x0000000066bc7c10       0x90 ../o/acmpl.o
+                0x0000000066bc7c10                avl_tree<avl_window_data>::findlowest(avl_node<avl_window_data>*, avl_node<avl_window_data>**, AVL_RES*)
+ .text$_ZN8avl_treeI15avl_window_dataE10leftshrunkEPP8avl_nodeIS0_E
+                0x0000000066bc7ca0       0xd0 ../o/acmpl.o
+                0x0000000066bc7ca0                avl_tree<avl_window_data>::leftshrunk(avl_node<avl_window_data>**)
+ .text$_ZN8avl_treeI15avl_window_dataE10rightgrownEPP8avl_nodeIS0_E
+                0x0000000066bc7d70       0xb0 ../o/acmpl.o
+                0x0000000066bc7d70                avl_tree<avl_window_data>::rightgrown(avl_node<avl_window_data>**)
+ .text$_ZN8avl_treeI15avl_window_dataE11findhighestEP8avl_nodeIS0_EPS4_P7AVL_RES
+                0x0000000066bc7e20       0x90 ../o/acmpl.o
+                0x0000000066bc7e20                avl_tree<avl_window_data>::findhighest(avl_node<avl_window_data>*, avl_node<avl_window_data>**, AVL_RES*)
+ .text$_ZN8avl_treeI15avl_window_dataE11rightshrunkEPP8avl_nodeIS0_E
+                0x0000000066bc7eb0       0xd0 ../o/acmpl.o
+                0x0000000066bc7eb0                avl_tree<avl_window_data>::rightshrunk(avl_node<avl_window_data>**)
+ .text$_ZN8avl_treeI15avl_window_dataE14recurse_deleteEP8avl_nodeIS0_E
+                0x0000000066bc7f80       0x40 ../o/avl_windows.o
+                0x0000000066bc7f80                avl_tree<avl_window_data>::recurse_delete(avl_node<avl_window_data>*)
+ .text$_ZN8avl_treeI15avl_window_dataE15internal_insertEPP8avl_nodeIS0_EPS0_PS6_
+                0x0000000066bc7fc0      0x100 ../o/acmpl.o
+                0x0000000066bc7fc0                avl_tree<avl_window_data>::internal_insert(avl_node<avl_window_data>**, avl_window_data*, avl_window_data**)
+ .text$_ZN8avl_treeI15avl_window_dataE15internal_removeEPP8avl_nodeIS0_EPS0_
+                0x0000000066bc80c0      0x120 ../o/acmpl.o
+                0x0000000066bc80c0                avl_tree<avl_window_data>::internal_remove(avl_node<avl_window_data>**, avl_window_data*)
+ .text$_ZN8avl_treeI15avl_window_dataE5clearEv
+                0x0000000066bc81e0       0x30 ../o/avl_windows.o
+                0x0000000066bc81e0                avl_tree<avl_window_data>::clear()
+ .text$_ZN8avl_treeI15avl_window_dataE9leftgrownEPP8avl_nodeIS0_E
+                0x0000000066bc8210       0xb0 ../o/acmpl.o
+                0x0000000066bc8210                avl_tree<avl_window_data>::leftgrown(avl_node<avl_window_data>**)
+ .text$_ZN8avl_treeI15avl_window_dataED0Ev
+                0x0000000066bc82c0       0x10 ../o/avl_windows.o
+                0x0000000066bc82c0                avl_tree<avl_window_data>::~avl_tree()
+ .text$_ZN8avl_treeI15avl_window_dataED1Ev
+                0x0000000066bc82d0       0x10 ../o/avl_windows.o
+                0x0000000066bc82d0                avl_tree<avl_window_data>::~avl_tree()
+ *(.text.*)
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+                0x0000000066bc82e0                . = ALIGN (0x8)
+                0x0000000066bc82e0                ___CTOR_LIST__ = .
+                0x0000000066bc82e0                __CTOR_LIST__ = .
+                0x0000000066bc82e0        0x4 LONG 0xffffffffffffffff
+                0x0000000066bc82e4        0x4 LONG 0xffffffffffffffff
+ *(.ctors)
+ *(.ctor)
+ *(SORT(.ctors.*))
+                0x0000000066bc82e8        0x4 LONG 0x0
+                0x0000000066bc82ec        0x4 LONG 0x0
+                0x0000000066bc82f0                ___DTOR_LIST__ = .
+                0x0000000066bc82f0                __DTOR_LIST__ = .
+                0x0000000066bc82f0        0x4 LONG 0xffffffffffffffff
+                0x0000000066bc82f4        0x4 LONG 0xffffffffffffffff
+ *(.dtors)
+ *(.dtor)
+ *(SORT(.dtors.*))
+                0x0000000066bc82f8        0x4 LONG 0x0
+                0x0000000066bc82fc        0x4 LONG 0x0
+ *(.fini)
+ *(.gcc_exc)
+                0x0000000066bc8300                PROVIDE (etext, .)
+ *(.gcc_except_table)
+
+.data           0x0000000066bc9000      0x600
+                0x0000000066bc9000                __data_start__ = .
+ *(.data)
+ .data          0x0000000066bc9000        0x0 ../o/EditCmpl.o
+ .data          0x0000000066bc9000        0x0 ../o/MatPat.o
+ .data          0x0000000066bc9000       0x50 ../o/cmpl.o
+ .data          0x0000000066bc9050       0xc0 ../o/mcmpl.o
+ .data          0x0000000066bc9110      0x100 ../o/acmpl.o
+ .data          0x0000000066bc9210        0x0 ../o/avl_words.o
+ .data          0x0000000066bc9210        0x0 ../o/avl_windows.o
+ .data          0x0000000066bc9210        0x0 ../o/string.o
+ .data          0x0000000066bc9210        0x0 ../o/memory.o
+ .data          0x0000000066bc9210       0x80 ../o/ListBoxEx.o
+ .data          0x0000000066bc9290        0x0 ../bin/EditCmpl.dll.exp
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejt.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .data          0x0000000066bc9290        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ *(.data2)
+ *(SORT(.data$*))
+ .data$_ZTV11TCompletion
+                0x0000000066bc9290       0x60 ../o/cmpl.o
+                0x0000000066bc9290                vtable for TCompletion
+ .data$_ZTV13avl_word_tree
+                0x0000000066bc92f0       0x30 ../o/avl_words.o
+                0x0000000066bc92f0                vtable for avl_word_tree
+ .data$_ZTV15TAutoCompletion
+                0x0000000066bc9320       0x60 ../o/acmpl.o
+                0x0000000066bc9320                vtable for TAutoCompletion
+ .data$_ZTV15TMenuCompletion
+                0x0000000066bc9380       0x60 ../o/mcmpl.o
+                0x0000000066bc9380                vtable for TMenuCompletion
+ .data$_ZTV15avl_window_tree
+                0x0000000066bc93e0       0x30 ../o/avl_windows.o
+                0x0000000066bc93e0                vtable for avl_window_tree
+ .data$_ZTV8avl_nodeI13avl_word_dataE
+                0x0000000066bc9410       0x30 ../o/avl_words.o
+                0x0000000066bc9410                vtable for avl_node<avl_word_data>
+ .data$_ZTV8avl_nodeI15avl_window_dataE
+                0x0000000066bc9440       0x30 ../o/acmpl.o
+                0x0000000066bc9440                vtable for avl_node<avl_window_data>
+ .data$_ZTV8avl_treeI13avl_word_dataE
+                0x0000000066bc9470       0x30 ../o/avl_words.o
+                0x0000000066bc9470                vtable for avl_tree<avl_word_data>
+ .data$_ZTV8avl_treeI15avl_window_dataE
+                0x0000000066bc94a0       0x30 ../o/avl_windows.o
+                0x0000000066bc94a0                vtable for avl_tree<avl_window_data>
+ *(.jcr)
+                0x0000000066bc94d0                __data_end__ = .
+ *(.data_cygwin_nocopy)
+
+.rdata          0x0000000066bca000      0x600
+ *(.rdata)
+ .rdata         0x0000000066bca000       0xb0 ../o/EditCmpl.o
+ .rdata         0x0000000066bca0b0      0x160 ../o/cmpl.o
+ .rdata         0x0000000066bca210      0x120 ../o/mcmpl.o
+ .rdata         0x0000000066bca330       0xf0 ../o/acmpl.o
+ *(SORT(.rdata$*))
+ .rdata$ACmplGuid
+                0x0000000066bca420       0x10 ../o/acmpl.o
+                0x0000000066bca420                ACmplGuid
+ .rdata$CmplGuid
+                0x0000000066bca430       0x10 ../o/cmpl.o
+                0x0000000066bca430                CmplGuid
+ .rdata$MCmplGuid
+                0x0000000066bca440       0x10 ../o/mcmpl.o
+                0x0000000066bca440                MCmplGuid
+ .rdata$MainGuid
+                0x0000000066bca450       0x10 ../o/EditCmpl.o
+                0x0000000066bca450                MainGuid
+ .rdata$MainMenuGuid
+                0x0000000066bca460       0x10 ../o/EditCmpl.o
+                0x0000000066bca460                MainMenuGuid
+                0x0000000066bca470                __rt_psrelocs_start = .
+ *(.rdata_runtime_pseudo_reloc)
+                0x0000000066bca470                __rt_psrelocs_end = .
+                0x0000000000000000                __rt_psrelocs_size = (__rt_psrelocs_end - __rt_psrelocs_start)
+                0x0000000066bca470                ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0000000066bca470                __RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0000000066bca470                ___RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+                0x0000000066bca470                __RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+
+.eh_frame
+ *(.eh_frame*)
+
+.pdata          0x0000000066bcb000      0xa00
+ *(.pdata*)
+ .pdata         0x0000000066bcb000       0x90 ../o/EditCmpl.o
+ .pdata         0x0000000066bcb090        0xc ../o/MatPat.o
+ .pdata         0x0000000066bcb09c      0x144 ../o/cmpl.o
+ .pdata$_ZN10CFarDialog5CheckEi
+                0x0000000066bcb1e0        0xc ../o/cmpl.o
+ .pdata$_ZN10CFarDialog3StrEi
+                0x0000000066bcb1ec        0xc ../o/cmpl.o
+ .pdata         0x0000000066bcb1f8       0xc0 ../o/mcmpl.o
+ .pdata         0x0000000066bcb2b8      0x144 ../o/acmpl.o
+ .pdata$_ZN8avl_nodeI15avl_window_dataE4initEv
+                0x0000000066bcb3fc        0xc ../o/acmpl.o
+ .pdata$_ZN15avl_window_dataD1Ev
+                0x0000000066bcb408        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_nodeI15avl_window_dataED1Ev
+                0x0000000066bcb414        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_nodeI15avl_window_dataED0Ev
+                0x0000000066bcb420        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE10leftshrunkEPP8avl_nodeIS0_E
+                0x0000000066bcb42c        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE11rightshrunkEPP8avl_nodeIS0_E
+                0x0000000066bcb438        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE11findhighestEP8avl_nodeIS0_EPS4_P7AVL_RES
+                0x0000000066bcb444        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE10findlowestEP8avl_nodeIS0_EPS4_P7AVL_RES
+                0x0000000066bcb450        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE15internal_removeEPP8avl_nodeIS0_EPS0_
+                0x0000000066bcb45c        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE9leftgrownEPP8avl_nodeIS0_E
+                0x0000000066bcb468        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE10rightgrownEPP8avl_nodeIS0_E
+                0x0000000066bcb474        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE15internal_insertEPP8avl_nodeIS0_EPS0_PS6_
+                0x0000000066bcb480        0xc ../o/acmpl.o
+ .pdata$_ZN8avl_treeI13avl_word_dataED1Ev
+                0x0000000066bcb48c        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_nodeI13avl_word_dataE4initEv
+                0x0000000066bcb498        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_treeI13avl_word_dataED0Ev
+                0x0000000066bcb4a4        0xc ../o/avl_words.o
+ .pdata         0x0000000066bcb4b0       0xd8 ../o/avl_words.o
+ .pdata$_ZN8avl_nodeI13avl_word_dataED1Ev
+                0x0000000066bcb588        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_nodeI13avl_word_dataED0Ev
+                0x0000000066bcb594        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_treeI13avl_word_dataE14recurse_deleteEP8avl_nodeIS0_E
+                0x0000000066bcb5a0        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_treeI13avl_word_dataE5clearEv
+                0x0000000066bcb5ac        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_treeI13avl_word_dataE9leftgrownEPP8avl_nodeIS0_E
+                0x0000000066bcb5b8        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_treeI13avl_word_dataE10rightgrownEPP8avl_nodeIS0_E
+                0x0000000066bcb5c4        0xc ../o/avl_words.o
+ .pdata$_ZN8avl_treeI13avl_word_dataE15internal_insertEPP8avl_nodeIS0_EPS0_PS6_
+                0x0000000066bcb5d0        0xc ../o/avl_words.o
+ .pdata         0x0000000066bcb5dc       0x54 ../o/avl_windows.o
+ .pdata$_ZN8avl_treeI15avl_window_dataED1Ev
+                0x0000000066bcb630        0xc ../o/avl_windows.o
+ .pdata$_ZN8avl_treeI15avl_window_dataED0Ev
+                0x0000000066bcb63c        0xc ../o/avl_windows.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE14recurse_deleteEP8avl_nodeIS0_E
+                0x0000000066bcb648        0xc ../o/avl_windows.o
+ .pdata$_ZN8avl_treeI15avl_window_dataE5clearEv
+                0x0000000066bcb654        0xc ../o/avl_windows.o
+ .pdata         0x0000000066bcb660      0x120 ../o/string.o
+ .pdata         0x0000000066bcb780       0x24 ../o/memory.o
+ .pdata         0x0000000066bcb7a4       0x60 ../o/ListBoxEx.o
+
+.xdata          0x0000000066bcc000      0x800
+ *(.xdata*)
+ .xdata         0x0000000066bcc000       0x64 ../o/EditCmpl.o
+ .xdata         0x0000000066bcc064       0x14 ../o/MatPat.o
+ .xdata         0x0000000066bcc078      0x150 ../o/cmpl.o
+ .xdata$_ZN10CFarDialog5CheckEi
+                0x0000000066bcc1c8        0x8 ../o/cmpl.o
+ .xdata$_ZN10CFarDialog3StrEi
+                0x0000000066bcc1d0        0x4 ../o/cmpl.o
+ .xdata         0x0000000066bcc1d4       0xb8 ../o/mcmpl.o
+ .xdata         0x0000000066bcc28c      0x134 ../o/acmpl.o
+ .xdata$_ZN8avl_nodeI15avl_window_dataE4initEv
+                0x0000000066bcc3c0        0x4 ../o/acmpl.o
+ .xdata$_ZN15avl_window_dataD1Ev
+                0x0000000066bcc3c4        0x8 ../o/acmpl.o
+ .xdata$_ZN8avl_nodeI15avl_window_dataED1Ev
+                0x0000000066bcc3cc        0x8 ../o/acmpl.o
+ .xdata$_ZN8avl_nodeI15avl_window_dataED0Ev
+                0x0000000066bcc3d4        0x8 ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE10leftshrunkEPP8avl_nodeIS0_E
+                0x0000000066bcc3dc        0x8 ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE11rightshrunkEPP8avl_nodeIS0_E
+                0x0000000066bcc3e4        0x8 ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE11findhighestEP8avl_nodeIS0_EPS4_P7AVL_RES
+                0x0000000066bcc3ec       0x10 ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE10findlowestEP8avl_nodeIS0_EPS4_P7AVL_RES
+                0x0000000066bcc3fc       0x10 ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE15internal_removeEPP8avl_nodeIS0_EPS0_
+                0x0000000066bcc40c        0xc ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE9leftgrownEPP8avl_nodeIS0_E
+                0x0000000066bcc418        0x8 ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE10rightgrownEPP8avl_nodeIS0_E
+                0x0000000066bcc420        0x8 ../o/acmpl.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE15internal_insertEPP8avl_nodeIS0_EPS0_PS6_
+                0x0000000066bcc428        0xc ../o/acmpl.o
+ .xdata$_ZN8avl_treeI13avl_word_dataED1Ev
+                0x0000000066bcc434        0x4 ../o/avl_words.o
+ .xdata$_ZN8avl_nodeI13avl_word_dataE4initEv
+                0x0000000066bcc438        0x4 ../o/avl_words.o
+ .xdata$_ZN8avl_treeI13avl_word_dataED0Ev
+                0x0000000066bcc43c        0x4 ../o/avl_words.o
+ .xdata         0x0000000066bcc440       0x80 ../o/avl_words.o
+ .xdata$_ZN8avl_nodeI13avl_word_dataED1Ev
+                0x0000000066bcc4c0        0x8 ../o/avl_words.o
+ .xdata$_ZN8avl_nodeI13avl_word_dataED0Ev
+                0x0000000066bcc4c8        0x8 ../o/avl_words.o
+ .xdata$_ZN8avl_treeI13avl_word_dataE14recurse_deleteEP8avl_nodeIS0_E
+                0x0000000066bcc4d0        0xc ../o/avl_words.o
+ .xdata$_ZN8avl_treeI13avl_word_dataE5clearEv
+                0x0000000066bcc4dc        0x8 ../o/avl_words.o
+ .xdata$_ZN8avl_treeI13avl_word_dataE9leftgrownEPP8avl_nodeIS0_E
+                0x0000000066bcc4e4        0x8 ../o/avl_words.o
+ .xdata$_ZN8avl_treeI13avl_word_dataE10rightgrownEPP8avl_nodeIS0_E
+                0x0000000066bcc4ec        0x8 ../o/avl_words.o
+ .xdata$_ZN8avl_treeI13avl_word_dataE15internal_insertEPP8avl_nodeIS0_EPS0_PS6_
+                0x0000000066bcc4f4        0xc ../o/avl_words.o
+ .xdata         0x0000000066bcc500       0x3c ../o/avl_windows.o
+ .xdata$_ZN8avl_treeI15avl_window_dataED1Ev
+                0x0000000066bcc53c        0x4 ../o/avl_windows.o
+ .xdata$_ZN8avl_treeI15avl_window_dataED0Ev
+                0x0000000066bcc540        0x4 ../o/avl_windows.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE14recurse_deleteEP8avl_nodeIS0_E
+                0x0000000066bcc544        0xc ../o/avl_windows.o
+ .xdata$_ZN8avl_treeI15avl_window_dataE5clearEv
+                0x0000000066bcc550        0x8 ../o/avl_windows.o
+ .xdata         0x0000000066bcc558       0xc8 ../o/string.o
+ .xdata         0x0000000066bcc620       0x14 ../o/memory.o
+ .xdata         0x0000000066bcc634       0x60 ../o/ListBoxEx.o
+
+.bss            0x0000000066bcd000      0x2b0
+                0x0000000066bcd000                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000066bcd000      0x2b0 ../o/EditCmpl.o
+                0x0000000066bcd000                windows
+                0x0000000066bcd010                FSF
+                0x0000000066bcd190                Info
+ .bss           0x0000000066bcd2b0        0x0 ../o/MatPat.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/cmpl.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/mcmpl.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/acmpl.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/avl_words.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/avl_windows.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/string.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/memory.o
+ .bss           0x0000000066bcd2b0        0x0 ../o/ListBoxEx.o
+ .bss           0x0000000066bcd2b0        0x0 ../bin/EditCmpl.dll.exp
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejt.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .bss           0x0000000066bcd2b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ *(COMMON)
+                0x0000000066bcd2b0                __bss_end__ = .
+
+.edata          0x0000000066bce000      0x200
+ *(.edata)
+ .edata         0x0000000066bce000       0xf8 ../bin/EditCmpl.dll.exp
+
+/DISCARD/
+ *(.debug$S)
+ *(.debug$T)
+ *(.debug$F)
+ *(.drectve)
+ *(.note.GNU-stack)
+ *(.gnu.lto_*)
+
+.idata          0x0000000066bcf000      0x400
+ SORT(*)(.idata$2)
+ .idata$2       0x0000000066bcf000       0x14 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+                0x0000000066bcf000                _head_lib64_libkernel32_a
+ .idata$2       0x0000000066bcf014       0x14 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+                0x0000000066bcf014                _head_lib64_libmsvcrt_a
+ .idata$2       0x0000000066bcf028       0x14 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o)
+                0x0000000066bcf028                _head_lib64_libuser32_a
+ SORT(*)(.idata$3)
+                0x0000000066bcf03c        0x4 LONG 0x0
+                0x0000000066bcf040        0x4 LONG 0x0
+                0x0000000066bcf044        0x4 LONG 0x0
+                0x0000000066bcf048        0x4 LONG 0x0
+                0x0000000066bcf04c        0x4 LONG 0x0
+ SORT(*)(.idata$4)
+ .idata$4       0x0000000066bcf050        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .idata$4       0x0000000066bcf050        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+ .idata$4       0x0000000066bcf058        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+ .idata$4       0x0000000066bcf060        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+ .idata$4       0x0000000066bcf068        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+ .idata$4       0x0000000066bcf070        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .idata$4       0x0000000066bcf078        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .idata$4       0x0000000066bcf080        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .idata$4       0x0000000066bcf088        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .idata$4       0x0000000066bcf090        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+ .idata$4       0x0000000066bcf098        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+ .idata$4       0x0000000066bcf0a0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+ .idata$4       0x0000000066bcf0a8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ .idata$4       0x0000000066bcf0b0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .idata$4       0x0000000066bcf0b0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+ .idata$4       0x0000000066bcf0b8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .idata$4       0x0000000066bcf0c0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .idata$4       0x0000000066bcf0c8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+ .idata$4       0x0000000066bcf0d0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .idata$4       0x0000000066bcf0d8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+ .idata$4       0x0000000066bcf0e0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+ .idata$4       0x0000000066bcf0e8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .idata$4       0x0000000066bcf0f0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+ .idata$4       0x0000000066bcf0f8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .idata$4       0x0000000066bcf100        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+ .idata$4       0x0000000066bcf108        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .idata$4       0x0000000066bcf110        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .idata$4       0x0000000066bcf118        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o)
+ .idata$4       0x0000000066bcf118        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+ .idata$4       0x0000000066bcf120        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejt.o)
+                0x0000000066bcf128                __IAT_start__ = .
+ SORT(*)(.idata$5)
+ .idata$5       0x0000000066bcf128        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .idata$5       0x0000000066bcf128        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+                0x0000000066bcf128                __imp_Beep
+ .idata$5       0x0000000066bcf130        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+                0x0000000066bcf130                __imp_CreateFileW
+ .idata$5       0x0000000066bcf138        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+                0x0000000066bcf138                __imp_CreateThread
+ .idata$5       0x0000000066bcf140        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+                0x0000000066bcf140                __imp_GetExitCodeThread
+ .idata$5       0x0000000066bcf148        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+                0x0000000066bcf148                __imp_GetProcessHeap
+ .idata$5       0x0000000066bcf150        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+                0x0000000066bcf150                __imp_HeapAlloc
+ .idata$5       0x0000000066bcf158        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+                0x0000000066bcf158                __imp_HeapFree
+ .idata$5       0x0000000066bcf160        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+                0x0000000066bcf160                __imp_HeapReAlloc
+ .idata$5       0x0000000066bcf168        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+                0x0000000066bcf168                __imp_ResumeThread
+ .idata$5       0x0000000066bcf170        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+                0x0000000066bcf170                __imp_WaitForMultipleObjects
+ .idata$5       0x0000000066bcf178        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+                0x0000000066bcf178                __imp_WaitForSingleObject
+ .idata$5       0x0000000066bcf180        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ .idata$5       0x0000000066bcf188        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .idata$5       0x0000000066bcf188        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+                0x0000000066bcf188                __imp__wcsrev
+ .idata$5       0x0000000066bcf190        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+                0x0000000066bcf190                __imp_free
+ .idata$5       0x0000000066bcf198        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+                0x0000000066bcf198                __imp_malloc
+ .idata$5       0x0000000066bcf1a0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+                0x0000000066bcf1a0                __imp_memcmp
+ .idata$5       0x0000000066bcf1a8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+                0x0000000066bcf1a8                __imp_memcpy
+ .idata$5       0x0000000066bcf1b0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+                0x0000000066bcf1b0                __imp_memmove
+ .idata$5       0x0000000066bcf1b8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+                0x0000000066bcf1b8                __imp_memset
+ .idata$5       0x0000000066bcf1c0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+                0x0000000066bcf1c0                __imp_wcschr
+ .idata$5       0x0000000066bcf1c8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+                0x0000000066bcf1c8                __imp_wcscpy
+ .idata$5       0x0000000066bcf1d0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+                0x0000000066bcf1d0                __imp_wcslen
+ .idata$5       0x0000000066bcf1d8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+                0x0000000066bcf1d8                __imp_wcsncmp
+ .idata$5       0x0000000066bcf1e0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+                0x0000000066bcf1e0                __imp_wcsncpy
+ .idata$5       0x0000000066bcf1e8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .idata$5       0x0000000066bcf1f0        0x0 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejh.o)
+ .idata$5       0x0000000066bcf1f0        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+                0x0000000066bcf1f0                __imp_MessageBeep
+ .idata$5       0x0000000066bcf1f8        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejt.o)
+                0x0000000066bcf200                __IAT_end__ = .
+ SORT(*)(.idata$6)
+ .idata$6       0x0000000066bcf200        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+ .idata$6       0x0000000066bcf208        0xe c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+ .idata$6       0x0000000066bcf216       0x10 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+ .idata$6       0x0000000066bcf226       0x14 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+ .idata$6       0x0000000066bcf23a       0x12 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .idata$6       0x0000000066bcf24c        0xc c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .idata$6       0x0000000066bcf258        0xc c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .idata$6       0x0000000066bcf264        0xe c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .idata$6       0x0000000066bcf272       0x10 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+ .idata$6       0x0000000066bcf282       0x1a c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+ .idata$6       0x0000000066bcf29c       0x16 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+ .idata$6       0x0000000066bcf2b2        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+ .idata$6       0x0000000066bcf2bc        0x8 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .idata$6       0x0000000066bcf2c4        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .idata$6       0x0000000066bcf2ce        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+ .idata$6       0x0000000066bcf2d8        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .idata$6       0x0000000066bcf2e2        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+ .idata$6       0x0000000066bcf2ec        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+ .idata$6       0x0000000066bcf2f6        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .idata$6       0x0000000066bcf300        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+ .idata$6       0x0000000066bcf30a        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .idata$6       0x0000000066bcf314        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+ .idata$6       0x0000000066bcf31e        0xa c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .idata$6       0x0000000066bcf328        0xe c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+ SORT(*)(.idata$7)
+ *fill*         0x0000000066bcf336        0x2 
+ .idata$7       0x0000000066bcf338        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00057.o)
+ .idata$7       0x0000000066bcf33c        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00147.o)
+ .idata$7       0x0000000066bcf340        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00185.o)
+ .idata$7       0x0000000066bcf344        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00494.o)
+ .idata$7       0x0000000066bcf348        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .idata$7       0x0000000066bcf34c        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .idata$7       0x0000000066bcf350        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .idata$7       0x0000000066bcf354        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .idata$7       0x0000000066bcf358        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01021.o)
+ .idata$7       0x0000000066bcf35c        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01265.o)
+ .idata$7       0x0000000066bcf360        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01267.o)
+ .idata$7       0x0000000066bcf364       0x10 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+                0x0000000066bcf364                __lib64_libkernel32_a_iname
+ .idata$7       0x0000000066bcf374        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00800.o)
+ .idata$7       0x0000000066bcf378        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .idata$7       0x0000000066bcf37c        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .idata$7       0x0000000066bcf380        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01023.o)
+ .idata$7       0x0000000066bcf384        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .idata$7       0x0000000066bcf388        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01025.o)
+ .idata$7       0x0000000066bcf38c        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01027.o)
+ .idata$7       0x0000000066bcf390        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .idata$7       0x0000000066bcf394        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01128.o)
+ .idata$7       0x0000000066bcf398        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .idata$7       0x0000000066bcf39c        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01135.o)
+ .idata$7       0x0000000066bcf3a0        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .idata$7       0x0000000066bcf3a4        0xc c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+                0x0000000066bcf3a4                __lib64_libmsvcrt_a_iname
+ .idata$7       0x0000000066bcf3b0        0x4 c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejs00488.o)
+ .idata$7       0x0000000066bcf3b4        0xc c:/myusers/programs/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libuser32.a(deejt.o)
+                0x0000000066bcf3b4                __lib64_libuser32_a_iname
+
+.CRT            0x0000000066bd0000        0x0
+                0x0000000066bd0000                ___crt_xc_start__ = .
+ *(SORT(.CRT$XC*))
+                0x0000000066bd0000                ___crt_xc_end__ = .
+                0x0000000066bd0000                ___crt_xi_start__ = .
+ *(SORT(.CRT$XI*))
+                0x0000000066bd0000                ___crt_xi_end__ = .
+                0x0000000066bd0000                ___crt_xl_start__ = .
+ *(SORT(.CRT$XL*))
+                0x0000000066bd0000                ___crt_xp_start__ = .
+ *(SORT(.CRT$XP*))
+                0x0000000066bd0000                ___crt_xp_end__ = .
+                0x0000000066bd0000                ___crt_xt_start__ = .
+ *(SORT(.CRT$XT*))
+                0x0000000066bd0000                ___crt_xt_end__ = .
+
+.tls            0x0000000066bd0000        0x0
+                0x0000000066bd0000                ___tls_start__ = .
+ *(.tls)
+ *(.tls$)
+ *(SORT(.tls$*))
+                0x0000000066bd0000                ___tls_end__ = .
+
+.endjunk        0x0000000066bd0000        0x0
+                0x0000000066bd0000                PROVIDE (end, .)
+                0x0000000066bd0000                PROVIDE (_end, .)
+                0x0000000066bd0000                __end__ = .
+
+.rsrc
+ *(.rsrc)
+ *(SORT(.rsrc$*))
+
+.reloc          0x0000000066bd0000      0x200
+ *(.reloc)
+ .reloc         0x0000000066bd0000       0x74 ../bin/EditCmpl.dll.exp
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame*)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_types
+ *(.debug_types .gnu.linkonce.wt.*)
+OUTPUT(../bin/EditCmpl.dll pei-x86-64)

@@ -1,0 +1,142 @@
+ Align
+
+ Timestamp is 523ee62e (Sun Sep 22 15:44:30 2013)
+
+ Preferred load address is 10000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00000018H .idata$5                CODE
+ 0001:00000020 0000019cH .rdata                  CODE
+ 0001:000001bc 00000078H .rdata$debug            CODE
+ 0001:00000240 00001f2eH .text                   CODE
+ 0001:00002170 00000014H .idata$2                CODE
+ 0001:00002184 00000014H .idata$3                CODE
+ 0001:00002198 00000018H .idata$4                CODE
+ 0001:000021b0 00000052H .idata$6                CODE
+ 0001:00002210 0000008eH .edata                  CODE
+ 0002:00000000 00000000H .data                   DATA
+ 0002:00000000 00000148H .bss                    DATA
+ 0003:00000000 00000058H .rsrc$01                DATA
+ 0003:00000060 00000360H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base       Lib:Object
+
+ 0000:00000000       ___safe_se_handler_count   00000000     <absolute>
+ 0000:00000000       ___safe_se_handler_table   00000000     <absolute>
+ 0001:00000000       __imp__HeapFree@12         10001000     kernel32:KERNEL32.dll
+ 0001:00000004       __imp__GetProcessHeap@0    10001004     kernel32:KERNEL32.dll
+ 0001:00000008       __imp__HeapAlloc@12        10001008     kernel32:KERNEL32.dll
+ 0001:0000000c       __imp__HeapReAlloc@16      1000100c     kernel32:KERNEL32.dll
+ 0001:00000010       __imp__lstrlenW@4          10001010     kernel32:KERNEL32.dll
+ 0001:00000014       \177KERNEL32_NULL_THUNK_DATA 10001014     kernel32:KERNEL32.dll
+ 0001:00000058       _MainGuid                  10001058     Align.obj
+ 0001:00000068       _MenuGuid                  10001068     Align.obj
+ 0001:00000078       _DialogGuid                10001078     Align.obj
+ 0001:00000088       ??_7?$DialogItemBinding@UFarDialogItem@@@@6B@ 10001088     Align.obj
+ 0001:00000090       ??_7PluginCheckBoxBinding@@6B@ 10001090     Align.obj
+ 0001:00000098       ??_7PluginRadioButtonBinding@@6B@ 10001098     Align.obj
+ 0001:000000a0       ??_7PluginIntEditFieldBinding@@6B@ 100010a0     Align.obj
+ 0001:000000a8       ??_C@_15EFLNJKHH@?$AA?$CF?$AAu?$AA?$AA@ 100010a8     Align.obj
+ 0001:000000b0       ??_7?$DialogBuilderBase@UFarDialogItem@@@@6B@ 100010b0     Align.obj
+ 0001:000000d0       ??_7PluginDialogBuilder@@6B@ 100010d0     Align.obj
+ 0001:000000f0       ??_C@_11LOCGONAA@?$AA?$AA@ 100010f0     Align.obj
+ 0001:000000f4       ??_C@_1M@OFJLCCLD@?$AAA?$AAl?$AAi?$AAg?$AAn?$AA?$AA@ 100010f4     Align.obj
+ 0001:00000100       ??_C@_1DI@GCKLIMEF@?$AAA?$AAl?$AAi?$AAg?$AAn?$AA?5?$AAb?$AAl?$AAo?$AAc?$AAk?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AAM?$AAa?$AAn?$AAa?$AAg?$AAe?$AAr?$AA?$AA@ 10001100     Align.obj
+ 0001:00000138       ??_C@_1DE@BGKMIKPD@?$AAE?$AAu?$AAg?$AAe?$AAn?$AAe?$AA?5?$AAR?$AAo?$AAs?$AAh?$AAa?$AAl?$AA?5?$AA?$CG?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AAG?$AAr?$AAo?$AAu?$AAp?$AA?$AA@ 10001138     Align.obj
+ 0001:0000016c       ??_C@_1BI@JMKBMFLI@?$AAR?$AAi?$AAg?$AAh?$AAt?$AAM?$AAa?$AAr?$AAg?$AAi?$AAn?$AA?$AA@ 1000116c     Align.obj
+ 0001:00000184       ??_C@_1BC@PKHIBLMF@?$AAR?$AAe?$AAf?$AAo?$AAr?$AAm?$AAa?$AAt?$AA?$AA@ 10001184     Align.obj
+ 0001:00000198       ??_C@_1BE@NIKLIADP@?$AAS?$AAm?$AAa?$AAr?$AAt?$AAM?$AAo?$AAd?$AAe?$AA?$AA@ 10001198     Align.obj
+ 0001:000001ac       ??_C@_1BA@MANOLHD@?$AAJ?$AAu?$AAs?$AAt?$AAi?$AAf?$AAy?$AA?$AA@ 100011ac     Align.obj
+ 0001:00000240       __alloca_probe             10001240     chkstk.obj
+ 0001:00000240       __chkstk                   10001240 f   chkstk.obj
+ 0001:00000270       ??0?$DialogBuilderBase@UFarDialogItem@@@@IAE@XZ 10001270 f i Align.obj
+ 0001:000002e0       ??0PluginDialogBuilder@@QAE@ABUPluginStartupInfo@@ABU_GUID@@1HPB_WP6GHPAXHH3@Z3@Z 100012e0 f i Align.obj
+ 0001:000003a0       ??0PluginIntEditFieldBinding@@QAE@ABUPluginStartupInfo@@PAPAXHPAHH@Z 100013a0 f i Align.obj
+ 0001:00000450       ??1?$DialogBuilderBase@UFarDialogItem@@@@MAE@XZ 10001450 f i Align.obj
+ 0001:00000490       ??_E?$DialogBuilderBase@UFarDialogItem@@@@MAEPAXI@Z 10001490 f i Align.obj
+ 0001:00000490       ??_G?$DialogBuilderBase@UFarDialogItem@@@@MAEPAXI@Z 10001490 f i Align.obj
+ 0001:000004b0       ??_EPluginDialogBuilder@@UAEPAXI@Z 100014b0 f i Align.obj
+ 0001:000004b0       ??_GPluginDialogBuilder@@UAEPAXI@Z 100014b0 f i Align.obj
+ 0001:000004f0       ??_GPluginCheckBoxBinding@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:000004f0       ??_E?$DialogItemBinding@UFarDialogItem@@@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:000004f0       ??_GPluginRadioButtonBinding@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:000004f0       ??_EPluginCheckBoxBinding@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:000004f0       ??_GPluginIntEditFieldBinding@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:000004f0       ??_G?$DialogItemBinding@UFarDialogItem@@@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:000004f0       ??_EPluginRadioButtonBinding@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:000004f0       ??_EPluginIntEditFieldBinding@@UAEPAXI@Z 100014f0 f i Align.obj
+ 0001:00000510       ?AddIntEditField@PluginDialogBuilder@@UAEPAUFarDialogItem@@PAHH@Z 10001510 f i Align.obj
+ 0001:000005d0       ?AddOKCancel@?$DialogBuilderBase@UFarDialogItem@@@@QAEXHHH_N@Z 100015d0 f i Align.obj
+ 0001:00000730       ?AddSeparator@?$DialogBuilderBase@UFarDialogItem@@@@QAEXPB_W@Z 10001730 f i Align.obj
+ 0001:000007a0       ?AddTextAfter@?$DialogBuilderBase@UFarDialogItem@@@@QAEPAUFarDialogItem@@PAU2@PB_WH@Z 100017a0 f i Align.obj
+ 0001:00000840       ?AddIntEditField@?$DialogBuilderBase@UFarDialogItem@@@@UAEPAUFarDialogItem@@PAHH@Z 10001840 f i Align.obj
+ 0001:00000840       ?CreateCheckBoxBinding@?$DialogBuilderBase@UFarDialogItem@@@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAHH@Z 10001840 f i Align.obj
+ 0001:00000850       ?CreateCheckBoxBinding@PluginDialogBuilder@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAHH@Z 10001850 f i Align.obj
+ 0001:000008b0       ?CreateRadioButtonBinding@PluginDialogBuilder@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAH@Z 100018b0 f i Align.obj
+ 0001:00000900       ?DoShowDialog@?$DialogBuilderBase@UFarDialogItem@@@@MAEHXZ 10001900 f i Align.obj
+ 0001:00000910       ?DoShowDialog@PluginDialogBuilder@@MAEHXZ 10001910 f i Align.obj
+ 0001:00000960       ?CreateRadioButtonBinding@?$DialogBuilderBase@UFarDialogItem@@@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAH@Z 10001960 f i Align.obj
+ 0001:00000960       ?GetLangString@?$DialogBuilderBase@UFarDialogItem@@@@MAEPB_WH@Z 10001960 f i Align.obj
+ 0001:00000970       ?GetLangString@PluginDialogBuilder@@MAEPB_WH@Z 10001970 f i Align.obj
+ 0001:00000990       ?InitDialogItem@PluginDialogBuilder@@MAEXPAUFarDialogItem@@PB_W@Z 10001990 f i Align.obj
+ 0001:000009b0       ?ItemWidth@?$DialogBuilderBase@UFarDialogItem@@@@IAEHABUFarDialogItem@@@Z 100019b0 f i Align.obj
+ 0001:00000e40       ?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IAEHXZ 10001e40 f i Align.obj
+ 0001:00000f00       ?ReallocDialogItems@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 10001f00 f i Align.obj
+ 0001:00001670       ?SaveValue@?$DialogItemBinding@UFarDialogItem@@@@UAEXPAUFarDialogItem@@H@Z 10002670 f i Align.obj
+ 0001:00001670       ?InitDialogItem@?$DialogBuilderBase@UFarDialogItem@@@@MAEXPAUFarDialogItem@@PB_W@Z 10002670 f i Align.obj
+ 0001:00001680       ?SaveValue@PluginCheckBoxBinding@@UAEXPAUFarDialogItem@@H@Z 10002680 f i Align.obj
+ 0001:000016d0       ?SaveValue@PluginIntEditFieldBinding@@UAEXPAUFarDialogItem@@H@Z 100026d0 f i Align.obj
+ 0001:00001700       ?SaveValue@PluginRadioButtonBinding@@UAEXPAUFarDialogItem@@H@Z 10002700 f i Align.obj
+ 0001:00001730       ?SaveValues@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 10002730 f i Align.obj
+ 0001:00001780       ?TextWidth@?$DialogBuilderBase@UFarDialogItem@@@@MAEHABUFarDialogItem@@@Z 10002780 f i Align.obj
+ 0001:00001790       ?TextWidth@PluginDialogBuilder@@MAEHABUFarDialogItem@@@Z 10002790 f i Align.obj
+ 0001:000017a0       ?UpdateBorderSize@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 100027a0 f i Align.obj
+ 0001:00001830       ?UpdateSecondColumnPosition@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 10002830 f i Align.obj
+ 0001:00001890       _GetGlobalInfoW@4          10002890 f   Align.obj
+ 0001:00001950       _GetPluginInfoW@4          10002950 f   Align.obj
+ 0001:000019a0       _OpenW@4                   100029a0 f   Align.obj
+ 0001:00001fa0       _SetStartupInfoW@4         10002fa0 f   Align.obj
+ 0001:00001fe0       ??2@YAPAXI@Z               10002fe0 f   libCRT:new.obj
+ 0001:00001ff0       ??3@YAXPAX@Z               10002ff0 f   libCRT:delete.obj
+ 0001:00002000       _free                      10003000 f   libCRT:free.obj
+ 0001:00002020       _malloc                    10003020 f   libCRT:malloc.obj
+ 0001:00002040       _realloc                   10003040 f   libCRT:realloc.obj
+ 0001:00002090       _memmove                   10003090 f   libCRT:memmove.obj
+ 0001:000020f0       ??_V@YAXPAX@Z              100030f0 f   libCRT:delete_array.obj
+ 0001:00002100       ??_U@YAPAXI@Z              10003100 f   libCRT:new_array.obj
+ 0001:00002110       _memcpy                    10003110 f   libCRT:memcpy.obj
+ 0001:00002140       _memset                    10003140 f   libCRT:memset.obj
+ 0001:00002170       __IMPORT_DESCRIPTOR_KERNEL32 10003170     kernel32:KERNEL32.dll
+ 0001:00002184       __NULL_IMPORT_DESCRIPTOR   10003184     kernel32:KERNEL32.dll
+
+ entry point at        0000:00000000
+
+ Static symbols
+
+ 0000:ffff9000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff9000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff9000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff9000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff9000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0001:00000240       $$000000                   10001240     chkstk.obj
+ 0001:00000a04       $LN12                      10001a04     Align.obj
+ 0001:00000a14       $LN10                      10001a14     Align.obj
+ 0001:00000a20       ?JustifyBlock@@YAXH@Z      10001a20 f   Align.obj
+ 0001:00000cc0       ?JustifyString@@YA_NHAAUEditorSetString@@@Z 10001cc0 f   Align.obj
+ 0001:00000edc       $LN23                      10001edc     Align.obj
+ 0001:00000eec       $LN21                      10001eec     Align.obj
+ 0001:00000fe0       ?ReformatBlock@@YAXHHH@Z   10001fe0 f   Align.obj
+ 0001:000021f4       .idata$6                   100031f4     kernel32:KERNEL32.dll
+ 0001:00002210       .edata                     10003210     Align.exp
+ 0001:00002238       rgpv                       10003238     Align.exp
+ 0001:00002248       rgszName                   10003248     Align.exp
+ 0001:00002258       rgwOrd                     10003258     Align.exp
+ 0001:00002260       szName                     10003260     Align.exp
+ 0001:0000226a       $N00001                    1000326a     Align.exp
+ 0001:00002279       $N00002                    10003279     Align.exp
+ 0001:00002288       $N00003                    10003288     Align.exp
+ 0001:0000228e       $N00004                    1000328e     Align.exp
+ 0002:00000000       _Info                      10004000     Align.obj
+ 0002:00000088       _FSF                       10004088     Align.obj
+ 0002:00000144       ?PluginMenuStrings@?1??GetPluginInfoW@@9@4@4PAPB_WA 10004144     Align.obj
+ 0003:00000060       $R000000                   10005060     Align.res

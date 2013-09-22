@@ -1,0 +1,1701 @@
+Archive member included because of file (symbol)
+
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+                              src\process.o (Far::Editor::set_string(long long, wchar_t const*, unsigned long long, wchar_t const*))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+                              src\process.o (Far::get_msg(long long))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                              src\process.o (Far::create_dialog_builder(_GUID const&, wchar_t const*, wchar_t const*, long long (*)(void*, long long, long long, void*), void*))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+                              src\process.o (Far::create_checkbox(long long*, wchar_t const*, unsigned long long))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+                              src\process.o (Far::create_separator(wchar_t const*, unsigned long long))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+                              src\process.o (Far::create_label(wchar_t const*, unsigned long long))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+                              src\process.o (Far::create_edit(wchar_t*, long long, long long, wchar_t const*, bool, unsigned long long))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+                              src\process.o (Far::create_combobox(long long*, FarListItem*, unsigned long long, unsigned long long))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+                              src\globalinfo.o (Far::GlobalInfo_i::~GlobalInfo_i())
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+                              src\farplugin.o (Far::Plugin_i::~Plugin_i())
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+                              src\globalinfo.o (Far::Settings_t::~Settings_t())
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+                              D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o) (Far::FarDialogItem_t::~FarDialogItem_t())
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+                              D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o) (Far::PluginRadioButtonBinding::PluginRadioButtonBinding(void*&, long long, long long*, long long))
+D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+                              D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o) (Far::DialogItemBinding_i::~DialogItemBinding_i())
+D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+                              src\process.o (Base::ref_counter::~ref_counter())
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+                              src\process.o (wcstold)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+                              src\main.o (_InterlockedExchangeAdd64)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o) (__mingw_get_codepage)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o) (strtold)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o) (__emovi)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o) (__mingw_get_msvcrt_handle)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+                              src\process.o (wcscmp)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+                              src\process.o (wcschr)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+                              src\process.o (wcscspn)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+                              src\process.o (wcsncpy)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+                              src\process.o (memcpy)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+                              src\process.o (wcslen)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o) (__imp___mb_cur_max)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o) (malloc)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o) (_mbslen)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o) (free)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o) (setlocale)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o) (strchr)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o) (atoi)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o) (localeconv)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o) (strlen)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o) (isspace)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o) (_strnicmp)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o) (_errno)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o) (strncmp)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o) (_head_lib64_libmsvcrt_a)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o) (__lib64_libmsvcrt_a_iname)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+                              src\process.o (__imp_GetProcessHeap)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+                              src\process.o (__imp_HeapFree)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+                              src\process.o (__imp_CompareStringW)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+                              src\process.o (__imp_HeapAlloc)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+                              src\process.o (__imp_HeapReAlloc)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+                              D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o) (__imp_lstrcpynW)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+                              D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o) (__imp_lstrlenW)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o) (__imp_WideCharToMultiByte)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o) (__imp_GetProcAddress)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o) (__imp_GetModuleHandleA)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o) (__imp_LoadLibraryW)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o) (_head_lib64_libkernel32_a)
+c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+                              c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o) (__lib64_libkernel32_a_iname)
+
+Discarded input sections
+
+ .text$_Znwy    0x0000000000000000       0x30 src\main.o
+ .xdata$_Znwy   0x0000000000000000        0x8 src\main.o
+ .pdata$_Znwy   0x0000000000000000        0xc src\main.o
+ .text$_Znay    0x0000000000000000       0x30 src\main.o
+ .xdata$_Znay   0x0000000000000000        0x8 src\main.o
+ .pdata$_Znay   0x0000000000000000        0xc src\main.o
+ .text$_ZdlPv   0x0000000000000000       0x30 src\main.o
+ .xdata$_ZdlPv  0x0000000000000000        0x8 src\main.o
+ .pdata$_ZdlPv  0x0000000000000000        0xc src\main.o
+ .text$_ZdaPv   0x0000000000000000       0x30 src\main.o
+ .xdata$_ZdaPv  0x0000000000000000        0x8 src\main.o
+ .pdata$_ZdaPv  0x0000000000000000        0xc src\main.o
+ .text$_Znwy    0x0000000000000000       0x30 src\globalinfo.o
+ .xdata$_Znwy   0x0000000000000000        0x8 src\globalinfo.o
+ .pdata$_Znwy   0x0000000000000000        0xc src\globalinfo.o
+ .text$_Znay    0x0000000000000000       0x30 src\globalinfo.o
+ .xdata$_Znay   0x0000000000000000        0x8 src\globalinfo.o
+ .pdata$_Znay   0x0000000000000000        0xc src\globalinfo.o
+ .text$_ZdlPv   0x0000000000000000       0x30 src\globalinfo.o
+ .xdata$_ZdlPv  0x0000000000000000        0x8 src\globalinfo.o
+ .pdata$_ZdlPv  0x0000000000000000        0xc src\globalinfo.o
+ .text$_ZdaPv   0x0000000000000000       0x30 src\globalinfo.o
+ .xdata$_ZdaPv  0x0000000000000000        0x8 src\globalinfo.o
+ .pdata$_ZdaPv  0x0000000000000000        0xc src\globalinfo.o
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 src\globalinfo.o
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 src\globalinfo.o
+ .text$_Znwy    0x0000000000000000       0x30 src\farplugin.o
+ .xdata$_Znwy   0x0000000000000000        0x8 src\farplugin.o
+ .pdata$_Znwy   0x0000000000000000        0xc src\farplugin.o
+ .text$_Znay    0x0000000000000000       0x30 src\farplugin.o
+ .xdata$_Znay   0x0000000000000000        0x8 src\farplugin.o
+ .pdata$_Znay   0x0000000000000000        0xc src\farplugin.o
+ .text$_ZdlPv   0x0000000000000000       0x30 src\farplugin.o
+ .xdata$_ZdlPv  0x0000000000000000        0x8 src\farplugin.o
+ .pdata$_ZdlPv  0x0000000000000000        0xc src\farplugin.o
+ .text$_ZdaPv   0x0000000000000000       0x30 src\farplugin.o
+ .xdata$_ZdaPv  0x0000000000000000        0x8 src\farplugin.o
+ .pdata$_ZdaPv  0x0000000000000000        0xc src\farplugin.o
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000000000000       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .text$_Znwy    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .xdata$_Znwy   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .pdata$_Znwy   0x0000000000000000        0xc D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .text$_Znay    0x0000000000000000       0x30 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .xdata$_Znay   0x0000000000000000        0x8 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .pdata$_Znay   0x0000000000000000        0xc D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .text$_ZdlPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .xdata$_ZdlPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .pdata$_ZdlPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .text$_ZdaPv   0x0000000000000000       0x30 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .xdata$_ZdaPv  0x0000000000000000        0x8 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .pdata$_ZdaPv  0x0000000000000000        0xc D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .debug_info    0x0000000000000000      0x3f3 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .debug_abbrev  0x0000000000000000      0x11a c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .debug_loc     0x0000000000000000      0x480 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .debug_aranges
+                0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .debug_line    0x0000000000000000      0x198 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .debug_frame   0x0000000000000000       0x88 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .debug_info    0x0000000000000000      0x1b5 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .debug_abbrev  0x0000000000000000       0x67 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .debug_aranges
+                0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .debug_line    0x0000000000000000       0xf1 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .debug_frame   0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .debug_info    0x0000000000000000      0x71b c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .debug_abbrev  0x0000000000000000      0x1ee c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .debug_loc     0x0000000000000000      0x245 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .debug_aranges
+                0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .debug_line    0x0000000000000000      0x163 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .debug_frame   0x0000000000000000       0xa8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .debug_info    0x0000000000000000      0xf18 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_abbrev  0x0000000000000000      0x28c c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_loc     0x0000000000000000     0x1857 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_aranges
+                0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_ranges  0x0000000000000000      0x1c0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_line    0x0000000000000000      0x3db c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_str     0x0000000000000000        0x9 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_frame   0x0000000000000000       0xc8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .debug_info    0x0000000000000000     0x1b90 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .debug_abbrev  0x0000000000000000      0x2e6 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .debug_loc     0x0000000000000000     0x4509 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .debug_aranges
+                0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .debug_ranges  0x0000000000000000      0xfe0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .debug_line    0x0000000000000000      0x6dc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .debug_frame   0x0000000000000000      0x350 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .debug_info    0x0000000000000000     0x130d c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .debug_abbrev  0x0000000000000000      0x2ab c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .debug_loc     0x0000000000000000      0xb8e c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .debug_aranges
+                0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .debug_ranges  0x0000000000000000       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .debug_line    0x0000000000000000      0x1d6 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .debug_str     0x0000000000000000       0x54 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .debug_frame   0x0000000000000000      0x208 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000068a80000                __image_base__ = 0x68a80000
+                0x0000000000000000                __dll__ = 0x0
+                0x0000000068a80000                __ImageBase = 0x68a80000
+                0x0000000000001000                __section_alignment__ = 0x1000
+                0x0000000000000200                __file_alignment__ = 0x200
+                0x0000000000000004                __major_os_version__ = 0x4
+                0x0000000000000000                __minor_os_version__ = 0x0
+                0x0000000000000000                __major_image_version__ = 0x0
+                0x0000000000000000                __minor_image_version__ = 0x0
+                0x0000000000000005                __major_subsystem_version__ = 0x5
+                0x0000000000000002                __minor_subsystem_version__ = 0x2
+                0x0000000000000003                __subsystem__ = 0x3
+                0x0000000000200000                __size_of_stack_reserve__ = 0x200000
+                0x0000000000001000                __size_of_stack_commit__ = 0x1000
+                0x0000000000100000                __size_of_heap_reserve__ = 0x100000
+                0x0000000000001000                __size_of_heap_commit__ = 0x1000
+                0x0000000000000000                __loader_flags__ = 0x0
+                0x0000000000000000                __dll_characteristics__ = 0x0
+LOAD ..\src\mainW.gcc.def
+LOAD src\process.o
+LOAD src\main.o
+LOAD src\guid.o
+LOAD src\globalinfo.o
+LOAD src\farplugin.o
+LOAD src\main.res
+LOAD D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a
+LOAD D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a
+LOAD c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a
+LOAD c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a
+LOAD c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/libgcc.a
+LOAD c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a
+LOAD c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a
+LOAD c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libntdll.a
+                0x0000000000000318                . = SIZEOF_HEADERS
+                0x0000000000001000                . = ALIGN (__section_alignment__)
+
+.text           0x0000000068a81000     0xb000
+ *(.init)
+ *(.text)
+ .text          0x0000000068a81000     0x1240 src\process.o
+                0x0000000068a81000                PairEqNum(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a81030                PairLessLine(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a81040                PairLessNum(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a81080                PairLessCScode(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a810d0                PairEqCScode(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a81100                PairEqCS(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a81140                PairEqCI(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a81180                PairLessCS(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a811f0                PairLessCI(std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&)
+                0x0000000068a81260                editor_set_string(long long, Base::basic_string<wchar_t, Base::char_traits<wchar_t> > const&, wchar_t const*)
+                0x0000000068a81280                is_whitespace(wchar_t)
+                0x0000000068a812b0                FindNum(wchar_t const*)
+                0x0000000068a81420                Execute()
+                0x0000000068a81ed0                process()
+ .text          0x0000000068a82240      0x2b0 src\main.o
+                0x0000000068a82270                GetGlobalInfoW
+                0x0000000068a822f0                SetStartupInfoW
+                0x0000000068a82320                ConfigureW
+                0x0000000068a82340                GetPluginInfoW
+                0x0000000068a82390                OpenW
+                0x0000000068a823e0                ExitFARW
+                0x0000000068a82430                DllMainCRTStartup
+                0x0000000068a824a0                atexit
+                0x0000000068a824e0                __cxa_pure_virtual
+ .text          0x0000000068a824f0        0x0 src\guid.o
+ .text          0x0000000068a824f0      0x430 src\globalinfo.o
+                0x0000000068a82520                FarGlobalInfo::get_author() const
+                0x0000000068a82530                FarGlobalInfo::get_description() const
+                0x0000000068a82540                FarGlobalInfo::get_guid() const
+                0x0000000068a82550                FarGlobalInfo::get_title() const
+                0x0000000068a82560                FarGlobalInfo::get_version() const
+                0x0000000068a82590                FarGlobalInfo::get_min_version() const
+                0x0000000068a825c0                FarGlobalInfo::CreatePlugin(PluginStartupInfo const*) const
+                0x0000000068a825d0                FarGlobalInfo::~FarGlobalInfo()
+                0x0000000068a825d0                FarGlobalInfo::~FarGlobalInfo()
+                0x0000000068a825e0                FarGlobalInfo::~FarGlobalInfo()
+                0x0000000068a82620                FarGlobalInfo::FarGlobalInfo()
+                0x0000000068a82620                FarGlobalInfo::FarGlobalInfo()
+                0x0000000068a82690                FarGlobalInfo::load_settings()
+                0x0000000068a827b0                FarGlobalInfo::save_settings() const
+                0x0000000068a82890                FarGlobalInfo::load_editor_info()
+                0x0000000068a828e0                get_global_info()
+ .text          0x0000000068a82920      0x170 src\farplugin.o
+                0x0000000068a82920                FarPlugin::Open(OpenInfo const*)
+                0x0000000068a82930                FarPlugin::GetPluginInfo(PluginInfo*)
+                0x0000000068a829b0                FarPlugin::~FarPlugin()
+                0x0000000068a829b0                FarPlugin::~FarPlugin()
+                0x0000000068a829c0                FarPlugin::~FarPlugin()
+                0x0000000068a82a00                FarPlugin::FarPlugin(PluginStartupInfo const*)
+                0x0000000068a82a00                FarPlugin::FarPlugin(PluginStartupInfo const*)
+                0x0000000068a82a20                create_FarPlugin(PluginStartupInfo const*)
+                0x0000000068a82a70                destroy(Far::Plugin_i*)
+ .text          0x0000000068a82a90      0x7a0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+                0x0000000068a82ac0                Far::Editor::get_filename(wchar_t*, long long)
+                0x0000000068a82b80                Far::Editor::get_string(long long, wchar_t const*&)
+                0x0000000068a82c10                Far::Editor::set_position(long long, long long)
+                0x0000000068a82ca0                Far::Editor::set_string(long long, wchar_t const*, unsigned long long, wchar_t const*)
+                0x0000000068a82d20                Far::Editor::insert_string(long long, wchar_t const*, int, wchar_t const*)
+                0x0000000068a82eb0                Far::Editor::del_string(long long)
+                0x0000000068a82f90                Far::Editor::unselect_block()
+                0x0000000068a83010                Far::Editor::start_undo()
+                0x0000000068a83080                Far::Editor::stop_undo()
+                0x0000000068a830f0                Far::Editor::redraw()
+                0x0000000068a83150                Far::Editor::get_info(EditorInfo&)
+                0x0000000068a831c0                Far::Editor::get_string(unsigned long long, EditorGetString&)
+ .text          0x0000000068a83230       0xe0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+                0x0000000068a83260                Far::get_msg(long long)
+ .text          0x0000000068a83310     0x1540 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a83340                Far::DialogBuilder_i::~DialogBuilder_i()
+                0x0000000068a83340                Far::DialogBuilder_i::~DialogBuilder_i()
+                0x0000000068a83350                Far::SimpleDialogBuilder_impl::add_empty_line_()
+                0x0000000068a83360                Far::SimpleDialogBuilder_impl::start_column_()
+                0x0000000068a83370                Far::SimpleDialogBuilder_impl::break_column_()
+                0x0000000068a83380                Far::SimpleDialogBuilder_impl::end_column_()
+                0x0000000068a83390                Far::SimpleDialogBuilder_impl::end_singlebox_()
+                0x0000000068a833d0                Far::DialogBuilder_i::~DialogBuilder_i()
+                0x0000000068a83400                Far::SimpleDialogBuilder_impl::~SimpleDialogBuilder_impl()
+                0x0000000068a834c0                Far::SimpleDialogBuilder_impl::~SimpleDialogBuilder_impl()
+                0x0000000068a834c0                Far::SimpleDialogBuilder_impl::~SimpleDialogBuilder_impl()
+                0x0000000068a83560                Far::CompareX2_less(Far::FarDialogItem_t const&, Far::FarDialogItem_t const&)
+                0x0000000068a83570                Far::CompareWidth_less(Far::FarDialogItem_t const&, Far::FarDialogItem_t const&)
+                0x0000000068a835b0                Far::SimpleDialogBuilder_impl::GetMaxItemX2() const
+                0x0000000068a83640                Far::SimpleDialogBuilder_impl::save()
+                0x0000000068a83670                Far::SimpleDialogBuilder_impl::set_next_y(Far::FarDialogItem_t*)
+                0x0000000068a836b0                Far::SimpleDialogBuilder_impl::show_dialog_()
+                0x0000000068a83830                Far::SimpleDialogBuilder_impl::show_()
+                0x0000000068a83970                Far::SimpleDialogBuilder_impl::UpdateBorderSize()
+                0x0000000068a83a50                Far::SimpleDialogBuilder_impl::add_item_(Far::FarDialogItem_t*)
+                0x0000000068a83b30                Far::SimpleDialogBuilder_impl::add_radiobuttons_(long long*, long long, Far::AddRadioButton_t const*, bool)
+                0x0000000068a83d80                Far::SimpleDialogBuilder_impl::add_dialog_item(Far::FarDialogItem_t*)
+                0x0000000068a83e20                Far::SimpleDialogBuilder_impl::add_item_after_(Far::FarDialogItem_t*)
+                0x0000000068a83f20                Far::SimpleDialogBuilder_impl::add_item_before_(Far::FarDialogItem_t*)
+                0x0000000068a84030                Far::SimpleDialogBuilder_impl::add_dialog_item(FARDIALOGITEMTYPES, wchar_t const*, unsigned long long)
+                0x0000000068a840d0                Far::SimpleDialogBuilder_impl::start_singlebox_(long long, wchar_t const*, bool)
+                0x0000000068a841f0                Far::SimpleDialogBuilder_impl::create_border(wchar_t const*)
+                0x0000000068a842e0                Far::SimpleDialogBuilder_impl::SimpleDialogBuilder_impl(_GUID const&, wchar_t const*, wchar_t const*, long long (*)(void*, long long, long long, void*), void*)
+                0x0000000068a842e0                Far::SimpleDialogBuilder_impl::SimpleDialogBuilder_impl(_GUID const&, wchar_t const*, wchar_t const*, long long (*)(void*, long long, long long, void*), void*)
+                0x0000000068a84400                Far::create_dialog_builder(_GUID const&, wchar_t const*, wchar_t const*, long long (*)(void*, long long, long long, void*), void*)
+                0x0000000068a845a0                Far::SimpleDialogBuilder_impl::add_OKCancel_(wchar_t const*, wchar_t const*, wchar_t const*)
+ .text          0x0000000068a84850      0x180 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+                0x0000000068a84880                Far::PluginCheckBoxBinding::get_width_() const
+                0x0000000068a84890                Far::PluginCheckBoxBinding::save_() const
+                0x0000000068a84900                Far::PluginCheckBoxBinding::PluginCheckBoxBinding(long long*)
+                0x0000000068a84900                Far::PluginCheckBoxBinding::PluginCheckBoxBinding(long long*)
+                0x0000000068a84920                Far::create_checkbox(long long*, wchar_t const*, unsigned long long)
+ .text          0x0000000068a849d0       0x60 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+                0x0000000068a849d0                Far::create_separator(wchar_t const*, unsigned long long)
+ .text          0x0000000068a84a30       0x50 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+                0x0000000068a84a30                Far::create_label(wchar_t const*, unsigned long long)
+ .text          0x0000000068a84a80      0x2d0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+                0x0000000068a84ab0                Far::PluginEditFieldBinding::get_width_() const
+                0x0000000068a84ac0                Far::PluginEditFieldBinding::save_() const
+                0x0000000068a84b30                Far::PluginEditFieldBinding::PluginEditFieldBinding(wchar_t*, long long)
+                0x0000000068a84b30                Far::PluginEditFieldBinding::PluginEditFieldBinding(wchar_t*, long long)
+                0x0000000068a84b60                Far::create_edit(wchar_t*, long long, long long, wchar_t const*, bool, unsigned long long)
+                0x0000000068a84c70                Far::create_password(wchar_t*, long long, long long, unsigned long long)
+ .text          0x0000000068a84d50      0x220 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+                0x0000000068a84d80                Far::PluginComboBoxBinding::get_width_() const
+                0x0000000068a84de0                Far::PluginComboBoxBinding::save_() const
+                0x0000000068a84e50                Far::PluginComboBoxBinding::PluginComboBoxBinding(long long*, FarListItem*, unsigned long long)
+                0x0000000068a84e50                Far::PluginComboBoxBinding::PluginComboBoxBinding(long long*, FarListItem*, unsigned long long)
+                0x0000000068a84e80                Far::PluginComboBoxBinding::get_items() const
+                0x0000000068a84e90                Far::create_combobox(long long*, FarListItem*, unsigned long long, unsigned long long)
+ .text          0x0000000068a84f70      0x1e0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+                0x0000000068a84f70                Far::GlobalInfo_i::~GlobalInfo_i()
+                0x0000000068a84f70                Far::GlobalInfo_i::~GlobalInfo_i()
+                0x0000000068a84fa0                Far::GlobalInfo_i::get_min_version() const
+                0x0000000068a84fd0                Far::GlobalInfo_i::Configure(ConfigureInfo const*)
+                0x0000000068a84fe0                Far::GlobalInfo_i::~GlobalInfo_i()
+                0x0000000068a85020                Far::GlobalInfo_i::GetGlobalInfoW(GlobalInfo*) const
+                0x0000000068a850d0                Far::GlobalInfo_i::ConfigureW(ConfigureInfo const*)
+                0x0000000068a850f0                Far::GlobalInfo_i::SetStartupInfoW(PluginStartupInfo const*)
+                0x0000000068a85120                Far::GlobalInfo_i::get_plugin() const
+                0x0000000068a85130                Far::GlobalInfo_i::GlobalInfo_i()
+                0x0000000068a85130                Far::GlobalInfo_i::GlobalInfo_i()
+ .text          0x0000000068a85150      0x110 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+                0x0000000068a85150                Far::Plugin_i::~Plugin_i()
+                0x0000000068a85150                Far::Plugin_i::~Plugin_i()
+                0x0000000068a85160                Far::Plugin_i::Open(OpenInfo const*)
+                0x0000000068a85170                Far::Plugin_i::ExitFAR(ExitInfo const*)
+                0x0000000068a85180                Far::Plugin_i::~Plugin_i()
+                0x0000000068a851b0                Far::Plugin_i::GetPluginInfoW(PluginInfo*)
+                0x0000000068a851d0                Far::Plugin_i::OpenW(OpenInfo const*)
+                0x0000000068a851f0                Far::Plugin_i::ExitFARW(ExitInfo const*)
+                0x0000000068a85210                Far::Plugin_i::Plugin_i(PluginStartupInfo const*)
+                0x0000000068a85210                Far::Plugin_i::Plugin_i(PluginStartupInfo const*)
+ .text          0x0000000068a85260      0x900 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+                0x0000000068a85290                Far::Settings_t::~Settings_t()
+                0x0000000068a85290                Far::Settings_t::~Settings_t()
+                0x0000000068a852f0                Far::Settings_t::Settings_t(_GUID const&)
+                0x0000000068a852f0                Far::Settings_t::Settings_t(_GUID const&)
+                0x0000000068a85380                Far::Settings_t::create_key(wchar_t const*, FARSETTINGS_SUBFOLDERS)
+                0x0000000068a853f0                Far::Settings_t::open_key(wchar_t const*, FARSETTINGS_SUBFOLDERS) const
+                0x0000000068a85460                Far::Settings_t::del(wchar_t const*, FARSETTINGS_SUBFOLDERS)
+                0x0000000068a854d0                Far::Settings_t::get(wchar_t const*, void*, unsigned long long, FARSETTINGS_SUBFOLDERS) const
+                0x0000000068a855a0                Far::Settings_t::get(wchar_t const*, wchar_t const*, FARSETTINGS_SUBFOLDERS) const
+                0x0000000068a85640                Far::Settings_t::get(wchar_t const*, unsigned long long, FARSETTINGS_SUBFOLDERS) const
+                0x0000000068a856e0                Far::Settings_t::get(wchar_t const*, long long, FARSETTINGS_SUBFOLDERS) const
+                0x0000000068a85790                Far::Settings_t::get(wchar_t const*, bool, FARSETTINGS_SUBFOLDERS) const
+                0x0000000068a85840                Far::Settings_t::set(wchar_t const*, void const*, unsigned long long, FARSETTINGS_SUBFOLDERS)
+                0x0000000068a858e0                Far::Settings_t::set(wchar_t const*, wchar_t const*, FARSETTINGS_SUBFOLDERS)
+                0x0000000068a85980                Far::Settings_t::set(wchar_t const*, unsigned long long, FARSETTINGS_SUBFOLDERS)
+                0x0000000068a85a20                Far::Settings_t::set(wchar_t const*, long long, FARSETTINGS_SUBFOLDERS)
+                0x0000000068a85ac0                Far::Settings_t::set(wchar_t const*, bool, FARSETTINGS_SUBFOLDERS)
+ .text          0x0000000068a85b60      0x350 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+                0x0000000068a85b60                Far::FarDialogItem_t::~FarDialogItem_t()
+                0x0000000068a85b60                Far::FarDialogItem_t::~FarDialogItem_t()
+                0x0000000068a85b80                Far::FarDialogItem_t::FarDialogItem_t(FARDIALOGITEMTYPES, wchar_t const*, unsigned long long)
+                0x0000000068a85b80                Far::FarDialogItem_t::FarDialogItem_t(FARDIALOGITEMTYPES, wchar_t const*, unsigned long long)
+                0x0000000068a85c20                Far::FarDialogItem_t::FarDialogItem_t(Far::DialogItemBinding_i*, FARDIALOGITEMTYPES, wchar_t const*, unsigned long long)
+                0x0000000068a85c20                Far::FarDialogItem_t::FarDialogItem_t(Far::DialogItemBinding_i*, FARDIALOGITEMTYPES, wchar_t const*, unsigned long long)
+                0x0000000068a85cd0                Far::FarDialogItem_t::FarDialogItem_t(Far::FarDialogItem_t&&)
+                0x0000000068a85cd0                Far::FarDialogItem_t::FarDialogItem_t(Far::FarDialogItem_t&&)
+                0x0000000068a85d50                Far::FarDialogItem_t::operator=(Far::FarDialogItem_t&&)
+                0x0000000068a85dd0                Far::FarDialogItem_t::get_height() const
+                0x0000000068a85de0                Far::FarDialogItem_t::get_width() const
+                0x0000000068a85e80                Far::FarDialogItem_t::set_dlg(void**)
+                0x0000000068a85e90                Far::FarDialogItem_t::set_index(long long)
+                0x0000000068a85ea0                Far::FarDialogItem_t::save() const
+ .text          0x0000000068a85eb0       0xd0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+                0x0000000068a85ee0                Far::PluginRadioButtonBinding::get_width_() const
+                0x0000000068a85ef0                Far::PluginRadioButtonBinding::save_() const
+                0x0000000068a85f60                Far::PluginRadioButtonBinding::PluginRadioButtonBinding(void*&, long long, long long*, long long)
+                0x0000000068a85f60                Far::PluginRadioButtonBinding::PluginRadioButtonBinding(void*&, long long, long long*, long long)
+ .text          0x0000000068a85f80       0xd0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+                0x0000000068a85f80                Far::DialogItemBinding_i::~DialogItemBinding_i()
+                0x0000000068a85f80                Far::DialogItemBinding_i::~DialogItemBinding_i()
+                0x0000000068a85f90                Far::DialogItemBinding_i::get_height_() const
+                0x0000000068a85fa0                Far::DialogItemBinding_i::~DialogItemBinding_i()
+                0x0000000068a85fd0                Far::DialogItemBinding_i::set_dlg(void**)
+                0x0000000068a85fe0                Far::DialogItemBinding_i::set_index(long long)
+                0x0000000068a85ff0                Far::DialogItemBinding_i::save() const
+                0x0000000068a86010                Far::DialogItemBinding_i::get_height() const
+                0x0000000068a86030                Far::DialogItemBinding_i::get_width() const
+ .text          0x0000000068a86050       0xc0 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+                0x0000000068a86050                Base::ref_counter::~ref_counter()
+                0x0000000068a86050                Base::ref_counter::~ref_counter()
+                0x0000000068a86060                Base::ref_counter::destroy()
+                0x0000000068a86070                Base::ref_counter::free()
+                0x0000000068a86090                Base::ref_counter::~ref_counter()
+                0x0000000068a860c0                Base::ref_counter::ref_counter()
+                0x0000000068a860c0                Base::ref_counter::ref_counter()
+                0x0000000068a860e0                Base::ref_counter::decrease_ref()
+ .text          0x0000000068a86110      0x170 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+                0x0000000068a86110                wcstold
+ .text          0x0000000068a86280       0x10 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+                0x0000000068a86280                _InterlockedExchangeAdd64
+                0x0000000068a86280                InterlockedExchangeAdd64
+ .text          0x0000000068a86290       0xe0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .text          0x0000000068a86370      0x8d0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+                0x0000000068a86370                __asctoe64
+                0x0000000068a86bf0                strtold
+ .text          0x0000000068a86c40     0x12a0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+                0x0000000068a86cf0                __emovi
+                0x0000000068a86dd0                __eaddm
+                0x0000000068a86e10                __esubm
+                0x0000000068a86e50                __edivm
+                0x0000000068a87080                __emulm
+                0x0000000068a87170                __toe64
+                0x0000000068a872e0                __ecmp
+                0x0000000068a87420                __eshift
+                0x0000000068a87630                __enormlz
+                0x0000000068a877f0                __emdnorm
+                0x0000000068a87ad0                __emovo
+                0x0000000068a87b80                __emul
+ .text          0x0000000068a87ee0      0x3c0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+                0x0000000068a87ee0                _ValidateImageBase
+                0x0000000068a87f10                _FindPESection
+                0x0000000068a87f60                _FindPESectionByName
+                0x0000000068a87ff0                __mingw_GetSectionForAddress
+                0x0000000068a88030                __mingw_GetSectionCount
+                0x0000000068a88060                _FindPESectionExec
+                0x0000000068a880d0                _GetPEImageBase
+                0x0000000068a88100                _IsNonwritableInCurrentImage
+                0x0000000068a88150                __mingw_enum_import_library_names
+                0x0000000068a881e0                __mingw_get_msvcrt_handle
+ .text          0x0000000068a882a0        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+                0x0000000068a882a0                wcscmp
+ .text          0x0000000068a882a8        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+                0x0000000068a882a8                wcschr
+ .text          0x0000000068a882b0        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+                0x0000000068a882b0                wcscspn
+ .text          0x0000000068a882b8        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+                0x0000000068a882b8                wcsncpy
+ .text          0x0000000068a882c0        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+                0x0000000068a882c0                memcpy
+ .text          0x0000000068a882c8        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+                0x0000000068a882c8                wcslen
+ .text          0x0000000068a882d0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+ .text          0x0000000068a882d0        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+                0x0000000068a882d0                malloc
+ .text          0x0000000068a882d8        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+                0x0000000068a882d8                _mbslen
+ .text          0x0000000068a882e0        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+                0x0000000068a882e0                free
+ .text          0x0000000068a882e8        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+                0x0000000068a882e8                setlocale
+ .text          0x0000000068a882f0        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+                0x0000000068a882f0                strchr
+ .text          0x0000000068a882f8        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+                0x0000000068a882f8                atoi
+ .text          0x0000000068a88300        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+                0x0000000068a88300                localeconv
+ .text          0x0000000068a88308        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+                0x0000000068a88308                strlen
+ .text          0x0000000068a88310        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+                0x0000000068a88310                isspace
+ .text          0x0000000068a88318        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+                0x0000000068a88318                _strnicmp
+ .text          0x0000000068a88320        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+                0x0000000068a88320                _errno
+ .text          0x0000000068a88328        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+                0x0000000068a88328                strncmp
+ .text          0x0000000068a88330        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .text          0x0000000068a88330        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .text          0x0000000068a88330        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+                0x0000000068a88330                GetProcessHeap
+ .text          0x0000000068a88338        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+                0x0000000068a88338                HeapFree
+ .text          0x0000000068a88340        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+                0x0000000068a88340                CompareStringW
+ .text          0x0000000068a88348        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+                0x0000000068a88348                HeapAlloc
+ .text          0x0000000068a88350        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+                0x0000000068a88350                HeapReAlloc
+ .text          0x0000000068a88358        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+                0x0000000068a88358                lstrcpynW
+ .text          0x0000000068a88360        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+                0x0000000068a88360                lstrlenW
+ .text          0x0000000068a88368        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+                0x0000000068a88368                WideCharToMultiByte
+ .text          0x0000000068a88370        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+                0x0000000068a88370                GetProcAddress
+ .text          0x0000000068a88378        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+                0x0000000068a88378                GetModuleHandleA
+ .text          0x0000000068a88380        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+                0x0000000068a88380                LoadLibraryW
+ *fill*         0x0000000068a88388        0x8 
+ .text          0x0000000068a88390        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .text          0x0000000068a88390        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ *(SORT(.text$*))
+ .text$_Z16InsertFromVectorIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEEEvRKSB_IS2_IS7_7SelInfoESaISG_EET_SL_
+                0x0000000068a88390      0xf50 src\process.o
+                0x0000000068a88390                void InsertFromVector<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > > >(std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SelInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SelInfo> > > const&, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >)
+ .text$_Z16InsertFromVectorISt16reverse_iteratorIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS4_11char_traitsIwEEEE8SortInfoESt6vectorISA_SaISA_EEEEEEvRKSC_IS3_IS8_7SelInfoESaISI_EET_SN_
+                0x0000000068a892e0      0xf90 src\process.o
+                0x0000000068a892e0                void InsertFromVector<std::reverse_iterator<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > > > >(std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SelInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SelInfo> > > const&, std::reverse_iterator<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > > >, std::reverse_iterator<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > > >)
+ .text$_ZN3Far21PluginCheckBoxBindingD0Ev
+                0x0000000068a8a270       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+                0x0000000068a8a270                Far::PluginCheckBoxBinding::~PluginCheckBoxBinding()
+ .text$_ZN3Far21PluginCheckBoxBindingD1Ev
+                0x0000000068a8a2b0       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+                0x0000000068a8a2b0                Far::PluginCheckBoxBinding::~PluginCheckBoxBinding()
+ .text$_ZN3Far21PluginComboBoxBindingD0Ev
+                0x0000000068a8a2c0       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+                0x0000000068a8a2c0                Far::PluginComboBoxBinding::~PluginComboBoxBinding()
+ .text$_ZN3Far21PluginComboBoxBindingD1Ev
+                0x0000000068a8a300       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+                0x0000000068a8a300                Far::PluginComboBoxBinding::~PluginComboBoxBinding()
+ .text$_ZN3Far22PluginEditFieldBindingD0Ev
+                0x0000000068a8a310       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+                0x0000000068a8a310                Far::PluginEditFieldBinding::~PluginEditFieldBinding()
+ .text$_ZN3Far22PluginEditFieldBindingD1Ev
+                0x0000000068a8a350       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+                0x0000000068a8a350                Far::PluginEditFieldBinding::~PluginEditFieldBinding()
+ .text$_ZN3Far24PluginRadioButtonBindingD0Ev
+                0x0000000068a8a360       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+                0x0000000068a8a360                Far::PluginRadioButtonBinding::~PluginRadioButtonBinding()
+ .text$_ZN3Far24PluginRadioButtonBindingD1Ev
+                0x0000000068a8a3a0       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+                0x0000000068a8a3a0                Far::PluginRadioButtonBinding::~PluginRadioButtonBinding()
+ .text$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_impl7destroyEv
+                0x0000000068a8a3b0       0x20 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8a3b0                Base::shared_ptr<Far::DialogBuilder_i>::shared_ptr_impl::destroy()
+ .text$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_implD0Ev
+                0x0000000068a8a3d0       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8a3d0                Base::shared_ptr<Far::DialogBuilder_i>::shared_ptr_impl::~shared_ptr_impl()
+ .text$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_implD1Ev
+                0x0000000068a8a410       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8a410                Base::shared_ptr<Far::DialogBuilder_i>::shared_ptr_impl::~shared_ptr_impl()
+ .text$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_impl4freeEv
+                0x0000000068a8a420       0x30 src\process.o
+                0x0000000068a8a420                Base::basic_string<wchar_t, Base::char_traits<wchar_t> >::string_impl::free()
+ .text$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_implD0Ev
+                0x0000000068a8a450       0x40 src\process.o
+                0x0000000068a8a450                Base::basic_string<wchar_t, Base::char_traits<wchar_t> >::string_impl::~string_impl()
+ .text$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_implD1Ev
+                0x0000000068a8a490       0x10 src\process.o
+                0x0000000068a8a490                Base::basic_string<wchar_t, Base::char_traits<wchar_t> >::string_impl::~string_impl()
+ .text$_ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIIR18FARDIALOGITEMTYPESRPKwRyEEEvDpOT_
+                0x0000000068a8a4a0      0x170 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8a4a0                void std::vector<Far::FarDialogItem_t, std::allocator<Far::FarDialogItem_t> >::_M_emplace_back_aux<FARDIALOGITEMTYPES&, wchar_t const*&, unsigned long long&>(FARDIALOGITEMTYPES&, wchar_t const*&, unsigned long long&)
+                0x0000000068a8a4a0                .weak._ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIJR18FARDIALOGITEMTYPESRPKwRyEEEvDpOT_._ZN3Far15DialogBuilder_iD2Ev
+ .text$_ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIIS1_EEEvDpOT_
+                0x0000000068a8a610      0x150 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8a610                void std::vector<Far::FarDialogItem_t, std::allocator<Far::FarDialogItem_t> >::_M_emplace_back_aux<Far::FarDialogItem_t>(Far::FarDialogItem_t&&)
+                0x0000000068a8a610                .weak._ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIJS1_EEEvDpOT_._ZN3Far15DialogBuilder_iD2Ev
+ .text$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE7SelInfoESaIS7_EE19_M_emplace_back_auxIIRS5_S6_EEEvDpOT_
+                0x0000000068a8a760      0x170 src\process.o
+                0x0000000068a8a760                void std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SelInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SelInfo> > >::_M_emplace_back_aux<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >&, SelInfo>(Base::basic_string<wchar_t, Base::char_traits<wchar_t> >&, SelInfo&&)
+                0x0000000068a8a760                .weak._ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE7SelInfoESaIS7_EE19_M_emplace_back_auxIJRS5_S6_EEEvDpOT_._Z9PairEqNumRKSt4pairIN4Base12basic_stringIwNS0_11char_traitsIwEEEE8SortInfoES8_
+ .text$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIIRS5_yEEEvDpOT_
+                0x0000000068a8a8d0      0x1b0 src\process.o
+                0x0000000068a8a8d0                .weak._ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIJRS5_yEEEvDpOT_._Z9PairEqNumRKSt4pairIN4Base12basic_stringIwNS0_11char_traitsIwEEEE8SortInfoES8_
+                0x0000000068a8a8d0                void std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > >::_M_emplace_back_aux<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >&, unsigned long long>(Base::basic_string<wchar_t, Base::char_traits<wchar_t> >&, unsigned long long&&)
+ .text$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIIS5_yEEEvDpOT_
+                0x0000000068a8aa80      0x1b0 src\process.o
+                0x0000000068a8aa80                void std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > >::_M_emplace_back_aux<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, unsigned long long>(Base::basic_string<wchar_t, Base::char_traits<wchar_t> >&&, unsigned long long&&)
+                0x0000000068a8aa80                .weak._ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIJS5_yEEEvDpOT_._Z9PairEqNumRKSt4pairIN4Base12basic_stringIwNS0_11char_traitsIwEEEE8SortInfoES8_
+ .text$_ZSt13__adjust_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEExS9_St26pointer_to_binary_functionIRKS9_SH_bEEvT_T0_SK_T1_T2_
+                0x0000000068a8ac30      0x280 src\process.o
+                0x0000000068a8ac30                void std::__adjust_heap<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, long long, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, long long, long long, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZSt13__heap_selectIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_SJ_T0_
+                0x0000000068a8aeb0       0xf0 src\process.o
+                0x0000000068a8aeb0                void std::__heap_select<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZSt16__insertion_sortIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8afa0      0x110 src\process.o
+                0x0000000068a8afa0                void std::__insertion_sort<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEExSt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_T1_
+                0x0000000068a8b0b0      0xa70 src\process.o
+                0x0000000068a8b0b0                void std::__introsort_loop<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, long long, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, long long, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZSt19__move_median_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_SJ_T0_
+                0x0000000068a8bb20      0x100 src\process.o
+                0x0000000068a8bb20                void std::__move_median_first<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZSt25__unguarded_linear_insertIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_T0_
+                0x0000000068a8bc20       0xd0 src\process.o
+                0x0000000068a8bc20                void std::__unguarded_linear_insert<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZSt9make_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8bcf0       0xd0 src\process.o
+                0x0000000068a8bcf0                void std::make_heap<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZSt9sort_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8bdc0       0xf0 src\process.o
+                0x0000000068a8bdc0                void std::sort_heap<__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool> >(__gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, __gnu_cxx::__normal_iterator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>*, std::vector<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo>, std::allocator<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> > > >, std::pointer_to_binary_function<std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, std::pair<Base::basic_string<wchar_t, Base::char_traits<wchar_t> >, SortInfo> const&, bool>)
+ .text$_ZdaPv   0x0000000068a8beb0       0x30 src\process.o
+                0x0000000068a8beb0                operator delete[](void*)
+ .text$_ZdlPv   0x0000000068a8bee0       0x30 src\process.o
+                0x0000000068a8bee0                operator delete(void*)
+ .text$_Znay    0x0000000068a8bf10       0x30 src\process.o
+                0x0000000068a8bf10                operator new[](unsigned long long)
+ .text$_Znwy    0x0000000068a8bf40       0x30 src\process.o
+                0x0000000068a8bf40                operator new(unsigned long long)
+ *(.text.*)
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+                0x0000000068a8bf70                . = ALIGN (0x8)
+                0x0000000068a8bf70                ___CTOR_LIST__ = .
+                0x0000000068a8bf70                __CTOR_LIST__ = .
+                0x0000000068a8bf70        0x4 LONG 0xffffffffffffffff
+                0x0000000068a8bf74        0x4 LONG 0xffffffffffffffff
+ *(.ctors)
+ *(.ctor)
+ *(SORT(.ctors.*))
+                0x0000000068a8bf78        0x4 LONG 0x0
+                0x0000000068a8bf7c        0x4 LONG 0x0
+                0x0000000068a8bf80                ___DTOR_LIST__ = .
+                0x0000000068a8bf80                __DTOR_LIST__ = .
+                0x0000000068a8bf80        0x4 LONG 0xffffffffffffffff
+                0x0000000068a8bf84        0x4 LONG 0xffffffffffffffff
+ *(.dtors)
+ *(.dtor)
+ *(SORT(.dtors.*))
+                0x0000000068a8bf88        0x4 LONG 0x0
+                0x0000000068a8bf8c        0x4 LONG 0x0
+ *(.fini)
+ *(.gcc_exc)
+                0x0000000068a8bf90                PROVIDE (etext, .)
+ *(.gcc_except_table)
+
+.data           0x0000000068a8c000      0x600
+                0x0000000068a8c000                __data_start__ = .
+ *(.data)
+ .data          0x0000000068a8c000        0x0 src\process.o
+ .data          0x0000000068a8c000       0x10 src\main.o
+ .data          0x0000000068a8c010        0x0 src\guid.o
+ .data          0x0000000068a8c010        0x0 src\globalinfo.o
+ .data          0x0000000068a8c010        0x0 src\farplugin.o
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .data          0x0000000068a8c010        0x0 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .data          0x0000000068a8c010        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .data          0x0000000068a8c010        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .data          0x0000000068a8c010       0x10 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+                0x0000000068a8c010                __mingw_get_codepage
+                0x0000000068a8c010                __lc_codepage
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .data          0x0000000068a8c020        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ *(.data2)
+ *(SORT(.data$*))
+ .data$_ZGVZN3Far8helper_t4instEvE3ret
+                0x0000000068a8c020       0x10 src\main.o
+                0x0000000068a8c020                guard variable for Far::helper_t::inst()::ret
+ *fill*         0x0000000068a8c030       0x10 
+ .data$_ZTV13FarGlobalInfo
+                0x0000000068a8c040       0x60 src\globalinfo.o
+                0x0000000068a8c040                vtable for FarGlobalInfo
+ .data$_ZTV9FarPlugin
+                0x0000000068a8c0a0       0x40 src\farplugin.o
+                0x0000000068a8c0a0                vtable for FarPlugin
+ .data$_ZTVN3Far12GlobalInfo_iE
+                0x0000000068a8c0e0       0x60 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+                0x0000000068a8c0e0                vtable for Far::GlobalInfo_i
+ .data$_ZTVN3Far15DialogBuilder_iE
+                0x0000000068a8c140       0x80 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8c140                vtable for Far::DialogBuilder_i
+ .data$_ZTVN3Far19DialogItemBinding_iE
+                0x0000000068a8c1c0       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+                0x0000000068a8c1c0                vtable for Far::DialogItemBinding_i
+ .data$_ZTVN3Far21PluginCheckBoxBindingE
+                0x0000000068a8c200       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+                0x0000000068a8c200                vtable for Far::PluginCheckBoxBinding
+ .data$_ZTVN3Far21PluginComboBoxBindingE
+                0x0000000068a8c240       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+                0x0000000068a8c240                vtable for Far::PluginComboBoxBinding
+ .data$_ZTVN3Far22PluginEditFieldBindingE
+                0x0000000068a8c280       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+                0x0000000068a8c280                vtable for Far::PluginEditFieldBinding
+ .data$_ZTVN3Far24PluginRadioButtonBindingE
+                0x0000000068a8c2c0       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+                0x0000000068a8c2c0                vtable for Far::PluginRadioButtonBinding
+ .data$_ZTVN3Far24SimpleDialogBuilder_implE
+                0x0000000068a8c300       0x80 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8c300                vtable for Far::SimpleDialogBuilder_impl
+ .data$_ZTVN3Far8Plugin_iE
+                0x0000000068a8c380       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+                0x0000000068a8c380                vtable for Far::Plugin_i
+ .data$_ZTVN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_implE
+                0x0000000068a8c3c0       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+                0x0000000068a8c3c0                vtable for Base::shared_ptr<Far::DialogBuilder_i>::shared_ptr_impl
+ .data$_ZTVN4Base11ref_counterE
+                0x0000000068a8c400       0x40 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+                0x0000000068a8c400                vtable for Base::ref_counter
+ .data$_ZTVN4Base12basic_stringIwNS_11char_traitsIwEEE11string_implE
+                0x0000000068a8c440       0x40 src\process.o
+                0x0000000068a8c440                vtable for Base::basic_string<wchar_t, Base::char_traits<wchar_t> >::string_impl
+ .data$_ZZN3Far8helper_t4instEvE3ret
+                0x0000000068a8c480       0x10 src\main.o
+                0x0000000068a8c480                Far::helper_t::inst()::ret
+ *(.jcr)
+                0x0000000068a8c490                __data_end__ = .
+ *(.data_cygwin_nocopy)
+
+.rdata          0x0000000068a8d000      0x600
+ *(.rdata)
+ .rdata         0x0000000068a8d000       0x30 src\process.o
+ .rdata         0x0000000068a8d030      0x120 src\globalinfo.o
+ .rdata         0x0000000068a8d150       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .rdata         0x0000000068a8d160       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .rdata         0x0000000068a8d190       0x30 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .rdata         0x0000000068a8d1c0       0xe0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .rdata         0x0000000068a8d2a0       0x20 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ *(SORT(.rdata$*))
+ .rdata$ConfigGuid
+                0x0000000068a8d2c0       0x10 src\guid.o
+                0x0000000068a8d2c0                ConfigGuid
+ .rdata$DialogGuid
+                0x0000000068a8d2d0       0x10 src\guid.o
+                0x0000000068a8d2d0                DialogGuid
+ .rdata$GUID_DEVINTERFACE_CDCHANGER
+                0x0000000068a8d2e0       0x10 src\guid.o
+                0x0000000068a8d2e0                GUID_DEVINTERFACE_CDCHANGER
+ .rdata$GUID_DEVINTERFACE_CDROM
+                0x0000000068a8d2f0       0x10 src\guid.o
+                0x0000000068a8d2f0                GUID_DEVINTERFACE_CDROM
+ .rdata$GUID_DEVINTERFACE_COMPORT
+                0x0000000068a8d300       0x10 src\guid.o
+                0x0000000068a8d300                GUID_DEVINTERFACE_COMPORT
+ .rdata$GUID_DEVINTERFACE_DISK
+                0x0000000068a8d310       0x10 src\guid.o
+                0x0000000068a8d310                GUID_DEVINTERFACE_DISK
+ .rdata$GUID_DEVINTERFACE_FLOPPY
+                0x0000000068a8d320       0x10 src\guid.o
+                0x0000000068a8d320                GUID_DEVINTERFACE_FLOPPY
+ .rdata$GUID_DEVINTERFACE_MEDIUMCHANGER
+                0x0000000068a8d330       0x10 src\guid.o
+                0x0000000068a8d330                GUID_DEVINTERFACE_MEDIUMCHANGER
+ .rdata$GUID_DEVINTERFACE_PARTITION
+                0x0000000068a8d340       0x10 src\guid.o
+                0x0000000068a8d340                GUID_DEVINTERFACE_PARTITION
+ .rdata$GUID_DEVINTERFACE_SERENUM_BUS_ENUMERATOR
+                0x0000000068a8d350       0x10 src\guid.o
+                0x0000000068a8d350                GUID_DEVINTERFACE_SERENUM_BUS_ENUMERATOR
+ .rdata$GUID_DEVINTERFACE_STORAGEPORT
+                0x0000000068a8d360       0x10 src\guid.o
+                0x0000000068a8d360                GUID_DEVINTERFACE_STORAGEPORT
+ .rdata$GUID_DEVINTERFACE_TAPE
+                0x0000000068a8d370       0x10 src\guid.o
+                0x0000000068a8d370                GUID_DEVINTERFACE_TAPE
+ .rdata$GUID_DEVINTERFACE_VOLUME
+                0x0000000068a8d380       0x10 src\guid.o
+                0x0000000068a8d380                GUID_DEVINTERFACE_VOLUME
+ .rdata$GUID_DEVINTERFACE_WRITEONCEDISK
+                0x0000000068a8d390       0x10 src\guid.o
+                0x0000000068a8d390                GUID_DEVINTERFACE_WRITEONCEDISK
+ .rdata$IID_AsyncIUnknown
+                0x0000000068a8d3a0       0x10 src\guid.o
+                0x0000000068a8d3a0                IID_AsyncIUnknown
+ .rdata$IID_IAdviseSink
+                0x0000000068a8d3b0       0x10 src\guid.o
+                0x0000000068a8d3b0                IID_IAdviseSink
+ .rdata$IID_IBindCtx
+                0x0000000068a8d3c0       0x10 src\guid.o
+                0x0000000068a8d3c0                IID_IBindCtx
+ .rdata$IID_IBindStatusCallback
+                0x0000000068a8d3d0       0x10 src\guid.o
+                0x0000000068a8d3d0                IID_IBindStatusCallback
+ .rdata$IID_IBinding
+                0x0000000068a8d3e0       0x10 src\guid.o
+                0x0000000068a8d3e0                IID_IBinding
+ .rdata$IID_IClassFactory
+                0x0000000068a8d3f0       0x10 src\guid.o
+                0x0000000068a8d3f0                IID_IClassFactory
+ .rdata$IID_IDataObject
+                0x0000000068a8d400       0x10 src\guid.o
+                0x0000000068a8d400                IID_IDataObject
+ .rdata$IID_IDispatch
+                0x0000000068a8d410       0x10 src\guid.o
+                0x0000000068a8d410                IID_IDispatch
+ .rdata$IID_IEnumFORMATETC
+                0x0000000068a8d420       0x10 src\guid.o
+                0x0000000068a8d420                IID_IEnumFORMATETC
+ .rdata$IID_IEnumMoniker
+                0x0000000068a8d430       0x10 src\guid.o
+                0x0000000068a8d430                IID_IEnumMoniker
+ .rdata$IID_IEnumSTATDATA
+                0x0000000068a8d440       0x10 src\guid.o
+                0x0000000068a8d440                IID_IEnumSTATDATA
+ .rdata$IID_IEnumSTATSTG
+                0x0000000068a8d450       0x10 src\guid.o
+                0x0000000068a8d450                IID_IEnumSTATSTG
+ .rdata$IID_IEnumString
+                0x0000000068a8d460       0x10 src\guid.o
+                0x0000000068a8d460                IID_IEnumString
+ .rdata$IID_IEnumUnknown
+                0x0000000068a8d470       0x10 src\guid.o
+                0x0000000068a8d470                IID_IEnumUnknown
+ .rdata$IID_IErrorLog
+                0x0000000068a8d480       0x10 src\guid.o
+                0x0000000068a8d480                IID_IErrorLog
+ .rdata$IID_IMoniker
+                0x0000000068a8d490       0x10 src\guid.o
+                0x0000000068a8d490                IID_IMoniker
+ .rdata$IID_IPersist
+                0x0000000068a8d4a0       0x10 src\guid.o
+                0x0000000068a8d4a0                IID_IPersist
+ .rdata$IID_IPersistStream
+                0x0000000068a8d4b0       0x10 src\guid.o
+                0x0000000068a8d4b0                IID_IPersistStream
+ .rdata$IID_IPrintDialogCallback
+                0x0000000068a8d4c0       0x10 src\guid.o
+                0x0000000068a8d4c0                IID_IPrintDialogCallback
+ .rdata$IID_IPrintDialogServices
+                0x0000000068a8d4d0       0x10 src\guid.o
+                0x0000000068a8d4d0                IID_IPrintDialogServices
+ .rdata$IID_IRecordInfo
+                0x0000000068a8d4e0       0x10 src\guid.o
+                0x0000000068a8d4e0                IID_IRecordInfo
+ .rdata$IID_IRunningObjectTable
+                0x0000000068a8d4f0       0x10 src\guid.o
+                0x0000000068a8d4f0                IID_IRunningObjectTable
+ .rdata$IID_ISequentialStream
+                0x0000000068a8d500       0x10 src\guid.o
+                0x0000000068a8d500                IID_ISequentialStream
+ .rdata$IID_IStorage
+                0x0000000068a8d510       0x10 src\guid.o
+                0x0000000068a8d510                IID_IStorage
+ .rdata$IID_IStream
+                0x0000000068a8d520       0x10 src\guid.o
+                0x0000000068a8d520                IID_IStream
+ .rdata$IID_ITypeComp
+                0x0000000068a8d530       0x10 src\guid.o
+                0x0000000068a8d530                IID_ITypeComp
+ .rdata$IID_ITypeInfo
+                0x0000000068a8d540       0x10 src\guid.o
+                0x0000000068a8d540                IID_ITypeInfo
+ .rdata$IID_ITypeLib
+                0x0000000068a8d550       0x10 src\guid.o
+                0x0000000068a8d550                IID_ITypeLib
+ .rdata$MenuGuid
+                0x0000000068a8d560       0x10 src\guid.o
+                0x0000000068a8d560                MenuGuid
+ .rdata$PluginGuid
+                0x0000000068a8d570       0x10 src\guid.o
+                0x0000000068a8d570                PluginGuid
+                0x0000000068a8d580                __rt_psrelocs_start = .
+ *(.rdata_runtime_pseudo_reloc)
+                0x0000000068a8d580                __rt_psrelocs_end = .
+                0x0000000000000000                __rt_psrelocs_size = (__rt_psrelocs_end - __rt_psrelocs_start)
+                0x0000000068a8d580                ___RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0000000068a8d580                __RUNTIME_PSEUDO_RELOC_LIST_END__ = .
+                0x0000000068a8d580                ___RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+                0x0000000068a8d580                __RUNTIME_PSEUDO_RELOC_LIST__ = (. - __rt_psrelocs_size)
+
+.eh_frame
+ *(.eh_frame*)
+
+.pdata          0x0000000068a8e000      0xc00
+ *(.pdata*)
+ .pdata         0x0000000068a8e000       0xa8 src\process.o
+ .pdata$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_impl4freeEv
+                0x0000000068a8e0a8        0xc src\process.o
+ .pdata$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_implD1Ev
+                0x0000000068a8e0b4        0xc src\process.o
+ .pdata$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_implD0Ev
+                0x0000000068a8e0c0        0xc src\process.o
+ .pdata$_Znwy   0x0000000068a8e0cc        0xc src\process.o
+ .pdata$_Znay   0x0000000068a8e0d8        0xc src\process.o
+ .pdata$_ZdlPv  0x0000000068a8e0e4        0xc src\process.o
+ .pdata$_ZdaPv  0x0000000068a8e0f0        0xc src\process.o
+ .pdata$_Z16InsertFromVectorISt16reverse_iteratorIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS4_11char_traitsIwEEEE8SortInfoESt6vectorISA_SaISA_EEEEEEvRKSC_IS3_IS8_7SelInfoESaISI_EET_SN_
+                0x0000000068a8e0fc        0xc src\process.o
+ .pdata$_Z16InsertFromVectorIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEEEvRKSB_IS2_IS7_7SelInfoESaISG_EET_SL_
+                0x0000000068a8e108        0xc src\process.o
+ .pdata$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIIS5_yEEEvDpOT_
+                0x0000000068a8e114        0xc src\process.o
+ .pdata$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE7SelInfoESaIS7_EE19_M_emplace_back_auxIIRS5_S6_EEEvDpOT_
+                0x0000000068a8e120        0xc src\process.o
+ .pdata$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIIRS5_yEEEvDpOT_
+                0x0000000068a8e12c        0xc src\process.o
+ .pdata$_ZSt19__move_median_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_SJ_T0_
+                0x0000000068a8e138        0xc src\process.o
+ .pdata$_ZSt25__unguarded_linear_insertIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_T0_
+                0x0000000068a8e144        0xc src\process.o
+ .pdata$_ZSt16__insertion_sortIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8e150        0xc src\process.o
+ .pdata$_ZSt13__adjust_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEExS9_St26pointer_to_binary_functionIRKS9_SH_bEEvT_T0_SK_T1_T2_
+                0x0000000068a8e15c        0xc src\process.o
+ .pdata$_ZSt9make_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8e168        0xc src\process.o
+ .pdata$_ZSt13__heap_selectIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_SJ_T0_
+                0x0000000068a8e174        0xc src\process.o
+ .pdata$_ZSt9sort_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8e180        0xc src\process.o
+ .pdata$_ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEExSt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_T1_
+                0x0000000068a8e18c        0xc src\process.o
+ .pdata         0x0000000068a8e198       0x78 src\main.o
+ .pdata         0x0000000068a8e210       0xb4 src\globalinfo.o
+ .pdata         0x0000000068a8e2c4       0x54 src\farplugin.o
+ .pdata         0x0000000068a8e318       0x9c D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .pdata         0x0000000068a8e3b4       0x18 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .pdata         0x0000000068a8e3cc      0x15c D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_impl7destroyEv
+                0x0000000068a8e528        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_implD1Ev
+                0x0000000068a8e534        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_implD0Ev
+                0x0000000068a8e540        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIIS1_EEEvDpOT_
+                0x0000000068a8e54c        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata$_ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIIR18FARDIALOGITEMTYPESRPKwRyEEEvDpOT_
+                0x0000000068a8e558        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .pdata         0x0000000068a8e564       0x3c D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .pdata$_ZN3Far21PluginCheckBoxBindingD1Ev
+                0x0000000068a8e5a0        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .pdata$_ZN3Far21PluginCheckBoxBindingD0Ev
+                0x0000000068a8e5ac        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .pdata         0x0000000068a8e5b8        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .pdata         0x0000000068a8e5c4        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .pdata         0x0000000068a8e5d0       0x48 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .pdata$_ZN3Far22PluginEditFieldBindingD1Ev
+                0x0000000068a8e618        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .pdata$_ZN3Far22PluginEditFieldBindingD0Ev
+                0x0000000068a8e624        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .pdata         0x0000000068a8e630       0x48 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .pdata$_ZN3Far21PluginComboBoxBindingD1Ev
+                0x0000000068a8e678        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .pdata$_ZN3Far21PluginComboBoxBindingD0Ev
+                0x0000000068a8e684        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .pdata         0x0000000068a8e690       0x6c D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .pdata         0x0000000068a8e6fc       0x60 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .pdata         0x0000000068a8e75c       0xc0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .pdata         0x0000000068a8e81c       0x78 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .pdata         0x0000000068a8e894       0x30 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .pdata$_ZN3Far24PluginRadioButtonBindingD1Ev
+                0x0000000068a8e8c4        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .pdata$_ZN3Far24PluginRadioButtonBindingD0Ev
+                0x0000000068a8e8d0        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .pdata         0x0000000068a8e8dc       0x60 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .pdata         0x0000000068a8e93c       0x48 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .pdata         0x0000000068a8e984        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .pdata         0x0000000068a8e990        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .pdata         0x0000000068a8e99c       0x24 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .pdata         0x0000000068a8e9c0       0x18 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .pdata         0x0000000068a8e9d8       0x9c c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .pdata         0x0000000068a8ea74       0x78 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+
+.xdata          0x0000000068a8f000      0xa00
+ *(.xdata*)
+ .xdata         0x0000000068a8f000       0x94 src\process.o
+ .xdata$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_impl4freeEv
+                0x0000000068a8f094        0x8 src\process.o
+ .xdata$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_implD1Ev
+                0x0000000068a8f09c        0x4 src\process.o
+ .xdata$_ZN4Base12basic_stringIwNS_11char_traitsIwEEE11string_implD0Ev
+                0x0000000068a8f0a0        0x8 src\process.o
+ .xdata$_Znwy   0x0000000068a8f0a8        0x8 src\process.o
+ .xdata$_Znay   0x0000000068a8f0b0        0x8 src\process.o
+ .xdata$_ZdlPv  0x0000000068a8f0b8        0x8 src\process.o
+ .xdata$_ZdaPv  0x0000000068a8f0c0        0x8 src\process.o
+ .xdata$_Z16InsertFromVectorISt16reverse_iteratorIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS4_11char_traitsIwEEEE8SortInfoESt6vectorISA_SaISA_EEEEEEvRKSC_IS3_IS8_7SelInfoESaISI_EET_SN_
+                0x0000000068a8f0c8       0x18 src\process.o
+ .xdata$_Z16InsertFromVectorIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEEEvRKSB_IS2_IS7_7SelInfoESaISG_EET_SL_
+                0x0000000068a8f0e0       0x18 src\process.o
+ .xdata$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIIS5_yEEEvDpOT_
+                0x0000000068a8f0f8       0x18 src\process.o
+ .xdata$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE7SelInfoESaIS7_EE19_M_emplace_back_auxIIRS5_S6_EEEvDpOT_
+                0x0000000068a8f110       0x18 src\process.o
+ .xdata$_ZNSt6vectorISt4pairIN4Base12basic_stringIwNS1_11char_traitsIwEEEE8SortInfoESaIS7_EE19_M_emplace_back_auxIIRS5_yEEEvDpOT_
+                0x0000000068a8f128       0x18 src\process.o
+ .xdata$_ZSt19__move_median_firstIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_SJ_T0_
+                0x0000000068a8f140       0x10 src\process.o
+ .xdata$_ZSt25__unguarded_linear_insertIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_T0_
+                0x0000000068a8f150        0xc src\process.o
+ .xdata$_ZSt16__insertion_sortIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8f15c       0x14 src\process.o
+ .xdata$_ZSt13__adjust_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEExS9_St26pointer_to_binary_functionIRKS9_SH_bEEvT_T0_SK_T1_T2_
+                0x0000000068a8f170       0x18 src\process.o
+ .xdata$_ZSt9make_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8f188       0x14 src\process.o
+ .xdata$_ZSt13__heap_selectIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_SJ_T0_
+                0x0000000068a8f19c       0x14 src\process.o
+ .xdata$_ZSt9sort_heapIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEESt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_
+                0x0000000068a8f1b0       0x18 src\process.o
+ .xdata$_ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPSt4pairIN4Base12basic_stringIwNS3_11char_traitsIwEEEE8SortInfoESt6vectorIS9_SaIS9_EEEExSt26pointer_to_binary_functionIRKS9_SH_bEEvT_SJ_T0_T1_
+                0x0000000068a8f1c8       0x18 src\process.o
+ .xdata         0x0000000068a8f1e0       0x50 src\main.o
+ .xdata         0x0000000068a8f230       0x54 src\globalinfo.o
+ .xdata         0x0000000068a8f284       0x34 src\farplugin.o
+ .xdata         0x0000000068a8f2b8       0x74 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .xdata         0x0000000068a8f32c       0x10 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .xdata         0x0000000068a8f33c      0x16c D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_impl7destroyEv
+                0x0000000068a8f4a8        0x4 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_implD1Ev
+                0x0000000068a8f4ac        0x4 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_ZN4Base10shared_ptrIN3Far15DialogBuilder_iEE15shared_ptr_implD0Ev
+                0x0000000068a8f4b0        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIIS1_EEEvDpOT_
+                0x0000000068a8f4b8       0x18 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata$_ZNSt6vectorIN3Far15FarDialogItem_tESaIS1_EE19_M_emplace_back_auxIIR18FARDIALOGITEMTYPESRPKwRyEEEvDpOT_
+                0x0000000068a8f4d0       0x18 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .xdata         0x0000000068a8f4e8       0x28 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .xdata$_ZN3Far21PluginCheckBoxBindingD1Ev
+                0x0000000068a8f510        0x4 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .xdata$_ZN3Far21PluginCheckBoxBindingD0Ev
+                0x0000000068a8f514        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .xdata         0x0000000068a8f51c        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .xdata         0x0000000068a8f528        0xc D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .xdata         0x0000000068a8f534       0x40 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .xdata$_ZN3Far22PluginEditFieldBindingD1Ev
+                0x0000000068a8f574        0x4 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .xdata$_ZN3Far22PluginEditFieldBindingD0Ev
+                0x0000000068a8f578        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .xdata         0x0000000068a8f580       0x3c D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .xdata$_ZN3Far21PluginComboBoxBindingD1Ev
+                0x0000000068a8f5bc        0x4 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .xdata$_ZN3Far21PluginComboBoxBindingD0Ev
+                0x0000000068a8f5c0        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .xdata         0x0000000068a8f5c8       0x34 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .xdata         0x0000000068a8f5fc       0x28 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .xdata         0x0000000068a8f624       0xb8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .xdata         0x0000000068a8f6dc       0x34 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .xdata         0x0000000068a8f710       0x14 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .xdata$_ZN3Far24PluginRadioButtonBindingD1Ev
+                0x0000000068a8f724        0x4 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .xdata$_ZN3Far24PluginRadioButtonBindingD0Ev
+                0x0000000068a8f728        0x8 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .xdata         0x0000000068a8f730       0x24 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .xdata         0x0000000068a8f754       0x20 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .xdata         0x0000000068a8f774       0x18 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .xdata         0x0000000068a8f78c        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .xdata         0x0000000068a8f790       0x18 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .xdata         0x0000000068a8f7a8       0x24 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .xdata         0x0000000068a8f7cc       0x88 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .xdata         0x0000000068a8f854       0x58 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+
+.bss            0x0000000068a90000       0xb0
+                0x0000000068a90000                __bss_start__ = .
+ *(.bss)
+ .bss           0x0000000068a90000       0x10 src\process.o
+                0x0000000068a90000                EDITOR_EOL
+ *fill*         0x0000000068a90010       0x10 
+ .bss           0x0000000068a90020       0x40 src\main.o
+ .bss           0x0000000068a90060        0x0 src\guid.o
+ .bss           0x0000000068a90060        0x0 src\globalinfo.o
+ .bss           0x0000000068a90060       0x30 src\farplugin.o
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(editor.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(message.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(dialog_builder.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_checkbox.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_separator.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_label.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_edit.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(create_combobox.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(globalinfo_i.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(plugin_i.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(settings.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(FarDialogItem.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DlgBuilder_c.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libfar3\Release-x64-NoStr/liblibfar3.a(DialogItemBinding.o)
+ .bss           0x0000000068a90090        0x0 D:\projects\andrew-grechkin\libbase\Release-x64-NoStr/liblibbase.a(ref_cnt.o)
+ .bss           0x0000000068a90090        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-wcstold.o)
+ .bss           0x0000000068a90090        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-ilockexchadd64.o)
+ .bss           0x0000000068a90090       0x10 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-mingw_get_codepage.o)
+ .bss           0x0000000068a900a0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-strtold.o)
+ .bss           0x0000000068a900a0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingwex.a(lib64_libmingwex_a-cephes_emath.o)
+ .bss           0x0000000068a900a0       0x10 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmingw32.a(lib64_libmingw32_a-pesect.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .bss           0x0000000068a900b0        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ *(COMMON)
+                0x0000000068a900b0                __bss_end__ = .
+
+.edata          0x0000000068a91000      0x200
+ *(.edata)
+ .edata         0x0000000068a91000       0xbc dll stuff
+
+/DISCARD/
+ *(.debug$S)
+ *(.debug$T)
+ *(.debug$F)
+ *(.drectve)
+ *(.note.GNU-stack)
+ *(.gnu.lto_*)
+
+.idata          0x0000000068a92000      0x600
+ SORT(*)(.idata$2)
+ .idata$2       0x0000000068a92000       0x14 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+                0x0000000068a92000                _head_lib64_libkernel32_a
+ .idata$2       0x0000000068a92014       0x14 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+                0x0000000068a92014                _head_lib64_libmsvcrt_a
+ SORT(*)(.idata$3)
+                0x0000000068a92028        0x4 LONG 0x0
+                0x0000000068a9202c        0x4 LONG 0x0
+                0x0000000068a92030        0x4 LONG 0x0
+                0x0000000068a92034        0x4 LONG 0x0
+                0x0000000068a92038        0x4 LONG 0x0
+ SORT(*)(.idata$4)
+ .idata$4       0x0000000068a9203c        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .idata$4       0x0000000068a9203c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+ .idata$4       0x0000000068a92044        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+ .idata$4       0x0000000068a9204c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+ .idata$4       0x0000000068a92054        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .idata$4       0x0000000068a9205c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .idata$4       0x0000000068a92064        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .idata$4       0x0000000068a9206c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .idata$4       0x0000000068a92074        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+ .idata$4       0x0000000068a9207c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+ .idata$4       0x0000000068a92084        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+ .idata$4       0x0000000068a9208c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+ .idata$4       0x0000000068a92094        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ .idata$4       0x0000000068a9209c        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .idata$4       0x0000000068a9209c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+ .idata$4       0x0000000068a920a4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+ .idata$4       0x0000000068a920ac        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+ .idata$4       0x0000000068a920b4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+ .idata$4       0x0000000068a920bc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+ .idata$4       0x0000000068a920c4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .idata$4       0x0000000068a920cc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+ .idata$4       0x0000000068a920d4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+ .idata$4       0x0000000068a920dc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .idata$4       0x0000000068a920e4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .idata$4       0x0000000068a920ec        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+ .idata$4       0x0000000068a920f4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+ .idata$4       0x0000000068a920fc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+ .idata$4       0x0000000068a92104        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+ .idata$4       0x0000000068a9210c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .idata$4       0x0000000068a92114        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+ .idata$4       0x0000000068a9211c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+ .idata$4       0x0000000068a92124        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .idata$4       0x0000000068a9212c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .idata$4       0x0000000068a92134        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+                0x0000000068a9213c                __IAT_start__ = .
+ SORT(*)(.idata$5)
+ .idata$5       0x0000000068a9213c        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxoh.o)
+ .idata$5       0x0000000068a9213c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+                0x0000000068a9213c                __imp_CompareStringW
+ .idata$5       0x0000000068a92144        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+                0x0000000068a92144                __imp_GetModuleHandleA
+ .idata$5       0x0000000068a9214c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+                0x0000000068a9214c                __imp_GetProcAddress
+ .idata$5       0x0000000068a92154        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+                0x0000000068a92154                __imp_GetProcessHeap
+ .idata$5       0x0000000068a9215c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+                0x0000000068a9215c                __imp_HeapAlloc
+ .idata$5       0x0000000068a92164        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+                0x0000000068a92164                __imp_HeapFree
+ .idata$5       0x0000000068a9216c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+                0x0000000068a9216c                __imp_HeapReAlloc
+ .idata$5       0x0000000068a92174        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+                0x0000000068a92174                __imp_LoadLibraryW
+ .idata$5       0x0000000068a9217c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+                0x0000000068a9217c                __imp_WideCharToMultiByte
+ .idata$5       0x0000000068a92184        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+                0x0000000068a92184                __imp_lstrcpynW
+ .idata$5       0x0000000068a9218c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+                0x0000000068a9218c                __imp_lstrlenW
+ .idata$5       0x0000000068a92194        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+ .idata$5       0x0000000068a9219c        0x0 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjh.o)
+ .idata$5       0x0000000068a9219c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+                0x0000000068a9219c                __imp___mb_cur_max
+ .idata$5       0x0000000068a921a4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+                0x0000000068a921a4                __imp__errno
+ .idata$5       0x0000000068a921ac        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+                0x0000000068a921ac                __imp__mbslen
+ .idata$5       0x0000000068a921b4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+                0x0000000068a921b4                __imp__strnicmp
+ .idata$5       0x0000000068a921bc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+                0x0000000068a921bc                __imp_atoi
+ .idata$5       0x0000000068a921c4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+                0x0000000068a921c4                __imp_free
+ .idata$5       0x0000000068a921cc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+                0x0000000068a921cc                __imp_isspace
+ .idata$5       0x0000000068a921d4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+                0x0000000068a921d4                __imp_localeconv
+ .idata$5       0x0000000068a921dc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+                0x0000000068a921dc                __imp_malloc
+ .idata$5       0x0000000068a921e4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+                0x0000000068a921e4                __imp_memcpy
+ .idata$5       0x0000000068a921ec        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+                0x0000000068a921ec                __imp_setlocale
+ .idata$5       0x0000000068a921f4        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+                0x0000000068a921f4                __imp_strchr
+ .idata$5       0x0000000068a921fc        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+                0x0000000068a921fc                __imp_strlen
+ .idata$5       0x0000000068a92204        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+                0x0000000068a92204                __imp_strncmp
+ .idata$5       0x0000000068a9220c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+                0x0000000068a9220c                __imp_wcschr
+ .idata$5       0x0000000068a92214        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+                0x0000000068a92214                __imp_wcscmp
+ .idata$5       0x0000000068a9221c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+                0x0000000068a9221c                __imp_wcscspn
+ .idata$5       0x0000000068a92224        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+                0x0000000068a92224                __imp_wcslen
+ .idata$5       0x0000000068a9222c        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+                0x0000000068a9222c                __imp_wcsncpy
+ .idata$5       0x0000000068a92234        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+                0x0000000068a9223c                __IAT_end__ = .
+ SORT(*)(.idata$6)
+ .idata$6       0x0000000068a9223c       0x12 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+ .idata$6       0x0000000068a9224e       0x14 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+ .idata$6       0x0000000068a92262       0x12 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+ .idata$6       0x0000000068a92274       0x12 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .idata$6       0x0000000068a92286        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .idata$6       0x0000000068a92292        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .idata$6       0x0000000068a9229e        0xe c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .idata$6       0x0000000068a922ac       0x10 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+ .idata$6       0x0000000068a922bc       0x16 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+ .idata$6       0x0000000068a922d2        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+ .idata$6       0x0000000068a922de        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+ .idata$6       0x0000000068a922ea       0x10 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+ .idata$6       0x0000000068a922fa        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+ .idata$6       0x0000000068a92304        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+ .idata$6       0x0000000068a9230e        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+ .idata$6       0x0000000068a9231a        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+ .idata$6       0x0000000068a92322        0x8 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .idata$6       0x0000000068a9232a        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+ .idata$6       0x0000000068a92334        0xe c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+ .idata$6       0x0000000068a92342        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .idata$6       0x0000000068a9234c        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .idata$6       0x0000000068a92356        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+ .idata$6       0x0000000068a92362        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+ .idata$6       0x0000000068a9236c        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+ .idata$6       0x0000000068a92376        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+ .idata$6       0x0000000068a92380        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .idata$6       0x0000000068a9238a        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+ .idata$6       0x0000000068a92394        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+ .idata$6       0x0000000068a9239e        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .idata$6       0x0000000068a923a8        0xa c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ SORT(*)(.idata$7)
+ *fill*         0x0000000068a923b2        0x2 
+ .idata$7       0x0000000068a923b4        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00103.o)
+ .idata$7       0x0000000068a923b8        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00547.o)
+ .idata$7       0x0000000068a923bc        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00597.o)
+ .idata$7       0x0000000068a923c0        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00602.o)
+ .idata$7       0x0000000068a923c4        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00732.o)
+ .idata$7       0x0000000068a923c8        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00738.o)
+ .idata$7       0x0000000068a923cc        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00742.o)
+ .idata$7       0x0000000068a923d0        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos00847.o)
+ .idata$7       0x0000000068a923d4        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01291.o)
+ .idata$7       0x0000000068a923d8        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01352.o)
+ .idata$7       0x0000000068a923dc        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxos01355.o)
+ .idata$7       0x0000000068a923e0       0x10 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libkernel32.a(dgxot.o)
+                0x0000000068a923e0                __lib64_libkernel32_a_iname
+ .idata$7       0x0000000068a923f0        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00091.o)
+ .idata$7       0x0000000068a923f4        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00188.o)
+ .idata$7       0x0000000068a923f8        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00454.o)
+ .idata$7       0x0000000068a923fc        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00662.o)
+ .idata$7       0x0000000068a92400        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00919.o)
+ .idata$7       0x0000000068a92404        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00958.o)
+ .idata$7       0x0000000068a92408        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs00990.o)
+ .idata$7       0x0000000068a9240c        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01009.o)
+ .idata$7       0x0000000068a92410        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01016.o)
+ .idata$7       0x0000000068a92414        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01024.o)
+ .idata$7       0x0000000068a92418        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01051.o)
+ .idata$7       0x0000000068a9241c        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01065.o)
+ .idata$7       0x0000000068a92420        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01074.o)
+ .idata$7       0x0000000068a92424        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01077.o)
+ .idata$7       0x0000000068a92428        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01125.o)
+ .idata$7       0x0000000068a9242c        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01126.o)
+ .idata$7       0x0000000068a92430        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01130.o)
+ .idata$7       0x0000000068a92434        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01132.o)
+ .idata$7       0x0000000068a92438        0x4 c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjs01136.o)
+ .idata$7       0x0000000068a9243c        0xc c:/mingw/bin/../lib/gcc/x86_64-w64-mingw32/4.7.1/../../../../x86_64-w64-mingw32/lib/../lib/libmsvcrt.a(dozjt.o)
+                0x0000000068a9243c                __lib64_libmsvcrt_a_iname
+
+.CRT            0x0000000068a93000        0x0
+                0x0000000068a93000                ___crt_xc_start__ = .
+ *(SORT(.CRT$XC*))
+                0x0000000068a93000                ___crt_xc_end__ = .
+                0x0000000068a93000                ___crt_xi_start__ = .
+ *(SORT(.CRT$XI*))
+                0x0000000068a93000                ___crt_xi_end__ = .
+                0x0000000068a93000                ___crt_xl_start__ = .
+ *(SORT(.CRT$XL*))
+                0x0000000068a93000                ___crt_xp_start__ = .
+ *(SORT(.CRT$XP*))
+                0x0000000068a93000                ___crt_xp_end__ = .
+                0x0000000068a93000                ___crt_xt_start__ = .
+ *(SORT(.CRT$XT*))
+                0x0000000068a93000                ___crt_xt_end__ = .
+
+.tls            0x0000000068a93000        0x0
+                0x0000000068a93000                ___tls_start__ = .
+ *(.tls)
+ *(.tls$)
+ *(SORT(.tls$*))
+                0x0000000068a93000                ___tls_end__ = .
+
+.endjunk        0x0000000068a93000        0x0
+                0x0000000068a93000                PROVIDE (end, .)
+                0x0000000068a93000                PROVIDE (_end, .)
+                0x0000000068a93000                __end__ = .
+
+.rsrc           0x0000000068a93000      0x400
+ *(.rsrc)
+ .rsrc          0x0000000068a93000      0x2f4 src\main.res
+ *(SORT(.rsrc$*))
+
+.reloc          0x0000000068a94000      0x200
+ *(.reloc)
+ .reloc         0x0000000068a94000       0xc8 dll stuff
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame*)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_types
+ *(.debug_types .gnu.linkonce.wt.*)
+OUTPUT(sortstr-x64.dll pei-x86-64)
+LOAD dll stuff

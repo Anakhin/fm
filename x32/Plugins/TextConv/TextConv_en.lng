@@ -1,0 +1,21 @@
+﻿.Language=English,English
+
+"Text converter"
+
+"OK"
+"Cancel"
+
+"Source encoding:"
+"Remove trailing spaces in lines"
+"Delete blank lines at end of file"
+"Change the newline character to"
+"Change encoding to"
+"Add BOM signature"
+"Save a backup copy (.bak)"
+
+"Characters deleted:       %i\nEnd empty string deleted: %i"
+"File processed:           %i of %i\nFiles changed:            %i\nCharacters deleted:       %i\nEnd empty string deleted: %i"
+
+"Error reading file"
+"Error creating backup copy"
+"Error saving file"

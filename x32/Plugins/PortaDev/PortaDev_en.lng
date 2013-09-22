@@ -1,0 +1,28 @@
+﻿.Language=English,English
+
+"Portable Devices"
+
+"Operation in progress..."
+
+"file"
+"folder"
+"selected items"
+
+"Create folder"
+"Folder name:"
+
+"Copy"
+"Copy %s to:"
+
+"Rename/Move"
+"Rename or move %s to:"
+
+"Delete"
+"Are you really want to delete"
+
+"Error reading folder"
+"Unable to create folder"
+"Unable to delete file"
+"Unable to delete folder"
+"Unable to copy file from\n%s\nto\n%s"
+"Unable to rename/move\n%s\nto\n%s"

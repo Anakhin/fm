@@ -1,0 +1,978 @@
+ esc
+
+ Timestamp is 519911f7 (Sun May 19 20:55:03 2013)
+
+ Preferred load address is 0000000180000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 000000a0H .idata$5                CODE
+ 0001:000000a0 00000932H .rdata                  CODE
+ 0001:000009d4 00000088H .rdata$debug            CODE
+ 0001:00000a60 0000e9a0H .text                   CODE
+ 0001:0000f400 00000e8cH .xdata                  CODE
+ 0001:0001028c 00000014H .idata$2                CODE
+ 0001:000102a0 00000014H .idata$3                CODE
+ 0001:000102b8 000000a0H .idata$4                CODE
+ 0001:00010358 00000144H .idata$6                CODE
+ 0001:000104a0 00000196H .edata                  CODE
+ 0002:00000000 000007e0H .data                   DATA
+ 0002:000007e0 000007e4H .bss                    DATA
+ 0003:00000000 00000c60H .pdata                  DATA
+ 0004:00000000 00000058H .rsrc$01                DATA
+ 0004:00000060 00000278H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base               Lib:Object
+
+ 0000:00000000       ___safe_se_handler_count   0000000000000000     <absolute>
+ 0000:00000000       ___safe_se_handler_table   0000000000000000     <absolute>
+ 0000:00000000       __ImageBase                0000000180000000     <linker-defined>
+ 0001:00000000       __imp_CloseHandle          0000000180001000     kernel32:KERNEL32.dll
+ 0001:00000008       __imp_lstrcmpW             0000000180001008     kernel32:KERNEL32.dll
+ 0001:00000010       __imp_lstrlenW             0000000180001010     kernel32:KERNEL32.dll
+ 0001:00000018       __imp_CreateFileW          0000000180001018     kernel32:KERNEL32.dll
+ 0001:00000020       __imp_GetTickCount         0000000180001020     kernel32:KERNEL32.dll
+ 0001:00000028       __imp_GetLastError         0000000180001028     kernel32:KERNEL32.dll
+ 0001:00000030       __imp_GetStdHandle         0000000180001030     kernel32:KERNEL32.dll
+ 0001:00000038       __imp_FindClose            0000000180001038     kernel32:KERNEL32.dll
+ 0001:00000040       __imp_CompareFileTime      0000000180001040     kernel32:KERNEL32.dll
+ 0001:00000048       __imp_ExpandEnvironmentStringsW 0000000180001048     kernel32:KERNEL32.dll
+ 0001:00000050       __imp_GetFileAttributesW   0000000180001050     kernel32:KERNEL32.dll
+ 0001:00000058       __imp_FindFirstFileW       0000000180001058     kernel32:KERNEL32.dll
+ 0001:00000060       __imp_PeekConsoleInputW    0000000180001060     kernel32:KERNEL32.dll
+ 0001:00000068       __imp_ReadConsoleInputW    0000000180001068     kernel32:KERNEL32.dll
+ 0001:00000070       __imp_ReadFile             0000000180001070     kernel32:KERNEL32.dll
+ 0001:00000078       __imp_SetFilePointer       0000000180001078     kernel32:KERNEL32.dll
+ 0001:00000080       __imp_HeapFree             0000000180001080     kernel32:KERNEL32.dll
+ 0001:00000088       __imp_GetProcessHeap       0000000180001088     kernel32:KERNEL32.dll
+ 0001:00000090       __imp_HeapAlloc            0000000180001090     kernel32:KERNEL32.dll
+ 0001:00000098       \177KERNEL32_NULL_THUNK_DATA 0000000180001098     kernel32:KERNEL32.dll
+ 0001:000000d8       ??_C@_1CI@PDEMALJM@?$AA?1?$AAE?$AAs?$AAc?$AA?9?$AAS?$AAe?$AAt?$AAt?$AAi?$AAn?$AAg?$AAs?$AA?1?$AAT?$AAy?$AAp?$AAe?$AAs?$AA?$AA@ 00000001800010d8     esc.obj
+ 0001:00000100       ??_C@_19HHIIBINK@?$AAn?$AAa?$AAm?$AAe?$AA?$AA@ 0000000180001100     esc.obj
+ 0001:00000110       ??_C@_19FHBCDCCA@?$AAt?$AAy?$AAp?$AAe?$AA?$AA@ 0000000180001110     esc.obj
+ 0001:00000120       ??_C@_19EFLMLHAB@?$AAm?$AAa?$AAs?$AAk?$AA?$AA@ 0000000180001120     esc.obj
+ 0001:00000130       ??_C@_1BA@LJDDHLGB@?$AAt?$AAa?$AAb?$AAs?$AAi?$AAz?$AAe?$AA?$AA@ 0000000180001130     esc.obj
+ 0001:00000140       ??_C@_1BG@OBJBKEDF@?$AAe?$AAx?$AAp?$AAa?$AAn?$AAd?$AAt?$AAa?$AAb?$AAs?$AA?$AA@ 0000000180001140     esc.obj
+ 0001:00000158       ??_C@_1BG@OGEACFEE@?$AAa?$AAu?$AAt?$AAo?$AAi?$AAn?$AAd?$AAe?$AAn?$AAt?$AA?$AA@ 0000000180001158     esc.obj
+ 0001:00000170       ??_C@_17IKIEHLHN@?$AAe?$AAo?$AAl?$AA?$AA@ 0000000180001170     esc.obj
+ 0001:00000178       ??_C@_1BG@CFFGIKEO@?$AAc?$AAu?$AAr?$AAs?$AAo?$AAr?$AAb?$AAe?$AAo?$AAl?$AA?$AA@ 0000000180001178     esc.obj
+ 0001:00000190       ??_C@_1BK@GEMCFDDF@?$AAc?$AAh?$AAa?$AAr?$AAc?$AAo?$AAd?$AAe?$AAb?$AAa?$AAs?$AAe?$AA?$AA@ 0000000180001190     esc.obj
+ 0001:000001b0       ??_C@_1BE@PBJLJDJN@?$AAk?$AAi?$AAl?$AAl?$AAs?$AAp?$AAa?$AAc?$AAe?$AA?$AA@ 00000001800011b0     esc.obj
+ 0001:000001c8       ??_C@_1BO@IICPPFFD@?$AAk?$AAi?$AAl?$AAl?$AAe?$AAm?$AAp?$AAt?$AAy?$AAl?$AAi?$AAn?$AAe?$AAs?$AA?$AA@ 00000001800011c8     esc.obj
+ 0001:000001e8       ??_C@_19EOACODOG@?$AAw?$AAr?$AAa?$AAp?$AA?$AA@ 00000001800011e8     esc.obj
+ 0001:000001f8       ??_C@_1BA@BLDCJAAO@?$AAj?$AAu?$AAs?$AAt?$AAi?$AAf?$AAy?$AA?$AA@ 00000001800011f8     esc.obj
+ 0001:00000208       ??_C@_15GMGGGDOD@?$AAo?$AAn?$AA?$AA@ 0000000180001208     esc.obj
+ 0001:00000210       ??_C@_17FDPGNGBJ@?$AAo?$AAf?$AAf?$AA?$AA@ 0000000180001210     esc.obj
+ 0001:00000218       ??_C@_1BA@KPBNLPCA@?$AAo?$AAn?$AAl?$AAy?$AAn?$AAe?$AAw?$AA?$AA@ 0000000180001218     esc.obj
+ 0001:00000228       ??_C@_17PJCLNILO@?$AAo?$AAc?$AAt?$AA?$AA@ 0000000180001228     esc.obj
+ 0001:00000230       ??_C@_17LPNGEIND@?$AAd?$AAe?$AAc?$AA?$AA@ 0000000180001230     esc.obj
+ 0001:00000238       ??_C@_17GPGBINAC@?$AAh?$AAe?$AAx?$AA?$AA@ 0000000180001238     esc.obj
+ 0001:00000240       ??_C@_1M@HMEDIDID@?$AAt?$AAa?$AAb?$AAl?$AAe?$AA?$AA@ 0000000180001240     esc.obj
+ 0001:00000250       ??_C@_1M@PGMOMFAA@?$AAp?$AA_?$AAe?$AAn?$AAd?$AA?$AA@ 0000000180001250     esc.obj
+ 0001:00000260       ??_C@_1BC@MODAJLEE@?$AAa?$AAu?$AAt?$AAo?$AAw?$AAr?$AAa?$AAp?$AA?$AA@ 0000000180001260     esc.obj
+ 0001:00000278       ??_C@_1BC@MBHDGJJP@?$AAq?$AAu?$AAo?$AAt?$AAe?$AAe?$AAo?$AAl?$AA?$AA@ 0000000180001278     esc.obj
+ 0001:00000290       ??_C@_1BE@JNFGPOMP@?$AAp?$AA_?$AAm?$AAi?$AAn?$AAu?$AAs?$AAe?$AAs?$AA?$AA@ 0000000180001290     esc.obj
+ 0001:000002a8       ??_C@_1BC@MPEOHOAL@?$AAl?$AAo?$AAc?$AAk?$AAm?$AAo?$AAd?$AAe?$AA?$AA@ 00000001800012a8     esc.obj
+ 0001:000002c0       ??_C@_1BE@LKFJIIAJ@?$AAt?$AAa?$AAb?$AAl?$AAe?$AAn?$AAa?$AAm?$AAe?$AA?$AA@ 00000001800012c0     esc.obj
+ 0001:000002d8       ??_C@_1BC@NHJNJOIN@?$AAs?$AAm?$AAa?$AAr?$AAt?$AAt?$AAa?$AAb?$AA?$AA@ 00000001800012d8     esc.obj
+ 0001:000002f0       ??_C@_1BA@ILCKAHLI@?$AAs?$AAm?$AAa?$AAr?$AAt?$AAb?$AAs?$AA?$AA@ 00000001800012f0     esc.obj
+ 0001:00000300       ??_C@_1M@GAFCBELB@?$AAl?$AAi?$AAn?$AAe?$AAs?$AA?$AA@ 0000000180001300     esc.obj
+ 0001:00000310       ??_C@_1BE@EMCMEJGI@?$AAs?$AAm?$AAa?$AAr?$AAt?$AAh?$AAo?$AAm?$AAe?$AA?$AA@ 0000000180001310     esc.obj
+ 0001:00000328       ??_C@_1BC@FKHIJLLJ@?$AAs?$AAk?$AAi?$AAp?$AAp?$AAa?$AAt?$AAh?$AA?$AA@ 0000000180001328     esc.obj
+ 0001:00000340       ??_C@_1BA@IHLCABGO@?$AAp?$AA_?$AAq?$AAu?$AAo?$AAt?$AAe?$AA?$AA@ 0000000180001340     esc.obj
+ 0001:00000350       ??_C@_1BC@HFBOIMLI@?$AAs?$AAt?$AAo?$AAp?$AAc?$AAh?$AAa?$AAr?$AA?$AA@ 0000000180001350     esc.obj
+ 0001:00000368       ??_C@_1BA@IMHLMHCM@?$AAi?$AAn?$AAh?$AAe?$AAr?$AAi?$AAt?$AA?$AA@ 0000000180001368     esc.obj
+ 0001:00000378       ??_C@_1BA@FPACGCNF@?$AAi?$AAn?$AAc?$AAl?$AAu?$AAd?$AAe?$AA?$AA@ 0000000180001378     esc.obj
+ 0001:00000388       ??_C@_1BA@CEPJBFFD@?$AAs?$AAa?$AAv?$AAe?$AAp?$AAo?$AAs?$AA?$AA@ 0000000180001388     esc.obj
+ 0001:00000398       ??_C@_1BC@MLIAEDNI@?$AAm?$AAi?$AAn?$AAl?$AAi?$AAn?$AAe?$AAs?$AA?$AA@ 0000000180001398     esc.obj
+ 0001:000003b0       ??_C@_1BE@KKDCIBLG@?$AAa?$AAd?$AAd?$AAs?$AAy?$AAm?$AAb?$AAo?$AAl?$AA?$AA@ 00000001800013b0     esc.obj
+ 0001:000003c8       ??_C@_1BC@HOEIHCFN@?$AAa?$AAd?$AAd?$AAs?$AAy?$AAm?$AA_?$AAs?$AA?$AA@ 00000001800013c8     esc.obj
+ 0001:000003e0       ??_C@_1BC@LDKHKBO@?$AAa?$AAd?$AAd?$AAs?$AAy?$AAm?$AA_?$AAe?$AA?$AA@ 00000001800013e0     esc.obj
+ 0001:000003f8       ??_C@_1BG@INPIHHNN@?$AAa?$AAd?$AAd?$AAs?$AAy?$AAm?$AA_?$AAs?$AA_?$AAb?$AA?$AA@ 00000001800013f8     esc.obj
+ 0001:00000410       ??_C@_1BG@DHCMEPHB@?$AAa?$AAd?$AAd?$AAs?$AAy?$AAm?$AA_?$AAe?$AA_?$AAb?$AA?$AA@ 0000000180001410     esc.obj
+ 0001:00000428       ??_C@_1M@JGKKHEFC@?$AAs?$AAt?$AAa?$AAr?$AAt?$AA?$AA@ 0000000180001428     esc.obj
+ 0001:00000438       ??_C@_17IEGMIADH@?$AAe?$AAn?$AAd?$AA?$AA@ 0000000180001438     esc.obj
+ 0001:00000440       ??_C@_1BA@BDIPOABN@?$AAs?$AAt?$AAa?$AAr?$AAt?$AA_?$AAb?$AA?$AA@ 0000000180001440     esc.obj
+ 0001:00000450       ??_C@_1M@MDKDDNKA@?$AAe?$AAn?$AAd?$AA_?$AAb?$AA?$AA@ 0000000180001450     esc.obj
+ 0001:00000460       ??_C@_1BC@BLDMCEB@?$AAf?$AAo?$AAr?$AAc?$AAe?$AAk?$AAe?$AAl?$AA?$AA@ 0000000180001460     esc.obj
+ 0001:00000478       ??_C@_1BE@IMIGGPGJ@?$AAu?$AAs?$AAe?$AAr?$AAm?$AAa?$AAc?$AAr?$AAo?$AA?$AA@ 0000000180001478     esc.obj
+ 0001:00000490       ??_C@_1M@HHDJNHPP@?$AAm?$AAa?$AAc?$AAr?$AAo?$AA?$AA@ 0000000180001490     esc.obj
+ 0001:000004a0       ??_C@_1O@DIHMNIPC@?$AAe?$AAn?$AAa?$AAb?$AAl?$AAe?$AA?$AA@ 00000001800014a0     esc.obj
+ 0001:000004b0       ??_C@_1BC@EDKMIKKG@?$AAs?$AAe?$AAq?$AAu?$AAe?$AAn?$AAc?$AAe?$AA?$AA@ 00000001800014b0     esc.obj
+ 0001:000004c8       ??_C@_1O@IIMCFFPP@?$AAs?$AAi?$AAl?$AAe?$AAn?$AAt?$AA?$AA@ 00000001800014c8     esc.obj
+ 0001:000004d8       ??_C@_1BE@EIPMHJAJ@?$AAs?$AAe?$AAl?$AAe?$AAc?$AAt?$AAi?$AAo?$AAn?$AA?$AA@ 00000001800014d8     esc.obj
+ 0001:000004f0       ??_C@_17FJFCONIE@?$AAk?$AAe?$AAy?$AA?$AA@ 00000001800014f0     esc.obj
+ 0001:000004f8       ??_C@_1O@LBJIHEFM@?$AAl?$AAc?$AAl?$AAi?$AAc?$AAk?$AA?$AA@ 00000001800014f8     esc.obj
+ 0001:00000508       ??_C@_1O@BMLBBNLA@?$AAr?$AAc?$AAl?$AAi?$AAc?$AAk?$AA?$AA@ 0000000180001508     esc.obj
+ 0001:00000518       ??_C@_1O@CMJHJFCK@?$AAm?$AAc?$AAl?$AAi?$AAc?$AAk?$AA?$AA@ 0000000180001518     esc.obj
+ 0001:00000528       ??_C@_1M@GJILOCJD@?$AAr?$AAc?$AAt?$AAr?$AAl?$AA?$AA@ 0000000180001528     esc.obj
+ 0001:00000538       ??_C@_1M@IMKCNMHB@?$AAl?$AAc?$AAt?$AAr?$AAl?$AA?$AA@ 0000000180001538     esc.obj
+ 0001:00000548       ??_C@_19GJODJKOD@?$AAr?$AAa?$AAl?$AAt?$AA?$AA@ 0000000180001548     esc.obj
+ 0001:00000558       ??_C@_19FAIECLLI@?$AAl?$AAa?$AAl?$AAt?$AA?$AA@ 0000000180001558     esc.obj
+ 0001:00000568       ??_C@_1M@OAJKEOAM@?$AAs?$AAh?$AAi?$AAf?$AAt?$AA?$AA@ 0000000180001568     esc.obj
+ 0001:00000578       ??_C@_1O@PPFFKCHG@?$AAs?$AAt?$AAr?$AAe?$AAa?$AAm?$AA?$AA@ 0000000180001578     esc.obj
+ 0001:00000588       ??_C@_1O@MEMGDIAN@?$AAc?$AAo?$AAl?$AAu?$AAm?$AAn?$AA?$AA@ 0000000180001588     esc.obj
+ 0001:00000598       ??_C@_1BC@BNJCAOBG@?$AAl?$AAo?$AAc?$AAk?$AAf?$AAi?$AAl?$AAe?$AA?$AA@ 0000000180001598     esc.obj
+ 0001:000005b0       ??_C@_19LLIMCLGL@?$AAs?$AAt?$AAo?$AAp?$AA?$AA@ 00000001800015b0     esc.obj
+ 0001:000005c0       ??_C@_1BA@DMFBJKNM@?$AAw?$AAo?$AAr?$AAd?$AAs?$AAy?$AAm?$AA?$AA@ 00000001800015c0     esc.obj
+ 0001:000005d0       ??_C@_1BC@KDMINHJE@?$AAa?$AAl?$AAp?$AAh?$AAa?$AAn?$AAu?$AAm?$AA?$AA@ 00000001800015d0     esc.obj
+ 0001:000005e8       ??_C@_1BG@HKHCAPGH@?$AAa?$AAd?$AAd?$AAi?$AAt?$AAi?$AAo?$AAn?$AAa?$AAl?$AA?$AA@ 00000001800015e8     esc.obj
+ 0001:00000600       ??_C@_1BC@HAFEJCBK@?$AAo?$AAv?$AAe?$AAr?$AAl?$AAo?$AAa?$AAd?$AA?$AA@ 0000000180001600     esc.obj
+ 0001:00000618       ??_C@_1BC@BPJKLFMI@?$AAo?$AAn?$AAc?$AAr?$AAe?$AAa?$AAt?$AAe?$AA?$AA@ 0000000180001618     esc.obj
+ 0001:00000630       ??_C@_1O@IAJCOILD@?$AAo?$AAn?$AAl?$AAo?$AAa?$AAd?$AA?$AA@ 0000000180001630     esc.obj
+ 0001:00000640       ??_C@_19DFBGMPLB@?$AAa?$AAu?$AAt?$AAo?$AA?$AA@ 0000000180001640     esc.obj
+ 0001:00000650       ??_C@_1O@HKAEHLII@?$AAm?$AAa?$AAr?$AAg?$AAi?$AAn?$AA?$AA@ 0000000180001650     esc.obj
+ 0001:00000660       ??_C@_1M@LOCFEACG@?$AAq?$AAu?$AAo?$AAt?$AAe?$AA?$AA@ 0000000180001660     esc.obj
+ 0001:00000670       ??_C@_17OAEAFMIL@?$AAt?$AAa?$AAb?$AA?$AA@ 0000000180001670     esc.obj
+ 0001:00000678       ??_C@_1M@KBCLFMHN@?$AAv?$AAa?$AAl?$AAu?$AAe?$AA?$AA@ 0000000180001678     esc.obj
+ 0001:00000688       ??_C@_1BC@GOIPCPIC@?$AAs?$AAm?$AAa?$AAr?$AAt?$AAk?$AAe?$AAy?$AA?$AA@ 0000000180001688     esc.obj
+ 0001:000006a0       ??_C@_1BE@PFFBBNJP@?$AAb?$AAa?$AAc?$AAk?$AAs?$AAp?$AAa?$AAc?$AAe?$AA?$AA@ 00000001800016a0     esc.obj
+ 0001:000006b8       ??_C@_19GPBMHKKP@?$AAh?$AAo?$AAm?$AAe?$AA?$AA@ 00000001800016b8     esc.obj
+ 0001:000006c8       ??_C@_19PEBAFEAE@?$AAk?$AAi?$AAl?$AAl?$AA?$AA@ 00000001800016c8     esc.obj
+ 0001:000006d8       ??_C@_1BO@CPNJLGCJ@?$AAs?$AAh?$AAo?$AAw?$AAw?$AAh?$AAi?$AAt?$AAe?$AAs?$AAp?$AAa?$AAc?$AAe?$AA?$AA@ 00000001800016d8     esc.obj
+ 0001:000006f8       ??_C@_17DIPNBFAB@?$AAb?$AAo?$AAm?$AA?$AA@ 00000001800016f8     esc.obj
+ 0001:00000700       MainGuid                   0000000180001700     esc.obj
+ 0001:00000710       ConfigureGuid              0000000180001710     esc.obj
+ 0001:00000720       IndicatorGuid              0000000180001720     esc.obj
+ 0001:00000730       MenuGuid                   0000000180001730     esc.obj
+ 0001:00000740       AllInOneMessageGuid        0000000180001740     esc.obj
+ 0001:00000750       FileErrorMessageGuid       0000000180001750     esc.obj
+ 0001:00000760       CfgErrorMessageGuid        0000000180001760     esc.obj
+ 0001:00000770       ??_C@_1M@NKFCFAOO@?$AA?$FL?$AAE?$AAS?$AAC?$AA?$FN?$AA?$AA@ 0000000180001770     esc.obj
+ 0001:00000780       ??_C@_1DE@DCAODJOP@?$AAE?$AAd?$AAi?$AAt?$AAo?$AAr?$AA?8?$AAs?$AA?5?$AAs?$AAe?$AAt?$AAt?$AAi?$AAn?$AAg?$AAs?$AA?5?$AAc?$AAh?$AAa?$AAn?$AAg?$AAe?$AAr?$AA?$AA@ 0000000180001780     esc.obj
+ 0001:000007c0       ??_C@_1GC@MPEDKIPK@?$AAI?$AAv?$AAa?$AAn?$AA?5?$AAS?$AAi?$AAn?$AAt?$AAy?$AAu?$AAr?$AAi?$AAn?$AA?0?$AA?5?$AAA?$AAl?$AAe?$AAx?$AA?5?$AAY?$AAa?$AAr?$AAo?$AAs?$AAl?$AAa?$AAv?$AAs?$AAk?$AAy@ 00000001800017c0     esc.obj
+ 0001:00000828       ??_C@_17HOBKDGNC@?$AAX?$AAM?$AAL?$AA?$AA@ 0000000180001828     esc.obj
+ 0001:00000830       ??_C@_1BM@BIBEANDP@?$AA?$CG?$AA?$CF?$AAc?$AA?4?$AA?5?$AA?$CF?$AA?$CK?$AAs?$AA?5?$CF?$AC?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 0000000180001830     esc.obj
+ 0001:00000850       ??_C@_1BI@PPIKLCPN@?$AA?5?$AA?5?$AA?5?$AA?$CF?$AA?$CK?$AAs?$AA?5?$CF?$AC?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 0000000180001850     esc.obj
+ 0001:00000868       ??_C@_1BA@MHOIMELM@?$AA?$CG?$AA?$CF?$AAc?$AA?4?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 0000000180001868     esc.obj
+ 0001:00000878       ??_C@_1M@ENLBIBJ@?$AA?5?$AA?5?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 0000000180001878     esc.obj
+ 0001:00000884       ??_C@_11LOCGONAA@?$AA?$AA@ 0000000180001884     esc.obj
+ 0001:00000890       __xmm@00000000000000000000000000000002 0000000180001890     esc.obj
+ 0001:000008a0       __xmm@00000000000000000000000000000003 00000001800018a0     esc.obj
+ 0001:000008b0       __xmm@00000000000000000000000000000004 00000001800018b0     esc.obj
+ 0001:000008c0       __xmm@00000000000000000000000000000005 00000001800018c0     esc.obj
+ 0001:000008d0       __xmm@00000000000000000000000000000006 00000001800018d0     esc.obj
+ 0001:000008e0       __xmm@00000000000000000000000000000007 00000001800018e0     esc.obj
+ 0001:000008f0       __xmm@00000000000000000000000000000008 00000001800018f0     esc.obj
+ 0001:00000900       __xmm@00000000000000000000000000000009 0000000180001900     esc.obj
+ 0001:00000910       __xmm@00000000000000470000000000000001 0000000180001910     esc.obj
+ 0001:00000920       ?maxTabSize@@3HB           0000000180001920     mix.obj
+ 0001:00000928       ??_7CXMLNode@@6B@          0000000180001928     mix.obj
+ 0001:00000930       ??_C@_15OMIKMFFN@?$AAr?$AAt?$AA?$AA@ 0000000180001930     mix.obj
+ 0001:00000938       ??_C@_13NEIAEHFG@?$AA?$CC?$AA?$AA@ 0000000180001938     mix.obj
+ 0001:00000940       ??_C@_1M@HBOPFADE@?$AA?1?$AAk?$AAe?$AAy?$AA?$DN?$AA?$AA@ 0000000180001940     mix.obj
+ 0001:0000094c       ??_C@_13CGOKJPIL@?$AA?1?$AA?$AA@ 000000018000194c     mix.obj
+ 0001:00000950       ??_C@_1BG@OLKJKKEP@?$AA?3?$AAa?$AAb?$AAs?$AAt?$AAr?$AAa?$AAc?$AAt?$AA?3?$AA?$AA@ 0000000180001950     mix.obj
+ 0001:00000968       ??_C@_17OBBFBLGE@?$AAr?$AAw?$AAa?$AA?$AA@ 0000000180001968     myrtl.obj
+ 0001:00000970       ??_C@_1BA@BBLONAFB@?$AAO?$AAp?$AAt?$AAi?$AAo?$AAn?$AAs?$AA?$AA@ 0000000180001970     SaveAndLoadConfig.obj
+ 0001:00000980       ??_C@_19EFLGDPMM@?$AAa?$AAm?$AAp?$AA?$DL?$AA?$AA@ 0000000180001980     xmlite.obj
+ 0001:00000990       ??_C@_17KKAAKFBF@?$AAl?$AAt?$AA?$DL?$AA?$AA@ 0000000180001990     xmlite.obj
+ 0001:00000998       ??_C@_17PHGKLJED@?$AAg?$AAt?$AA?$DL?$AA?$AA@ 0000000180001998     xmlite.obj
+ 0001:000009a0       ??_C@_1M@JFPHDILH@?$AAq?$AAu?$AAo?$AAt?$AA?$DL?$AA?$AA@ 00000001800019a0     xmlite.obj
+ 0001:000009b0       ??_C@_1M@GCMDCOLH@?$AAa?$AAp?$AAo?$AAs?$AA?$DL?$AA?$AA@ 00000001800019b0     xmlite.obj
+ 0001:000009c0       ??_C@_1BC@MONDEDNH@?$AA?$CB?$AA?$FL?$AAC?$AAD?$AAA?$AAT?$AAA?$AA?$FL?$AA?$AA@ 00000001800019c0     xmlite.obj
+ 0001:00000a70       __chkstk                   0000000180001a70 f   chkstk.obj
+ 0001:00000a70       _alloca_probe              0000000180001a70     chkstk.obj
+ 0001:00000ac0       ??1NODEDATA@@QEAA@XZ       0000000180001ac0 f i esc.obj
+ 0001:00000c00       ?CompEQ@@YAHAEBVEditorSettingsStorage@@0@Z 0000000180001c00 f   esc.obj
+ 0001:00000c10       ?CompLT@@YAHAEBVEditorSettingsStorage@@0@Z 0000000180001c10 f   esc.obj
+ 0001:00000c20       ?ConfigDlgProc@@YA_JPEAX_J10@Z 0000000180001c20 f   esc.obj
+ 0001:00000d20       ?DeleteTree@?$CRedBlackTree@UESCFileInfo@@@@AEAAXPEAU?$Node_@UESCFileInfo@@@@@Z 0000000180001d20 f i esc.obj
+ 0001:00000d80       ?DeleteTree@?$CRedBlackTree@VEditorSettingsStorage@@@@AEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 0000000180001d80 f i esc.obj
+ 0001:00000de0       ?DeleteTree@?$CRedBlackTree@VOneUserMacro@@@@AEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 0000000180001de0 f i esc.obj
+ 0001:00000e40       ?ESCFICompEQ@@YAHAEBUESCFileInfo@@0@Z 0000000180001e40 f   esc.obj
+ 0001:00000e60       ?ESCFICompLT@@YAHAEBUESCFileInfo@@0@Z 0000000180001e60 f   esc.obj
+ 0001:00000ea0       ?Empty@?$CRedBlackTree@UESCFileInfo@@@@QEAAXXZ 0000000180001ea0 f i esc.obj
+ 0001:00000f10       ?Empty@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXXZ 0000000180001f10 f i esc.obj
+ 0001:00000f80       ?Empty@?$CRedBlackTree@VOneUserMacro@@@@QEAAXXZ 0000000180001f80 f i esc.obj
+ 0001:00000ff0       ?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 0000000180001ff0 f i esc.obj
+ 0001:00001080       ?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 0000000180002080 f   esc.obj
+ 0001:00001250       ?On@CLockFile@@QEAAXPEB_W@Z 0000000180002250 f i esc.obj
+ 0001:00002f50       ?deleteFixup@?$CRedBlackTree@VEditorSettingsStorage@@@@AEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 0000000180003f50 f i esc.obj
+ 0001:00003290       ?deleteNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 0000000180004290 f i esc.obj
+ 0001:00003380       ?findNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 0000000180004380 f i esc.obj
+ 0001:00003410       ?insertFixup@?$CRedBlackTree@VEditorSettingsStorage@@@@AEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 0000000180004410 f i esc.obj
+ 0001:00003660       ?insertNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 0000000180004660 f i esc.obj
+ 0001:000037a0       ?removeToEnd@?$TList@VKeySequenceStorage@@@@QEAA_NXZ 00000001800047a0 f i esc.obj
+ 0001:00003860       CloneMacroW                0000000180004860 f   esc.obj
+ 0001:000038e0       ConfigureW                 00000001800048e0 f   esc.obj
+ 0001:00003f60       CreateMacroW               0000000180004f60 f   esc.obj
+ 0001:00003f70       CreateMultiMacroW          0000000180004f70 f   esc.obj
+ 0001:00004030       DeleteMacroW               0000000180005030 f   esc.obj
+ 0001:00004070       ExitFARW                   0000000180005070 f   esc.obj
+ 0001:00004140       FreeMem                    0000000180005140 f   esc.obj
+ 0001:000041a0       GetEditorSettingsW         00000001800051a0 f   esc.obj
+ 0001:000047d0       GetGlobalInfoW             00000001800057d0 f   esc.obj
+ 0001:00004850       GetPluginInfoW             0000000180005850 f   esc.obj
+ 0001:000048d0       IsMacroOKW                 00000001800058d0 f   esc.obj
+ 0001:000048e0       OpenW                      00000001800058e0 f   esc.obj
+ 0001:00004fe0       PostMacroW                 0000000180005fe0 f   esc.obj
+ 0001:00005030       ProcessEditorEventW        0000000180006030 f   esc.obj
+ 0001:00005050       ProcessEditorInputW        0000000180006050 f   esc.obj
+ 0001:00005060       SetEditorOptionW           0000000180006060 f   esc.obj
+ 0001:00005a20       SetStartupInfoW            0000000180006a20 f   esc.obj
+ 0001:00005da0       ??0CEditorOptions@@QEAA@AEBVNODEDATA@@@Z 0000000180006da0 f   CEditorOptions.obj
+ 0001:00005e00       ??1CEditorOptions@@QEAA@XZ 0000000180006e00 f   CEditorOptions.obj
+ 0001:00005e10       ?ApplyAllOptions@CEditorOptions@@QEAAXXZ 0000000180006e10 f   CEditorOptions.obj
+ 0001:00006100       ?ApplyOption@CEditorOptions@@QEAAHW4EDITOR_SETPARAMETER_TYPES@@@Z 0000000180007100 f   CEditorOptions.obj
+ 0001:000063b0       ?MakeWordDiv@CEditorOptions@@CAX_NPEB_WPEA_W@Z 00000001800073b0 f   CEditorOptions.obj
+ 0001:00006440       ??0CIndicator@@QEAA@PEB_W@Z 0000000180007440 f   CIndicator.obj
+ 0001:00006500       ?SetParams@CIndicator@@QEAAXPEB_W_J@Z 0000000180007500 f   CIndicator.obj
+ 0001:00006520       ?ShowFinal@CIndicator@@QEAAXXZ 0000000180007520 f   CIndicator.obj
+ 0001:000065e0       ?ShowProgress@CIndicator@@QEAAX_J@Z 00000001800075e0 f   CIndicator.obj
+ 0001:00006720       ?StartTimer@CIndicator@@QEAAXK@Z 0000000180007720 f   CIndicator.obj
+ 0001:00006790       ??0CUserMacros@@QEAA@XZ    0000000180007790 f   CUserMacros.obj
+ 0001:00006850       ??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 0000000180007850 f i CUserMacros.obj
+ 0001:00006960       ??4CUserMacros@@QEAAAEAV0@AEBV0@@Z 0000000180007960 f   CUserMacros.obj
+ 0001:00006990       ?CompEQ@CUserMacros@@CAHAEBVOneUserMacro@@0@Z 0000000180007990 f   CUserMacros.obj
+ 0001:000069d0       ?CompLT@CUserMacros@@CAHAEBVOneUserMacro@@0@Z 00000001800079d0 f   CUserMacros.obj
+ 0001:00006a20       ?Find@CUserMacros@@AEAAPEAU?$Node_@VOneUserMacro@@@@AEBVOneUserMacro@@@Z 0000000180007a20 f   CUserMacros.obj
+ 0001:00006b20       ?GetMacro@CUserMacros@@QEAAPEBUKeySequence@@AEBVUserMacroID@@AEAH@Z 0000000180007b20 f   CUserMacros.obj
+ 0001:00006bc0       ?InsertMacro@CUserMacros@@QEAA_NAEBVUserMacroID@@PEB_W_N2AEAHAEAVstrcon@@@Z 0000000180007bc0 f   CUserMacros.obj
+ 0001:00006d40       ?deleteFixup@?$CRedBlackTree@VOneUserMacro@@@@AEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 0000000180007d40 f i CUserMacros.obj
+ 0001:00007070       ?deleteNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 0000000180008070 f i CUserMacros.obj
+ 0001:00007160       ?insertFixup@?$CRedBlackTree@VOneUserMacro@@@@AEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 0000000180008160 f i CUserMacros.obj
+ 0001:00007390       ?insertNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAPEAU?$Node_@VOneUserMacro@@@@AEBVOneUserMacro@@@Z 0000000180008390 f i CUserMacros.obj
+ 0001:00007500       ??0NODEDATA@@QEAA@AEBV0@@Z 0000000180008500 f   e_options.obj
+ 0001:00007630       ??0NODEDATA@@QEAA@XZ       0000000180008630 f   e_options.obj
+ 0001:000077c0       ??4?$TList@VKeySequenceStorage@@@@QEAAAEAV0@AEBV0@@Z 00000001800087c0 f i e_options.obj
+ 0001:00007870       ??4NODEDATA@@QEAAAEAV0@AEBV0@@Z 0000000180008870 f   e_options.obj
+ 0001:00007a10       ??8NODEDATA@@QEBA_NAEBV0@@Z 0000000180008a10 f   e_options.obj
+ 0001:00007a20       ?Inherit@NODEDATA@@QEAAXAEAV1@@Z 0000000180008a20 f   e_options.obj
+ 0001:00007b50       ?push_back@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 0000000180008b50 f i e_options.obj
+ 0001:00007f20       hashAdd                    0000000180008f20 f   hash.obj
+ 0001:00007ff0       hashEnumKey                0000000180008ff0 f   hash.obj
+ 0001:000080a0       hashGet                    00000001800090a0 f   hash.obj
+ 0001:000080d0       hashGetEx                  00000001800090d0 f   hash.obj
+ 0001:00008100       hashNew                    0000000180009100 f   hash.obj
+ 0001:00008150       ??0KeySequenceStorage@@QEAA@PEB_W_NKH@Z 0000000180009150 f   KeySequenceStorage.obj
+ 0001:000081f0       ??4KeySequenceStorage@@QEAAAEAV0@AEBV0@@Z 00000001800091f0 f   KeySequenceStorage.obj
+ 0001:00008250       ?Copy@KeySequenceStorage@@AEAAXAEBV1@@Z 0000000180009250 f   KeySequenceStorage.obj
+ 0001:000082c0       ?Free@KeySequenceStorage@@QEAAXXZ 00000001800092c0 f   KeySequenceStorage.obj
+ 0001:00008300       ?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 0000000180009300 f   KeySequenceStorage.obj
+ 0001:00008460       ??_ECXMLNode@@UEAAPEAXI@Z  0000000180009460 f i mix.obj
+ 0001:00008460       ??_GCXMLNode@@UEAAPEAXI@Z  0000000180009460 f i mix.obj
+ 0001:000084e0       ?AddMacro@@YA_NAEAVCXMLNode@@AEAVNODEDATA@@AEAHAEAVstrcon@@@Z 00000001800094e0 f   mix.obj
+ 0001:000089a0       ?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 00000001800099a0 f   mix.obj
+ 0001:00008b50       ?IsFilesChanged@@YAHXZ     0000000180009b50 f   mix.obj
+ 0001:00008c70       ?IsSameQuote@@YAHPEB_W_K01@Z 0000000180009c70 f   mix.obj
+ 0001:00008cf0       ?MessageFileError@@YAXPEB_W0@Z 0000000180009cf0 f   mix.obj
+ 0001:00008da0       ?ParseFile@@YAHPEB_WAEAV?$CRedBlackTree@UESCFileInfo@@@@AEAV?$TArray@VNODEDATA@@@@_N@Z 0000000180009da0 f   mix.obj
+ 0001:0000b160       ?ParseFile@CXMLNode@@QEAAHPEB_W@Z 000000018000c160 f i mix.obj
+ 0001:0000b280       ?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 000000018000c280 f   mix.obj
+ 0001:0000b460       ?ShowCfgError@@YAXPEB_W0000@Z 000000018000c460 f   mix.obj
+ 0001:0000b5f0       ?deleteItem@?$TArray@VNODEDATA@@@@AEAA_NI@Z 000000018000c5f0 f i mix.obj
+ 0001:0000b660       ?insert@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 000000018000c660 f i mix.obj
+ 0001:0000b750       ?insertFixup@?$CRedBlackTree@UESCFileInfo@@@@AEAAXPEAU?$Node_@UESCFileInfo@@@@@Z 000000018000c750 f i mix.obj
+ 0001:0000b980       ?insertNode@?$CRedBlackTree@UESCFileInfo@@@@QEAAPEAU?$Node_@UESCFileInfo@@@@AEBUESCFileInfo@@@Z 000000018000c980 f i mix.obj
+ 0001:0000bab0       ?internalGetNext@?$CRedBlackTree@UESCFileInfo@@@@AEAAPEBUESCFileInfo@@PEBU?$Node_@UESCFileInfo@@@@@Z 000000018000cab0 f i mix.obj
+ 0001:0000bb30       ?setItem@?$TArray@VNODEDATA@@@@QEAAPEAVNODEDATA@@IAEBV2@@Z 000000018000cb30 f i mix.obj
+ 0001:0000bbd0       ?setSize@?$TArray@VNODEDATA@@@@QEAA_NI@Z 000000018000cbd0 f i mix.obj
+ 0001:0000bd20       ApplyEditorOptions         000000018000cd20 f   mix.obj
+ 0001:0000bdb0       CalcWrapPos                000000018000cdb0 f   mix.obj
+ 0001:0000be00       ChangeCoordX               000000018000ce00 f   mix.obj
+ 0001:0000bf20       ChangeEOL                  000000018000cf20 f   mix.obj
+ 0001:0000bfe0       CheckForEsc                000000018000cfe0 f   mix.obj
+ 0001:0000c0a0       CmpWithFileMask            000000018000d0a0 f   mix.obj
+ 0001:0000c110       EditorPostMacro            000000018000d110 f   mix.obj
+ 0001:0000c210       EditorUnmarkBlock          000000018000d210 f   mix.obj
+ 0001:0000c250       FARPostMacro               000000018000d250 f   mix.obj
+ 0001:0000c2a0       FarAllInOneMessage         000000018000d2a0 f   mix.obj
+ 0001:0000c2e0       FileExists                 000000018000d2e0 f   mix.obj
+ 0001:0000c310       FindCodeTable              000000018000d310 f   mix.obj
+ 0001:0000c320       GetMsg                     000000018000d320 f   mix.obj
+ 0001:0000c340       GetNextCoordX              000000018000d340 f   mix.obj
+ 0001:0000c610       GetPrevCoordX              000000018000d610 f   mix.obj
+ 0001:0000c790       GotoHome                   000000018000d790 f   mix.obj
+ 0001:0000c910       InitESPandEGS              000000018000d910 f   mix.obj
+ 0001:0000c960       InitNLS                    000000018000d960 f   mix.obj
+ 0001:0000c9b0       InsertAdditionalSymbol     000000018000d9b0 f   mix.obj
+ 0001:0000cc60       IsQuote                    000000018000dc60 f   mix.obj
+ 0001:0000ccd0       KillSpaces                 000000018000dcd0 f   mix.obj
+ 0001:0000cdd0       KillSpacesAndChangeEOL     000000018000ddd0 f   mix.obj
+ 0001:0000cf40       NormalizeControlState      000000018000df40 f   mix.obj
+ 0001:0000cf70       ProcessKeyDelete           000000018000df70 f   mix.obj
+ 0001:0000d0d0       ProcessKeyEnter            000000018000e0d0 f   mix.obj
+ 0001:0000d2a0       ReloadSettings             000000018000e2a0 f   mix.obj
+ 0001:0000d370       RestorePosition            000000018000e370 f   mix.obj
+ 0001:0000d3c0       TestCfgFiles               000000018000e3c0 f   mix.obj
+ 0001:0000d5a0       UnpackEOL                  000000018000e5a0 f   mix.obj
+ 0001:0000d5f0       fclose                     000000018000e5f0 f   myrtl.obj
+ 0001:0000d610       fread                      000000018000e610 f   myrtl.obj
+ 0001:0000d680       fseek                      000000018000e680 f   myrtl.obj
+ 0001:0000d6a0       ftell                      000000018000e6a0 f   myrtl.obj
+ 0001:0000d6c0       wfopen                     000000018000e6c0 f   myrtl.obj
+ 0001:0000d830       LoadGlobalConfig           000000018000e830 f   SaveAndLoadConfig.obj
+ 0001:0000d940       SaveGlobalConfig           000000018000e940 f   SaveAndLoadConfig.obj
+ 0001:0000da40       ??0strcon@@QEAA@PEB_WH@Z   000000018000ea40 f   strcon.obj
+ 0001:0000da60       ??0strcon@@QEAA@XZ         000000018000ea60 f   strcon.obj
+ 0001:0000da90       ??1strcon@@QEAA@XZ         000000018000ea90 f   strcon.obj
+ 0001:0000dac0       ??4strcon@@QEAAAEAV0@AEBV0@@Z 000000018000eac0 f   strcon.obj
+ 0001:0000daf0       ??4strcon@@QEAAAEAV0@PEB_W@Z 000000018000eaf0 f   strcon.obj
+ 0001:0000db30       ??8strcon@@QEBA_NAEBV0@@Z  000000018000eb30 f   strcon.obj
+ 0001:0000db60       ??8strcon@@QEBA_NPEB_W@Z   000000018000eb60 f   strcon.obj
+ 0001:0000db90       ?AddStr@strcon@@QEAAAEBV1@PEB_WH@Z 000000018000eb90 f   strcon.obj
+ 0001:0000dcb0       ?AddStrings@strcon@@QEAAAEBV1@PEB_WZZ 000000018000ecb0 f   strcon.obj
+ 0001:0000de10       ?setLength@strcon@@QEAA_NI@Z 000000018000ee10 f   strcon.obj
+ 0001:0000de30       ?setStr@strcon@@QEAAPEA_WPEB_WH@Z 000000018000ee30 f   strcon.obj
+ 0001:0000df20       tableAdd                   000000018000ef20 f   table.obj
+ 0001:0000e060       tableGet                   000000018000f060 f   table.obj
+ 0001:0000e0f0       tableNew                   000000018000f0f0 f   table.obj
+ 0001:0000e140       xalloc                     000000018000f140 f   xmem.obj
+ 0001:0000e1d0       xcalloc                    000000018000f1d0 f   xmem.obj
+ 0001:0000e210       xfree                      000000018000f210 f   xmem.obj
+ 0001:0000e210       ??1CIndicator@@QEAA@XZ     000000018000f210 f   CIndicator.obj
+ 0001:0000e220       xmemFreePool               000000018000f220 f   xmem.obj
+ 0001:0000e250       xmemNewPool                000000018000f250 f   xmem.obj
+ 0001:0000e290       xstrchr                    000000018000f290 f   xmem.obj
+ 0001:0000e2a0       xstrcmp                    000000018000f2a0 f   xmem.obj
+ 0001:0000e2d0       xstrdup                    000000018000f2d0 f   xmem.obj
+ 0001:0000e330       xstrlen                    000000018000f330 f   xmem.obj
+ 0001:0000e340       xstrncmp                   000000018000f340 f   xmem.obj
+ 0001:0000e370       xstrncpy                   000000018000f370 f   xmem.obj
+ 0001:0000e3c0       xstrndup                   000000018000f3c0 f   xmem.obj
+ 0001:0000e8a0       xmlEnumNode                000000018000f8a0 f   xmlite.obj
+ 0001:0000e8c0       xmlGetItem                 000000018000f8c0 f   xmlite.obj
+ 0001:0000e9a0       xmlGetItemAttr             000000018000f9a0 f   xmlite.obj
+ 0001:0000e9c0       xmlNew                     000000018000f9c0 f   xmlite.obj
+ 0001:0000e9e0       xmlParse                   000000018000f9e0 f   xmlite.obj
+ 0001:0000f078       ??2@YAPEAX_K@Z             0000000180010078 f   libCRT64:new.obj
+ 0001:0000f080       ??3@YAXPEAX@Z              0000000180010080 f   libCRT64:delete.obj
+ 0001:0000f088       free                       0000000180010088 f   libCRT64:free.obj
+ 0001:0000f0b0       malloc                     00000001800100b0 f   libCRT64:malloc.obj
+ 0001:0000f0d4       memcpy                     00000001800100d4 f   libCRT64:memcpy.obj
+ 0001:0000f0f4       memset                     00000001800100f4 f   libCRT64:memset.obj
+ 0001:0000f118       wcschr                     0000000180010118 f   libCRT64:strchr.obj
+ 0001:0000f134       wcsrchr                    0000000180010134 f   libCRT64:strrchr.obj
+ 0001:0000f160       memcmp                     0000000180010160 f   libCRT64:memcmp.obj
+ 0001:0000f184       wcspbrk                    0000000180010184 f   libCRT64:strpbrk.obj
+ 0001:0000f1bc       wcsncmp                    00000001800101bc f   libCRT64:strncmp.obj
+ 0001:0000f1e8       wcsncpy                    00000001800101e8 f   libCRT64:strncpy.obj
+ 0001:0000f3f8       wcstol                     00000001800103f8 f   libCRT64:strtol.obj
+ 0001:0001028c       __IMPORT_DESCRIPTOR_KERNEL32 000000018001128c     kernel32:KERNEL32.dll
+ 0001:000102a0       __NULL_IMPORT_DESCRIPTOR   00000001800112a0     kernel32:KERNEL32.dll
+ 0002:00000000       ?ei@@3UEditorInfo@@A       0000000180012000     esc.obj
+ 0002:00000098       ?egs@@3UEditorGetString@@A 0000000180012098     esc.obj
+ 0002:000000d0       ?esp@@3UEditorSetPosition@@A 00000001800120d0     esc.obj
+ 0002:00000108       ?ess@@3UEditorSetString@@A 0000000180012108     esc.obj
+ 0002:00000130       ?XMLStr@@3UXMLStrings@@A   0000000180012130     esc.obj
+ 0002:000003d0       ?IsOldFar@@3HA             00000001800123d0     esc.obj
+ 0002:000003d8       ?REGStrOptions@@3PEB_WEB   00000001800123d8     SaveAndLoadConfig.obj
+ 0002:000007e0       ?Opt@@3UOPTIONS@@A         00000001800127e0     esc.obj
+ 0002:000007ec       ?nlsSpace@@3_WA            00000001800127ec     esc.obj
+ 0002:000007f0       ?NodeData@@3PEAV?$TArray@VNODEDATA@@@@EA 00000001800127f0     esc.obj
+ 0002:000007f8       ?ESETStorage@@3PEAV?$CRedBlackTree@VEditorSettingsStorage@@@@EA 00000001800127f8     esc.obj
+ 0002:00000800       ?FileInfoTree@@3PEAV?$CRedBlackTree@UESCFileInfo@@@@EA 0000000180012800     esc.obj
+ 0002:00000808       ?nlsTab@@3_WA              0000000180012808     esc.obj
+ 0002:0000080c       ?nlsQuoteSym@@3_WA         000000018001280c     esc.obj
+ 0002:00000810       ?nlsMinus@@3_WA            0000000180012810     esc.obj
+ 0002:00000814       ?XMLLoadedOK@@3HA          0000000180012814     esc.obj
+ 0002:00000818       ?nlsStopChars@@3PEAVstrcon@@EA 0000000180012818     esc.obj
+ 0002:00000820       ?nlsStop@@3PA_WA           0000000180012820     esc.obj
+ 0002:000008a0       ?EditorControl@@3P6A_J_JW4EDITOR_CONTROL_COMMANDS@@0PEAX@ZEA 00000001800128a0     esc.obj
+ 0002:000008a8       ?FarMessage@@3P6A_JPEBU_GUID@@0_KPEB_WPEBQEB_W1_J@ZEA 00000001800128a8     esc.obj
+ 0002:000008b0       ?TruncPathStr@@3P6APEA_WPEA_W_J@ZEA 00000001800128b0     esc.obj
+ 0002:000008c0       ?FSF@@3UFarStandardFunctions@@A 00000001800128c0     esc.obj
+ 0002:00000a40       ?Info@@3UPluginStartupInfo@@A 0000000180012a40     esc.obj
+ 0002:00000b50       ?XMLFilePath@@3PA_WA       0000000180012b50     esc.obj
+ 0002:00000f80       ?Size@@3_JA                0000000180012f80     mix.obj
+ 0002:00000f88       ?prc_Minuses@@3_NA         0000000180012f88     mix.obj
+ 0002:00000f90       ?GLOBAL_EOL@@3PA_WA        0000000180012f90     mix.obj
+ 0002:00000fb0       ?empty@?1??Attr@CXMLNode@@QEAAPEB_WPEB_W@Z@4PA_WA 0000000180012fb0     mix.obj
+
+ entry point at        0000:00000000
+
+ Static symbols
+
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:fffea000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0001:00000a60       $$000000                   0000000180001a60     chkstk.obj
+ 0001:000012e0       ?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 00000001800022e0 f   esc.obj
+ 0001:000019f0       ?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 00000001800029f0 f   esc.obj
+ 0001:00006378       $LN38                      0000000180007378     CEditorOptions.obj
+ 0001:00007c10       ?hFindLink@@YAPEAUtag_HashLink@@PEAUtag_Hash@@PEB_W@Z 0000000180008c10 f   hash.obj
+ 0001:00007ce0       ?hFindLinkEx@@YAPEAUtag_HashLink@@PEAUtag_Hash@@PEB_WHPEAI@Z 0000000180008ce0 f   hash.obj
+ 0001:00007db0       ?hashResize@@YAXPEAUtag_Hash@@@Z 0000000180008db0 f   hash.obj
+ 0001:00007e70       ?hlnkNew@@YAPEAUtag_HashLink@@PEAXPEB_WPEBX@Z 0000000180008e70 f   hash.obj
+ 0001:0000e430       ?xmlParseTag@@YAHPEAXPEAUtag_XMLNode@@PEAPEAU1@PEA_WH@Z 000000018000f430 f   xmlite.obj
+ 0001:0000e610       ?xmlSkipSpace@@YAHPEA_WH@Z 000000018000f610 f   xmlite.obj
+ 0001:0000e650       ?xmlSubst@@YAPEA_WPEA_W@Z  000000018000f650 f   xmlite.obj
+ 0001:0000f230       ?strtoxl@@YAKPEB_WPEAPEA_WHH@Z 0000000180010230 f   libCRT64:strtol.obj
+ 0001:0000f400       $xdatasym                  0000000180010400     chkstk.obj
+ 0001:0000f408       $unwind$ConfigureW         0000000180010408     esc.obj
+ 0001:0000f424       $unwind$OpenW              0000000180010424     esc.obj
+ 0001:0000f42c       $chain$3$OpenW             000000018001042c     esc.obj
+ 0001:0000f44c       $chain$4$OpenW             000000018001044c     esc.obj
+ 0001:0000f460       $chain$7$OpenW             0000000180010460     esc.obj
+ 0001:0000f47c       $chain$8$OpenW             000000018001047c     esc.obj
+ 0001:0000f494       $chain$9$OpenW             0000000180010494     esc.obj
+ 0001:0000f4a8       $chain$10$OpenW            00000001800104a8     esc.obj
+ 0001:0000f4b8       $chain$11$OpenW            00000001800104b8     esc.obj
+ 0001:0000f4c8       $chain$0$?removeToEnd@?$TList@VKeySequenceStorage@@@@QEAA_NXZ 00000001800104c8     esc.obj
+ 0001:0000f4dc       $chain$1$?removeToEnd@?$TList@VKeySequenceStorage@@@@QEAA_NXZ 00000001800104dc     esc.obj
+ 0001:0000f4ec       $unwind$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 00000001800104ec     esc.obj
+ 0001:0000f4f8       $chain$3$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 00000001800104f8     esc.obj
+ 0001:0000f518       $chain$4$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 0000000180010518     esc.obj
+ 0001:0000f52c       $chain$5$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 000000018001052c     esc.obj
+ 0001:0000f53c       $chain$7$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 000000018001053c     esc.obj
+ 0001:0000f560       $unwind$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 0000000180010560     esc.obj
+ 0001:0000f56c       $chain$0$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 000000018001056c     esc.obj
+ 0001:0000f580       $chain$1$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 0000000180010580     esc.obj
+ 0001:0000f594       $chain$2$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 0000000180010594     esc.obj
+ 0001:0000f5a4       $chain$3$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 00000001800105a4     esc.obj
+ 0001:0000f5b4       $unwind$SetStartupInfoW    00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$?DeleteTree@?$CRedBlackTree@VOneUserMacro@@@@AEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$?hFindLinkEx@@YAPEAUtag_HashLink@@PEAUtag_Hash@@PEB_WHPEAI@Z 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$?Empty@?$CRedBlackTree@VOneUserMacro@@@@QEAAXXZ 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$?DeleteTree@?$CRedBlackTree@VEditorSettingsStorage@@@@AEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$?Empty@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXXZ 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$?DeleteTree@?$CRedBlackTree@UESCFileInfo@@@@AEAAXPEAU?$Node_@UESCFileInfo@@@@@Z 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$?Empty@?$CRedBlackTree@UESCFileInfo@@@@QEAAXXZ 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$CmpWithFileMask    00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$??0CIndicator@@QEAA@PEB_W@Z 00000001800105b4     esc.obj
+ 0001:0000f5b4       $unwind$??0NODEDATA@@QEAA@AEBV0@@Z 00000001800105b4     esc.obj
+ 0001:0000f5c4       $unwind$?findNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 00000001800105c4     esc.obj
+ 0001:0000f5dc       $unwind$?deleteNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 00000001800105dc     esc.obj
+ 0001:0000f5dc       $unwind$?deleteNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 00000001800105dc     esc.obj
+ 0001:0000f5e4       $chain$1$?deleteNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 00000001800105e4     esc.obj
+ 0001:0000f5fc       $chain$2$?deleteNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 00000001800105fc     esc.obj
+ 0001:0000f60c       $unwind$?insertNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 000000018001060c     esc.obj
+ 0001:0000f624       $chain$0$?insertNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 0000000180010624     esc.obj
+ 0001:0000f638       $chain$1$?insertNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 0000000180010638     esc.obj
+ 0001:0000f648       $unwind$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180010648     esc.obj
+ 0001:0000f658       $chain$2$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180010658     esc.obj
+ 0001:0000f674       $chain$3$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180010674     esc.obj
+ 0001:0000f688       $chain$4$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180010688     esc.obj
+ 0001:0000f698       $chain$5$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180010698     esc.obj
+ 0001:0000f6a8       $unwind$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 00000001800106a8     esc.obj
+ 0001:0000f6b4       $chain$5$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 00000001800106b4     esc.obj
+ 0001:0000f6dc       $chain$7$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 00000001800106dc     esc.obj
+ 0001:0000f704       $chain$8$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 0000000180010704     esc.obj
+ 0001:0000f714       $unwind$GetEditorSettingsW 0000000180010714     esc.obj
+ 0001:0000f724       $chain$1$GetEditorSettingsW 0000000180010724     esc.obj
+ 0001:0000f73c       $chain$2$GetEditorSettingsW 000000018001073c     esc.obj
+ 0001:0000f74c       $unwind$SetEditorOptionW   000000018001074c     esc.obj
+ 0001:0000f758       $chain$1$SetEditorOptionW  0000000180010758     esc.obj
+ 0001:0000f770       $chain$3$SetEditorOptionW  0000000180010770     esc.obj
+ 0001:0000f788       $chain$4$SetEditorOptionW  0000000180010788     esc.obj
+ 0001:0000f798       $chain$5$SetEditorOptionW  0000000180010798     esc.obj
+ 0001:0000f7a8       $unwind$CreateMultiMacroW  00000001800107a8     esc.obj
+ 0001:0000f7b8       $unwind$CloneMacroW        00000001800107b8     esc.obj
+ 0001:0000f7c4       $chain$0$DeleteMacroW      00000001800107c4     esc.obj
+ 0001:0000f7d8       $chain$1$DeleteMacroW      00000001800107d8     esc.obj
+ 0001:0000f7e8       $unwind$?ApplyAllOptions@CEditorOptions@@QEAAXXZ 00000001800107e8     CEditorOptions.obj
+ 0001:0000f7e8       $unwind$?ApplyOption@CEditorOptions@@QEAAHW4EDITOR_SETPARAMETER_TYPES@@@Z 00000001800107e8     CEditorOptions.obj
+ 0001:0000f7f8       $unwind$?ShowProgress@CIndicator@@QEAAX_J@Z 00000001800107f8     CIndicator.obj
+ 0001:0000f7f8       $unwind$?On@CLockFile@@QEAAXPEB_W@Z 00000001800107f8     CIndicator.obj
+ 0001:0000f804       $unwind$?ShowFinal@CIndicator@@QEAAXXZ 0000000180010804     CIndicator.obj
+ 0001:0000f80c       $unwind$??1NODEDATA@@QEAA@XZ 000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$hashNew            000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$??0CEditorOptions@@QEAA@AEBVNODEDATA@@@Z 000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$?StartTimer@CIndicator@@QEAAXK@Z 000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$?Copy@KeySequenceStorage@@AEAAXAEBV1@@Z 000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$??0NODEDATA@@QEAA@XZ 000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$??_GCXMLNode@@UEAAPEAXI@Z 000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$xcalloc            000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$xstrdup            000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$?Inherit@NODEDATA@@QEAAXAEAV1@@Z 000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$hashAdd            000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$tableNew           000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$ExitFARW           000000018001080c     CIndicator.obj
+ 0001:0000f80c       $unwind$??4KeySequenceStorage@@QEAAAEAV0@AEBV0@@Z 000000018001080c     CIndicator.obj
+ 0001:0000f818       $unwind$?InsertMacro@CUserMacros@@QEAA_NAEBVUserMacroID@@PEB_W_N2AEAHAEAVstrcon@@@Z 0000000180010818     CUserMacros.obj
+ 0001:0000f834       $unwind$?Find@CUserMacros@@AEAAPEAU?$Node_@VOneUserMacro@@@@AEBVOneUserMacro@@@Z 0000000180010834     CUserMacros.obj
+ 0001:0000f84c       $chain$0$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 000000018001084c     CUserMacros.obj
+ 0001:0000f860       $chain$1$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 0000000180010860     CUserMacros.obj
+ 0001:0000f870       $chain$2$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 0000000180010870     CUserMacros.obj
+ 0001:0000f884       $chain$1$?deleteNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 0000000180010884     CUserMacros.obj
+ 0001:0000f89c       $chain$2$?deleteNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 000000018001089c     CUserMacros.obj
+ 0001:0000f8ac       $unwind$?insertNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAPEAU?$Node_@VOneUserMacro@@@@AEBVOneUserMacro@@@Z 00000001800108ac     CUserMacros.obj
+ 0001:0000f8c8       $unwind$??4NODEDATA@@QEAAAEAV0@AEBV0@@Z 00000001800108c8     e_options.obj
+ 0001:0000f8d4       $chain$1$??4NODEDATA@@QEAAAEAV0@AEBV0@@Z 00000001800108d4     e_options.obj
+ 0001:0000f8ec       $chain$2$??4NODEDATA@@QEAAAEAV0@AEBV0@@Z 00000001800108ec     e_options.obj
+ 0001:0000f8fc       $unwind$?push_back@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 00000001800108fc     e_options.obj
+ 0001:0000f8fc       $unwind$??0CUserMacros@@QEAA@XZ 00000001800108fc     e_options.obj
+ 0001:0000f90c       $unwind$??4?$TList@VKeySequenceStorage@@@@QEAAAEAV0@AEBV0@@Z 000000018001090c     e_options.obj
+ 0001:0000f918       $chain$2$??4?$TList@VKeySequenceStorage@@@@QEAAAEAV0@AEBV0@@Z 0000000180010918     e_options.obj
+ 0001:0000f934       $chain$3$??4?$TList@VKeySequenceStorage@@@@QEAAAEAV0@AEBV0@@Z 0000000180010934     e_options.obj
+ 0001:0000f944       $unwind$hashEnumKey        0000000180010944     hash.obj
+ 0001:0000f950       $chain$0$hashEnumKey       0000000180010950     hash.obj
+ 0001:0000f964       $chain$2$hashEnumKey       0000000180010964     hash.obj
+ 0001:0000f964       $chain$4$hashEnumKey       0000000180010964     hash.obj
+ 0001:0000f978       $unwind$?hFindLink@@YAPEAUtag_HashLink@@PEAUtag_Hash@@PEB_W@Z 0000000180010978     hash.obj
+ 0001:0000f978       $unwind$?hlnkNew@@YAPEAUtag_HashLink@@PEAXPEB_WPEBX@Z 0000000180010978     hash.obj
+ 0001:0000f98c       $unwind$??0KeySequenceStorage@@QEAA@PEB_W_NKH@Z 000000018001098c     KeySequenceStorage.obj
+ 0001:0000f9a0       $unwind$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 00000001800109a0     KeySequenceStorage.obj
+ 0001:0000f9b4       $chain$0$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 00000001800109b4     KeySequenceStorage.obj
+ 0001:0000f9c8       $chain$1$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 00000001800109c8     KeySequenceStorage.obj
+ 0001:0000f9dc       $chain$2$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 00000001800109dc     KeySequenceStorage.obj
+ 0001:0000f9ec       $chain$4$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 00000001800109ec     KeySequenceStorage.obj
+ 0001:0000fa00       $chain$5$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 0000000180010a00     KeySequenceStorage.obj
+ 0001:0000fa10       $unwind$?insert@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 0000000180010a10     mix.obj
+ 0001:0000fa1c       $chain$0$?insert@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 0000000180010a1c     mix.obj
+ 0001:0000fa30       $chain$2$?insert@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 0000000180010a30     mix.obj
+ 0001:0000fa44       $unwind$FARPostMacro       0000000180010a44     mix.obj
+ 0001:0000fa4c       $unwind$EditorUnmarkBlock  0000000180010a4c     mix.obj
+ 0001:0000fa54       $unwind$EditorPostMacro    0000000180010a54     mix.obj
+ 0001:0000fa68       $unwind$TestCfgFiles       0000000180010a68     mix.obj
+ 0001:0000fa78       $chain$0$TestCfgFiles      0000000180010a78     mix.obj
+ 0001:0000fa8c       $chain$1$TestCfgFiles      0000000180010a8c     mix.obj
+ 0001:0000faa0       $chain$2$TestCfgFiles      0000000180010aa0     mix.obj
+ 0001:0000fab0       $chain$3$TestCfgFiles      0000000180010ab0     mix.obj
+ 0001:0000fac0       $unwind$ProcessKeyEnter    0000000180010ac0     mix.obj
+ 0001:0000fad0       $chain$1$ProcessKeyEnter   0000000180010ad0     mix.obj
+ 0001:0000fae8       $chain$2$ProcessKeyEnter   0000000180010ae8     mix.obj
+ 0001:0000fafc       $chain$3$ProcessKeyEnter   0000000180010afc     mix.obj
+ 0001:0000fb0c       $chain$5$ProcessKeyEnter   0000000180010b0c     mix.obj
+ 0001:0000fb28       $unwind$ProcessKeyDelete   0000000180010b28     mix.obj
+ 0001:0000fb34       $chain$0$ProcessKeyDelete  0000000180010b34     mix.obj
+ 0001:0000fb48       $chain$2$ProcessKeyDelete  0000000180010b48     mix.obj
+ 0001:0000fb5c       $chain$5$ProcessKeyDelete  0000000180010b5c     mix.obj
+ 0001:0000fb78       $chain$6$ProcessKeyDelete  0000000180010b78     mix.obj
+ 0001:0000fb8c       $unwind$CheckForEsc        0000000180010b8c     mix.obj
+ 0001:0000fb98       $unwind$ChangeCoordX       0000000180010b98     mix.obj
+ 0001:0000fba8       $unwind$GetPrevCoordX      0000000180010ba8     mix.obj
+ 0001:0000fbc0       $chain$0$GetPrevCoordX     0000000180010bc0     mix.obj
+ 0001:0000fbd4       $chain$1$GetPrevCoordX     0000000180010bd4     mix.obj
+ 0001:0000fbe4       $unwind$FarAllInOneMessage 0000000180010be4     mix.obj
+ 0001:0000fbe4       $unwind$PostMacroW         0000000180010be4     mix.obj
+ 0001:0000fbec       $unwind$KillSpacesAndChangeEOL 0000000180010bec     mix.obj
+ 0001:0000fbf8       $chain$0$ChangeEOL         0000000180010bf8     mix.obj
+ 0001:0000fc0c       $chain$2$ChangeEOL         0000000180010c0c     mix.obj
+ 0001:0000fc20       $chain$3$ChangeEOL         0000000180010c20     mix.obj
+ 0001:0000fc30       $unwind$?IsSameQuote@@YAHPEB_W_K01@Z 0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$ChangeEOL          0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$KillSpaces         0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$xstrcmp            0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$xmemFreePool       0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$ReloadSettings     0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$?ESCFICompEQ@@YAHAEBUESCFileInfo@@0@Z 0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$?ESCFICompLT@@YAHAEBUESCFileInfo@@0@Z 0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$FileExists         0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$??8strcon@@QEBA_NPEB_W@Z 0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$??8strcon@@QEBA_NAEBV0@@Z 0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$xstrncmp           0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$xmlNew             0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$hashGetEx          0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$hashGet            0000000180010c30     mix.obj
+ 0001:0000fc30       $unwind$fseek              0000000180010c30     mix.obj
+ 0001:0000fc38       $unwind$ApplyEditorOptions 0000000180010c38     mix.obj
+ 0001:0000fc4c       $unwind$InsertAdditionalSymbol 0000000180010c4c     mix.obj
+ 0001:0000fc64       $chain$0$InsertAdditionalSymbol 0000000180010c64     mix.obj
+ 0001:0000fc78       $chain$1$InsertAdditionalSymbol 0000000180010c78     mix.obj
+ 0001:0000fc88       $unwind$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 0000000180010c88     mix.obj
+ 0001:0000fca0       $chain$4$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 0000000180010ca0     mix.obj
+ 0001:0000fcb8       $chain$5$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 0000000180010cb8     mix.obj
+ 0001:0000fccc       $chain$6$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 0000000180010ccc     mix.obj
+ 0001:0000fcdc       $unwind$?MessageFileError@@YAXPEB_W0@Z 0000000180010cdc     mix.obj
+ 0001:0000fce4       $unwind$?IsFilesChanged@@YAHXZ 0000000180010ce4     mix.obj
+ 0001:0000fcec       $chain$0$?IsFilesChanged@@YAHXZ 0000000180010cec     mix.obj
+ 0001:0000fd00       $chain$3$?IsFilesChanged@@YAHXZ 0000000180010d00     mix.obj
+ 0001:0000fd18       $chain$4$?IsFilesChanged@@YAHXZ 0000000180010d18     mix.obj
+ 0001:0000fd28       $unwind$?insertNode@?$CRedBlackTree@UESCFileInfo@@@@QEAAPEAU?$Node_@UESCFileInfo@@@@AEBUESCFileInfo@@@Z 0000000180010d28     mix.obj
+ 0001:0000fd40       $unwind$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 0000000180010d40     mix.obj
+ 0001:0000fd50       $chain$0$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 0000000180010d50     mix.obj
+ 0001:0000fd64       $chain$1$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 0000000180010d64     mix.obj
+ 0001:0000fd78       $chain$2$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 0000000180010d78     mix.obj
+ 0001:0000fd8c       $chain$3$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 0000000180010d8c     mix.obj
+ 0001:0000fd9c       $chain$4$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 0000000180010d9c     mix.obj
+ 0001:0000fdac       $chain$5$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 0000000180010dac     mix.obj
+ 0001:0000fdbc       $unwind$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010dbc     mix.obj
+ 0001:0000fdc8       $chain$1$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010dc8     mix.obj
+ 0001:0000fde0       $chain$3$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010de0     mix.obj
+ 0001:0000fdf8       $chain$4$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010df8     mix.obj
+ 0001:0000fe0c       $chain$5$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010e0c     mix.obj
+ 0001:0000fe1c       $chain$6$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010e1c     mix.obj
+ 0001:0000fe30       $chain$7$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010e30     mix.obj
+ 0001:0000fe44       $chain$8$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180010e44     mix.obj
+ 0001:0000fe54       $unwind$?AddMacro@@YA_NAEAVCXMLNode@@AEAVNODEDATA@@AEAHAEAVstrcon@@@Z 0000000180010e54     mix.obj
+ 0001:0000fe74       $unwind$?ShowCfgError@@YAXPEB_W0000@Z 0000000180010e74     mix.obj
+ 0001:0000fe88       $unwind$?ParseFile@@YAHPEB_WAEAV?$CRedBlackTree@UESCFileInfo@@@@AEAV?$TArray@VNODEDATA@@@@_N@Z 0000000180010e88     mix.obj
+ 0001:0000fe9c       $chain$1$?deleteItem@?$TArray@VNODEDATA@@@@AEAA_NI@Z 0000000180010e9c     mix.obj
+ 0001:0000feb4       $chain$2$?deleteItem@?$TArray@VNODEDATA@@@@AEAA_NI@Z 0000000180010eb4     mix.obj
+ 0001:0000fec4       $unwind$?setSize@?$TArray@VNODEDATA@@@@QEAA_NI@Z 0000000180010ec4     mix.obj
+ 0001:0000fed8       $chain$0$?setSize@?$TArray@VNODEDATA@@@@QEAA_NI@Z 0000000180010ed8     mix.obj
+ 0001:0000feec       $chain$1$?setSize@?$TArray@VNODEDATA@@@@QEAA_NI@Z 0000000180010eec     mix.obj
+ 0001:0000fefc       $unwind$?hashResize@@YAXPEAUtag_Hash@@@Z 0000000180010efc     mix.obj
+ 0001:0000fefc       $unwind$?setItem@?$TArray@VNODEDATA@@@@QEAAPEAVNODEDATA@@IAEBV2@@Z 0000000180010efc     mix.obj
+ 0001:0000fefc       $unwind$?MakeWordDiv@CEditorOptions@@CAX_NPEB_WPEA_W@Z 0000000180010efc     mix.obj
+ 0001:0000fefc       $unwind$GetNextCoordX      0000000180010efc     mix.obj
+ 0001:0000ff10       $unwind$wfopen             0000000180010f10     myrtl.obj
+ 0001:0000ff1c       $chain$0$wfopen            0000000180010f1c     myrtl.obj
+ 0001:0000ff30       $chain$4$wfopen            0000000180010f30     myrtl.obj
+ 0001:0000ff50       $chain$5$wfopen            0000000180010f50     myrtl.obj
+ 0001:0000ff64       $chain$7$wfopen            0000000180010f64     myrtl.obj
+ 0001:0000ff7c       $unwind$fread              0000000180010f7c     myrtl.obj
+ 0001:0000ff88       $unwind$?GetMacro@CUserMacros@@QEAAPEBUKeySequence@@AEBVUserMacroID@@AEAH@Z 0000000180010f88     SaveAndLoadConfig.obj
+ 0001:0000ff88       $unwind$LoadGlobalConfig   0000000180010f88     SaveAndLoadConfig.obj
+ 0001:0000ff94       $unwind$SaveGlobalConfig   0000000180010f94     SaveAndLoadConfig.obj
+ 0001:0000ffa4       $unwind$FreeMem            0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$GotoHome           0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$GetPluginInfoW     0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$?removeToEnd@?$TList@VKeySequenceStorage@@@@QEAA_NXZ 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$?deleteItem@?$TArray@VNODEDATA@@@@AEAA_NI@Z 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$malloc             0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$?Free@KeySequenceStorage@@QEAAXXZ 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$xmemNewPool        0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$?ConfigDlgProc@@YA_JPEAX_J10@Z 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$??0strcon@@QEAA@PEB_WH@Z 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$??0strcon@@QEAA@XZ 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$??1strcon@@QEAA@XZ 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$??4strcon@@QEAAAEAV0@AEBV0@@Z 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$??4strcon@@QEAAAEAV0@PEB_W@Z 0000000180010fa4     strcon.obj
+ 0001:0000ffa4       $unwind$??4CUserMacros@@QEAAAEAV0@AEBV0@@Z 0000000180010fa4     strcon.obj
+ 0001:0000ffac       $unwind$?AddStr@strcon@@QEAAAEBV1@PEB_WH@Z 0000000180010fac     strcon.obj
+ 0001:0000ffbc       $unwind$?AddStrings@strcon@@QEAAAEBV1@PEB_WZZ 0000000180010fbc     strcon.obj
+ 0001:0000ffc8       $chain$4$?AddStrings@strcon@@QEAAAEBV1@PEB_WZZ 0000000180010fc8     strcon.obj
+ 0001:0000ffec       $chain$5$?AddStrings@strcon@@QEAAAEBV1@PEB_WZZ 0000000180010fec     strcon.obj
+ 0001:0000fffc       $unwind$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 0000000180010ffc     strcon.obj
+ 0001:0001000c       $chain$1$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 000000018001100c     strcon.obj
+ 0001:00010024       $chain$3$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 0000000180011024     strcon.obj
+ 0001:0001003c       $chain$4$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 000000018001103c     strcon.obj
+ 0001:0001004c       $unwind$tableAdd           000000018001104c     table.obj
+ 0001:00010058       $chain$1$tableAdd          0000000180011058     table.obj
+ 0001:00010070       $chain$3$tableAdd          0000000180011070     table.obj
+ 0001:00010088       $chain$4$tableAdd          0000000180011088     table.obj
+ 0001:00010098       $chain$5$tableAdd          0000000180011098     table.obj
+ 0001:000100ac       $chain$6$tableAdd          00000001800110ac     table.obj
+ 0001:000100bc       $unwind$tableGet           00000001800110bc     table.obj
+ 0001:000100d0       $chain$0$xmemFreePool      00000001800110d0     xmem.obj
+ 0001:000100e4       $chain$1$xmemFreePool      00000001800110e4     xmem.obj
+ 0001:000100f4       $unwind$xalloc             00000001800110f4     xmem.obj
+ 0001:00010104       $unwind$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 0000000180011104     xmem.obj
+ 0001:00010104       $unwind$xstrndup           0000000180011104     xmem.obj
+ 0001:00010110       $chain$0$xstrndup          0000000180011110     xmem.obj
+ 0001:00010124       $chain$1$xstrndup          0000000180011124     xmem.obj
+ 0001:00010134       $unwind$xstrncpy           0000000180011134     xmem.obj
+ 0001:0001013c       $chain$0$xstrncpy          000000018001113c     xmem.obj
+ 0001:00010150       $chain$1$xstrncpy          0000000180011150     xmem.obj
+ 0001:00010160       $unwind$xmlParse           0000000180011160     xmlite.obj
+ 0001:00010170       $chain$3$xmlParse          0000000180011170     xmlite.obj
+ 0001:00010190       $chain$5$xmlParse          0000000180011190     xmlite.obj
+ 0001:000101b0       $unwind$xmlGetItem         00000001800111b0     xmlite.obj
+ 0001:000101bc       $chain$0$xmlGetItem        00000001800111bc     xmlite.obj
+ 0001:000101d0       $chain$2$xmlGetItem        00000001800111d0     xmlite.obj
+ 0001:000101e4       $unwind$?xmlSubst@@YAPEA_WPEA_W@Z 00000001800111e4     xmlite.obj
+ 0001:000101f0       $chain$4$?xmlSubst@@YAPEA_WPEA_W@Z 00000001800111f0     xmlite.obj
+ 0001:00010214       $chain$5$?xmlSubst@@YAPEA_WPEA_W@Z 0000000180011214     xmlite.obj
+ 0001:00010224       $chain$6$?xmlSubst@@YAPEA_WPEA_W@Z 0000000180011224     xmlite.obj
+ 0001:00010248       $unwind$?xmlParseTag@@YAHPEAXPEAUtag_XMLNode@@PEAPEAU1@PEA_WH@Z 0000000180011248     xmlite.obj
+ 0001:00010264       $unwind$free               0000000180011264     libCRT64:free.obj
+ 0001:00010264       $unwind$DeleteMacroW       0000000180011264     libCRT64:free.obj
+ 0001:0001026c       $unwind$wcsncpy            000000018001126c     libCRT64:strncpy.obj
+ 0001:0001026c       $unwind$memset             000000018001126c     libCRT64:strncpy.obj
+ 0001:00010274       $unwind$?strtoxl@@YAKPEB_WPEAPEA_WHH@Z 0000000180011274     libCRT64:strtol.obj
+ 0001:0001048e       .idata$6                   000000018001148e     kernel32:KERNEL32.dll
+ 0001:000104a0       .edata                     00000001800114a0     esc.exp
+ 0001:000104c8       rgpv                       00000001800114c8     esc.exp
+ 0001:00010504       rgszName                   0000000180011504     esc.exp
+ 0001:00010540       rgwOrd                     0000000180011540     esc.exp
+ 0001:0001055e       szName                     000000018001155e     esc.exp
+ 0001:00010566       $N00001                    0000000180011566     esc.exp
+ 0001:00010572       $N00002                    0000000180011572     esc.exp
+ 0001:0001057d       $N00003                    000000018001157d     esc.exp
+ 0001:0001058a       $N00004                    000000018001158a     esc.exp
+ 0001:00010597       $N00005                    0000000180011597     esc.exp
+ 0001:000105a0       $N00006                    00000001800115a0     esc.exp
+ 0001:000105b3       $N00007                    00000001800115b3     esc.exp
+ 0001:000105c2       $N00008                    00000001800115c2     esc.exp
+ 0001:000105d1       $N00009                    00000001800115d1     esc.exp
+ 0001:000105dc       $N00010                    00000001800115dc     esc.exp
+ 0001:000105e2       $N00011                    00000001800115e2     esc.exp
+ 0001:000105ed       $N00012                    00000001800115ed     esc.exp
+ 0001:00010601       $N00013                    0000000180011601     esc.exp
+ 0001:00010615       $N00014                    0000000180011615     esc.exp
+ 0001:00010626       $N00015                    0000000180011626     esc.exp
+ 0002:000003e0       x_wc                       00000001800123e0     xmlite.obj
+ 0002:000005e0       x_toquot                   00000001800125e0     xmlite.obj
+ 0002:00000d58       ?PluginConfigStrings@?3??GetPluginInfoW@@9@4PAPEA_WA 0000000180012d58     esc.obj
+ 0002:00000d60       ?PluginMenuStrings@?3??GetPluginInfoW@@9@4PAPEA_WA 0000000180012d60     esc.obj
+ 0002:00000d68       ?isReenter@?1??ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z@4HA 0000000180012d68     esc.obj
+ 0002:00000d6c       ?Lines@?1??ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z@4HA 0000000180012d6c     esc.obj
+ 0002:00000d70       ?RetCode@?1??ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z@4HA 0000000180012d70     esc.obj
+ 0002:00000d78       ?CoordX@?1??ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z@4_JA 0000000180012d78     esc.obj
+ 0002:00000d80       ?WordDiv@?CB@??ApplyOption@CEditorOptions@@QEAAHW4EDITOR_SETPARAMETER_TYPES@@@Z@4PA_WA 0000000180012d80     CEditorOptions.obj
+ 0002:00000fb8       ?hConInp@?1??CheckForEsc@@9@4PEAXEA 0000000180012fb8     mix.obj
+ 0002:00000fc0       ?$S1@?1??CheckForEsc@@9@4IA 0000000180012fc0     mix.obj
+ 0003:0000000c       $pdata$??1NODEDATA@@QEAA@XZ 000000018001300c     esc.obj
+ 0003:00000018       $pdata$?ConfigDlgProc@@YA_JPEAX_J10@Z 0000000180013018     esc.obj
+ 0003:00000024       $pdata$?DeleteTree@?$CRedBlackTree@UESCFileInfo@@@@AEAAXPEAU?$Node_@UESCFileInfo@@@@@Z 0000000180013024     esc.obj
+ 0003:00000030       $pdata$?DeleteTree@?$CRedBlackTree@VEditorSettingsStorage@@@@AEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 0000000180013030     esc.obj
+ 0003:0000003c       $pdata$?DeleteTree@?$CRedBlackTree@VOneUserMacro@@@@AEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 000000018001303c     esc.obj
+ 0003:00000048       $pdata$?ESCFICompEQ@@YAHAEBUESCFileInfo@@0@Z 0000000180013048     esc.obj
+ 0003:00000054       $pdata$?ESCFICompLT@@YAHAEBUESCFileInfo@@0@Z 0000000180013054     esc.obj
+ 0003:00000060       $pdata$?Empty@?$CRedBlackTree@UESCFileInfo@@@@QEAAXXZ 0000000180013060     esc.obj
+ 0003:0000006c       $pdata$?Empty@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXXZ 000000018001306c     esc.obj
+ 0003:00000078       $pdata$?Empty@?$CRedBlackTree@VOneUserMacro@@@@QEAAXXZ 0000000180013078     esc.obj
+ 0003:00000084       $pdata$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 0000000180013084     esc.obj
+ 0003:00000090       $pdata$0$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 0000000180013090     esc.obj
+ 0003:0000009c       $pdata$1$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 000000018001309c     esc.obj
+ 0003:000000a8       $pdata$2$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 00000001800130a8     esc.obj
+ 0003:000000b4       $pdata$3$?Free@?$TArray@VNODEDATA@@@@QEAAXXZ 00000001800130b4     esc.obj
+ 0003:000000c0       $pdata$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 00000001800130c0     esc.obj
+ 0003:000000cc       $pdata$3$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 00000001800130cc     esc.obj
+ 0003:000000d8       $pdata$4$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 00000001800130d8     esc.obj
+ 0003:000000e4       $pdata$5$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 00000001800130e4     esc.obj
+ 0003:000000f0       $pdata$7$?InitSetsTree@@YAHAEBUEditorInfo@@PEB_W@Z 00000001800130f0     esc.obj
+ 0003:000000fc       $pdata$?On@CLockFile@@QEAAXPEB_W@Z 00000001800130fc     esc.obj
+ 0003:00000108       $pdata$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180013108     esc.obj
+ 0003:00000114       $pdata$2$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180013114     esc.obj
+ 0003:00000120       $pdata$3$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180013120     esc.obj
+ 0003:0000012c       $pdata$4$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 000000018001312c     esc.obj
+ 0003:00000138       $pdata$5$?ProcessEditorEventInternal@@YA_J_JPEAX0@Z 0000000180013138     esc.obj
+ 0003:00000144       $pdata$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 0000000180013144     esc.obj
+ 0003:00000150       $pdata$5$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 0000000180013150     esc.obj
+ 0003:0000015c       $pdata$7$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 000000018001315c     esc.obj
+ 0003:00000168       $pdata$8$?ProcessEditorInputInternal@@YA_JPEBU_INPUT_RECORD@@@Z 0000000180013168     esc.obj
+ 0003:00000174       $pdata$?deleteNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 0000000180013174     esc.obj
+ 0003:00000180       $pdata$1$?deleteNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 0000000180013180     esc.obj
+ 0003:0000018c       $pdata$2$?deleteNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAXPEAU?$Node_@VEditorSettingsStorage@@@@@Z 000000018001318c     esc.obj
+ 0003:00000198       $pdata$?findNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 0000000180013198     esc.obj
+ 0003:000001a4       $pdata$?insertNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 00000001800131a4     esc.obj
+ 0003:000001b0       $pdata$0$?insertNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 00000001800131b0     esc.obj
+ 0003:000001bc       $pdata$1$?insertNode@?$CRedBlackTree@VEditorSettingsStorage@@@@QEAAPEAU?$Node_@VEditorSettingsStorage@@@@AEBVEditorSettingsStorage@@@Z 00000001800131bc     esc.obj
+ 0003:000001c8       $pdata$?removeToEnd@?$TList@VKeySequenceStorage@@@@QEAA_NXZ 00000001800131c8     esc.obj
+ 0003:000001d4       $pdata$0$?removeToEnd@?$TList@VKeySequenceStorage@@@@QEAA_NXZ 00000001800131d4     esc.obj
+ 0003:000001e0       $pdata$1$?removeToEnd@?$TList@VKeySequenceStorage@@@@QEAA_NXZ 00000001800131e0     esc.obj
+ 0003:000001ec       $pdata$CloneMacroW         00000001800131ec     esc.obj
+ 0003:000001f8       $pdata$ConfigureW          00000001800131f8     esc.obj
+ 0003:00000204       $pdata$CreateMultiMacroW   0000000180013204     esc.obj
+ 0003:00000210       $pdata$DeleteMacroW        0000000180013210     esc.obj
+ 0003:0000021c       $pdata$0$DeleteMacroW      000000018001321c     esc.obj
+ 0003:00000228       $pdata$1$DeleteMacroW      0000000180013228     esc.obj
+ 0003:00000234       $pdata$ExitFARW            0000000180013234     esc.obj
+ 0003:00000240       $pdata$FreeMem             0000000180013240     esc.obj
+ 0003:0000024c       $pdata$GetEditorSettingsW  000000018001324c     esc.obj
+ 0003:00000258       $pdata$1$GetEditorSettingsW 0000000180013258     esc.obj
+ 0003:00000264       $pdata$2$GetEditorSettingsW 0000000180013264     esc.obj
+ 0003:00000270       $pdata$GetPluginInfoW      0000000180013270     esc.obj
+ 0003:0000027c       $pdata$OpenW               000000018001327c     esc.obj
+ 0003:00000288       $pdata$3$OpenW             0000000180013288     esc.obj
+ 0003:00000294       $pdata$4$OpenW             0000000180013294     esc.obj
+ 0003:000002a0       $pdata$7$OpenW             00000001800132a0     esc.obj
+ 0003:000002ac       $pdata$8$OpenW             00000001800132ac     esc.obj
+ 0003:000002b8       $pdata$9$OpenW             00000001800132b8     esc.obj
+ 0003:000002c4       $pdata$10$OpenW            00000001800132c4     esc.obj
+ 0003:000002d0       $pdata$11$OpenW            00000001800132d0     esc.obj
+ 0003:000002dc       $pdata$PostMacroW          00000001800132dc     esc.obj
+ 0003:000002e8       $pdata$SetEditorOptionW    00000001800132e8     esc.obj
+ 0003:000002f4       $pdata$1$SetEditorOptionW  00000001800132f4     esc.obj
+ 0003:00000300       $pdata$3$SetEditorOptionW  0000000180013300     esc.obj
+ 0003:0000030c       $pdata$4$SetEditorOptionW  000000018001330c     esc.obj
+ 0003:00000318       $pdata$5$SetEditorOptionW  0000000180013318     esc.obj
+ 0003:00000324       $pdata$SetStartupInfoW     0000000180013324     esc.obj
+ 0003:00000330       $pdata$??0CEditorOptions@@QEAA@AEBVNODEDATA@@@Z 0000000180013330     CEditorOptions.obj
+ 0003:0000033c       $pdata$?ApplyAllOptions@CEditorOptions@@QEAAXXZ 000000018001333c     CEditorOptions.obj
+ 0003:00000348       $pdata$?ApplyOption@CEditorOptions@@QEAAHW4EDITOR_SETPARAMETER_TYPES@@@Z 0000000180013348     CEditorOptions.obj
+ 0003:00000354       $pdata$?MakeWordDiv@CEditorOptions@@CAX_NPEB_WPEA_W@Z 0000000180013354     CEditorOptions.obj
+ 0003:00000360       $pdata$??0CIndicator@@QEAA@PEB_W@Z 0000000180013360     CIndicator.obj
+ 0003:0000036c       $pdata$?ShowFinal@CIndicator@@QEAAXXZ 000000018001336c     CIndicator.obj
+ 0003:00000378       $pdata$?ShowProgress@CIndicator@@QEAAX_J@Z 0000000180013378     CIndicator.obj
+ 0003:00000384       $pdata$?StartTimer@CIndicator@@QEAAXK@Z 0000000180013384     CIndicator.obj
+ 0003:00000390       $pdata$??0CUserMacros@@QEAA@XZ 0000000180013390     CUserMacros.obj
+ 0003:0000039c       $pdata$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 000000018001339c     CUserMacros.obj
+ 0003:000003a8       $pdata$0$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 00000001800133a8     CUserMacros.obj
+ 0003:000003b4       $pdata$1$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 00000001800133b4     CUserMacros.obj
+ 0003:000003c0       $pdata$2$??4?$CRedBlackTree@VOneUserMacro@@@@QEAAAEAV0@AEBV0@@Z 00000001800133c0     CUserMacros.obj
+ 0003:000003cc       $pdata$??4CUserMacros@@QEAAAEAV0@AEBV0@@Z 00000001800133cc     CUserMacros.obj
+ 0003:000003d8       $pdata$?Find@CUserMacros@@AEAAPEAU?$Node_@VOneUserMacro@@@@AEBVOneUserMacro@@@Z 00000001800133d8     CUserMacros.obj
+ 0003:000003e4       $pdata$?GetMacro@CUserMacros@@QEAAPEBUKeySequence@@AEBVUserMacroID@@AEAH@Z 00000001800133e4     CUserMacros.obj
+ 0003:000003f0       $pdata$?InsertMacro@CUserMacros@@QEAA_NAEBVUserMacroID@@PEB_W_N2AEAHAEAVstrcon@@@Z 00000001800133f0     CUserMacros.obj
+ 0003:000003fc       $pdata$?deleteNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 00000001800133fc     CUserMacros.obj
+ 0003:00000408       $pdata$1$?deleteNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 0000000180013408     CUserMacros.obj
+ 0003:00000414       $pdata$2$?deleteNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAXPEAU?$Node_@VOneUserMacro@@@@@Z 0000000180013414     CUserMacros.obj
+ 0003:00000420       $pdata$?insertNode@?$CRedBlackTree@VOneUserMacro@@@@QEAAPEAU?$Node_@VOneUserMacro@@@@AEBVOneUserMacro@@@Z 0000000180013420     CUserMacros.obj
+ 0003:0000042c       $pdata$??0NODEDATA@@QEAA@AEBV0@@Z 000000018001342c     e_options.obj
+ 0003:00000438       $pdata$??0NODEDATA@@QEAA@XZ 0000000180013438     e_options.obj
+ 0003:00000444       $pdata$??4?$TList@VKeySequenceStorage@@@@QEAAAEAV0@AEBV0@@Z 0000000180013444     e_options.obj
+ 0003:00000450       $pdata$2$??4?$TList@VKeySequenceStorage@@@@QEAAAEAV0@AEBV0@@Z 0000000180013450     e_options.obj
+ 0003:0000045c       $pdata$3$??4?$TList@VKeySequenceStorage@@@@QEAAAEAV0@AEBV0@@Z 000000018001345c     e_options.obj
+ 0003:00000468       $pdata$??4NODEDATA@@QEAAAEAV0@AEBV0@@Z 0000000180013468     e_options.obj
+ 0003:00000474       $pdata$1$??4NODEDATA@@QEAAAEAV0@AEBV0@@Z 0000000180013474     e_options.obj
+ 0003:00000480       $pdata$2$??4NODEDATA@@QEAAAEAV0@AEBV0@@Z 0000000180013480     e_options.obj
+ 0003:0000048c       $pdata$?Inherit@NODEDATA@@QEAAXAEAV1@@Z 000000018001348c     e_options.obj
+ 0003:00000498       $pdata$?push_back@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 0000000180013498     e_options.obj
+ 0003:000004a4       $pdata$?hFindLink@@YAPEAUtag_HashLink@@PEAUtag_Hash@@PEB_W@Z 00000001800134a4     hash.obj
+ 0003:000004b0       $pdata$?hFindLinkEx@@YAPEAUtag_HashLink@@PEAUtag_Hash@@PEB_WHPEAI@Z 00000001800134b0     hash.obj
+ 0003:000004bc       $pdata$?hashResize@@YAXPEAUtag_Hash@@@Z 00000001800134bc     hash.obj
+ 0003:000004c8       $pdata$?hlnkNew@@YAPEAUtag_HashLink@@PEAXPEB_WPEBX@Z 00000001800134c8     hash.obj
+ 0003:000004d4       $pdata$hashAdd             00000001800134d4     hash.obj
+ 0003:000004e0       $pdata$hashEnumKey         00000001800134e0     hash.obj
+ 0003:000004ec       $pdata$0$hashEnumKey       00000001800134ec     hash.obj
+ 0003:000004f8       $pdata$2$hashEnumKey       00000001800134f8     hash.obj
+ 0003:00000504       $pdata$4$hashEnumKey       0000000180013504     hash.obj
+ 0003:00000510       $pdata$hashGet             0000000180013510     hash.obj
+ 0003:0000051c       $pdata$hashGetEx           000000018001351c     hash.obj
+ 0003:00000528       $pdata$hashNew             0000000180013528     hash.obj
+ 0003:00000534       $pdata$??0KeySequenceStorage@@QEAA@PEB_W_NKH@Z 0000000180013534     KeySequenceStorage.obj
+ 0003:00000540       $pdata$??4KeySequenceStorage@@QEAAAEAV0@AEBV0@@Z 0000000180013540     KeySequenceStorage.obj
+ 0003:0000054c       $pdata$?Copy@KeySequenceStorage@@AEAAXAEBV1@@Z 000000018001354c     KeySequenceStorage.obj
+ 0003:00000558       $pdata$?Free@KeySequenceStorage@@QEAAXXZ 0000000180013558     KeySequenceStorage.obj
+ 0003:00000564       $pdata$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 0000000180013564     KeySequenceStorage.obj
+ 0003:00000570       $pdata$0$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 0000000180013570     KeySequenceStorage.obj
+ 0003:0000057c       $pdata$1$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 000000018001357c     KeySequenceStorage.obj
+ 0003:00000588       $pdata$2$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 0000000180013588     KeySequenceStorage.obj
+ 0003:00000594       $pdata$4$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 0000000180013594     KeySequenceStorage.obj
+ 0003:000005a0       $pdata$5$?compile@KeySequenceStorage@@QEAA_NPEB_W_NKHAEAHAEAVstrcon@@@Z 00000001800135a0     KeySequenceStorage.obj
+ 0003:000005ac       $pdata$??_GCXMLNode@@UEAAPEAXI@Z 00000001800135ac     mix.obj
+ 0003:000005b8       $pdata$?AddMacro@@YA_NAEAVCXMLNode@@AEAVNODEDATA@@AEAHAEAVstrcon@@@Z 00000001800135b8     mix.obj
+ 0003:000005c4       $pdata$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 00000001800135c4     mix.obj
+ 0003:000005d0       $pdata$1$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 00000001800135d0     mix.obj
+ 0003:000005dc       $pdata$3$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 00000001800135dc     mix.obj
+ 0003:000005e8       $pdata$4$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 00000001800135e8     mix.obj
+ 0003:000005f4       $pdata$5$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 00000001800135f4     mix.obj
+ 0003:00000600       $pdata$6$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180013600     mix.obj
+ 0003:0000060c       $pdata$7$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 000000018001360c     mix.obj
+ 0003:00000618       $pdata$8$?InsertMacro@@YA_NAEAVCXMLNode@@AEAVCUserMacros@@KKKKAEAK_NHAEAHAEAVstrcon@@@Z 0000000180013618     mix.obj
+ 0003:00000624       $pdata$?IsFilesChanged@@YAHXZ 0000000180013624     mix.obj
+ 0003:00000630       $pdata$0$?IsFilesChanged@@YAHXZ 0000000180013630     mix.obj
+ 0003:0000063c       $pdata$3$?IsFilesChanged@@YAHXZ 000000018001363c     mix.obj
+ 0003:00000648       $pdata$4$?IsFilesChanged@@YAHXZ 0000000180013648     mix.obj
+ 0003:00000654       $pdata$?IsSameQuote@@YAHPEB_W_K01@Z 0000000180013654     mix.obj
+ 0003:00000660       $pdata$?MessageFileError@@YAXPEB_W0@Z 0000000180013660     mix.obj
+ 0003:0000066c       $pdata$?ParseFile@@YAHPEB_WAEAV?$CRedBlackTree@UESCFileInfo@@@@AEAV?$TArray@VNODEDATA@@@@_N@Z 000000018001366c     mix.obj
+ 0003:00000678       $pdata$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 0000000180013678     mix.obj
+ 0003:00000684       $pdata$4$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 0000000180013684     mix.obj
+ 0003:00000690       $pdata$5$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 0000000180013690     mix.obj
+ 0003:0000069c       $pdata$6$?ParseFile@CXMLNode@@QEAAHPEB_W@Z 000000018001369c     mix.obj
+ 0003:000006a8       $pdata$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 00000001800136a8     mix.obj
+ 0003:000006b4       $pdata$0$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 00000001800136b4     mix.obj
+ 0003:000006c0       $pdata$1$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 00000001800136c0     mix.obj
+ 0003:000006cc       $pdata$2$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 00000001800136cc     mix.obj
+ 0003:000006d8       $pdata$3$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 00000001800136d8     mix.obj
+ 0003:000006e4       $pdata$4$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 00000001800136e4     mix.obj
+ 0003:000006f0       $pdata$5$?SetMarginOpt@@YAXAEAVCXMLNode@@AEAVNODEDATA@@AEBH@Z 00000001800136f0     mix.obj
+ 0003:000006fc       $pdata$?ShowCfgError@@YAXPEB_W0000@Z 00000001800136fc     mix.obj
+ 0003:00000708       $pdata$?deleteItem@?$TArray@VNODEDATA@@@@AEAA_NI@Z 0000000180013708     mix.obj
+ 0003:00000714       $pdata$1$?deleteItem@?$TArray@VNODEDATA@@@@AEAA_NI@Z 0000000180013714     mix.obj
+ 0003:00000720       $pdata$2$?deleteItem@?$TArray@VNODEDATA@@@@AEAA_NI@Z 0000000180013720     mix.obj
+ 0003:0000072c       $pdata$?insert@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 000000018001372c     mix.obj
+ 0003:00000738       $pdata$0$?insert@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 0000000180013738     mix.obj
+ 0003:00000744       $pdata$2$?insert@?$TList@VKeySequenceStorage@@@@QEAA_NAEBVKeySequenceStorage@@@Z 0000000180013744     mix.obj
+ 0003:00000750       $pdata$?insertNode@?$CRedBlackTree@UESCFileInfo@@@@QEAAPEAU?$Node_@UESCFileInfo@@@@AEBUESCFileInfo@@@Z 0000000180013750     mix.obj
+ 0003:0000075c       $pdata$?setItem@?$TArray@VNODEDATA@@@@QEAAPEAVNODEDATA@@IAEBV2@@Z 000000018001375c     mix.obj
+ 0003:00000768       $pdata$?setSize@?$TArray@VNODEDATA@@@@QEAA_NI@Z 0000000180013768     mix.obj
+ 0003:00000774       $pdata$0$?setSize@?$TArray@VNODEDATA@@@@QEAA_NI@Z 0000000180013774     mix.obj
+ 0003:00000780       $pdata$1$?setSize@?$TArray@VNODEDATA@@@@QEAA_NI@Z 0000000180013780     mix.obj
+ 0003:0000078c       $pdata$ApplyEditorOptions  000000018001378c     mix.obj
+ 0003:00000798       $pdata$ChangeCoordX        0000000180013798     mix.obj
+ 0003:000007a4       $pdata$ChangeEOL           00000001800137a4     mix.obj
+ 0003:000007b0       $pdata$0$ChangeEOL         00000001800137b0     mix.obj
+ 0003:000007bc       $pdata$2$ChangeEOL         00000001800137bc     mix.obj
+ 0003:000007c8       $pdata$3$ChangeEOL         00000001800137c8     mix.obj
+ 0003:000007d4       $pdata$CheckForEsc         00000001800137d4     mix.obj
+ 0003:000007e0       $pdata$CmpWithFileMask     00000001800137e0     mix.obj
+ 0003:000007ec       $pdata$EditorPostMacro     00000001800137ec     mix.obj
+ 0003:000007f8       $pdata$EditorUnmarkBlock   00000001800137f8     mix.obj
+ 0003:00000804       $pdata$FARPostMacro        0000000180013804     mix.obj
+ 0003:00000810       $pdata$FarAllInOneMessage  0000000180013810     mix.obj
+ 0003:0000081c       $pdata$FileExists          000000018001381c     mix.obj
+ 0003:00000828       $pdata$GetNextCoordX       0000000180013828     mix.obj
+ 0003:00000834       $pdata$GetPrevCoordX       0000000180013834     mix.obj
+ 0003:00000840       $pdata$0$GetPrevCoordX     0000000180013840     mix.obj
+ 0003:0000084c       $pdata$1$GetPrevCoordX     000000018001384c     mix.obj
+ 0003:00000858       $pdata$GotoHome            0000000180013858     mix.obj
+ 0003:00000864       $pdata$InsertAdditionalSymbol 0000000180013864     mix.obj
+ 0003:00000870       $pdata$0$InsertAdditionalSymbol 0000000180013870     mix.obj
+ 0003:0000087c       $pdata$1$InsertAdditionalSymbol 000000018001387c     mix.obj
+ 0003:00000888       $pdata$KillSpaces          0000000180013888     mix.obj
+ 0003:00000894       $pdata$KillSpacesAndChangeEOL 0000000180013894     mix.obj
+ 0003:000008a0       $pdata$ProcessKeyDelete    00000001800138a0     mix.obj
+ 0003:000008ac       $pdata$0$ProcessKeyDelete  00000001800138ac     mix.obj
+ 0003:000008b8       $pdata$2$ProcessKeyDelete  00000001800138b8     mix.obj
+ 0003:000008c4       $pdata$5$ProcessKeyDelete  00000001800138c4     mix.obj
+ 0003:000008d0       $pdata$6$ProcessKeyDelete  00000001800138d0     mix.obj
+ 0003:000008dc       $pdata$ProcessKeyEnter     00000001800138dc     mix.obj
+ 0003:000008e8       $pdata$1$ProcessKeyEnter   00000001800138e8     mix.obj
+ 0003:000008f4       $pdata$2$ProcessKeyEnter   00000001800138f4     mix.obj
+ 0003:00000900       $pdata$3$ProcessKeyEnter   0000000180013900     mix.obj
+ 0003:0000090c       $pdata$5$ProcessKeyEnter   000000018001390c     mix.obj
+ 0003:00000918       $pdata$ReloadSettings      0000000180013918     mix.obj
+ 0003:00000924       $pdata$TestCfgFiles        0000000180013924     mix.obj
+ 0003:00000930       $pdata$0$TestCfgFiles      0000000180013930     mix.obj
+ 0003:0000093c       $pdata$1$TestCfgFiles      000000018001393c     mix.obj
+ 0003:00000948       $pdata$2$TestCfgFiles      0000000180013948     mix.obj
+ 0003:00000954       $pdata$3$TestCfgFiles      0000000180013954     mix.obj
+ 0003:00000960       $pdata$fread               0000000180013960     myrtl.obj
+ 0003:0000096c       $pdata$fseek               000000018001396c     myrtl.obj
+ 0003:00000978       $pdata$wfopen              0000000180013978     myrtl.obj
+ 0003:00000984       $pdata$0$wfopen            0000000180013984     myrtl.obj
+ 0003:00000990       $pdata$4$wfopen            0000000180013990     myrtl.obj
+ 0003:0000099c       $pdata$5$wfopen            000000018001399c     myrtl.obj
+ 0003:000009a8       $pdata$7$wfopen            00000001800139a8     myrtl.obj
+ 0003:000009b4       $pdata$LoadGlobalConfig    00000001800139b4     SaveAndLoadConfig.obj
+ 0003:000009c0       $pdata$SaveGlobalConfig    00000001800139c0     SaveAndLoadConfig.obj
+ 0003:000009cc       $pdata$??0strcon@@QEAA@PEB_WH@Z 00000001800139cc     strcon.obj
+ 0003:000009d8       $pdata$??0strcon@@QEAA@XZ  00000001800139d8     strcon.obj
+ 0003:000009e4       $pdata$??1strcon@@QEAA@XZ  00000001800139e4     strcon.obj
+ 0003:000009f0       $pdata$??4strcon@@QEAAAEAV0@AEBV0@@Z 00000001800139f0     strcon.obj
+ 0003:000009fc       $pdata$??4strcon@@QEAAAEAV0@PEB_W@Z 00000001800139fc     strcon.obj
+ 0003:00000a08       $pdata$??8strcon@@QEBA_NAEBV0@@Z 0000000180013a08     strcon.obj
+ 0003:00000a14       $pdata$??8strcon@@QEBA_NPEB_W@Z 0000000180013a14     strcon.obj
+ 0003:00000a20       $pdata$?AddStr@strcon@@QEAAAEBV1@PEB_WH@Z 0000000180013a20     strcon.obj
+ 0003:00000a2c       $pdata$?AddStrings@strcon@@QEAAAEBV1@PEB_WZZ 0000000180013a2c     strcon.obj
+ 0003:00000a38       $pdata$4$?AddStrings@strcon@@QEAAAEBV1@PEB_WZZ 0000000180013a38     strcon.obj
+ 0003:00000a44       $pdata$5$?AddStrings@strcon@@QEAAAEBV1@PEB_WZZ 0000000180013a44     strcon.obj
+ 0003:00000a50       $pdata$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 0000000180013a50     strcon.obj
+ 0003:00000a5c       $pdata$1$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 0000000180013a5c     strcon.obj
+ 0003:00000a68       $pdata$3$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 0000000180013a68     strcon.obj
+ 0003:00000a74       $pdata$4$?setStr@strcon@@QEAAPEA_WPEB_WH@Z 0000000180013a74     strcon.obj
+ 0003:00000a80       $pdata$tableAdd            0000000180013a80     table.obj
+ 0003:00000a8c       $pdata$1$tableAdd          0000000180013a8c     table.obj
+ 0003:00000a98       $pdata$3$tableAdd          0000000180013a98     table.obj
+ 0003:00000aa4       $pdata$4$tableAdd          0000000180013aa4     table.obj
+ 0003:00000ab0       $pdata$5$tableAdd          0000000180013ab0     table.obj
+ 0003:00000abc       $pdata$6$tableAdd          0000000180013abc     table.obj
+ 0003:00000ac8       $pdata$tableGet            0000000180013ac8     table.obj
+ 0003:00000ad4       $pdata$tableNew            0000000180013ad4     table.obj
+ 0003:00000ae0       $pdata$xalloc              0000000180013ae0     xmem.obj
+ 0003:00000aec       $pdata$xcalloc             0000000180013aec     xmem.obj
+ 0003:00000af8       $pdata$xmemFreePool        0000000180013af8     xmem.obj
+ 0003:00000b04       $pdata$0$xmemFreePool      0000000180013b04     xmem.obj
+ 0003:00000b10       $pdata$1$xmemFreePool      0000000180013b10     xmem.obj
+ 0003:00000b1c       $pdata$xmemNewPool         0000000180013b1c     xmem.obj
+ 0003:00000b28       $pdata$xstrcmp             0000000180013b28     xmem.obj
+ 0003:00000b34       $pdata$xstrdup             0000000180013b34     xmem.obj
+ 0003:00000b40       $pdata$xstrncmp            0000000180013b40     xmem.obj
+ 0003:00000b4c       $pdata$xstrncpy            0000000180013b4c     xmem.obj
+ 0003:00000b58       $pdata$0$xstrncpy          0000000180013b58     xmem.obj
+ 0003:00000b64       $pdata$1$xstrncpy          0000000180013b64     xmem.obj
+ 0003:00000b70       $pdata$xstrndup            0000000180013b70     xmem.obj
+ 0003:00000b7c       $pdata$0$xstrndup          0000000180013b7c     xmem.obj
+ 0003:00000b88       $pdata$1$xstrndup          0000000180013b88     xmem.obj
+ 0003:00000b94       $pdata$?xmlParseTag@@YAHPEAXPEAUtag_XMLNode@@PEAPEAU1@PEA_WH@Z 0000000180013b94     xmlite.obj
+ 0003:00000ba0       $pdata$?xmlSubst@@YAPEA_WPEA_W@Z 0000000180013ba0     xmlite.obj
+ 0003:00000bac       $pdata$4$?xmlSubst@@YAPEA_WPEA_W@Z 0000000180013bac     xmlite.obj
+ 0003:00000bb8       $pdata$5$?xmlSubst@@YAPEA_WPEA_W@Z 0000000180013bb8     xmlite.obj
+ 0003:00000bc4       $pdata$6$?xmlSubst@@YAPEA_WPEA_W@Z 0000000180013bc4     xmlite.obj
+ 0003:00000bd0       $pdata$xmlGetItem          0000000180013bd0     xmlite.obj
+ 0003:00000bdc       $pdata$0$xmlGetItem        0000000180013bdc     xmlite.obj
+ 0003:00000be8       $pdata$2$xmlGetItem        0000000180013be8     xmlite.obj
+ 0003:00000bf4       $pdata$xmlNew              0000000180013bf4     xmlite.obj
+ 0003:00000c00       $pdata$xmlParse            0000000180013c00     xmlite.obj
+ 0003:00000c0c       $pdata$3$xmlParse          0000000180013c0c     xmlite.obj
+ 0003:00000c18       $pdata$5$xmlParse          0000000180013c18     xmlite.obj
+ 0003:00000c24       $pdata$free                0000000180013c24     libCRT64:free.obj
+ 0003:00000c30       $pdata$malloc              0000000180013c30     libCRT64:malloc.obj
+ 0003:00000c3c       $pdata$memset              0000000180013c3c     libCRT64:memset.obj
+ 0003:00000c48       $pdata$wcsncpy             0000000180013c48     libCRT64:strncpy.obj
+ 0003:00000c54       $pdata$?strtoxl@@YAKPEB_WPEAPEA_WHH@Z 0000000180013c54     libCRT64:strtol.obj
+ 0004:00000060       $R000000                   0000000180014060     esc.res

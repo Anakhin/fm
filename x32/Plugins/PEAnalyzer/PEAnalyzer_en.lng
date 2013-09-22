@@ -1,0 +1,28 @@
+﻿.Language=English,English
+
+"PE analyzer"
+
+"OK"
+"Cancel"
+
+"Reading file \"%s\"..."
+
+"Disasm"
+"Info"
+"Headrs"
+"Sectns"
+"Decor"
+
+"Add to the panels plugin menu"
+"Prefix:"
+
+"Disassembly is not completed"
+"Continue disassembly"
+"Show incomplete file"
+"Cancel"
+
+"Copy"
+"Copy resources description to:"
+
+"F4: To editor"
+"Copy"

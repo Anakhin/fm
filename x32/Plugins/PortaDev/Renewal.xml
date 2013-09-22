@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<renewal>
+	<plugin guid="{9BF0E19D-B943-4E6D-B7B0-D71E3DAF446A}">
+		<url arch="any">http://code.google.com/p/farplugs/downloads/list</url>
+		<home arch="any">http://code.google.com/p/farplugs</home>
+		<changelog arch="any">http://farplugs.googlecode.com/svn/trunk/PortaDev/dist/ChangeLog</changelog>
+		<regex arch="x64">//farplugs\.googlecode\.com/files/FarPortaDev_(\d+)\.(\d+)\.(\d+)\.(\d+)_x64\.zip</regex>
+		<regex arch="x86">//farplugs\.googlecode\.com/files/FarPortaDev_(\d+)\.(\d+)\.(\d+)\.(\d+)_x86\.zip</regex>
+		<srcpath arch="any">PortaDev</srcpath>
+	</plugin>
+</renewal>

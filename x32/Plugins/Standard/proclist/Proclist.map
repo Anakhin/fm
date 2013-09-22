@@ -1,0 +1,798 @@
+ Proclist
+
+ Timestamp is 523ee64b (Sun Sep 22 15:44:59 2013)
+
+ Preferred load address is 10000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 0000016cH .idata$5                CODE
+ 0001:00000170 00001b78H .rdata                  CODE
+ 0001:00001ce8 00000080H .rdata$debug            CODE
+ 0001:00001d70 0000a694H .text                   CODE
+ 0001:0000c404 0000008cH .idata$2                CODE
+ 0001:0000c490 00000014H .idata$3                CODE
+ 0001:0000c4a4 0000016cH .idata$4                CODE
+ 0001:0000c610 0000060eH .idata$6                CODE
+ 0001:0000cc20 00000192H .edata                  CODE
+ 0002:00000000 000001c0H .data                   DATA
+ 0002:000001c0 00024fecH .bss                    DATA
+ 0003:00000000 00000058H .rsrc$01                DATA
+ 0003:00000060 00000378H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base       Lib:Object
+
+ 0000:00000000       ___safe_se_handler_table   00000000     <absolute>
+ 0000:00000000       ___safe_se_handler_count   00000000     <absolute>
+ 0001:00000000       __imp__GetUserNameW@8      10001000     advapi32:ADVAPI32.dll
+ 0001:00000004       __imp__RegConnectRegistryW@12 10001004     advapi32:ADVAPI32.dll
+ 0001:00000008       __imp__RegOpenKeyExW@20    10001008     advapi32:ADVAPI32.dll
+ 0001:0000000c       __imp__RegQueryValueExW@24 1000100c     advapi32:ADVAPI32.dll
+ 0001:00000010       __imp__SetThreadToken@8    10001010     advapi32:ADVAPI32.dll
+ 0001:00000014       __imp__OpenProcessToken@12 10001014     advapi32:ADVAPI32.dll
+ 0001:00000018       __imp__OpenThreadToken@16  10001018     advapi32:ADVAPI32.dll
+ 0001:0000001c       __imp__AdjustTokenPrivileges@24 1000101c     advapi32:ADVAPI32.dll
+ 0001:00000020       __imp__DuplicateTokenEx@24 10001020     advapi32:ADVAPI32.dll
+ 0001:00000024       __imp__LookupPrivilegeValueW@12 10001024     advapi32:ADVAPI32.dll
+ 0001:00000028       __imp__RegCloseKey@4       10001028     advapi32:ADVAPI32.dll
+ 0001:0000002c       \177ADVAPI32_NULL_THUNK_DATA 1000102c     advapi32:ADVAPI32.dll
+ 0001:00000030       __imp__VirtualFree@12      10001030     kernel32:KERNEL32.dll
+ 0001:00000034       __imp__lstrcpynW@12        10001034     kernel32:KERNEL32.dll
+ 0001:00000038       __imp__lstrlenW@4          10001038     kernel32:KERNEL32.dll
+ 0001:0000003c       __imp__CreateFileW@28      1000103c     kernel32:KERNEL32.dll
+ 0001:00000040       __imp__SetEvent@4          10001040     kernel32:KERNEL32.dll
+ 0001:00000044       __imp__GetCurrentThreadId@0 10001044     kernel32:KERNEL32.dll
+ 0001:00000048       __imp__SetPriorityClass@8  10001048     kernel32:KERNEL32.dll
+ 0001:0000004c       __imp__GetPriorityClass@4  1000104c     kernel32:KERNEL32.dll
+ 0001:00000050       __imp__GetSystemTimeAsFileTime@4 10001050     kernel32:KERNEL32.dll
+ 0001:00000054       __imp__GetLocalTime@4      10001054     kernel32:KERNEL32.dll
+ 0001:00000058       __imp__GetTickCount@0      10001058     kernel32:KERNEL32.dll
+ 0001:0000005c       __imp__lstrcmpW@8          1000105c     kernel32:KERNEL32.dll
+ 0001:00000060       __imp__lstrcmpiW@8         10001060     kernel32:KERNEL32.dll
+ 0001:00000064       __imp__lstrcpyW@8          10001064     kernel32:KERNEL32.dll
+ 0001:00000068       __imp__lstrcatW@8          10001068     kernel32:KERNEL32.dll
+ 0001:0000006c       __imp__SystemTimeToTzSpecificLocalTime@12 1000106c     kernel32:KERNEL32.dll
+ 0001:00000070       __imp__FileTimeToSystemTime@8 10001070     kernel32:KERNEL32.dll
+ 0001:00000074       __imp__ResetEvent@4        10001074     kernel32:KERNEL32.dll
+ 0001:00000078       __imp__CreateMutexW@12     10001078     kernel32:KERNEL32.dll
+ 0001:0000007c       __imp__VirtualAlloc@16     1000107c     kernel32:KERNEL32.dll
+ 0001:00000080       __imp__GetProcessTimes@20  10001080     kernel32:KERNEL32.dll
+ 0001:00000084       __imp__WaitForMultipleObjects@16 10001084     kernel32:KERNEL32.dll
+ 0001:00000088       __imp__GetLastError@0      10001088     kernel32:KERNEL32.dll
+ 0001:0000008c       __imp__TerminateProcess@8  1000108c     kernel32:KERNEL32.dll
+ 0001:00000090       __imp__GetCurrentThread@0  10001090     kernel32:KERNEL32.dll
+ 0001:00000094       __imp__OpenProcess@12      10001094     kernel32:KERNEL32.dll
+ 0001:00000098       __imp__ReadProcessMemory@20 10001098     kernel32:KERNEL32.dll
+ 0001:0000009c       __imp__FileTimeToLocalFileTime@8 1000109c     kernel32:KERNEL32.dll
+ 0001:000000a0       __imp__GetModuleHandleW@4  100010a0     kernel32:KERNEL32.dll
+ 0001:000000a4       __imp__LocalFree@4         100010a4     kernel32:KERNEL32.dll
+ 0001:000000a8       __imp__FormatMessageW@28   100010a8     kernel32:KERNEL32.dll
+ 0001:000000ac       __imp__GetDateFormatW@24   100010ac     kernel32:KERNEL32.dll
+ 0001:000000b0       __imp__GetTimeFormatW@24   100010b0     kernel32:KERNEL32.dll
+ 0001:000000b4       __imp__DisableThreadLibraryCalls@4 100010b4     kernel32:KERNEL32.dll
+ 0001:000000b8       __imp__GetProcAddress@8    100010b8     kernel32:KERNEL32.dll
+ 0001:000000bc       __imp__HeapFree@12         100010bc     kernel32:KERNEL32.dll
+ 0001:000000c0       __imp__GetProcessHeap@0    100010c0     kernel32:KERNEL32.dll
+ 0001:000000c4       __imp__HeapAlloc@12        100010c4     kernel32:KERNEL32.dll
+ 0001:000000c8       __imp__TerminateThread@8   100010c8     kernel32:KERNEL32.dll
+ 0001:000000cc       __imp__CreateThread@24     100010cc     kernel32:KERNEL32.dll
+ 0001:000000d0       __imp__GetCurrentProcessId@0 100010d0     kernel32:KERNEL32.dll
+ 0001:000000d4       __imp__GetCurrentProcess@0 100010d4     kernel32:KERNEL32.dll
+ 0001:000000d8       __imp__Sleep@4             100010d8     kernel32:KERNEL32.dll
+ 0001:000000dc       __imp__WaitForSingleObject@8 100010dc     kernel32:KERNEL32.dll
+ 0001:000000e0       __imp__ReleaseMutex@4      100010e0     kernel32:KERNEL32.dll
+ 0001:000000e4       __imp__SetLastError@4      100010e4     kernel32:KERNEL32.dll
+ 0001:000000e8       __imp__DuplicateHandle@28  100010e8     kernel32:KERNEL32.dll
+ 0001:000000ec       __imp__CloseHandle@4       100010ec     kernel32:KERNEL32.dll
+ 0001:000000f0       __imp__CreateEventW@16     100010f0     kernel32:KERNEL32.dll
+ 0001:000000f4       __imp__WriteFile@20        100010f4     kernel32:KERNEL32.dll
+ 0001:000000f8       \177KERNEL32_NULL_THUNK_DATA 100010f8     kernel32:KERNEL32.dll
+ 0001:000000fc       __imp__WNetCancelConnection2W@12 100010fc     mpr:MPR.dll
+ 0001:00000100       __imp__WNetAddConnection2W@16 10001100     mpr:MPR.dll
+ 0001:00000104       \177MPR_NULL_THUNK_DATA    10001104     mpr:MPR.dll
+ 0001:00000108       __imp__SysAllocString@4    10001108     oleaut32:OLEAUT32.dll
+ 0001:0000010c       __imp__SysFreeString@4     1000110c     oleaut32:OLEAUT32.dll
+ 0001:00000110       __imp__VariantClear@4      10001110     oleaut32:OLEAUT32.dll
+ 0001:00000114       \177OLEAUT32_NULL_THUNK_DATA 10001114     oleaut32:OLEAUT32.dll
+ 0001:00000118       __imp__SetForegroundWindow@4 10001118     user32:USER32.dll
+ 0001:0000011c       __imp__IsIconic@4          1000111c     user32:USER32.dll
+ 0001:00000120       __imp__IsWindowVisible@4   10001120     user32:USER32.dll
+ 0001:00000124       __imp__GetWindowTextW@12   10001124     user32:USER32.dll
+ 0001:00000128       __imp__ShowWindowAsync@8   10001128     user32:USER32.dll
+ 0001:0000012c       __imp__wsprintfW           1000112c     user32:USER32.dll
+ 0001:00000130       __imp__GetWindowLongW@8    10001130     user32:USER32.dll
+ 0001:00000134       __imp__GetParent@4         10001134     user32:USER32.dll
+ 0001:00000138       __imp__EnumWindows@8       10001138     user32:USER32.dll
+ 0001:0000013c       __imp__GetWindowThreadProcessId@8 1000113c     user32:USER32.dll
+ 0001:00000140       __imp__SystemParametersInfoW@16 10001140     user32:USER32.dll
+ 0001:00000144       __imp__GetWindowPlacement@8 10001144     user32:USER32.dll
+ 0001:00000148       \177USER32_NULL_THUNK_DATA 10001148     user32:USER32.dll
+ 0001:0000014c       __imp__GetFileVersionInfoW@16 1000114c     version:VERSION.dll
+ 0001:00000150       __imp__VerQueryValueW@16   10001150     version:VERSION.dll
+ 0001:00000154       __imp__GetFileVersionInfoSizeW@8 10001154     version:VERSION.dll
+ 0001:00000158       \177VERSION_NULL_THUNK_DATA 10001158     version:VERSION.dll
+ 0001:0000015c       __imp__CoCreateInstance@20 1000115c     ole32:ole32.dll
+ 0001:00000160       __imp__CoUninitialize@0    10001160     ole32:ole32.dll
+ 0001:00000164       __imp__CoInitialize@4      10001164     ole32:ole32.dll
+ 0001:00000168       \177ole32_NULL_THUNK_DATA  10001168     ole32:ole32.dll
+ 0001:00000204       ??_C@_11LOCGONAA@?$AA?$AA@ 10001204     handles.obj
+ 0001:00000208       ??_C@_1BE@DNDHOCGP@?$AAD?$AAi?$AAr?$AAe?$AAc?$AAt?$AAo?$AAr?$AAy?$AA?$AA@ 10001208     handles.obj
+ 0001:0000021c       ??_C@_1BK@KDPOKCA@?$AAS?$AAy?$AAm?$AAb?$AAo?$AAl?$AAi?$AAc?$AAL?$AAi?$AAn?$AAk?$AA?$AA@ 1000121c     handles.obj
+ 0001:00000238       ??_C@_1M@JFPKKFCK@?$AAT?$AAo?$AAk?$AAe?$AAn?$AA?$AA@ 10001238     handles.obj
+ 0001:00000244       ??_C@_1BA@NMDNJJOO@?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AA?$AA@ 10001244     handles.obj
+ 0001:00000254       ??_C@_1O@CDOGJPJJ@?$AAT?$AAh?$AAr?$AAe?$AAa?$AAd?$AA?$AA@ 10001254     handles.obj
+ 0001:00000264       ??_C@_1M@JJBFPLJB@?$AAE?$AAv?$AAe?$AAn?$AAt?$AA?$AA@ 10001264     handles.obj
+ 0001:00000270       ??_C@_1BE@EBMGBMON@?$AAE?$AAv?$AAe?$AAn?$AAt?$AAP?$AAa?$AAi?$AAr?$AA?$AA@ 10001270     handles.obj
+ 0001:00000284       ??_C@_1O@FBKOCLFA@?$AAM?$AAu?$AAt?$AAa?$AAn?$AAt?$AA?$AA@ 10001284     handles.obj
+ 0001:00000294       ??_C@_1BE@NPGPGCB@?$AAS?$AAe?$AAm?$AAa?$AAp?$AAh?$AAo?$AAr?$AAe?$AA?$AA@ 10001294     handles.obj
+ 0001:000002a8       ??_C@_1M@EEEEDEMN@?$AAT?$AAi?$AAm?$AAe?$AAr?$AA?$AA@ 100012a8     handles.obj
+ 0001:000002b4       ??_C@_1BA@OKEJPPOI@?$AAP?$AAr?$AAo?$AAf?$AAi?$AAl?$AAe?$AA?$AA@ 100012b4     handles.obj
+ 0001:000002c4       ??_C@_1BM@JIPCCEDL@?$AAW?$AAi?$AAn?$AAd?$AAo?$AAw?$AAS?$AAt?$AAa?$AAt?$AAi?$AAo?$AAn?$AA?$AA@ 100012c4     handles.obj
+ 0001:000002e0       ??_C@_1BA@CBCBMBGJ@?$AAD?$AAe?$AAs?$AAk?$AAt?$AAo?$AAp?$AA?$AA@ 100012e0     handles.obj
+ 0001:000002f0       ??_C@_1BA@LHDKDEEN@?$AAS?$AAe?$AAc?$AAt?$AAi?$AAo?$AAn?$AA?$AA@ 100012f0     handles.obj
+ 0001:00000300       ??_C@_17KACEIPNC@?$AAK?$AAe?$AAy?$AA?$AA@ 10001300     handles.obj
+ 0001:00000308       ??_C@_19OBNDINH@?$AAP?$AAo?$AAr?$AAt?$AA?$AA@ 10001308     handles.obj
+ 0001:00000314       ??_C@_1BK@GACLFIOK@?$AAW?$AAa?$AAi?$AAt?$AAa?$AAb?$AAl?$AAe?$AAP?$AAo?$AAr?$AAt?$AA?$AA@ 10001314     handles.obj
+ 0001:00000330       ??_C@_17EKANHMLE@?$AAJ?$AAo?$AAb?$AA?$AA@ 10001330     handles.obj
+ 0001:00000338       ??_C@_1BK@HCMNLOAL@?$AAI?$AAo?$AAC?$AAo?$AAm?$AAp?$AAl?$AAe?$AAt?$AAi?$AAo?$AAn?$AA?$AA@ 10001338     handles.obj
+ 0001:00000354       ??_C@_19DDLLJDOO@?$AAF?$AAi?$AAl?$AAe?$AA?$AA@ 10001354     handles.obj
+ 0001:00000360       ??_C@_1BA@KLFBJALL@?$AAW?$AAm?$AAi?$AAG?$AAu?$AAi?$AAd?$AA?$AA@ 10001360     handles.obj
+ 0001:00000370       ??_C@_17CNPHIMPH@?$AA?$CF?$AAl?$AAs?$AA?$AA@ 10001370     handles.obj
+ 0001:00000378       ??_C@_1BE@ELICABCK@?$AA?$DM?$AAu?$AAn?$AAk?$AAn?$AAo?$AAw?$AAn?$AA?$DO?$AA?$AA@ 10001378     handles.obj
+ 0001:0000038c       ??_C@_1BA@FDFONNEJ@?$AA?$CF?$AAs?$AA?5?$AA?$CI?$AA?$CF?$AAd?$AA?$CJ?$AA?$AA@ 1000138c     handles.obj
+ 0001:0000039c       ??_C@_1BA@LGCEDAAB@?$AAT?$AAI?$AAD?$AA?3?$AA?5?$AA?$CF?$AAd?$AA?$AA@ 1000139c     handles.obj
+ 0001:000003ac       ??_C@_1BG@OKCBELMP@?$AA?2?$AAR?$AAE?$AAG?$AAI?$AAS?$AAT?$AAR?$AAY?$AA?2?$AA?$AA@ 100013ac     handles.obj
+ 0001:000003c4       ??_C@_19KGHAHCFG@?$AAU?$AAS?$AAE?$AAR?$AA?$AA@ 100013c4     handles.obj
+ 0001:000003d0       ??_C@_19JAPAIJDE@?$AAH?$AAK?$AAC?$AAU?$AA?$AA@ 100013d0     handles.obj
+ 0001:000003dc       ??_C@_1BC@PGMOPNLK@?$AA_?$AAC?$AAl?$AAa?$AAs?$AAs?$AAe?$AAs?$AA?$AA@ 100013dc     handles.obj
+ 0001:000003f0       ??_C@_1BK@OEABCBLA@?$AAH?$AAK?$AAC?$AAU?$AA?2?$AAC?$AAl?$AAa?$AAs?$AAs?$AAe?$AAs?$AA?$AA@ 100013f0     handles.obj
+ 0001:0000040c       ??_C@_17PJOJPMPB@?$AAH?$AAK?$AAU?$AA?$AA@ 1000140c     handles.obj
+ 0001:00000414       ??_C@_1DC@OIDKFHBF@?$AAM?$AAA?$AAC?$AAH?$AAI?$AAN?$AAE?$AA?2?$AAS?$AAO?$AAF?$AAT?$AAW?$AAA?$AAR?$AAE?$AA?2?$AAC?$AAL?$AAA?$AAS?$AAS?$AAE?$AAS?$AA?$AA@ 10001414     handles.obj
+ 0001:00000448       ??_C@_19NCHLBIN@?$AAH?$AAK?$AAC?$AAR?$AA?$AA@ 10001448     handles.obj
+ 0001:00000454       ??_C@_1BA@INBMCOAP@?$AAM?$AAA?$AAC?$AAH?$AAI?$AAN?$AAE?$AA?$AA@ 10001454     handles.obj
+ 0001:00000464       ??_C@_19PEALEEJB@?$AAH?$AAK?$AAL?$AAM?$AA?$AA@ 10001464     handles.obj
+ 0001:00000470       ??_C@_15GANGMFKL@?$AA?$CF?$AAs?$AA?$AA@ 10001470     handles.obj
+ 0001:00000478       ??_C@_1O@EAOKCHFC@?$AA?$CF?$AA?9?$AA1?$AA3?$AAs?$AA?5?$AA?$AA@ 10001478     handles.obj
+ 0001:00000488       ??_C@_1O@HAOIKAHJ@?$AA?$CF?$AAs?$AA?6?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10001488     handles.obj
+ 0001:00000498       ??_C@_1BG@OCPCMCEA@?$AA?$CF?$AA5?$AAX?$AA?5?$AA?5?$AA?$CF?$AA0?$AA8?$AAX?$AA?5?$AA?$AA@ 10001498     handles.obj
+ 0001:000004b0       ??_C@_1BA@IGEMANKH@?$AA?2?$AAS?$AA?9?$AA?$CF?$AAl?$AAu?$AA?9?$AA?$AA@ 100014b0     handles.obj
+ 0001:000004c0       ??_C@_1EC@MPDKEHCN@?$AA0?$AAx?$AA?$CF?$AA0?$AA2?$AAh?$AAx?$AA?$CF?$AA0?$AA2?$AAh?$AAx?$AA?$CF?$AA0?$AA2?$AAh?$AAx?$AA?$CF?$AA0?$AA2?$AAh?$AAx?$AA?$CF?$AA0?$AA2?$AAh?$AAx?$AA?$CF?$AA0?$AA2?$AAh?$AAx@ 100014c0     handles.obj
+ 0001:00000504       ??_C@_17IJMNDCL@?$AA?$CF?$AAl?$AAu?$AA?$AA@ 10001504     handles.obj
+ 0001:0000050c       ??_C@_19DEJHOMFE@?$AA?9?$AA?$CF?$AAl?$AAu?$AA?$AA@ 1000150c     handles.obj
+ 0001:00000518       ??_7?$DialogItemBinding@UFarDialogItem@@@@6B@ 10001518     PCFG.OBJ
+ 0001:00000520       ??_7PluginCheckBoxBinding@@6B@ 10001520     PCFG.OBJ
+ 0001:00000528       ??_7PluginRadioButtonBinding@@6B@ 10001528     PCFG.OBJ
+ 0001:00000530       ??_7PluginIntEditFieldBinding@@6B@ 10001530     PCFG.OBJ
+ 0001:00000538       ??_C@_15EFLNJKHH@?$AA?$CF?$AAu?$AA?$AA@ 10001538     PCFG.OBJ
+ 0001:00000540       ??_7?$DialogBuilderBase@UFarDialogItem@@@@6B@ 10001540     PCFG.OBJ
+ 0001:00000560       ??_7PluginDialogBuilder@@6B@ 10001560     PCFG.OBJ
+ 0001:00000580       ??_C@_1O@BJPKKLLM@?$AAC?$AAo?$AAn?$AAf?$AAi?$AAg?$AA?$AA@ 10001580     PCFG.OBJ
+ 0001:00000590       ??_C@_1BO@NGDOFANC@?$AAA?$AAd?$AAd?$AAT?$AAo?$AAD?$AAi?$AAs?$AAk?$AAs?$AAM?$AAe?$AAn?$AAu?$AA?$AA@ 10001590     PCFG.OBJ
+ 0001:000005b0       ??_C@_1CC@PNNAOHJC@?$AAA?$AAd?$AAd?$AAT?$AAo?$AAP?$AAl?$AAu?$AAg?$AAi?$AAn?$AAs?$AAM?$AAe?$AAn?$AAu?$AA?$AA@ 100015b0     PCFG.OBJ
+ 0001:000005d4       ??_C@_1CE@JIPJNDMD@?$AAE?$AAx?$AAp?$AAo?$AAr?$AAt?$AAE?$AAn?$AAv?$AAi?$AAr?$AAo?$AAn?$AAm?$AAe?$AAn?$AAt?$AA?$AA@ 100015d4     PCFG.OBJ
+ 0001:000005f8       ??_C@_1CC@OABICAMP@?$AAE?$AAx?$AAp?$AAo?$AAr?$AAt?$AAM?$AAo?$AAd?$AAu?$AAl?$AAe?$AAI?$AAn?$AAf?$AAo?$AA?$AA@ 100015f8     PCFG.OBJ
+ 0001:0000061c       ??_C@_1CI@OFLGHPDG@?$AAE?$AAx?$AAp?$AAo?$AAr?$AAt?$AAM?$AAo?$AAd?$AAu?$AAl?$AAe?$AAV?$AAe?$AAr?$AAs?$AAi?$AAo?$AAn?$AA?$AA@ 1000161c     PCFG.OBJ
+ 0001:00000644       ??_C@_1CE@GNMOKOAL@?$AAE?$AAx?$AAp?$AAo?$AAr?$AAt?$AAP?$AAe?$AAr?$AAf?$AAo?$AAr?$AAm?$AAa?$AAn?$AAc?$AAe?$AA?$AA@ 10001644     PCFG.OBJ
+ 0001:00000668       ??_C@_1BM@KMCHODLM@?$AAE?$AAx?$AAp?$AAo?$AAr?$AAt?$AAH?$AAa?$AAn?$AAd?$AAl?$AAe?$AAs?$AA?$AA@ 10001668     PCFG.OBJ
+ 0001:00000684       ??_C@_1CK@CLFOOHFA@?$AAE?$AAx?$AAp?$AAo?$AAr?$AAt?$AAH?$AAa?$AAn?$AAd?$AAl?$AAe?$AAs?$AAU?$AAn?$AAn?$AAa?$AAm?$AAe?$AAd?$AA?$AA@ 10001684     PCFG.OBJ
+ 0001:000006b0       ??_C@_1BE@PKILIDFH@?$AAE?$AAn?$AAa?$AAb?$AAl?$AAe?$AAW?$AAM?$AAI?$AA?$AA@ 100016b0     PCFG.OBJ
+ 0001:000006c4       ??_7PluginEditFieldBinding@@6B@ 100016c4     Pclass.obj
+ 0001:000006cc       ??_C@_13JCKOPPNP@?$AAK?$AA?$AA@ 100016cc     Pclass.obj
+ 0001:000006d0       ??_C@_13LHMFKAAD@?$AAM?$AA?$AA@ 100016d0     Pclass.obj
+ 0001:000006d4       ??_C@_1BC@IALIJCAM@?$AAS?$AAo?$AAr?$AAt?$AAM?$AAo?$AAd?$AAe?$AA?$AA@ 100016d4     Pclass.obj
+ 0001:000006e8       ??_C@_1BO@OMKAPLPJ@?$AAS?$AAt?$AAa?$AAr?$AAt?$AAP?$AAa?$AAn?$AAe?$AAl?$AAM?$AAo?$AAd?$AAe?$AA?$AA@ 100016e8     Pclass.obj
+ 0001:00000778       ??_C@_1CM@OLKFIHMK@?$AAN?$AA?0?$AAX?$AA1?$AA5?$AAT?$AA?0?$AAX?$AA1?$AA6?$AAT?$AA?0?$AAX?$AA1?$AA7?$AAT?$AA?0?$AAX?$AA1?$AA8?$AAS?$AA?$AA@ 10001778     Pclass.obj
+ 0001:000007a4       ??_C@_1BG@MNPGDOEP@?$AA1?$AA2?$AA?0?$AA0?$AA?0?$AA0?$AA?0?$AA0?$AA?0?$AA4?$AA?$AA@ 100017a4     Pclass.obj
+ 0001:000007bc       ??_C@_1BO@ONCLJEFA@?$AAN?$AA?0?$AAX?$AAI?$AA?0?$AAX?$AAP?$AA?0?$AAX?$AA0?$AAS?$AA?0?$AAX?$AA6?$AA?$AA@ 100017bc     Pclass.obj
+ 0001:000007dc       ??_C@_1BE@NCGLNDMK@?$AA0?$AA?0?$AA4?$AA?0?$AA2?$AA?0?$AA3?$AA?0?$AA9?$AA?$AA@ 100017dc     Pclass.obj
+ 0001:000007f0       ??_C@_17KNGPBKAK@?$AAN?$AA?0?$AAN?$AA?$AA@ 100017f0     Pclass.obj
+ 0001:000007f8       ??_C@_17JPFFEOAH@?$AA0?$AA?0?$AA0?$AA?$AA@ 100017f8     Pclass.obj
+ 0001:00000800       ??_C@_1BI@FAMBFJKE@?$AAN?$AA?0?$AAX?$AAI?$AA?0?$AAX?$AAC?$AA?0?$AAD?$AA?0?$AAT?$AA?$AA@ 10001800     Pclass.obj
+ 0001:00000818       ??_C@_1BE@MONBDOED@?$AA0?$AA?0?$AA4?$AA?0?$AA4?$AA?0?$AA0?$AA?0?$AA0?$AA?$AA@ 10001818     Pclass.obj
+ 0001:0000082c       ??_C@_1BG@MICALLFD@?$AAN?$AA?0?$AAX?$AAI?$AA?0?$AAX?$AA4?$AA?0?$AAX?$AA6?$AA?$AA@ 1000182c     Pclass.obj
+ 0001:00000844       ??_C@_1BA@CAEMMMKJ@?$AA0?$AA?0?$AA4?$AA?0?$AA9?$AA?0?$AA9?$AA?$AA@ 10001844     Pclass.obj
+ 0001:00000854       ??_C@_1DI@NKOPFHII@?$AAN?$AA?0?$AAX?$AAI?$AA?0?$AAX?$AA4?$AA?0?$AAX?$AA6?$AA?0?$AAX?$AA1?$AA0?$AA?0?$AAX?$AA1?$AA2?$AA?0?$AAX?$AA0?$AA?0?$AAX?$AA1?$AA?0?$AAX?$AA2?$AA?$AA@ 10001854     Pclass.obj
+ 0001:0000088c       ??_C@_1CG@HGJJIJIH@?$AA1?$AA2?$AA?0?$AA4?$AA?0?$AA0?$AA?0?$AA0?$AA?0?$AA0?$AA?0?$AA0?$AA?0?$AA8?$AA?0?$AA8?$AA?0?$AA8?$AA?$AA@ 1000188c     Pclass.obj
+ 0001:000008b4       ??_C@_19ILLMDDHI@?$AAN?$AA?0?$AAZ?$AAD?$AA?$AA@ 100018b4     Pclass.obj
+ 0001:000008c0       ??_C@_19NMOJBHGD@?$AA1?$AA2?$AA?0?$AA0?$AA?$AA@ 100018c0     Pclass.obj
+ 0001:000008d0       ??_C@_1EA@HPDEOPPH@?$AAN?$AA?0?$AAX?$AAP?$AA?0?$AAX?$AA0?$AAS?$AA?0?$AAX?$AA1?$AAS?$AA?0?$AAX?$AA2?$AAS?$AA?0?$AAX?$AA1?$AA1?$AAS?$AA?0?$AAX?$AA1?$AA4?$AAS?$AA?0?$AAX?$AA1?$AA8?$AAS?$AA?$AA@ 100018d0     Pclass.obj
+ 0001:00000910       ??_C@_1CA@MGMNHCLL@?$AA0?$AA?0?$AA2?$AA?0?$AA3?$AA?0?$AA2?$AA?0?$AA2?$AA?0?$AA3?$AA?0?$AA4?$AA?0?$AA3?$AA?$AA@ 10001910     Pclass.obj
+ 0001:00000930       ??_C@_1O@JGFFCAGM@?$AAN?$AA?0?$AAX?$AAI?$AA?0?$AAO?$AA?$AA@ 10001930     Pclass.obj
+ 0001:00000940       ??_C@_1O@LAHJLGAL@?$AA0?$AA?0?$AA5?$AA?0?$AA1?$AA5?$AA?$AA@ 10001940     Pclass.obj
+ 0001:00000950       ??_C@_1CC@FANCGEGE@?$AAN?$AA?0?$AAX?$AAI?$AA?0?$AAX?$AAT?$AA?0?$AAX?$AA3?$AA?0?$AAX?$AAG?$AA?0?$AAX?$AAU?$AA?$AA@ 10001950     Pclass.obj
+ 0001:00000974       ??_C@_1BI@DGDJEDOL@?$AA0?$AA?0?$AA4?$AA?0?$AA3?$AA?0?$AA4?$AA?0?$AA4?$AA?0?$AA4?$AA?$AA@ 10001974     Pclass.obj
+ 0001:000009e0       ??_C@_1BG@COBJEPBB@?$AAN?$AA?0?$AAX?$AAI?$AA?0?$AAX?$AAT?$AA?0?$AAX?$AA3?$AA?$AA@ 100019e0     Pclass.obj
+ 0001:000009f8       ??_C@_1BA@EDOGAILM@?$AA0?$AA?0?$AA4?$AA?0?$AA3?$AA?0?$AA4?$AA?$AA@ 100019f8     Pclass.obj
+ 0001:00000a08       ??_C@_1O@CBODAMOP@?$AAM?$AAo?$AAd?$AAe?$AA?$CF?$AAd?$AA?$AA@ 10001a08     Pclass.obj
+ 0001:00000a18       ??_C@_1CA@HLBJOHGN@?$AAF?$AAu?$AAl?$AAl?$AAS?$AAc?$AAr?$AAe?$AAe?$AAn?$AAL?$AAo?$AAc?$AAa?$AAl?$AA?$AA@ 10001a18     Pclass.obj
+ 0001:00000a38       ??_C@_1CC@EBBNDNOD@?$AAF?$AAu?$AAl?$AAl?$AAS?$AAc?$AAr?$AAe?$AAe?$AAn?$AAR?$AAe?$AAm?$AAo?$AAt?$AAe?$AA?$AA@ 10001a38     Pclass.obj
+ 0001:00000a5c       ??_C@_1BK@HMOODHKK@?$AAC?$AAo?$AAl?$AAu?$AAm?$AAn?$AAs?$AAL?$AAo?$AAc?$AAa?$AAl?$AA?$AA@ 10001a5c     Pclass.obj
+ 0001:00000a78       ??_C@_1BM@EDHFKJEJ@?$AAC?$AAo?$AAl?$AAu?$AAm?$AAn?$AAs?$AAR?$AAe?$AAm?$AAo?$AAt?$AAe?$AA?$AA@ 10001a78     Pclass.obj
+ 0001:00000a94       ??_C@_1BI@FOOHDOCI@?$AAW?$AAi?$AAd?$AAt?$AAh?$AAs?$AAL?$AAo?$AAc?$AAa?$AAl?$AA?$AA@ 10001a94     Pclass.obj
+ 0001:00000aac       ??_C@_1BK@DDBMMJCN@?$AAW?$AAi?$AAd?$AAt?$AAh?$AAs?$AAR?$AAe?$AAm?$AAo?$AAt?$AAe?$AA?$AA@ 10001aac     Pclass.obj
+ 0001:00000ac8       ??_C@_13DEFPDAGF@?$AA?0?$AA?$AA@ 10001ac8     Pclass.obj
+ 0001:00000acc       ??_C@_15LNKNCLHH@?$AAS?$AAs?$AA?$AA@ 10001acc     Pclass.obj
+ 0001:00000ad4       ??_C@_1BA@MFHNOFIJ@?$AA?$CF?$AAs?$AA?3?$AA?5?$AA?$CF?$AAs?$AA?5?$AA?$AA@ 10001ad4     Pclass.obj
+ 0001:00000ae4       ??_C@_19MPDKCIDK@?$AA?5?$AA?$CF?$AAs?$AA?5?$AA?$AA@ 10001ae4     Pclass.obj
+ 0001:00000af0       ??_C@_15JOGBDECP@?$AA?0?$AA?5?$AA?$AA@ 10001af0     Pclass.obj
+ 0001:00000af8       ??_C@_15DNHPCDHG@?$AAT?$AAt?$AA?$AA@ 10001af8     Pclass.obj
+ 0001:00000b18       ??_C@_19GGNHIDOH@?$AA?4?$AAt?$AAx?$AAt?$AA?$AA@ 10001b18     Pclass.obj
+ 0001:00000b24       ??_C@_1O@CNKEJBH@?$AA?0?$AA?5?$AA?$CF?$AAd?$AA?$CF?$AAs?$AA?$AA@ 10001b24     Pclass.obj
+ 0001:00000b34       ??_C@_1BC@NEODPHBM@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAs?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10001b34     Pclass.obj
+ 0001:00000b48       ??_C@_1O@CIJHDDGA@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10001b48     Pclass.obj
+ 0001:00000b58       ??_C@_1O@DGEEABED@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAd?$AA?6?$AA?$AA@ 10001b58     Pclass.obj
+ 0001:00000b68       ??_C@_1BC@CLLLJKLA@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AA0?$AA8?$AAX?$AA?6?$AA?$AA@ 10001b68     Pclass.obj
+ 0001:00000b7c       ??_C@_17GMPJMPF@?$AA?$CF?$AAs?$AA?5?$AA?$AA@ 10001b7c     Pclass.obj
+ 0001:00000b84       ??_C@_1BE@OMBNFFBH@?$AA?$CF?$AAu?$AA?5?$AA?5?$AA?$CI?$AA?$CF?$AAs?$AA?$CJ?$AA?6?$AA?$AA@ 10001b84     Pclass.obj
+ 0001:00000b98       ??_C@_17BPBJDALC@?$AA?$CF?$AAu?$AA?6?$AA?$AA@ 10001b98     Pclass.obj
+ 0001:00000ba0       ??_C@_1M@LFADDFHG@?$AA?$CF?$AA0?$AA8?$AAX?$AA?6?$AA?$AA@ 10001ba0     Pclass.obj
+ 0001:00000bac       ??_C@_1O@POMONAHN@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAu?$AA?6?$AA?$AA@ 10001bac     Pclass.obj
+ 0001:00000bbc       ??_C@_1BG@MDLBKGIE@?$AA?6?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10001bbc     Pclass.obj
+ 0001:00000bd4       ??_C@_1BA@OBCELLNO@?$AA?6?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10001bd4     Pclass.obj
+ 0001:00000be4       ??_C@_1BC@MLKIHIFN@?$AA?6?$AA?$CF?$AAs?$AA?3?$AA?6?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10001be4     Pclass.obj
+ 0001:00000bf8       ??_C@_1BA@DHHNFIMD@?$AA?6?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAu?$AA?6?$AA?$AA@ 10001bf8     Pclass.obj
+ 0001:00000c08       ??_C@_1BE@JKDBKCGH@?$AA?$CF?$AA?9?$AA2?$AA2?$AAs?$AA?5?$AA?$CF?$AAp?$AA?6?$AA?$AA@ 10001c08     Pclass.obj
+ 0001:00000c1c       ??_C@_1M@NOMFOFMP@?$AAH?$AAW?$AAN?$AAD?$AA?3?$AA?$AA@ 10001c1c     Pclass.obj
+ 0001:00000ca8       ??_C@_1BC@OMEIHGFC@?$AAW?$AAS?$AA_?$AAP?$AAO?$AAP?$AAU?$AAP?$AA?$AA@ 10001ca8     Pclass.obj
+ 0001:00000cbc       ??_C@_1BC@ONEEOLLM@?$AAW?$AAS?$AA_?$AAC?$AAH?$AAI?$AAL?$AAD?$AA?$AA@ 10001cbc     Pclass.obj
+ 0001:00000cd0       ??_C@_1BI@GHDIGAD@?$AAW?$AAS?$AA_?$AAM?$AAI?$AAN?$AAI?$AAM?$AAI?$AAZ?$AAE?$AA?$AA@ 10001cd0     Pclass.obj
+ 0001:00000ce8       ??_C@_1BG@KLPFHNBP@?$AAW?$AAS?$AA_?$AAV?$AAI?$AAS?$AAI?$AAB?$AAL?$AAE?$AA?$AA@ 10001ce8     Pclass.obj
+ 0001:00000d00       ??_C@_1BI@NKODCGOF@?$AAW?$AAS?$AA_?$AAD?$AAI?$AAS?$AAA?$AAB?$AAL?$AAE?$AAD?$AA?$AA@ 10001d00     Pclass.obj
+ 0001:00000d18       ??_C@_1CA@PCFJBBHH@?$AAW?$AAS?$AA_?$AAC?$AAL?$AAI?$AAP?$AAS?$AAI?$AAB?$AAL?$AAI?$AAN?$AAG?$AAS?$AA?$AA@ 10001d18     Pclass.obj
+ 0001:00000d38       ??_C@_1CA@MPLGGIO@?$AAW?$AAS?$AA_?$AAC?$AAL?$AAI?$AAP?$AAC?$AAH?$AAI?$AAL?$AAD?$AAR?$AAE?$AAN?$AA?$AA@ 10001d38     Pclass.obj
+ 0001:00000d58       ??_C@_1BI@OLBAGOJG@?$AAW?$AAS?$AA_?$AAM?$AAA?$AAX?$AAI?$AAM?$AAI?$AAZ?$AAE?$AA?$AA@ 10001d58     Pclass.obj
+ 0001:00000d70       ??_C@_1BE@DAMMEKNP@?$AAW?$AAS?$AA_?$AAB?$AAO?$AAR?$AAD?$AAE?$AAR?$AA?$AA@ 10001d70     Pclass.obj
+ 0001:00000d84       ??_C@_1BI@EDHINADK@?$AAW?$AAS?$AA_?$AAD?$AAL?$AAG?$AAF?$AAR?$AAA?$AAM?$AAE?$AA?$AA@ 10001d84     Pclass.obj
+ 0001:00000d9c       ??_C@_1BG@CKCLFGFA@?$AAW?$AAS?$AA_?$AAV?$AAS?$AAC?$AAR?$AAO?$AAL?$AAL?$AA?$AA@ 10001d9c     Pclass.obj
+ 0001:00000db4       ??_C@_1BG@OMIOJOGF@?$AAW?$AAS?$AA_?$AAH?$AAS?$AAC?$AAR?$AAO?$AAL?$AAL?$AA?$AA@ 10001db4     Pclass.obj
+ 0001:00000dcc       ??_C@_1BG@KJOBMDJC@?$AAW?$AAS?$AA_?$AAS?$AAY?$AAS?$AAM?$AAE?$AAN?$AAU?$AA?$AA@ 10001dcc     Pclass.obj
+ 0001:00000de4       ??_C@_1BM@GPNNOPCH@?$AAW?$AAS?$AA_?$AAT?$AAH?$AAI?$AAC?$AAK?$AAF?$AAR?$AAA?$AAM?$AAE?$AA?$AA@ 10001de4     Pclass.obj
+ 0001:00000e00       ??_C@_1BO@FODKBODI@?$AAW?$AAS?$AA_?$AAM?$AAI?$AAN?$AAI?$AAM?$AAI?$AAZ?$AAE?$AAB?$AAO?$AAX?$AA?$AA@ 10001e00     Pclass.obj
+ 0001:00000e20       ??_C@_1BO@IDJMAOMI@?$AAW?$AAS?$AA_?$AAM?$AAA?$AAX?$AAI?$AAM?$AAI?$AAZ?$AAE?$AAB?$AAO?$AAX?$AA?$AA@ 10001e20     Pclass.obj
+ 0001:00000ee0       ??_C@_1CI@PKBCIOPN@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAD?$AAL?$AAG?$AAM?$AAO?$AAD?$AAA?$AAL?$AAF?$AAR?$AAA?$AAM?$AAE?$AA?$AA@ 10001ee0     Pclass.obj
+ 0001:00000f08       ??_C@_1CK@KJECLHMG@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAN?$AAO?$AAP?$AAA?$AAR?$AAE?$AAN?$AAT?$AAN?$AAO?$AAT?$AAI?$AAF?$AAY?$AA?$AA@ 10001f08     Pclass.obj
+ 0001:00000f34       ??_C@_1BM@OCBKBALE@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAT?$AAO?$AAP?$AAM?$AAO?$AAS?$AAT?$AA?$AA@ 10001f34     Pclass.obj
+ 0001:00000f50       ??_C@_1CE@JIDMMICL@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAA?$AAC?$AAC?$AAE?$AAP?$AAT?$AAF?$AAI?$AAL?$AAE?$AAS?$AA?$AA@ 10001f50     Pclass.obj
+ 0001:00000f74       ??_C@_1CE@PFFPBMCF@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAT?$AAR?$AAA?$AAN?$AAS?$AAP?$AAA?$AAR?$AAE?$AAN?$AAT?$AA?$AA@ 10001f74     Pclass.obj
+ 0001:00000f98       ??_C@_1BO@MEOEJPLO@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAM?$AAD?$AAI?$AAC?$AAH?$AAI?$AAL?$AAD?$AA?$AA@ 10001f98     Pclass.obj
+ 0001:00000fb8       ??_C@_1CC@IEIGGJGG@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAT?$AAO?$AAO?$AAL?$AAW?$AAI?$AAN?$AAD?$AAO?$AAW?$AA?$AA@ 10001fb8     Pclass.obj
+ 0001:00000fdc       ??_C@_1CC@PLPNIKGL@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAW?$AAI?$AAN?$AAD?$AAO?$AAW?$AAE?$AAD?$AAG?$AAE?$AA?$AA@ 10001fdc     Pclass.obj
+ 0001:00001000       ??_C@_1CC@IAPGCLEG@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAC?$AAL?$AAI?$AAE?$AAN?$AAT?$AAE?$AAD?$AAG?$AAE?$AA?$AA@ 10002000     Pclass.obj
+ 0001:00001024       ??_C@_1CE@EANKNCIF@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAC?$AAO?$AAN?$AAT?$AAE?$AAX?$AAT?$AAH?$AAE?$AAL?$AAP?$AA?$AA@ 10002024     Pclass.obj
+ 0001:00001048       ??_C@_1BI@GFIADCMK@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAR?$AAI?$AAG?$AAH?$AAT?$AA?$AA@ 10002048     Pclass.obj
+ 0001:00001060       ??_C@_1CC@JOFCJJPB@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAR?$AAT?$AAL?$AAR?$AAE?$AAA?$AAD?$AAI?$AAN?$AAG?$AA?$AA@ 10002060     Pclass.obj
+ 0001:00001084       ??_C@_1CI@EFLDECAB@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAL?$AAE?$AAF?$AAT?$AAS?$AAC?$AAR?$AAO?$AAL?$AAL?$AAB?$AAA?$AAR?$AA?$AA@ 10002084     Pclass.obj
+ 0001:000010ac       ??_C@_1CI@CIFGFFJB@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAC?$AAO?$AAN?$AAT?$AAR?$AAO?$AAL?$AAP?$AAA?$AAR?$AAE?$AAN?$AAT?$AA?$AA@ 100020ac     Pclass.obj
+ 0001:000010d4       ??_C@_1CC@BGEPLDCA@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAS?$AAT?$AAA?$AAT?$AAI?$AAC?$AAE?$AAD?$AAG?$AAE?$AA?$AA@ 100020d4     Pclass.obj
+ 0001:000010f8       ??_C@_1CA@DOAIHHLO@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAA?$AAP?$AAP?$AAW?$AAI?$AAN?$AAD?$AAO?$AAW?$AA?$AA@ 100020f8     Pclass.obj
+ 0001:00001118       ??_C@_1BM@FAODAMGD@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAL?$AAA?$AAY?$AAE?$AAR?$AAE?$AAD?$AA?$AA@ 10002118     Pclass.obj
+ 0001:00001134       ??_C@_1CM@DJKNBOGD@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAN?$AAO?$AAI?$AAN?$AAH?$AAE?$AAR?$AAI?$AAT?$AAL?$AAA?$AAY?$AAO?$AAU?$AAT?$AA?$AA@ 10002134     Pclass.obj
+ 0001:00001160       ??_C@_1CA@KMHLBMFI@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAL?$AAA?$AAY?$AAO?$AAU?$AAT?$AAR?$AAT?$AAL?$AA?$AA@ 10002160     Pclass.obj
+ 0001:00001180       ??_C@_1CC@LOFMDOPL@?$AAW?$AAS?$AA_?$AAE?$AAX?$AA_?$AAN?$AAO?$AAA?$AAC?$AAT?$AAI?$AAV?$AAA?$AAT?$AAE?$AA?$AA@ 10002180     Pclass.obj
+ 0001:000011a4       ??_C@_13HOIJIPNN@?$AA?5?$AA?$AA@ 100021a4     Pclass.obj
+ 0001:000011a8       ??_C@_1BO@LJMHGFAK@?$AA?$CF?$AA?9?$AA2?$AA2?$AAs?$AA?5?$AA?$CF?$AA0?$AA8?$AAX?$AA?5?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 100021a8     Pclass.obj
+ 0001:000011c8       ??_C@_1BE@PEGLKBKB@?$AA?6?$AA?$CF?$AAs?$AA?6?$AA?$CF?$AAs?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 100021c8     Pclass.obj
+ 0001:000011dc       ??_C@_17JJIMNMHK@?$AA?5?$AA?$CG?$AA?$FO?$AA?$AA@ 100021dc     Pclass.obj
+ 0001:000011e4       ??_C@_15DDHGOCBH@?$AA?4?$AA?4?$AA?$AA@ 100021e4     Pclass.obj
+ 0001:000011ec       ??_C@_17FJPEEFCB@?$AAp?$AAr?$AAc?$AA?$AA@ 100021ec     Pclass.obj
+ 0001:000011f4       ??_C@_1BC@ENICKDH@?$AAC?$AAo?$AAn?$AAt?$AAe?$AAn?$AAt?$AAs?$AA?$AA@ 100021f4     Pclass.obj
+ 0001:00001208       ??_C@_1CK@DGKCELDD@?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AAL?$AAi?$AAs?$AAt?$AA?4?$AAC?$AAo?$AAm?$AAp?$AAu?$AAt?$AAe?$AAr?$AA?$AA@ 10002208     Pclass.obj
+ 0001:00001234       ??_C@_1CK@ECJCGOEK@?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AAL?$AAi?$AAs?$AAt?$AA?4?$AAU?$AAs?$AAe?$AAr?$AAn?$AAa?$AAm?$AAe?$AA?$AA@ 10002234     Pclass.obj
+ 0001:00001260       ??_C@_15LEKKCGMK@?$AA?2?$AA?2?$AA?$AA@ 10002260     Pclass.obj
+ 0001:0000127c       ??_C@_1M@HKFBKEEN@?$AA?$CF?$AA?$CF?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 1000227c     Pclass.obj
+ 0001:00001288       ??_C@_1M@MOFLFCEC@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 10002288     Pclass.obj
+ 0001:00001294       ??_C@_17DJGLCLAO@?$AA?$CF?$AAs?$AA?3?$AA?$AA@ 10002294     Pclass.obj
+ 0001:0000129c       ??_C@_1M@EJMLOAMM@?$AA?$CF?$AA?9?$AA2?$AA2?$AAs?$AA?$AA@ 1000229c     Pclass.obj
+ 0001:000012d8       ??_C@_1CE@OMPPCAIJ@?$AA?$CF?$AAd?$AA?5?$AA?$CF?$AA0?$AA2?$AAd?$AA?3?$AA?$CF?$AA0?$AA2?$AAd?$AA?3?$AA?$CF?$AA0?$AA2?$AAd?$AA?$AA@ 100022d8     Pclass.obj
+ 0001:000012fc       ??_C@_1BO@EHJBCONC@?$AA?$CF?$AA0?$AA2?$AAd?$AA?3?$AA?$CF?$AA0?$AA2?$AAd?$AA?3?$AA?$CF?$AA0?$AA2?$AAd?$AA?$AA@ 100022fc     Pclass.obj
+ 0001:0000131c       ??_C@_17JLFEDMMI@?$AA?$DP?$AA?$DP?$AA?$DP?$AA?$AA@ 1000231c     Pclass.obj
+ 0001:00001344       ??_C@_1CG@PJJCHAJ@?$AA?2?$AA?$CF?$AAs?$AA?2?$AA?$CF?$AAs?$AA?2?$AAF?$AAi?$AAl?$AAe?$AAV?$AAe?$AAr?$AAs?$AAi?$AAo?$AAn?$AA?$AA@ 10002344     Pclass.obj
+ 0001:0000136c       ??_C@_1CO@PDLCNLLF@?$AA?2?$AA?$CF?$AAs?$AA?2?$AA?$CF?$AAs?$AA?2?$AAF?$AAi?$AAl?$AAe?$AAD?$AAe?$AAs?$AAc?$AAr?$AAi?$AAp?$AAt?$AAi?$AAo?$AAn?$AA?$AA@ 1000236c     Pclass.obj
+ 0001:0000139c       ??_C@_17CHCGIDNB@?$AA?$CF?$AAs?$AA?2?$AA?$AA@ 1000239c     Pclass.obj
+ 0001:000013a4       ??_C@_1M@CBILFCKF@?$AA?5?$AA?$CI?$AA?$CF?$AAs?$AA?$CJ?$AA?$AA@ 100023a4     Pclass.obj
+ 0001:000013b0       ??_C@_1BC@OMEIBLAI@?$AAw?$AAb?$AAe?$AAm?$AAc?$AAo?$AAm?$AAn?$AA?$AA@ 100023b0     Pclass.obj
+ 0001:000013c4       ??_C@_1CC@DNHMJIKH@?$AA?$CF?$AA?5?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AAo?$AAr?$AA?5?$AAT?$AAi?$AAm?$AAe?$AA?$AA@ 100023c4     perfthread.obj
+ 0001:000013e8       ??_C@_1CE@FNEMIHOD@?$AA?$CF?$AA?5?$AAP?$AAr?$AAi?$AAv?$AAi?$AAl?$AAe?$AAg?$AAe?$AAd?$AA?5?$AAT?$AAi?$AAm?$AAe?$AA?$AA@ 100023e8     perfthread.obj
+ 0001:0000140c       ??_C@_1BI@IIOPEKIO@?$AA?$CF?$AA?5?$AAU?$AAs?$AAe?$AAr?$AA?5?$AAT?$AAi?$AAm?$AAe?$AA?$AA@ 1000240c     perfthread.obj
+ 0001:00001424       ??_C@_1BK@FAAJNJIB@?$AAH?$AAa?$AAn?$AAd?$AAl?$AAe?$AA?5?$AAC?$AAo?$AAu?$AAn?$AAt?$AA?$AA@ 10002424     perfthread.obj
+ 0001:00001440       ??_C@_1CA@KJMNGIDJ@?$AAP?$AAa?$AAg?$AAe?$AA?5?$AAF?$AAi?$AAl?$AAe?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?$AA@ 10002440     perfthread.obj
+ 0001:00001460       ??_C@_1CK@FGGMBBIH@?$AAP?$AAa?$AAg?$AAe?$AA?5?$AAF?$AAi?$AAl?$AAe?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?5?$AAP?$AAe?$AAa?$AAk?$AA?$AA@ 10002460     perfthread.obj
+ 0001:0000148c       ??_C@_1BI@GCOMDKEO@?$AAW?$AAo?$AAr?$AAk?$AAi?$AAn?$AAg?$AA?5?$AAS?$AAe?$AAt?$AA?$AA@ 1000248c     perfthread.obj
+ 0001:000014a4       ??_C@_1CC@OFJLEPCP@?$AAW?$AAo?$AAr?$AAk?$AAi?$AAn?$AAg?$AA?5?$AAS?$AAe?$AAt?$AA?5?$AAP?$AAe?$AAa?$AAk?$AA?$AA@ 100024a4     perfthread.obj
+ 0001:000014c8       ??_C@_1CI@LLKMGPEG@?$AAP?$AAo?$AAo?$AAl?$AA?5?$AAN?$AAo?$AAn?$AAp?$AAa?$AAg?$AAe?$AAd?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?$AA@ 100024c8     perfthread.obj
+ 0001:000014f0       ??_C@_1CC@IMBAECJF@?$AAP?$AAo?$AAo?$AAl?$AA?5?$AAP?$AAa?$AAg?$AAe?$AAd?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?$AA@ 100024f0     perfthread.obj
+ 0001:00001514       ??_C@_1BM@DGDPAMAA@?$AAP?$AAr?$AAi?$AAv?$AAa?$AAt?$AAe?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?$AA@ 10002514     perfthread.obj
+ 0001:00001530       ??_C@_1CA@GADAGCME@?$AAP?$AAa?$AAg?$AAe?$AA?5?$AAF?$AAa?$AAu?$AAl?$AAt?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 10002530     perfthread.obj
+ 0001:00001550       ??_C@_1BM@FMIOMJAE@?$AAV?$AAi?$AAr?$AAt?$AAu?$AAa?$AAl?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?$AA@ 10002550     perfthread.obj
+ 0001:0000156c       ??_C@_1CG@KJOKFONA@?$AAV?$AAi?$AAr?$AAt?$AAu?$AAa?$AAl?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?5?$AAP?$AAe?$AAa?$AAk?$AA?$AA@ 1000256c     perfthread.obj
+ 0001:00001594       ??_C@_1CE@DFDFLLAO@?$AAI?$AAO?$AA?5?$AAD?$AAa?$AAt?$AAa?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 10002594     perfthread.obj
+ 0001:000015b8       ??_C@_1CE@EFLEKJAB@?$AAI?$AAO?$AA?5?$AAR?$AAe?$AAa?$AAd?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 100025b8     perfthread.obj
+ 0001:000015dc       ??_C@_1CG@MEJHKKKF@?$AAI?$AAO?$AA?5?$AAW?$AAr?$AAi?$AAt?$AAe?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 100025dc     perfthread.obj
+ 0001:00001604       ??_C@_1CG@LBBBPCJA@?$AAI?$AAO?$AA?5?$AAO?$AAt?$AAh?$AAe?$AAr?$AA?5?$AAB?$AAy?$AAt?$AAe?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 10002604     perfthread.obj
+ 0001:0000162c       ??_C@_1CO@LIEOHDCC@?$AAI?$AAO?$AA?5?$AAD?$AAa?$AAt?$AAa?$AA?5?$AAO?$AAp?$AAe?$AAr?$AAa?$AAt?$AAi?$AAo?$AAn?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 1000262c     perfthread.obj
+ 0001:0000165c       ??_C@_1CO@LIIKBHDH@?$AAI?$AAO?$AA?5?$AAR?$AAe?$AAa?$AAd?$AA?5?$AAO?$AAp?$AAe?$AAr?$AAa?$AAt?$AAi?$AAo?$AAn?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 1000265c     perfthread.obj
+ 0001:0000168c       ??_C@_1DA@HICMAFKK@?$AAI?$AAO?$AA?5?$AAW?$AAr?$AAi?$AAt?$AAe?$AA?5?$AAO?$AAp?$AAe?$AAr?$AAa?$AAt?$AAi?$AAo?$AAn?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 1000268c     perfthread.obj
+ 0001:000016bc       ??_C@_1DA@BEHINMGJ@?$AAI?$AAO?$AA?5?$AAO?$AAt?$AAh?$AAe?$AAr?$AA?5?$AAO?$AAp?$AAe?$AAr?$AAa?$AAt?$AAi?$AAo?$AAn?$AAs?$AA?1?$AAs?$AAe?$AAc?$AA?$AA@ 100026bc     perfthread.obj
+ 0001:000016f0       ??_C@_1HE@NBDABLAL@?$AAS?$AAo?$AAf?$AAt?$AAw?$AAa?$AAr?$AAe?$AA?2?$AAM?$AAi?$AAc?$AAr?$AAo?$AAs?$AAo?$AAf?$AAt?$AA?2?$AAW?$AAi?$AAn?$AAd?$AAo?$AAw?$AAs?$AA?5?$AAN?$AAT?$AA?2?$AAC?$AAu@ 100026f0     perfthread.obj
+ 0001:00001764       ??_C@_1BC@IICCDNLG@?$AAC?$AAo?$AAu?$AAn?$AAt?$AAe?$AAr?$AAs?$AA?$AA@ 10002764     perfthread.obj
+ 0001:00001778       ??_C@_1BG@NKNJPBCD@?$AAI?$AAD?$AA?5?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AA?$AA@ 10002778     perfthread.obj
+ 0001:00001790       ??_C@_1BM@KCAKLHJN@?$AAP?$AAr?$AAi?$AAo?$AAr?$AAi?$AAt?$AAy?$AA?5?$AAB?$AAa?$AAs?$AAe?$AA?$AA@ 10002790     perfthread.obj
+ 0001:000017ac       ??_C@_1BK@KCHPPKHP@?$AAT?$AAh?$AAr?$AAe?$AAa?$AAd?$AA?5?$AAC?$AAo?$AAu?$AAn?$AAt?$AA?$AA@ 100027ac     perfthread.obj
+ 0001:000017c8       ??_C@_1CI@FNIEMNAI@?$AAC?$AAr?$AAe?$AAa?$AAt?$AAi?$AAn?$AAg?$AA?5?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AA?5?$AAI?$AAD?$AA?$AA@ 100027c8     perfthread.obj
+ 0001:000017f0       ??_C@_1BK@IKAFHKBD@?$AAE?$AAl?$AAa?$AAp?$AAs?$AAe?$AAd?$AA?5?$AAT?$AAi?$AAm?$AAe?$AA?$AA@ 100027f0     perfthread.obj
+ 0001:0000180c       ??_C@_19DOGDICKI@?$AA?4?$AAe?$AAx?$AAe?$AA?$AA@ 1000280c     perfthread.obj
+ 0001:00001818       ??_C@_1CC@DMDJMJLM@?$AAS?$AAe?$AAD?$AAe?$AAb?$AAu?$AAg?$AAP?$AAr?$AAi?$AAv?$AAi?$AAl?$AAe?$AAg?$AAe?$AA?$AA@ 10002818     Plist.obj
+ 0001:0000183c       ??_C@_1M@GPDJLPMI@?$AA?4?$AA?$CF?$AA0?$AA3?$AAd?$AA?$AA@ 1000283c     Plist.obj
+ 0001:00001848       ??_C@_13EBCNDICG@?$AA?3?$AA?$AA@ 10002848     Plist.obj
+ 0001:0000184c       ??_C@_1O@KBBIJFEI@?$AA?$CF?$AA?9?$AA2?$AA4?$AAs?$AA?5?$AA?$AA@ 1000284c     Plist.obj
+ 0001:0000185c       ??_C@_1BC@CIAMCHCM@?$AA?$CF?$AA1?$AA0?$AAI?$AA6?$AA4?$AAu?$AA?6?$AA?$AA@ 1000285c     Plist.obj
+ 0001:00001870       ??_C@_1BA@DJJLONDK@?$AA?$CF?$AA1?$AA0?$AA?4?$AA0?$AAf?$AA?6?$AA?$AA@ 10002870     Plist.obj
+ 0001:00001880       ??_C@_1BI@HAFBCFCK@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AA7?$AA?4?$AA0?$AAf?$AA?$CF?$AA?$CF?$AA?6?$AA?$AA@ 10002880     Plist.obj
+ 0001:00001898       ??_C@_1CG@FOOPEKLK@?$AA?$CF?$AA1?$AA0?$AAI?$AA6?$AA4?$AAu?$AA?5?$AA?5?$AA?$CF?$AA5?$AAI?$AA6?$AA4?$AAu?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10002898     Plist.obj
+ 0001:000018c0       ??_C@_1CC@EKFMKAAC@?$AA?$CF?$AA1?$AA0?$AA?4?$AA0?$AAf?$AA?5?$AA?5?$AA?$CF?$AA5?$AA?4?$AA0?$AAf?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 100028c0     Plist.obj
+ 0001:000018e4       ??_C@_1BA@LFJAMCEC@?$AA?$CF?$AAs?$AA?5?$AA?$CF?$AAs?$AA?6?$AA?6?$AA?$AA@ 100028e4     Plist.obj
+ 0001:000018f4       ??_C@_19FJPIAKGM@?$AA?$CF?$AAs?$AA?6?$AA?6?$AA?$AA@ 100028f4     Plist.obj
+ 0001:00001900       ??_C@_17MJEANDKP@?$AA?$CF?$AAs?$AA?6?$AA?$AA@ 10002900     Plist.obj
+ 0001:00001908       ??_C@_1BE@KPJOOIA@?$AA?5?$AA?5?$AA?$CF?$AAp?$AA?5?$AA?5?$AA?$CF?$AA6?$AAX?$AA?$AA@ 10002908     Plist.obj
+ 0001:0000191c       ??_C@_17ENEANJDH@?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 1000291c     Plist.obj
+ 0001:00001924       ??_C@_1BG@FFJGBKCB@?$AAE?$AAr?$AAr?$AAo?$AAr?$AA?5?$AA0?$AAx?$AA?$CF?$AAx?$AA?$AA@ 10002924     Pmix.obj
+ 0001:0000193c       ??_C@_15JNBOKNOG@?$AA?$AN?$AA?6?$AA?$AA@ 1000293c     Pmix.obj
+ 0001:00001944       _IID_IWbemLocator          10002944     WMI.obj
+ 0001:00001954       _CLSID_WbemLocator         10002954     WMI.obj
+ 0001:00001964       ??_C@_1DA@BIBEJFMF@?$AAW?$AAi?$AAn?$AA3?$AA2?$AA_?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AA?4?$AAH?$AAa?$AAn?$AAd?$AAl?$AAe?$AA?$DN?$AA?$CF?$AAu?$AA?$AA@ 10002964     WMI.obj
+ 0001:00001994       ??_C@_1BO@CLCOBGDE@?$AAE?$AAx?$AAe?$AAc?$AAu?$AAt?$AAa?$AAb?$AAl?$AAe?$AAP?$AAa?$AAt?$AAh?$AA?$AA@ 10002994     WMI.obj
+ 0001:000019b4       ??_C@_1BC@JHNNEHFE@?$AAP?$AAr?$AAi?$AAo?$AAr?$AAi?$AAt?$AAy?$AA?$AA@ 100029b4     WMI.obj
+ 0001:000019c8       ??_C@_1BC@HJJANEGO@?$AAG?$AAe?$AAt?$AAO?$AAw?$AAn?$AAe?$AAr?$AA?$AA@ 100029c8     WMI.obj
+ 0001:000019dc       ??_C@_19PIJILKAI@?$AAU?$AAs?$AAe?$AAr?$AA?$AA@ 100029dc     WMI.obj
+ 0001:000019e8       ??_C@_1O@OAMNPMOM@?$AAD?$AAo?$AAm?$AAa?$AAi?$AAn?$AA?$AA@ 100029e8     WMI.obj
+ 0001:000019f8       ??_C@_1BI@OIPNMPCL@?$AAG?$AAe?$AAt?$AAO?$AAw?$AAn?$AAe?$AAr?$AAS?$AAi?$AAd?$AA?$AA@ 100029f8     WMI.obj
+ 0001:00001a10       ??_C@_17NKMLOKHF@?$AAS?$AAi?$AAd?$AA?$AA@ 10002a10     WMI.obj
+ 0001:00001a18       ??_C@_1BE@CFEJJKFE@?$AAS?$AAe?$AAs?$AAs?$AAi?$AAo?$AAn?$AAI?$AAd?$AA?$AA@ 10002a18     WMI.obj
+ 0001:00001a2c       ??_C@_1BM@MLGLIGHJ@?$AAW?$AAi?$AAn?$AA3?$AA2?$AA_?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AA?$AA@ 10002a2c     WMI.obj
+ 0001:00001a48       ??_C@_1BI@FLOHINJE@?$AAR?$AAe?$AAt?$AAu?$AAr?$AAn?$AAV?$AAa?$AAl?$AAu?$AAe?$AA?$AA@ 10002a48     WMI.obj
+ 0001:00001a60       ??_C@_1BI@NKNJJIDM@?$AAS?$AAe?$AAt?$AAP?$AAr?$AAi?$AAo?$AAr?$AAi?$AAt?$AAy?$AA?$AA@ 10002a60     WMI.obj
+ 0001:00001a78       ??_C@_1O@GGHBFGJC@?$AAR?$AAe?$AAa?$AAs?$AAo?$AAn?$AA?$AA@ 10002a78     WMI.obj
+ 0001:00001a88       ??_C@_1BE@PBPGMODO@?$AAT?$AAe?$AAr?$AAm?$AAi?$AAn?$AAa?$AAt?$AAe?$AA?$AA@ 10002a88     WMI.obj
+ 0001:00001a9c       ??_C@_13JOFGPIOO@?$AA?4?$AA?$AA@ 10002a9c     WMI.obj
+ 0001:00001aa0       ??_C@_1CA@ECJNGEII@?$AA?2?$AA?2?$AA?$CF?$AAs?$AA?2?$AAr?$AAo?$AAo?$AAt?$AA?2?$AAc?$AAi?$AAm?$AAv?$AA2?$AA?$AA@ 10002aa0     WMI.obj
+ 0001:00001ac0       _MainGuid                  10002ac0     Proclist.obj
+ 0001:00001ad0       _MenuGuid                  10002ad0     Proclist.obj
+ 0001:00001ae0       _ConfigDialogGuid          10002ae0     Proclist.obj
+ 0001:00001af0       ??_C@_1M@OAIMIKLP@?$AAn?$AAt?$AAd?$AAl?$AAl?$AA?$AA@ 10002af0     Proclist.obj
+ 0001:00001afc       ??_C@_0BK@EGDDIFMK@NtQueryInformationProcess?$AA@ 10002afc     Proclist.obj
+ 0001:00001b18       ??_C@_0BJ@HKKELGGC@NtQueryInformationThread?$AA@ 10002b18     Proclist.obj
+ 0001:00001b34       ??_C@_0O@IFMDHOMC@NtQueryObject?$AA@ 10002b34     Proclist.obj
+ 0001:00001b44       ??_C@_0BJ@NDLOPGCH@NtQuerySystemInformation?$AA@ 10002b44     Proclist.obj
+ 0001:00001b60       ??_C@_0BH@DLPGICA@NtQueryInformationFile?$AA@ 10002b60     Proclist.obj
+ 0001:00001b78       ??_C@_1BC@GDMECMAK@?$AAk?$AAe?$AAr?$AAn?$AAe?$AAl?$AA3?$AA2?$AA?$AA@ 10002b78     Proclist.obj
+ 0001:00001b8c       ??_C@_0P@LKABJJMO@IsWow64Process?$AA@ 10002b8c     Proclist.obj
+ 0001:00001b9c       ??_C@_1BC@DNHGCMLG@?$AAa?$AAd?$AAv?$AAa?$AAp?$AAi?$AA3?$AA2?$AA?$AA@ 10002b9c     Proclist.obj
+ 0001:00001bb0       ??_C@_0L@KJHKJIPF@IsValidSid?$AA@ 10002bb0     Proclist.obj
+ 0001:00001bbc       ??_C@_0BK@FIHGNING@GetSidIdentifierAuthority?$AA@ 10002bbc     Proclist.obj
+ 0001:00001bd8       ??_C@_0BI@LPFJALDI@GetSidSubAuthorityCount?$AA@ 10002bd8     Proclist.obj
+ 0001:00001bf0       ??_C@_0BD@LMGFHOAE@GetSidSubAuthority?$AA@ 10002bf0     Proclist.obj
+ 0001:00001c04       ??_C@_0BD@MCBOPCDK@LookupAccountNameW?$AA@ 10002c04     Proclist.obj
+ 0001:00001c18       ??_C@_1O@BCCLBEOE@?$AAu?$AAs?$AAe?$AAr?$AA3?$AA2?$AA?$AA@ 10002c18     Proclist.obj
+ 0001:00001c28       ??_C@_0BA@FKGDNIJG@GetGuiResources?$AA@ 10002c28     Proclist.obj
+ 0001:00001c38       ??_C@_1M@FFPAMFOB@?$AAo?$AAl?$AAe?$AA3?$AA2?$AA?$AA@ 10002c38     Proclist.obj
+ 0001:00001c44       ??_C@_0BC@IOEGILCE@CoSetProxyBlanket?$AA@ 10002c44     Proclist.obj
+ 0001:00001c58       ??_C@_1BC@PDEABLIN@?$AAP?$AAr?$AAo?$AAc?$AAL?$AAi?$AAs?$AAt?$AA?$AA@ 10002c58     Proclist.obj
+ 0001:00001c6c       ??_C@_1DK@DCAMPEPJ@?$AAP?$AAr?$AAo?$AAc?$AAe?$AAs?$AAs?$AA?5?$AAL?$AAi?$AAs?$AAt?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAF?$AAA?$AAR?$AA?5?$AAM?$AAa?$AAn?$AAa?$AAg?$AAe?$AAr?$AA?$AA@ 10002c6c     Proclist.obj
+ 0001:00001ca8       ??_C@_1DE@BGKMIKPD@?$AAE?$AAu?$AAg?$AAe?$AAn?$AAe?$AA?5?$AAR?$AAo?$AAs?$AAh?$AAa?$AAl?$AA?5?$AA?$CG?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AAG?$AAr?$AAo?$AAu?$AAp?$AA?$AA@ 10002ca8     Proclist.obj
+ 0001:00001cdc       ??_C@_1M@MNPEKPKO@?$AAp?$AAl?$AAi?$AAs?$AAt?$AA?$AA@ 10002cdc     Proclist.obj
+ 0001:00001d70       __alloca_probe             10002d70     chkstk.obj
+ 0001:00001d70       __chkstk                   10002d70 f   chkstk.obj
+ 0001:00001da0       ?fputc@@YAHHPAX@Z          10002da0 f   fileio.obj
+ 0001:00002270       ?PrintHandleInfo@@YA_NKPAX_NPAVPerfThread@@@Z 10003270 f   handles.obj
+ 0001:00002880       ??0?$DialogBuilderBase@UFarDialogItem@@@@IAE@XZ 10003880 f i PCFG.OBJ
+ 0001:000028f0       ??0PluginDialogBuilder@@QAE@ABUPluginStartupInfo@@ABU_GUID@@1HPB_WP6GHPAXHH3@Z3@Z 100038f0 f i PCFG.OBJ
+ 0001:000029b0       ??0PluginIntEditFieldBinding@@QAE@ABUPluginStartupInfo@@PAPAXHPAHH@Z 100039b0 f i PCFG.OBJ
+ 0001:00002a60       ??1?$DialogBuilderBase@UFarDialogItem@@@@MAE@XZ 10003a60 f i PCFG.OBJ
+ 0001:00002aa0       ??1PluginDialogBuilder@@UAE@XZ 10003aa0 f i PCFG.OBJ
+ 0001:00002ac0       ??_E?$DialogBuilderBase@UFarDialogItem@@@@MAEPAXI@Z 10003ac0 f i PCFG.OBJ
+ 0001:00002ac0       ??_G?$DialogBuilderBase@UFarDialogItem@@@@MAEPAXI@Z 10003ac0 f i PCFG.OBJ
+ 0001:00002ae0       ??_GPluginDialogBuilder@@UAEPAXI@Z 10003ae0 f i PCFG.OBJ
+ 0001:00002ae0       ??_EPluginDialogBuilder@@UAEPAXI@Z 10003ae0 f i PCFG.OBJ
+ 0001:00002b20       ?AddCheckbox@?$DialogBuilderBase@UFarDialogItem@@@@QAEPAUFarDialogItem@@HPAHH_N@Z 10003b20 f i PCFG.OBJ
+ 0001:00002be0       ?AddIntEditField@?$DialogBuilderBase@UFarDialogItem@@@@UAEPAUFarDialogItem@@PAHH@Z 10003be0 f i PCFG.OBJ
+ 0001:00002be0       ?CreateCheckBoxBinding@?$DialogBuilderBase@UFarDialogItem@@@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAHH@Z 10003be0 f i PCFG.OBJ
+ 0001:00002bf0       ?AddIntEditField@PluginDialogBuilder@@UAEPAUFarDialogItem@@PAHH@Z 10003bf0 f i PCFG.OBJ
+ 0001:00002cb0       ?AddOKCancel@?$DialogBuilderBase@UFarDialogItem@@@@QAEXHHH_N@Z 10003cb0 f i PCFG.OBJ
+ 0001:00002e10       ?AddSeparator@?$DialogBuilderBase@UFarDialogItem@@@@QAEXPB_W@Z 10003e10 f i PCFG.OBJ
+ 0001:00002e80       ?AddText@?$DialogBuilderBase@UFarDialogItem@@@@QAEPAUFarDialogItem@@H@Z 10003e80 f i PCFG.OBJ
+ 0001:00002f00       ?Config@@YAHXZ             10003f00 f   PCFG.OBJ
+ 0001:00003500       ?CreateCheckBoxBinding@PluginDialogBuilder@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAHH@Z 10004500 f i PCFG.OBJ
+ 0001:00003560       ?CreateRadioButtonBinding@PluginDialogBuilder@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAH@Z 10004560 f i PCFG.OBJ
+ 0001:000035b0       ?DoShowDialog@?$DialogBuilderBase@UFarDialogItem@@@@MAEHXZ 100045b0 f i PCFG.OBJ
+ 0001:000035c0       ?DoShowDialog@PluginDialogBuilder@@MAEHXZ 100045c0 f i PCFG.OBJ
+ 0001:00003610       ?GetLangString@PluginDialogBuilder@@MAEPB_WH@Z 10004610 f i PCFG.OBJ
+ 0001:00003630       ?InitDialogItem@PluginDialogBuilder@@MAEXPAUFarDialogItem@@PB_W@Z 10004630 f i PCFG.OBJ
+ 0001:00003650       ?ItemWidth@?$DialogBuilderBase@UFarDialogItem@@@@IAEHABUFarDialogItem@@@Z 10004650 f i PCFG.OBJ
+ 0001:000036c0       ?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IAEHXZ 100046c0 f i PCFG.OBJ
+ 0001:00003780       ?Read@_Opt@@SAXXZ          10004780 f   PCFG.OBJ
+ 0001:00003b10       ?ReallocDialogItems@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 10004b10 f i PCFG.OBJ
+ 0001:00003bf0       ?InitDialogItem@?$DialogBuilderBase@UFarDialogItem@@@@MAEXPAUFarDialogItem@@PB_W@Z 10004bf0 f i PCFG.OBJ
+ 0001:00003bf0       ?SaveValue@?$DialogItemBinding@UFarDialogItem@@@@UAEXPAUFarDialogItem@@H@Z 10004bf0 f i PCFG.OBJ
+ 0001:00003c00       ?SaveValue@PluginCheckBoxBinding@@UAEXPAUFarDialogItem@@H@Z 10004c00 f i PCFG.OBJ
+ 0001:00003c50       ?SaveValue@PluginIntEditFieldBinding@@UAEXPAUFarDialogItem@@H@Z 10004c50 f i PCFG.OBJ
+ 0001:00003c80       ?SaveValue@PluginRadioButtonBinding@@UAEXPAUFarDialogItem@@H@Z 10004c80 f i PCFG.OBJ
+ 0001:00003cb0       ?SaveValues@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 10004cb0 f i PCFG.OBJ
+ 0001:00003d00       ?ShowDialog@?$DialogBuilderBase@UFarDialogItem@@@@QAE_NXZ 10004d00 f i PCFG.OBJ
+ 0001:00003d40       ?TextWidth@?$DialogBuilderBase@UFarDialogItem@@@@MAEHABUFarDialogItem@@@Z 10004d40 f i PCFG.OBJ
+ 0001:00003d50       ?TextWidth@PluginDialogBuilder@@MAEHABUFarDialogItem@@@Z 10004d50 f i PCFG.OBJ
+ 0001:00003d60       ?UpdateBorderSize@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 10004d60 f i PCFG.OBJ
+ 0001:00003df0       ?UpdateSecondColumnPosition@?$DialogBuilderBase@UFarDialogItem@@@@IAEXXZ 10004df0 f i PCFG.OBJ
+ 0001:00003e50       ?Write@_Opt@@SAXXZ         10004e50 f   PCFG.OBJ
+ 0001:000040c0       ??0?$Array@UFarMenuItem@@@@QAE@K@Z 100050c0 f i Pclass.obj
+ 0001:00004100       ??0Plist@@QAE@XZ           10005100 f   Pclass.obj
+ 0001:00004290       ??0ui64Table@@QAE@XZ       10005290 f   Pclass.obj
+ 0001:000042d0       ??1Plist@@QAE@XZ           100052d0 f   Pclass.obj
+ 0001:00004320       ??_EPluginCheckBoxBinding@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_GPluginCheckBoxBinding@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_EPluginRadioButtonBinding@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_G?$DialogItemBinding@UFarDialogItem@@@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_E?$DialogItemBinding@UFarDialogItem@@@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_GPluginIntEditFieldBinding@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_EPluginEditFieldBinding@@UAEPAXI@Z 10005320 f i Pclass.obj
+ 0001:00004320       ??_EPluginIntEditFieldBinding@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_GPluginRadioButtonBinding@@UAEPAXI@Z 10005320 f i PCFG.OBJ
+ 0001:00004320       ??_GPluginEditFieldBinding@@UAEPAXI@Z 10005320 f i Pclass.obj
+ 0001:00004340       ?AddEditField@PluginDialogBuilder@@QAEPAUFarDialogItem@@PA_WHHPB_W_N@Z 10005340 f i Pclass.obj
+ 0001:00004440       ?AddPasswordField@PluginDialogBuilder@@QAEPAUFarDialogItem@@PA_WHH@Z 10005440 f i Pclass.obj
+ 0001:00004510       ?Compare@Plist@@QAEHPBUPluginPanelItem@@0I@Z 10005510 f   Pclass.obj
+ 0001:000046a0       ?Connect@Plist@@QAE_NPB_W00@Z 100056a0 f   Pclass.obj
+ 0001:00004880       ?ConnectWMI@Plist@@AAE_NXZ 10005880 f   Pclass.obj
+ 0001:00004900       ?DeleteFiles@Plist@@QAEHPAUPluginPanelItem@@H_K@Z 10005900 f   Pclass.obj
+ 0001:00004bd0       ?DisconnectWMI@Plist@@AAEXXZ 10005bd0 f   Pclass.obj
+ 0001:00004c00       ?EndColumns@?$DialogBuilderBase@UFarDialogItem@@@@QAEXXZ 10005c00 f i Pclass.obj
+ 0001:00004cc0       ?EnumWndProc@@YGHPAUHWND__@@J@Z 10005cc0 f   Pclass.obj
+ 0001:00004d40       ?FileTimeToText@Plist@@AAEXPAU_FILETIME@@0PA_W@Z 10005d40 f   Pclass.obj
+ 0001:00004ec0       ?FreeFindData@Plist@@QAEXPAUPluginPanelItem@@H@Z 10005ec0 f   Pclass.obj
+ 0001:00004f20       ?GeneratePanelModes@Plist@@AAEXXZ 10005f20 f   Pclass.obj
+ 0001:000054e0       ?GetFiles@Plist@@QAEHPAUPluginPanelItem@@HHPAPB_W_KAAU_Opt@@@Z 100064e0 f   Pclass.obj
+ 0001:000061e0       ?GetFindData@Plist@@QAEHAAPAUPluginPanelItem@@AAI_K@Z 100071e0 f   Pclass.obj
+ 0001:00006900       ?GetOpenPanelInfo@Plist@@QAEXPAUOpenPanelInfo@@@Z 10007900 f   Pclass.obj
+ 0001:00006a00       ?GetVersionInfo@Plist@@SA_NPA_WAAPAEAAPA_W2@Z 10007a00 f   Pclass.obj
+ 0001:00006b30       ?InitializePanelModes@Plist@@SAXXZ 10007b30 f   Pclass.obj
+ 0001:00006f40       ?PanelModes@Plist@@QAEPAUPanelMode@@AAI@Z 10007f40 f   Pclass.obj
+ 0001:00006fd0       ?PrintOwnerInfo@Plist@@AAEXPAXK@Z 10007fd0 f   Pclass.obj
+ 0001:000071c0       ?PrintTitle@Plist@@SAPA_WH@Z 100081c0 f   Pclass.obj
+ 0001:00007210       ?PrintVersionInfo@Plist@@AAEXPAXPA_W@Z 10008210 f   Pclass.obj
+ 0001:000072e0       ?ProcessEvent@Plist@@QAEHHPAX@Z 100082e0 f   Pclass.obj
+ 0001:00007490       ?ProcessKey@Plist@@QAEHPBU_INPUT_RECORD@@@Z 10008490 f   Pclass.obj
+ 0001:00008420       ?PutToCmdLine@Plist@@AAEXPA_W@Z 10009420 f   Pclass.obj
+ 0001:000084c0       ?Reread@Plist@@AAEXXZ      100094c0 f   Pclass.obj
+ 0001:00008540       ?SavePanelModes@Plist@@SAXXZ 10009540 f   Pclass.obj
+ 0001:00008790       ?SaveValue@PluginEditFieldBinding@@UAEXPAUFarDialogItem@@H@Z 10009790 f i Pclass.obj
+ 0001:000087c0       ?TranslateMode@Plist@@CA_NPB_WPA_W@Z 100097c0 f   Pclass.obj
+ 0001:000089e0       ?WmiError@Plist@@AAEXXZ    100099e0 f   Pclass.obj
+ 0001:00008ac0       ??0PerfThread@@QAE@AAVPlist@@PB_W11@Z 10009ac0 f   perfthread.obj
+ 0001:00008e70       ??1PerfThread@@QAE@XZ      10009e70 f   perfthread.obj
+ 0001:00008ef0       ?GetProcessData@PerfThread@@QBEPAUProcessPerfData@@KK@Z 10009ef0 f   perfthread.obj
+ 0001:00008f50       ?Refresh@PerfThread@@AAEXXZ 10009f50 f   perfthread.obj
+ 0001:00009690       ?RefreshWMIData@PerfThread@@AAEXXZ 1000a690 f   perfthread.obj
+ 0001:000097a0       ?SyncReread@PerfThread@@QAEXXZ 1000a7a0 f   perfthread.obj
+ 0001:000097d0       ?ThreadProc@PerfThread@@AAGKXZ 1000a7d0 f   perfthread.obj
+ 0001:00009890       ?ThreadProc@PerfThread@@CGKPAX@Z 1000a890 f   perfthread.obj
+ 0001:000098d0       ?CloseToken@DebugToken@@SAXXZ 1000a8d0 f   Plist.obj
+ 0001:000098f0       ?CreateToken@DebugToken@@SA_NXZ 1000a8f0 f   Plist.obj
+ 0001:000099b0       ?DumpNTCounters@@YAXPAXAAVPerfThread@@KK@Z 1000a9b0 f   Plist.obj
+ 0001:00009c40       ?Enable@DebugToken@@QAE_NXZ 1000ac40 f   Plist.obj
+ 0001:00009cc0       ?GetInternalProcessData@@YAHPAXPAU_LDR_MODULE@@AAPAU_RTL_USER_PROCESS_PARAMETERS@@AAPAD_N@Z 1000acc0 f   Plist.obj
+ 0001:00009db0       ?GetList@@YAHAAPAUPluginPanelItem@@AAIAAVPerfThread@@@Z 1000adb0 f   Plist.obj
+ 0001:0000a050       ?GetOpenProcessData@@YAXPAXPA_WK1K1KPAPA_W2@Z 1000b050 f   Plist.obj
+ 0001:0000a360       ?GetPDataNT@@YA_NAAUProcessDataNT@@AAUProcessPerfData@@@Z 1000b360 f   Plist.obj
+ 0001:0000a3e0       ?KillProcess@@YAHKPAUHWND__@@@Z 1000b3e0 f   Plist.obj
+ 0001:0000a4d0       ?OpenProcessForced@@YAPAXPAVDebugToken@@KKH@Z 1000b4d0 f   Plist.obj
+ 0001:0000a520       ?PrintModuleVersion@@YAXPAXPA_W1H@Z 1000b520 f   Plist.obj
+ 0001:0000a5f0       ?PrintModules@@YAXPAXKAAU_Opt@@@Z 1000b5f0 f   Plist.obj
+ 0001:0000a810       ?PrintNTCurDirAndEnv@@YAXPAX0H@Z 1000b810 f   Plist.obj
+ 0001:0000a950       ?PrintTime@@YAPA_WK_N@Z    1000b950 f   Plist.obj
+ 0001:0000a9e0       ?PrintTime@@YAPA_W_K_N@Z   1000b9e0 f   Plist.obj
+ 0001:0000aa50       ?Revert@DebugToken@@QAE_NXZ 1000ba50 f   Plist.obj
+ 0001:0000aa90       ?ConvertDate@@YAXABU_FILETIME@@PA_W1@Z 1000ba90 f   Pmix.obj
+ 0001:0000ab20       ?GetMsg@@YAPB_WH@Z         1000bb20 f   Pmix.obj
+ 0001:0000ab30       ?WinError@@YAHPA_W@Z       1000bb30 f   Pmix.obj
+ 0001:0000ac80       ??0WMIConnection@@QAE@XZ   1000bc80 f   WMI.obj
+ 0001:0000acb0       ??1WMIConnection@@QAE@XZ   1000bcb0 f   WMI.obj
+ 0001:0000acd0       ?Connect@WMIConnection@@QAE_NPB_W00@Z 1000bcd0 f   WMI.obj
+ 0001:0000ae20       ?Disconnect@WMIConnection@@QAEXXZ 1000be20 f   WMI.obj
+ 0001:0000ae40       ?ExecMethod@WMIConnection@@AAEHKPB_W0K@Z 1000be40 f   WMI.obj
+ 0001:0000b040       ?GetProcessExecutablePath@WMIConnection@@QAEXKPA_W@Z 1000c040 f   WMI.obj
+ 0001:0000b100       ?GetProcessOwner@WMIConnection@@QAEXKPA_W0@Z 1000c100 f   WMI.obj
+ 0001:0000b250       ?GetProcessPriority@WMIConnection@@QAEKK@Z 1000c250 f   WMI.obj
+ 0001:0000b310       ?GetProcessSessionId@WMIConnection@@QAEHK@Z 1000c310 f   WMI.obj
+ 0001:0000b3d0       ?GetProcessUserSid@WMIConnection@@QAEXKPA_W@Z 1000c3d0 f   WMI.obj
+ 0001:0000b4d0       ?SetProcessPriority@WMIConnection@@QAEHKK@Z 1000c4d0 f   WMI.obj
+ 0001:0000b4f0       ?TerminateProcess@WMIConnection@@QAEHK@Z 1000c4f0 f   WMI.obj
+ 0001:0000b530       ?CreateRadioButtonBinding@?$DialogBuilderBase@UFarDialogItem@@@@MAEPAU?$DialogItemBinding@UFarDialogItem@@@@PAH@Z 1000c530 f   PCFG.OBJ
+ 0001:0000b530       ?GetLangString@?$DialogBuilderBase@UFarDialogItem@@@@MAEPB_WH@Z 1000c530 f   PCFG.OBJ
+ 0001:0000b560       ?Message@@YAHIPA_WPAPB_WHH@Z 1000c560 f   Proclist.obj
+ 0001:0000b740       _ClosePanelW@4             1000c740 f   Proclist.obj
+ 0001:0000b760       _CompareW@4                1000c760 f   Proclist.obj
+ 0001:0000b780       _ConfigureW@4              1000c780 f   Proclist.obj
+ 0001:0000b790       _DeleteFilesW@4            1000c790 f   Proclist.obj
+ 0001:0000b7b0       _ExitFARW@4                1000c7b0 f   Proclist.obj
+ 0001:0000b7d0       _FreeFindDataW@4           1000c7d0 f   Proclist.obj
+ 0001:0000b7f0       _GetFilesW@4               1000c7f0 f   Proclist.obj
+ 0001:0000b820       _GetFindDataW@4            1000c820 f   Proclist.obj
+ 0001:0000b840       _GetGlobalInfoW@4          1000c840 f   Proclist.obj
+ 0001:0000b900       _GetOpenPanelInfoW@4       1000c900 f   Proclist.obj
+ 0001:0000b910       _GetPluginInfoW@4          1000c910 f   Proclist.obj
+ 0001:0000b9c0       _OpenW@4                   1000c9c0 f   Proclist.obj
+ 0001:0000ba40       _ProcessPanelEventW@4      1000ca40 f   Proclist.obj
+ 0001:0000ba60       _ProcessPanelInputW@4      1000ca60 f   Proclist.obj
+ 0001:0000ba80       _SetStartupInfoW@4         1000ca80 f   Proclist.obj
+ 0001:0000bb00       __DllMainCRTStartup@12     1000cb00 f   Proclist.obj
+ 0001:0000bb30       _free                      1000cb30 f   libCRT:free.obj
+ 0001:0000bb50       _malloc                    1000cb50 f   libCRT:malloc.obj
+ 0001:0000bb70       ??_V@YAXPAX@Z              1000cb70 f   libCRT:delete_array.obj
+ 0001:0000bb80       ??_U@YAPAXI@Z              1000cb80 f   libCRT:new_array.obj
+ 0001:0000bb90       __memicmp                  1000cb90 f   libCRT:memicmp.obj
+ 0001:0000bc00       ??2@YAPAXI@Z               1000cc00 f   libCRT:new.obj
+ 0001:0000bc10       ??3@YAXPAX@Z               1000cc10 f   libCRT:delete.obj
+ 0001:0000bc20       _memset                    1000cc20 f   libCRT:memset.obj
+ 0001:0000bdf0       _wcstol                    1000cdf0 f   libCRT:strtol.obj
+ 0001:0000be10       __ui64tow                  1000ce10 f   libCRT:i64toa.obj
+ 0001:0000be80       _wcschr                    1000ce80 f   libCRT:strchr.obj
+ 0001:0000beb0       _wcscspn                   1000ceb0 f   libCRT:strcspn.obj
+ 0001:0000bf00       _wcsncat                   1000cf00 f   libCRT:strncat.obj
+ 0001:0000bf50       _wcspbrk                   1000cf50 f   libCRT:strpbrk.obj
+ 0001:0000bfa0       _wcsrchr                   1000cfa0 f   libCRT:strrchr.obj
+ 0001:0000bfd0       _wcstok                    1000cfd0 f   libCRT:strtok.obj
+ 0001:0000c0a0       _wcsdup                    1000d0a0 f   libCRT:strdup.obj
+ 0001:0000c0e0       _memmove                   1000d0e0 f   libCRT:memmove.obj
+ 0001:0000c140       __aulldiv                  1000d140 f   libCRT:vc_ulldiv.obj
+ 0001:0000c1b0       _memcpy                    1000d1b0 f   libCRT:memcpy.obj
+ 0001:0000c1e0       __alldiv                   1000d1e0 f   libCRT:vc_lldiv.obj
+ 0001:0000c290       __allmul                   1000d290 f   libCRT:vc_llmul.obj
+ 0001:0000c2d0       __aullrem                  1000d2d0 f   libCRT:vc_ullrem.obj
+ 0001:0000c350       __aulldvrm                 1000d350 f   libCRT:vc_ulldvrm.obj
+ 0001:0000c3e6       _WNetAddConnection2W@16    1000d3e6 f   mpr:MPR.dll
+ 0001:0000c3ec       _WNetCancelConnection2W@12 1000d3ec f   mpr:MPR.dll
+ 0001:0000c3f2       _GetFileVersionInfoSizeW@8 1000d3f2 f   version:VERSION.dll
+ 0001:0000c3f8       _GetFileVersionInfoW@16    1000d3f8 f   version:VERSION.dll
+ 0001:0000c3fe       _VerQueryValueW@16         1000d3fe f   version:VERSION.dll
+ 0001:0000c404       __IMPORT_DESCRIPTOR_KERNEL32 1000d404     kernel32:KERNEL32.dll
+ 0001:0000c418       __IMPORT_DESCRIPTOR_USER32 1000d418     user32:USER32.dll
+ 0001:0000c42c       __IMPORT_DESCRIPTOR_ADVAPI32 1000d42c     advapi32:ADVAPI32.dll
+ 0001:0000c440       __IMPORT_DESCRIPTOR_ole32  1000d440     ole32:ole32.dll
+ 0001:0000c454       __IMPORT_DESCRIPTOR_MPR    1000d454     mpr:MPR.dll
+ 0001:0000c468       __IMPORT_DESCRIPTOR_VERSION 1000d468     version:VERSION.dll
+ 0001:0000c47c       __IMPORT_DESCRIPTOR_OLEAUT32 1000d47c     oleaut32:OLEAUT32.dll
+ 0001:0000c490       __NULL_IMPORT_DESCRIPTOR   1000d490     kernel32:KERNEL32.dll
+ 0002:00000000       ?DescIDs@@3PAHA            1000e000     Pclass.obj
+ 0002:00000080       ?Counters@@3PAU_Counters@@A 1000e080     perfthread.obj
+ 0002:00000188       ?pNtQueryInformationProcess@@3P6GJPAXW4_PROCESSINFOCLASS@@0KPAK@ZA 1000e188     Proclist.obj
+ 0002:0000018c       ?pNtQueryInformationThread@@3P6GJPAXK0KPAK@ZA 1000e18c     Proclist.obj
+ 0002:00000190       ?pNtQueryObject@@3P6GJPAXK0K0@ZA 1000e190     Proclist.obj
+ 0002:00000194       ?pNtQuerySystemInformation@@3P6GJKPAXKPAK@ZA 1000e194     Proclist.obj
+ 0002:00000198       ?pNtQueryInformationFile@@3P6GJPAX00KK@ZA 1000e198     Proclist.obj
+ 0002:0000019c       ?pIsValidSid@@3P6GHPAX@ZA  1000e19c     Proclist.obj
+ 0002:000001a0       ?pGetSidIdentifierAuthority@@3P6GPAU_SID_IDENTIFIER_AUTHORITY@@PAX@ZA 1000e1a0     Proclist.obj
+ 0002:000001a4       ?pGetSidSubAuthorityCount@@3P6GPAEPAX@ZA 1000e1a4     Proclist.obj
+ 0002:000001a8       ?pGetSidSubAuthority@@3P6GPAKPAXK@ZA 1000e1a8     Proclist.obj
+ 0002:000001ac       ?pLookupAccountName@@3P6GHPB_W0PAXPAKPA_W2PAW4_SID_NAME_USE@@@ZA 1000e1ac     Proclist.obj
+ 0002:000001b0       ?pIsWow64Process@@3P6GHPAXPAH@ZA 1000e1b0     Proclist.obj
+ 0002:000001b4       ?pGetGuiResources@@3P6GKPAXK@ZA 1000e1b4     Proclist.obj
+ 0002:000001b8       ?pCoSetProxyBlanket@@3P6GJPAUIUnknown@@KKPA_WKKPAXK@ZA 1000e1b8     Proclist.obj
+ 0002:000001c0       ?FPRINTFbuffer@@3PA_WA     1000e1c0     fileio.obj
+ 0002:000203c8       ?bInit@Plist@@2_NA         1002e3c8     Pclass.obj
+ 0002:000203d0       ?PanelModesLocal@Plist@@2PAUPanelMode@@A 1002e3d0     Pclass.obj
+ 0002:00020510       ?PanelModesRemote@Plist@@2PAUPanelMode@@A 1002e510     Pclass.obj
+ 0002:00020650       ?ProcPanelModesLocal@Plist@@2PAY0FA@_WA 1002e650     Pclass.obj
+ 0002:00020c90       ?ProcPanelModesRemote@Plist@@2PAY0FA@_WA 1002ec90     Pclass.obj
+ 0002:000212d0       ?PanelModeBuffer@Plist@@2PA_WA 1002f2d0     Pclass.obj
+ 0002:00024fd0       __fltused                  10032fd0     Plist.obj
+ 0002:00024fd4       ?hDebugToken@DebugToken@@0RAXA 10032fd4     Plist.obj
+ 0002:00025028       ?Info@@3UPluginStartupInfo@@A 10033028     Proclist.obj
+ 0002:000250b0       ?FSF@@3UFarStandardFunctions@@A 100330b0     Proclist.obj
+ 0002:0002516c       ?Opt@@3U_Opt@@A            1003316c     Proclist.obj
+ 0002:00025190       ?_ui64Table@@3PAVui64Table@@A 10033190     Proclist.obj
+ 0002:00025194       ?PluginRootKey@@3PA_WA     10033194     Proclist.obj
+
+ entry point at        0001:0000bb00
+
+ Static symbols
+
+ 0000:fffca000       .debug$S                   10000000     oleaut32:OLEAUT32.dll
+ 0000:fffca000       .debug$S                   10000000     oleaut32:OLEAUT32.dll
+ 0000:fffca000       .debug$S                   10000000     oleaut32:OLEAUT32.dll
+ 0000:fffca000       .debug$S                   10000000     version:VERSION.dll
+ 0000:fffca000       .debug$S                   10000000     version:VERSION.dll
+ 0000:fffca000       .debug$S                   10000000     version:VERSION.dll
+ 0000:fffca000       .debug$S                   10000000     mpr:MPR.dll
+ 0000:fffca000       .debug$S                   10000000     mpr:MPR.dll
+ 0000:fffca000       .debug$S                   10000000     ole32:ole32.dll
+ 0000:fffca000       .debug$S                   10000000     ole32:ole32.dll
+ 0000:fffca000       .debug$S                   10000000     ole32:ole32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     advapi32:ADVAPI32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     user32:USER32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:fffca000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0001:000001a8       _constStrTypes             100011a8     handles.obj
+ 0001:00000708       ?StatusWidth@?1??InitializePanelModes@Plist@@SAXXZ@4QB_WB 10001708     Pclass.obj
+ 0001:00000718       ?StatusCols@?1??InitializePanelModes@Plist@@SAXXZ@4QB_WB 10001718     Pclass.obj
+ 0001:00000728       ?DefaultModes@?1??InitializePanelModes@Plist@@SAXXZ@4QBU<unnamed-type-DefaultModes>@?1??12@SAXXZ@B 10001728     Pclass.obj
+ 0001:00000990       ?DefaultModesRemote@?1??InitializePanelModes@Plist@@SAXXZ@4QBU<unnamed-type-DefaultModes>@?1??12@SAXXZ@B 10001990     Pclass.obj
+ 0001:00000b00       ?invalid_chars@?1??GetFiles@Plist@@QAEHPAUPluginPanelItem@@HHPAPB_W_KAAU_Opt@@@Z@4QB_WB 10001b00     Pclass.obj
+ 0001:00000c28       ?Styles@?KI@??GetFiles@Plist@@QAEHPAUPluginPanelItem@@HHPAPB_W_KAAU_Opt@@@Z@4QBIB 10001c28     Pclass.obj
+ 0001:00000c68       ?StrStyles@?KI@??GetFiles@Plist@@QAEHPAUPluginPanelItem@@HHPAPB_W_KAAU_Opt@@@Z@4QBQB_WB 10001c68     Pclass.obj
+ 0001:00000e40       ?ExtStyles@?KI@??GetFiles@Plist@@QAEHPAUPluginPanelItem@@HHPAPB_W_KAAU_Opt@@@Z@4QBHB 10001e40     Pclass.obj
+ 0001:00000e90       ?StrExtStyles@?KI@??GetFiles@Plist@@QAEHPAUPluginPanelItem@@HHPAPB_W_KAAU_Opt@@@Z@4QBQB_WB 10001e90     Pclass.obj
+ 0001:00001268       ?PrClasses@?FJ@??ProcessKey@Plist@@QAEHPBU_INPUT_RECORD@@@Z@4QBGB 10002268     Pclass.obj
+ 0001:00001274       ?Pr@?ID@??ProcessKey@Plist@@QAEHPBU_INPUT_RECORD@@@Z@4QBEB 10002274     Pclass.obj
+ 0001:000012a8       ?MonthDays@?O@??FileTimeToText@Plist@@AAEXPAU_FILETIME@@0PA_W@Z@4QBHB 100022a8     Pclass.obj
+ 0001:00001324       ?WSFI@?1??GetVersionInfo@Plist@@SA_NPA_WAAPAEAAPA_W2@Z@4QB_WB 10002324     Pclass.obj
+ 0001:00001d70       $$000000                   10002d70     chkstk.obj
+ 0001:00001dd0       ?ConvertSid@@YAHPAXPA_WPAK@Z 10002dd0 f   handles.obj
+ 0001:00001f10       ?GetFileNameThread@@YGKPAX@Z 10002f10 f   handles.obj
+ 0001:00001f60       ?GetProcessId@@YAHPAXAAK@Z 10002f60 f   handles.obj
+ 0001:00001fc0       ?GetTypeFromTypeToken@@YAGPB_W@Z 10002fc0 f   handles.obj
+ 0001:00002000       ?GetTypeToken@@YA_NPAXPA_WK@Z 10003000 f   handles.obj
+ 0001:00002080       ?GetUserAccountID@@YAPB_WXZ 10003080 f   handles.obj
+ 0001:00002170       ?PrintFileName@@YA_NPAX0@Z 10003170 f   handles.obj
+ 0001:00002420       ?PrintNameAndType@@YA_NPAXK0PAVPerfThread@@@Z 10003420 f   handles.obj
+ 0001:00002580       ?PrintNameByType@@YA_NPAXG0PAVPerfThread@@@Z 10003580 f   handles.obj
+ 0001:00002be0       ?fGetSidSubAuthority@@YGPAKPAXK@Z 10003be0 f i PCFG.OBJ
+ 0001:00002be0       ?fGetGuiResources@@YGKPAXK@Z 10003be0 f i PCFG.OBJ
+ 0001:00002be0       ?fIsWow64Process@@YGHPAXPAH@Z 10003be0 f i PCFG.OBJ
+ 0001:000036a4       $LN12                      100046a4     PCFG.OBJ
+ 0001:000036b4       $LN10                      100046b4     PCFG.OBJ
+ 0001:0000375c       $LN23                      1000475c     PCFG.OBJ
+ 0001:0000376c       $LN21                      1000476c     PCFG.OBJ
+ 0001:00004bb8       $LN50                      10005bb8     Pclass.obj
+ 0001:00004c9c       $LN23                      10005c9c     Pclass.obj
+ 0001:00004cac       $LN20                      10005cac     Pclass.obj
+ 0001:000050cc       $LN55                      100060cc     Pclass.obj
+ 0001:000050d8       $LN51                      100060d8     Pclass.obj
+ 0001:000050fc       $LN56                      100060fc     Pclass.obj
+ 0001:00005104       $LN52                      10006104     Pclass.obj
+ 0001:0000513c       $LN57                      1000613c     Pclass.obj
+ 0001:00005144       $LN53                      10006144     Pclass.obj
+ 0001:00005180       ?GenerateTitles@@YAXQAY0FA@_WPAUPanelMode@@QAY0BI@PA_W@Z 10006180 f   Pclass.obj
+ 0001:000053f4       $LN68                      100063f4     Pclass.obj
+ 0001:00005404       $LN64                      10006404     Pclass.obj
+ 0001:00005434       $LN69                      10006434     Pclass.obj
+ 0001:00005448       $LN65                      10006448     Pclass.obj
+ 0001:00005480       $LN70                      10006480     Pclass.obj
+ 0001:000054a0       $LN66                      100064a0     Pclass.obj
+ 0001:00006858       $LN163                     10007858     Pclass.obj
+ 0001:0000686c       $LN151                     1000786c     Pclass.obj
+ 0001:000068a4       $LN164                     100078a4     Pclass.obj
+ 0001:000068c4       $LN152                     100078c4     Pclass.obj
+ 0001:00008934       $LN51                      10009934     Pclass.obj
+ 0001:00008940       $LN43                      10009940     Pclass.obj
+ 0001:00008964       $LN52                      10009964     Pclass.obj
+ 0001:0000896c       $LN44                      1000996c     Pclass.obj
+ 0001:000089a4       $LN53                      100099a4     Pclass.obj
+ 0001:000089ac       $LN45                      100099ac     Pclass.obj
+ 0001:00008a10       ?ui64toa_width@@YAX_KPA_WI_N@Z 10009a10 f   Pclass.obj
+ 0001:000098a0       ?getcounter@@YAHPA_W@Z     1000a8a0 f   perfthread.obj
+ 0001:00009cb0       ?FreeUserData@@YGXPAXPBUFarPanelItemFreeInfo@@@Z 1000acb0 f   Plist.obj
+ 0001:0000b510       ?fNtQuerySystemInformation@@YGJKPAXKPAK@Z 1000c510 f   Proclist.obj
+ 0001:0000b520       ?fNtQueryObject@@YGJPAXK0K0@Z 1000c520 f   Proclist.obj
+ 0001:0000b520       ?fNtQueryInformationProcess@@YGJPAXW4_PROCESSINFOCLASS@@0KPAK@Z 1000c520 f   Proclist.obj
+ 0001:0000b520       ?fNtQueryInformationFile@@YGJPAX00KK@Z 1000c520 f   Proclist.obj
+ 0001:0000b520       ?fNtQueryInformationThread@@YGJPAXK0KPAK@Z 1000c520 f   Proclist.obj
+ 0001:0000b530       ?fGetSidSubAuthorityCount@@YGPAEPAX@Z 1000c530 f   Proclist.obj
+ 0001:0000b530       ?fGetSidIdentifierAuthority@@YGPAU_SID_IDENTIFIER_AUTHORITY@@PAX@Z 1000c530 f   Proclist.obj
+ 0001:0000b530       ?fIsValidSid@@YGHPAX@Z     1000c530 f   Proclist.obj
+ 0001:0000b540       ?fLookupAccountName@@YGHPB_W0PAXPAKPA_W2PAW4_SID_NAME_USE@@@Z 1000c540 f   Proclist.obj
+ 0001:0000b550       ?fCoSetProxyBlanket@@YGJPAUIUnknown@@KKPA_WKKPAXK@Z 1000c550 f   Proclist.obj
+ 0001:0000b590       ?dynamic_bind@@YAXXZ       1000c590 f   Proclist.obj
+ 0001:0000bc50       ?strtoxl@@YAKPB_WPAPA_WHH@Z 1000cc50 f   libCRT:strtol.obj
+ 0001:0000c974       .idata$6                   1000d974     kernel32:KERNEL32.dll
+ 0001:0000ca5c       .idata$6                   1000da5c     user32:USER32.dll
+ 0001:0000cb3c       .idata$6                   1000db3c     advapi32:ADVAPI32.dll
+ 0001:0000cb80       .idata$6                   1000db80     ole32:ole32.dll
+ 0001:0000cbba       .idata$6                   1000dbba     mpr:MPR.dll
+ 0001:0000cc04       .idata$6                   1000dc04     version:VERSION.dll
+ 0001:0000cc10       .idata$6                   1000dc10     oleaut32:OLEAUT32.dll
+ 0001:0000cc20       .edata                     1000dc20     Proclist.exp
+ 0001:0000cc48       rgpv                       1000dc48     Proclist.exp
+ 0001:0000cc84       rgszName                   1000dc84     Proclist.exp
+ 0001:0000ccc0       rgwOrd                     1000dcc0     Proclist.exp
+ 0001:0000ccde       szName                     1000dcde     Proclist.exp
+ 0001:0000cceb       $N00001                    1000dceb     Proclist.exp
+ 0001:0000ccf7       $N00002                    1000dcf7     Proclist.exp
+ 0001:0000cd00       $N00003                    1000dd00     Proclist.exp
+ 0001:0000cd0b       $N00004                    1000dd0b     Proclist.exp
+ 0001:0000cd18       $N00005                    1000dd18     Proclist.exp
+ 0001:0000cd21       $N00006                    1000dd21     Proclist.exp
+ 0001:0000cd2f       $N00007                    1000dd2f     Proclist.exp
+ 0001:0000cd39       $N00008                    1000dd39     Proclist.exp
+ 0001:0000cd46       $N00009                    1000dd46     Proclist.exp
+ 0001:0000cd55       $N00010                    1000dd55     Proclist.exp
+ 0001:0000cd67       $N00011                    1000dd67     Proclist.exp
+ 0001:0000cd76       $N00012                    1000dd76     Proclist.exp
+ 0001:0000cd7c       $N00013                    1000dd7c     Proclist.exp
+ 0001:0000cd8f       $N00014                    1000dd8f     Proclist.exp
+ 0001:0000cda2       $N00015                    1000dda2     Proclist.exp
+ 0002:00000010       ?FKeys@?4??GetOpenPanelInfo@Plist@@QAEXPAUOpenPanelInfo@@@Z@4PAGA 1000e010     Pclass.obj
+ 0002:00000054       ?kbt@?4??GetOpenPanelInfo@Plist@@QAEXPAUOpenPanelInfo@@@Z@4UKeyBarTitles@@A 1000e054     Pclass.obj
+ 0002:0000005c       ?nr@?7??Connect@Plist@@QAE_NPB_W00@Z@4U_NETRESOURCEW@@A 1000e05c     Pclass.obj
+ 0002:000201c0       _pUserAccountID            1002e1c0     handles.obj
+ 0002:000201c8       ?UserAccountID@?1??GetUserAccountID@@YAPB_WXZ@4PA_WA 1002e1c8     handles.obj
+ 0002:000244d0       ?TitlesLocal@?1??PanelModes@Plist@@QAEPAUPanelMode@@AAI@Z@4PAY0BI@PA_WA 100324d0     Pclass.obj
+ 0002:00024890       ?TitlesRemote@?1??PanelModes@Plist@@QAEPAUPanelMode@@AAI@Z@4PAY0BI@PA_WA 10032890     Pclass.obj
+ 0002:00024c50       ?OldMsg0@?1??PanelModes@Plist@@QAEPAUPanelMode@@AAI@Z@4PB_WB 10032c50     Pclass.obj
+ 0002:00024c58       ?Title@?1??GetOpenPanelInfo@Plist@@QAEXPAUOpenPanelInfo@@@Z@4PA_WA 10032c58     Pclass.obj
+ 0002:00024d20       ?kbl@?4??GetOpenPanelInfo@Plist@@QAEXPAUOpenPanelInfo@@@Z@4PAUKeyBarLabel@@A 10032d20     Pclass.obj
+ 0002:00024dd0       ?FullStr@?1??PrintTitle@Plist@@SAPA_WH@Z@4PA_WA 10032dd0     Pclass.obj
+ 0002:00024fd8       ?buf@?1??PrintTime@@YAPA_WK_N@Z@4PA_WA 10032fd8     Plist.obj
+ 0002:00025018       ?items@?5??WinError@@YAHPA_W@Z@4PAPB_WA 10033018     Pmix.obj
+ 0002:00025198       ?Inited@?1??dynamic_bind@@YAXXZ@4HA 10033198     Proclist.obj
+ 0002:0002519c       ?PluginMenuStrings@?4??GetPluginInfoW@@9@4@4PAPB_WA 1003319c     Proclist.obj
+ 0002:000251a0       ?DiskMenuStrings@?7??GetPluginInfoW@@9@4@4PAPB_WA 100331a0     Proclist.obj
+ 0002:000251a4       ?PluginCfgStrings@?7??GetPluginInfoW@@9@4@4PAPB_WA 100331a4     Proclist.obj
+ 0002:000251a8       ?nextoken@?1??wcstok@@9@4PA_WA 100331a8     libCRT:strtok.obj
+ 0003:00000060       $R000000                   10034060     Proclist.res

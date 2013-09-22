@@ -1,0 +1,92 @@
+Deep Compare
+
+ ! Major change
+ + Feature added
+ - Bug fixed
+ * Minor change
+
+* Compare until first difference
+* Compare creation times
+* Compare short names
+
+Version 1.51 (01.03.2013)
+	- Not showing "Comparing" messages too often
+	! Updated for current Far3 API
+	+ Saving settings under Far3 in proper way (Far3 storage, not eregistry)
+
+Version 1.50.1 (14.03.2012)
+	- Dialog really does something
+
+Version 1.50 (01.03.2012)
+	! 'Name Transformation' feature, allows comparing parts of names
+	! Build for Far3
+	- Esc works in x64
+
+Version 1.44 (27.08.2010)
+	* Option for selecting folder with different content
+
+Version 1.43.1 (17.06.2010)
+	* Rebuilt
+
+Version 1.43 (01.11.2009)
+	- x64 version fixed
+
+Version 1.42 (09.11.2009)
+	* Russian hotkeys fixed (thanks to DAtaMan)
+    + x64 version included (not tested!)
+
+Version 1.41 (01.10.2009)
+	+ Version for Far2 really uses Unicode
+
+Version 1.40 (01.10.2009)
+	! Version for far2 included
+
+Version 1.31 (05.06.2009)
+	- Fixed crash in Far 2
+
+Version 1.30 (28.04.2009)
+	+ User can now configure which files are selected if thery differ by time ot size, by default
+	  newer by time and both if differ by size.
+	+ Can now NOT select files missing on one of the panels
+
+Version 1.25 (02.06.2008)
+	+ "[X] Ignore cache" changed to "Don't use/Update/Use"
+
+Version 1.20 (02.06.2008)
+	+ More clever subfolders comparison
+	  When only one of two subfolders contains a certain file, only that subfolder will be selected, not both - 
+	  helps determining where from/to copy anything.
+
+Version 1.15 (25.06.2007)
+	* Option to compare contents only if time/size differ
+
+Version 1.13 (06.03.2006)
+	- Fixed comparing by contents for large files
+	- Fixed 'Two-seconds precision'
+
+Version 1.12 (17.02.2006)
+	- When using cache, folders are not more permanently locked (but you may need to retry Moving/Deleting them)
+
+Version 1.11 (23.01.2006)
+	- Zero-length files are not considered different by content
+	- Fixed case-insensitive filename comparison in subfolders
+
+Version 1.10 (20.01.2006)
+	- Fixed Compare by contents
+	- Fixed Exclude masks
+	* It's possible to disable cache at all in configuration
+	* Filenames can be compared case-sensitively or not
+	* Russian language file added
+
+Version 1.00 (21.12.2005)
+	+ Supports comparing only files matching given mask
+	+ Supports recursing only folders matching given mask (e.g. you can ignore CVS folders or such)
+	+ Supports attribute comparison
+	+ Can ignore common 'false time differences'
+	+ Supports limited contents comparison (only first N Kb)
+
+	! Supports caching comparison results - so that if you compared C:\Dir1 and
+	  D:\Dir2\SubDir1, you will get results for C:\Dir1\SD2 and
+	  D:\Dir2\SubDir1\SD2 instantly, without rescanning deeper.
+	  Cache is automatically flushed when changes are detected in one of compared
+	  directories.

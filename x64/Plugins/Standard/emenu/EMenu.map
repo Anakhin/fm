@@ -1,0 +1,653 @@
+ EMenu
+
+ Timestamp is 523d61cb (Sat Sep 21 12:07:23 2013)
+
+ Preferred load address is 0000000180000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 000001c8H .idata$5                CODE
+ 0001:000001d0 00000570H .rdata                  CODE
+ 0001:00000740 00000078H .rdata$debug            CODE
+ 0001:000007c0 00006bd6H .text                   CODE
+ 0001:000073a0 00000020H .text$x                 CODE
+ 0001:000073c0 00000680H .xdata                  CODE
+ 0001:00007a40 00000050H .idata$2                CODE
+ 0001:00007a90 00000014H .idata$3                CODE
+ 0001:00007aa8 000001c8H .idata$4                CODE
+ 0001:00007c70 000003c2H .idata$6                CODE
+ 0001:00008040 000000b6H .edata                  CODE
+ 0002:00000000 00000050H .data                   DATA
+ 0002:00000050 00000888H .bss                    DATA
+ 0003:00000000 000005dcH .pdata                  DATA
+ 0004:00000000 000000a0H .rsrc$01                DATA
+ 0004:000000a0 000003a0H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base               Lib:Object
+
+ 0000:00000000       ___safe_se_handler_count   0000000000000000     <absolute>
+ 0000:00000000       ___safe_se_handler_table   0000000000000000     <absolute>
+ 0000:00000000       __ImageBase                0000000180000000     <linker-defined>
+ 0001:00000000       __imp_DisableThreadLibraryCalls 0000000180001000     kernel32:KERNEL32.dll
+ 0001:00000008       __imp_lstrcmpW             0000000180001008     kernel32:KERNEL32.dll
+ 0001:00000010       __imp_lstrcpynW            0000000180001010     kernel32:KERNEL32.dll
+ 0001:00000018       __imp_lstrcpyW             0000000180001018     kernel32:KERNEL32.dll
+ 0001:00000020       __imp_lstrcatW             0000000180001020     kernel32:KERNEL32.dll
+ 0001:00000028       __imp_lstrlenA             0000000180001028     kernel32:KERNEL32.dll
+ 0001:00000030       __imp_lstrlenW             0000000180001030     kernel32:KERNEL32.dll
+ 0001:00000038       __imp_MultiByteToWideChar  0000000180001038     kernel32:KERNEL32.dll
+ 0001:00000040       __imp_CompareStringW       0000000180001040     kernel32:KERNEL32.dll
+ 0001:00000048       __imp_CreateThread         0000000180001048     kernel32:KERNEL32.dll
+ 0001:00000050       __imp_TerminateThread      0000000180001050     kernel32:KERNEL32.dll
+ 0001:00000058       __imp_GetExitCodeThread    0000000180001058     kernel32:KERNEL32.dll
+ 0001:00000060       __imp_SetEvent             0000000180001060     kernel32:KERNEL32.dll
+ 0001:00000068       __imp_WaitForSingleObject  0000000180001068     kernel32:KERNEL32.dll
+ 0001:00000070       __imp_WaitForMultipleObjects 0000000180001070     kernel32:KERNEL32.dll
+ 0001:00000078       __imp_CloseHandle          0000000180001078     kernel32:KERNEL32.dll
+ 0001:00000080       __imp_CreateEventW         0000000180001080     kernel32:KERNEL32.dll
+ 0001:00000088       __imp_lstrcmpA             0000000180001088     kernel32:KERNEL32.dll
+ 0001:00000090       __imp_GetModuleHandleW     0000000180001090     kernel32:KERNEL32.dll
+ 0001:00000098       __imp_ExpandEnvironmentStringsW 0000000180001098     kernel32:KERNEL32.dll
+ 0001:000000a0       __imp_GetFileAttributesW   00000001800010a0     kernel32:KERNEL32.dll
+ 0001:000000a8       __imp_GetVersionExW        00000001800010a8     kernel32:KERNEL32.dll
+ 0001:000000b0       __imp_HeapFree             00000001800010b0     kernel32:KERNEL32.dll
+ 0001:000000b8       __imp_GetProcessHeap       00000001800010b8     kernel32:KERNEL32.dll
+ 0001:000000c0       __imp_HeapAlloc            00000001800010c0     kernel32:KERNEL32.dll
+ 0001:000000c8       __imp_RtlUnwindEx          00000001800010c8     kernel32:KERNEL32.dll
+ 0001:000000d0       \177KERNEL32_NULL_THUNK_DATA 00000001800010d0     kernel32:KERNEL32.dll
+ 0001:000000d8       __imp_SHGetSpecialFolderLocation 00000001800010d8     shell32:SHELL32.dll
+ 0001:000000e0       __imp_SHGetMalloc          00000001800010e0     shell32:SHELL32.dll
+ 0001:000000e8       __imp_SHGetDesktopFolder   00000001800010e8     shell32:SHELL32.dll
+ 0001:000000f0       \177SHELL32_NULL_THUNK_DATA 00000001800010f0     shell32:SHELL32.dll
+ 0001:000000f8       __imp_GetMessageW          00000001800010f8     user32:USER32.dll
+ 0001:00000100       __imp_DispatchMessageW     0000000180001100     user32:USER32.dll
+ 0001:00000108       __imp_PeekMessageW         0000000180001108     user32:USER32.dll
+ 0001:00000110       __imp_ReplyMessage         0000000180001110     user32:USER32.dll
+ 0001:00000118       __imp_wsprintfW            0000000180001118     user32:USER32.dll
+ 0001:00000120       __imp_DestroyWindow        0000000180001120     user32:USER32.dll
+ 0001:00000128       __imp_SetWindowPos         0000000180001128     user32:USER32.dll
+ 0001:00000130       __imp_CreateDialogParamW   0000000180001130     user32:USER32.dll
+ 0001:00000138       __imp_SetWindowLongPtrW    0000000180001138     user32:USER32.dll
+ 0001:00000140       __imp_GetMenuStringW       0000000180001140     user32:USER32.dll
+ 0001:00000148       __imp_CreatePopupMenu      0000000180001148     user32:USER32.dll
+ 0001:00000150       __imp_DestroyMenu          0000000180001150     user32:USER32.dll
+ 0001:00000158       __imp_GetMenuItemCount     0000000180001158     user32:USER32.dll
+ 0001:00000160       __imp_TrackPopupMenu       0000000180001160     user32:USER32.dll
+ 0001:00000168       __imp_GetMenuItemInfoW     0000000180001168     user32:USER32.dll
+ 0001:00000170       __imp_GetWindowRect        0000000180001170     user32:USER32.dll
+ 0001:00000178       __imp_LoadStringW          0000000180001178     user32:USER32.dll
+ 0001:00000180       __imp_GetWindowLongPtrW    0000000180001180     user32:USER32.dll
+ 0001:00000188       __imp_GetClientRect        0000000180001188     user32:USER32.dll
+ 0001:00000190       __imp_GetKeyState          0000000180001190     user32:USER32.dll
+ 0001:00000198       __imp_GetCursorPos         0000000180001198     user32:USER32.dll
+ 0001:000001a0       __imp_ScreenToClient       00000001800011a0     user32:USER32.dll
+ 0001:000001a8       \177USER32_NULL_THUNK_DATA 00000001800011a8     user32:USER32.dll
+ 0001:000001b0       __imp_OleFlushClipboard    00000001800011b0     ole32:ole32.dll
+ 0001:000001b8       __imp_OleInitialize        00000001800011b8     ole32:ole32.dll
+ 0001:000001c0       \177ole32_NULL_THUNK_DATA  00000001800011c0     ole32:ole32.dll
+ 0001:00000208       MainGuid                   0000000180001208     EMenu.obj
+ 0001:00000218       MenuGuid                   0000000180001218     EMenu.obj
+ 0001:00000228       DialogGuid                 0000000180001228     EMenu.obj
+ 0001:00000238       GuiTextMenuGuid            0000000180001238     EMenu.obj
+ 0001:00000248       ??_C@_1M@LBLKOFDL@?$AAE?$AAM?$AAe?$AAn?$AAu?$AA?$AA@ 0000000180001248     EMenu.obj
+ 0001:00000258       ??_C@_1DK@JMMNGKID@?$AAE?$AAM?$AAe?$AAn?$AAu?$AA?5?$AAP?$AAl?$AAu?$AAg?$AAi?$AAn?$AA?5?$AAf?$AAo?$AAr?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AAM?$AAa?$AAn?$AAa?$AAg?$AAe?$AAr?$AA?$AA@ 0000000180001258     EMenu.obj
+ 0001:00000298       ??_C@_1DE@BGKMIKPD@?$AAE?$AAu?$AAg?$AAe?$AAn?$AAe?$AA?5?$AAR?$AAo?$AAs?$AAh?$AAa?$AAl?$AA?5?$AA?$CG?$AA?5?$AAF?$AAa?$AAr?$AA?5?$AAG?$AAr?$AAo?$AAu?$AAp?$AA?$AA@ 0000000180001298     EMenu.obj
+ 0001:000002d0       ??_C@_17CIEOGNAD@?$AA?5?$AA?5?$CF?$LK?$AA?$AA@ 00000001800012d0     FarMenu.obj
+ 0001:000002d8       ??_C@_13HOIJIPNN@?$AA?5?$AA?$AA@ 00000001800012d8     FarMenu.obj
+ 0001:000002e0       ??_C@_19JPHCGFBO@?$AAM?$AAa?$AAi?$AAn?$AA?$AA@ 00000001800012e0     Plugin.obj
+ 0001:000002f0       ??_C@_1O@BJPKKLLM@?$AAC?$AAo?$AAn?$AAf?$AAi?$AAg?$AA?$AA@ 00000001800012f0     Plugin.obj
+ 0001:00000300       ??_C@_1BO@CLHFIDDE@?$AAC?$AAh?$AAo?$AAo?$AAs?$AAe?$AAM?$AAe?$AAn?$AAu?$AAT?$AAy?$AAp?$AAe?$AA?$AA@ 0000000180001300     Plugin.obj
+ 0001:00000320       ??_C@_1BI@GILJGMBA@?$AAC?$AAo?$AAn?$AAt?$AAe?$AAx?$AAt?$AAM?$AAe?$AAn?$AAu?$AA?$AA@ 0000000180001320     Plugin.obj
+ 0001:00000338       ??_C@_1O@MCPHAIFL@?$AAM?$AAy?$AAC?$AAo?$AAm?$AAp?$AA?$AA@ 0000000180001338     Plugin.obj
+ 0001:00000348       ??_C@_1O@GOJJLDBG@?$AAE?$AAr?$AAr?$AAo?$AAr?$AA0?$AA?$AA@ 0000000180001348     Plugin.obj
+ 0001:00000358       ??_C@_1O@NGCFNEHD@?$AAE?$AAr?$AAr?$AAo?$AAr?$AA1?$AA?$AA@ 0000000180001358     Plugin.obj
+ 0001:00000368       ??_C@_1O@MEJAHLJN@?$AAE?$AAr?$AAr?$AAo?$AAr?$AA2?$AA?$AA@ 0000000180001368     Plugin.obj
+ 0001:00000378       ??_C@_1M@IAIJHCCH@?$AAC?$AAl?$AAo?$AAs?$AAe?$AA?$AA@ 0000000180001378     Plugin.obj
+ 0001:00000388       _GUID_000214f4_0000_0000_c000_000000000046 0000000180001388     Plugin.obj
+ 0001:00000398       _GUID_bcfce0a0_ec17_11d0_8d10_00a0c90f2719 0000000180001398     Plugin.obj
+ 0001:000003a8       ??_7?$DialogItemBinding@UFarDialogItem@@@@6B@ 00000001800013a8     Plugin.obj
+ 0001:000003b8       ??_7PluginCheckBoxBinding@@6B@ 00000001800013b8     Plugin.obj
+ 0001:000003c8       ??_7PluginRadioButtonBinding@@6B@ 00000001800013c8     Plugin.obj
+ 0001:000003d8       ??_7PluginIntEditFieldBinding@@6B@ 00000001800013d8     Plugin.obj
+ 0001:000003e8       ??_C@_15EFLNJKHH@?$AA?$CF?$AAu?$AA?$AA@ 00000001800013e8     Plugin.obj
+ 0001:000003f0       ??_7?$DialogBuilderBase@UFarDialogItem@@@@6B@ 00000001800013f0     Plugin.obj
+ 0001:00000430       ??_7PluginDialogBuilder@@6B@ 0000000180001430     Plugin.obj
+ 0001:00000470       ??_C@_11LOCGONAA@?$AA?$AA@ 0000000180001470     Plugin.obj
+ 0001:00000478       ??_C@_1BO@BLHAFJIH@?$AAW?$AAa?$AAi?$AAt?$AAT?$AAo?$AAC?$AAo?$AAn?$AAt?$AAi?$AAn?$AAu?$AAe?$AA?$AA@ 0000000180001478     Plugin.obj
+ 0001:00000498       ??_C@_1O@HAPBPKPP@?$AAU?$AAs?$AAe?$AAG?$AAU?$AAI?$AA?$AA@ 0000000180001498     Plugin.obj
+ 0001:000004a8       ??_C@_1BI@FNELDPIH@?$AAD?$AAe?$AAl?$AAU?$AAs?$AAi?$AAn?$AAg?$AAF?$AAa?$AAr?$AA?$AA@ 00000001800014a8     Plugin.obj
+ 0001:000004c0       ??_C@_1BO@ELNGBDOB@?$AAC?$AAl?$AAe?$AAa?$AAr?$AAS?$AAe?$AAl?$AAe?$AAc?$AAt?$AAi?$AAo?$AAn?$AA?$AA@ 00000001800014c0     Plugin.obj
+ 0001:000004e0       ??_C@_1O@EFKGCNCH@?$AAS?$AAi?$AAl?$AAe?$AAn?$AAt?$AA?$AA@ 00000001800014e0     Plugin.obj
+ 0001:000004f0       ??_C@_1BC@JAMHBCOF@?$AAH?$AAe?$AAl?$AAp?$AAt?$AAe?$AAx?$AAt?$AA?$AA@ 00000001800014f0     Plugin.obj
+ 0001:00000508       ??_C@_1BM@JNPKPLGJ@?$AAD?$AAi?$AAf?$AAf?$AAe?$AAr?$AAe?$AAn?$AAt?$AAO?$AAn?$AAl?$AAy?$AA?$AA@ 0000000180001508     Plugin.obj
+ 0001:00000528       ??_C@_1O@EOCFEDGM@?$AAG?$AAu?$AAi?$AAP?$AAo?$AAs?$AA?$AA@ 0000000180001528     Plugin.obj
+ 0001:00000540       ??_C@_1FE@DFGJMLLI@?$AAr?$AAc?$AAl?$AAk?$AA?3?$AAr?$AAc?$AAl?$AAk?$AA_?$AAt?$AAx?$AAt?$AA?3?$AAr?$AAc?$AAl?$AAk?$AA_?$AAg?$AAu?$AAi?$AA?3?$AAr?$AAc?$AAl?$AAk?$AA_?$AAc?$AAm?$AAd?$AA?3@ 0000000180001540     Plugin.obj
+ 0001:00000598       ??_C@_1M@MGKMLCA@?$AAr?$AAc?$AAl?$AAk?$AA?3?$AA?$AA@ 0000000180001598     Plugin.obj
+ 0001:000005a8       ??_C@_1BE@GEDAILNH@?$AAr?$AAc?$AAl?$AAk?$AA_?$AAt?$AAx?$AAt?$AA?3?$AA?$AA@ 00000001800015a8     Plugin.obj
+ 0001:000005c0       ??_C@_1BE@IMOELFKI@?$AAr?$AAc?$AAl?$AAk?$AA_?$AAg?$AAu?$AAi?$AA?3?$AA?$AA@ 00000001800015c0     Plugin.obj
+ 0001:000005d8       ??_C@_1BE@JGMPCMJC@?$AAr?$AAc?$AAl?$AAk?$AA_?$AAc?$AAm?$AAd?$AA?3?$AA?$AA@ 00000001800015d8     Plugin.obj
+ 0001:000005f0       ??_C@_1BG@CJEHAOD@?$AAr?$AAc?$AAl?$AAk?$AA_?$AAi?$AAt?$AAe?$AAm?$AA?3?$AA?$AA@ 00000001800015f0     Plugin.obj
+ 0001:00000608       ??_C@_13FPGAJAPJ@?$AA?2?$AA?$AA@ 0000000180001608     Plugin.obj
+ 0001:0000060c       ??_C@_15DDHGOCBH@?$AA?4?$AA?4?$AA?$AA@ 000000018000160c     Plugin.obj
+ 0001:00000618       ??_C@_1M@MDEFCCAF@?$AA?$CF?$AAu?$AA?5?$AA?$CF?$AAs?$AA?$AA@ 0000000180001618     Plugin.obj
+ 0001:00000624       ??_C@_15JOGBDECP@?$AA?0?$AA?5?$AA?$AA@ 0000000180001624     Plugin.obj
+ 0001:0000062c       ??_C@_06LMEAOBLB@rename?$AA@ 000000018000162c     Plugin.obj
+ 0001:00000638       ??_C@_1BC@CGPONMNI@?$AAK?$AAe?$AAy?$AAs?$AA?8?$AAF?$AA6?$AA?8?$AA?$AA@ 0000000180001638     Plugin.obj
+ 0001:0000064c       ??_C@_06FOBLBEIN@delete?$AA@ 000000018000164c     Plugin.obj
+ 0001:00000658       ??_C@_1BC@BMPELNKI@?$AAK?$AAe?$AAy?$AAs?$AA?8?$AAF?$AA8?$AA?8?$AA?$AA@ 0000000180001658     Plugin.obj
+ 0001:00000670       ??_C@_1BO@PGPCBEEA@?$AAK?$AAe?$AAy?$AAs?$AA?8?$AAS?$AAh?$AAi?$AAf?$AAt?$AAD?$AAe?$AAl?$AA?8?$AA?$AA@ 0000000180001670     Plugin.obj
+ 0001:00000690       ??_C@_1BK@NGCLJGHJ@?$AAK?$AAe?$AAy?$AAs?$AA?8?$AAA?$AAl?$AAt?$AAD?$AAe?$AAl?$AA?8?$AA?$AA@ 0000000180001690     Plugin.obj
+ 0001:000006ac       ??_C@_13GCIFAHHO@?$AA?$HL?$AA?$AA@ 00000001800016ac     Plugin.obj
+ 0001:000006b0       ??_C@_1BI@BNFKGMFK@?$AAs?$AAh?$AAe?$AAl?$AAl?$AA3?$AA2?$AA?4?$AAd?$AAl?$AAl?$AA?$AA@ 00000001800016b0     Plugin.obj
+ 0001:000006c8       ??_C@_13EHOOFIKC@?$AA?$HN?$AA?$AA@ 00000001800016c8     Plugin.obj
+ 0001:000006cc       ??_C@_15CMBHNMLL@?$AA?5?$AA?$CI?$AA?$AA@ 00000001800016cc     Plugin.obj
+ 0001:000006d4       ??_C@_13DIBMAFH@?$AA?$CJ?$AA?$AA@ 00000001800016d4     Plugin.obj
+ 0001:000006e0       __xmm@ffffffffffffffff0000000000000002 00000001800016e0     Plugin.obj
+ 0001:000006f0       __xmm@ffffffffffffffffffffffffffffffff 00000001800016f0     Plugin.obj
+ 0001:00000700       IID_IContextMenu           0000000180001700     shell32:shguid.obj
+ 0001:00000710       IID_IShellFolder           0000000180001710     shell32:shguid.obj
+ 0001:00000720       IID_IDataObject            0000000180001720     uuid:objidl_i.obj
+ 0001:00000730       IID_IDropTarget            0000000180001730     uuid:oleidl_i.obj
+ 0001:000007d0       _alloca_probe              00000001800017d0     chkstk.obj
+ 0001:000007d0       __chkstk                   00000001800017d0 f   chkstk.obj
+ 0001:00000820       ConfigureW                 0000000180001820 f   EMenu.obj
+ 0001:00000840       ExitFARW                   0000000180001840 f   EMenu.obj
+ 0001:00000880       GetGlobalInfoW             0000000180001880 f   EMenu.obj
+ 0001:00000900       GetPluginInfoW             0000000180001900 f   EMenu.obj
+ 0001:00000910       OpenW                      0000000180001910 f   EMenu.obj
+ 0001:00000930       SetStartupInfoW            0000000180001930 f   EMenu.obj
+ 0001:00000980       _DllMainCRTStartup         0000000180001980 f   EMenu.obj
+ 0001:000009a0       ??0auto_sz@@QEAA@AEBU_STRRET@@PEFBU_ITEMIDLIST@@@Z 00000001800019a0 f   auto_sz.obj
+ 0001:00000a50       ??0auto_sz@@QEAA@PEB_W@Z   0000000180001a50 f   auto_sz.obj
+ 0001:00000a90       ??0auto_sz@@QEAA@PEB_W_K@Z 0000000180001a90 f   auto_sz.obj
+ 0001:00000ae0       ??0auto_sz@@QEAA@XZ        0000000180001ae0 f   auto_sz.obj
+ 0001:00000af0       ??1auto_sz@@QEAA@XZ        0000000180001af0 f   auto_sz.obj
+ 0001:00000b20       ??4auto_sz@@QEAAAEAV0@AEBV0@@Z 0000000180001b20 f   auto_sz.obj
+ 0001:00000b60       ??4auto_sz@@QEAAAEAV0@PEB_W@Z 0000000180001b60 f   auto_sz.obj
+ 0001:00000bc0       ??9auto_sz@@QEAA_NPEB_W@Z  0000000180001bc0 f   auto_sz.obj
+ 0001:00000be0       ??Aauto_sz@@QEAA_WH@Z      0000000180001be0 f   auto_sz.obj
+ 0001:00000bf0       ??Bauto_sz@@QEAAPEB_WXZ    0000000180001bf0 f   auto_sz.obj
+ 0001:00000bf0       ??Bauto_sz@@QEAAPEA_WXZ    0000000180001bf0 f   auto_sz.obj
+ 0001:00000c00       ??Yauto_sz@@QEAAAEAV0@PEB_W@Z 0000000180001c00 f   auto_sz.obj
+ 0001:00000c60       ?CompareExcluding@auto_sz@@QEAA_NPEB_W_W@Z 0000000180001c60 f   auto_sz.obj
+ 0001:00000cf0       ?IsEmpty@auto_sz@@QEAA_NXZ 0000000180001cf0 f   auto_sz.obj
+ 0001:00000d10       ?Len@auto_sz@@QEBA_KXZ     0000000180001d10 f   auto_sz.obj
+ 0001:00000d30       ?Realloc@auto_sz@@QEAAX_K@Z 0000000180001d30 f   auto_sz.obj
+ 0001:00000de0       ?RemoveTrailing@auto_sz@@QEAAX_W@Z 0000000180001de0 f   auto_sz.obj
+ 0001:00000e30       ?Trunc@auto_sz@@QEAAX_K@Z  0000000180001e30 f   auto_sz.obj
+ 0001:00000e50       ??0CFarMenu@@QEAA@PEB_WPEBU_GUID@@I@Z 0000000180001e50 f   FarMenu.obj
+ 0001:00000f00       ??1CFarMenu@@QEAA@XZ       0000000180001f00 f   FarMenu.obj
+ 0001:00000f70       ??ACFarMenu@@QEAAPEB_WI@Z  0000000180001f70 f   FarMenu.obj
+ 0001:00000f90       ?AddArrows@CFarMenu@@IEAAXXZ 0000000180001f90 f   FarMenu.obj
+ 0001:00001180       ?AddItem@CFarMenu@@QEAAIPEB_W_NW4ECheck@1@1@Z 0000000180002180 f   FarMenu.obj
+ 0001:000011b0       ?AddSeparator@CFarMenu@@QEAAXXZ 00000001800021b0 f   FarMenu.obj
+ 0001:00001260       ?GetCursorXY@CFarMenu@@QEAAXPEAH0@Z 0000000180002260 f   FarMenu.obj
+ 0001:00001380       ?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 0000000180002380 f   FarMenu.obj
+ 0001:00001500       ?Show@CFarMenu@@QEAAHPEB_WH_N@Z 0000000180002500 f   FarMenu.obj
+ 0001:00001790       ?MenuDlgProc@@YAHPEAUHWND__@@I_K_J@Z 0000000180002790 f   MenuDlg.obj
+ 0001:00001870       ?Cleanup@OleThread@@YAXXZ  0000000180002870 f   OleThread.obj
+ 0001:00001980       ?EnsureThreadStarted@OleThread@@YA_NXZ 0000000180002980 f   OleThread.obj
+ 0001:00001b10       ?OpenPlugin@OleThread@@YA?AW4EDoMenu@CPlugin@@H_J@Z 0000000180002b10 f   OleThread.obj
+ 0001:00001be0       ?ShowMenu@OleThread@@YAHAEAVCFarMenu@@PEB_WH_N@Z 0000000180002be0 f   OleThread.obj
+ 0001:00001c40       ?Startup@OleThread@@YAXXZ  0000000180002c40 f   OleThread.obj
+ 0001:00001d10       ?Stop@OleThread@@YAXXZ     0000000180002d10 f   OleThread.obj
+ 0001:00001d30       ?ThreadProc@OleThread@@YAKPEAX@Z 0000000180002d30 f   OleThread.obj
+ 0001:00001ed0       ??0CPidl@@QEAA@PEAUIMalloc@@@Z 0000000180002ed0 f   Pidl.obj
+ 0001:00001ef0       ??1CPidl@@QEAA@XZ          0000000180002ef0 f   Pidl.obj
+ 0001:00001f40       ??BCPidl@@QEAAPEFAU_ITEMIDLIST@@XZ 0000000180002f40 f   Pidl.obj
+ 0001:00001f50       ?Add@CPidl@@QEAAXPEFAU_ITEMIDLIST@@@Z 0000000180002f50 f   Pidl.obj
+ 0001:00001fc0       ?Count@CPidl@@QEAAIXZ      0000000180002fc0 f   Pidl.obj
+ 0001:00001fd0       ?EnsureSpace@CPidl@@QEAAXXZ 0000000180002fd0 f   Pidl.obj
+ 0001:00002050       ??ICPidl@@QEAAPEAPEFAU_ITEMIDLIST@@XZ 0000000180003050 f   Pidl.obj
+ 0001:00002050       ?GetArray@CPidl@@QEAAPEAPEFBU_ITEMIDLIST@@XZ 0000000180003050 f   Pidl.obj
+ 0001:00002080       ?GetAt@CPidl@@QEAAPEFAU_ITEMIDLIST@@I@Z 0000000180003080 f   Pidl.obj
+ 0001:000020a0       ?Insert@CPidl@@QEAAXIPEFAU_ITEMIDLIST@@@Z 00000001800030a0 f   Pidl.obj
+ 0001:00002110       ??0CPlugin@@QEAA@PEBUPluginStartupInfo@@@Z 0000000180003110 f   Plugin.obj
+ 0001:00002360       ??0PluginIntEditFieldBinding@@QEAA@AEBUPluginStartupInfo@@PEAPEAXHPEAHH@Z 0000000180003360 f i Plugin.obj
+ 0001:00002420       ??1?$DialogBuilderBase@UFarDialogItem@@@@MEAA@XZ 0000000180003420 f i Plugin.obj
+ 0001:000024a0       ??_G?$DialogBuilderBase@UFarDialogItem@@@@MEAAPEAXI@Z 00000001800034a0 f i Plugin.obj
+ 0001:000024a0       ??_E?$DialogBuilderBase@UFarDialogItem@@@@MEAAPEAXI@Z 00000001800034a0 f i Plugin.obj
+ 0001:000024d0       ??_GPluginDialogBuilder@@UEAAPEAXI@Z 00000001800034d0 f i Plugin.obj
+ 0001:000024d0       ??_EPluginDialogBuilder@@UEAAPEAXI@Z 00000001800034d0 f i Plugin.obj
+ 0001:00002520       ??_EPluginIntEditFieldBinding@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002520       ??_EPluginCheckBoxBinding@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002520       ??_EPluginRadioButtonBinding@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002520       ??_GPluginCheckBoxBinding@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002520       ??_GPluginIntEditFieldBinding@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002520       ??_E?$DialogItemBinding@UFarDialogItem@@@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002520       ??_GPluginRadioButtonBinding@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002520       ??_G?$DialogItemBinding@UFarDialogItem@@@@UEAAPEAXI@Z 0000000180003520 f i Plugin.obj
+ 0001:00002550       ?AddIntEditField@PluginDialogBuilder@@UEAAPEAUFarDialogItem@@PEAHH@Z 0000000180003550 f i Plugin.obj
+ 0001:00002660       ?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 0000000180003660 f i Plugin.obj
+ 0001:00002820       ?CfgDlgProc@CPlugin@@IEAAXPEAX_J10@Z 0000000180003820 f   Plugin.obj
+ 0001:00002940       ?CfgDlgProcStatic@CPlugin@@KA_JPEAX_J10@Z 0000000180003940 f   Plugin.obj
+ 0001:000029c0       ?Configure@CPlugin@@QEAAHXZ 00000001800039c0 f   Plugin.obj
+ 0001:00003a60       ?CreateCheckBoxBinding@PluginDialogBuilder@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAHH@Z 0000000180004a60 f i Plugin.obj
+ 0001:00003ae0       ?CreateRadioButtonBinding@?$DialogBuilderBase@UFarDialogItem@@@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAH@Z 0000000180004ae0 f i Plugin.obj
+ 0001:00003ae0       ?AddIntEditField@?$DialogBuilderBase@UFarDialogItem@@@@UEAAPEAUFarDialogItem@@PEAHH@Z 0000000180004ae0 f i Plugin.obj
+ 0001:00003ae0       ?CreateCheckBoxBinding@?$DialogBuilderBase@UFarDialogItem@@@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAHH@Z 0000000180004ae0 f i Plugin.obj
+ 0001:00003ae0       ?GetLangString@?$DialogBuilderBase@UFarDialogItem@@@@MEAAPEB_WH@Z 0000000180004ae0 f i Plugin.obj
+ 0001:00003af0       ?CreateRadioButtonBinding@PluginDialogBuilder@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAH@Z 0000000180004af0 f i Plugin.obj
+ 0001:00003b60       ?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@QEAPEB_WIIPEB_WW4EAutoItem@1@@Z 0000000180004b60 f   Plugin.obj
+ 0001:000043d0       ?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4CallMode@1@@Z 00000001800053d0 f   Plugin.obj
+ 0001:00004680       ?DoShowDialog@?$DialogBuilderBase@UFarDialogItem@@@@MEAA_JXZ 0000000180005680 f i Plugin.obj
+ 0001:00004690       ?DoShowDialog@PluginDialogBuilder@@MEAA_JXZ 0000000180005690 f i Plugin.obj
+ 0001:00004730       ?ExitFAR@CPlugin@@QEAAXXZ  0000000180005730 f   Plugin.obj
+ 0001:00004740       ?GetAdditionalString@CPlugin@@IEAA_NPEAUIContextMenu@@IW4EAdditionalStr@1@PEAVauto_sz@@@Z 0000000180005740 f   Plugin.obj
+ 0001:00004830       ?GetFilesFromPanel@CPlugin@@IEAA_NPEAPEAPEB_WPEAI1PEAVauto_sz@@@Z 0000000180005830 f   Plugin.obj
+ 0001:00004c20       ?GetFilesFromParams@CPlugin@@IEAA_NPEA_WPEAPEAPEB_WPEAI2PEAVauto_sz@@_N@Z 0000000180005c20 f   Plugin.obj
+ 0001:00004e40       ?GetLangString@PluginDialogBuilder@@MEAAPEB_WH@Z 0000000180005e40 f i Plugin.obj
+ 0001:00004e50       ?GetPluginInfo@CPlugin@@QEAAXPEAUPluginInfo@@@Z 0000000180005e50 f   Plugin.obj
+ 0001:00004ec0       ?InitDialogItem@PluginDialogBuilder@@MEAAXPEAUFarDialogItem@@PEB_W@Z 0000000180005ec0 f i Plugin.obj
+ 0001:00004ef0       ?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 0000000180005ef0 f i Plugin.obj
+ 0001:00005020       ?MenuForPanelOrCmdLine@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4EAutoItem@1@@Z 0000000180006020 f   Plugin.obj
+ 0001:00005480       ?OpenPlugin@CPlugin@@QEAAPEAXH_J@Z 0000000180006480 f   Plugin.obj
+ 0001:000056a0       ?OpenPluginBkg@CPlugin@@QEAA?AW4EDoMenu@1@H_J@Z 00000001800066a0 f   Plugin.obj
+ 0001:000057c0       ?ReadRegValues@CPlugin@@IEAAXXZ 00000001800067c0 f   Plugin.obj
+ 0001:00005ab0       ?ReallocDialogItems@?$DialogBuilderBase@UFarDialogItem@@@@IEAAXXZ 0000000180006ab0 f i Plugin.obj
+ 0001:00005c40       ?_com_issue_error@@YAXJ@Z  0000000180006c40 f i Plugin.obj
+ 0001:00005c40       ??1CPlugin@@QEAA@XZ        0000000180006c40 f i Plugin.obj
+ 0001:00005c40       ?InitDialogItem@?$DialogBuilderBase@UFarDialogItem@@@@MEAAXPEAUFarDialogItem@@PEB_W@Z 0000000180006c40 f i Plugin.obj
+ 0001:00005c40       ?SaveValue@?$DialogItemBinding@UFarDialogItem@@@@UEAAXPEAUFarDialogItem@@H@Z 0000000180006c40 f i Plugin.obj
+ 0001:00005c50       ?SaveValue@PluginCheckBoxBinding@@UEAAXPEAUFarDialogItem@@H@Z 0000000180006c50 f i Plugin.obj
+ 0001:00005cb0       ?SaveValue@PluginIntEditFieldBinding@@UEAAXPEAUFarDialogItem@@H@Z 0000000180006cb0 f i Plugin.obj
+ 0001:00005d00       ?SaveValue@PluginRadioButtonBinding@@UEAAXPEAUFarDialogItem@@H@Z 0000000180006d00 f i Plugin.obj
+ 0001:00005d50       ?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 0000000180006d50 f   Plugin.obj
+ 0001:00006120       ?ShowFolder@CPlugin@@IEAA_NPEAUIShellFolder@@PEFBU_ITEMIDLIST@@PEAHPEB_WPEAPEAUIDropTarget@@@Z 0000000180007120 f   Plugin.obj
+ 0001:00006440       ?ShowGuiMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAH@Z 0000000180007440 f   Plugin.obj
+ 0001:000065c0       ?ShowTextMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAHPEB_WPEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@I@Z 00000001800075c0 f   Plugin.obj
+ 0001:00006de0       ?TextWidth@?$DialogBuilderBase@UFarDialogItem@@@@MEAAHAEBUFarDialogItem@@@Z 0000000180007de0 f i Plugin.obj
+ 0001:00006df0       ?TextWidth@PluginDialogBuilder@@MEAAHAEBUFarDialogItem@@@Z 0000000180007df0 f i Plugin.obj
+ 0001:00006e00       ?UpdateBorderSize@?$DialogBuilderBase@UFarDialogItem@@@@IEAAXXZ 0000000180007e00 f i Plugin.obj
+ 0001:00006ec0       ??2@YAPEAX_K@Z             0000000180007ec0 f   libCRT64:new.obj
+ 0001:00006ed0       ??3@YAXPEAX@Z              0000000180007ed0 f   libCRT64:delete.obj
+ 0001:00006ee0       memmove                    0000000180007ee0 f   libCRT64:memmove.obj
+ 0001:00006f40       ??_V@YAXPEAX@Z             0000000180007f40 f   libCRT64:delete_array.obj
+ 0001:00006f50       ??_U@YAPEAX_K@Z            0000000180007f50 f   libCRT64:new_array.obj
+ 0001:00006f60       memcpy                     0000000180007f60 f   libCRT64:memcpy.obj
+ 0001:00006f90       free                       0000000180007f90 f   libCRT64:free.obj
+ 0001:00006fc0       malloc                     0000000180007fc0 f   libCRT64:malloc.obj
+ 0001:00006ff0       wcsncmp                    0000000180007ff0 f   libCRT64:strncmp.obj
+ 0001:00007030       memset                     0000000180008030 f   libCRT64:memset.obj
+ 0001:00007058       __C_specific_handler       0000000180008058 f   LIBCMT:chandler.obj
+ 0001:00007250       _local_unwind              0000000180008250 f   LIBCMT:jmpuwind.obj
+ 0001:00007280       _NLG_Notify                0000000180008280 f   LIBCMT:jmpuwind.obj
+ 0001:000072a0       __NLG_Dispatch2            00000001800082a0 f   LIBCMT:jmpuwind.obj
+ 0001:000072b0       __NLG_Return2              00000001800082b0 f   LIBCMT:jmpuwind.obj
+ 0001:000072c0       _FindPESection             00000001800082c0 f   LIBCMT:pesect.obj
+ 0001:00007310       _IsNonwritableInCurrentImage 0000000180008310 f   LIBCMT:pesect.obj
+ 0001:00007360       _ValidateImageBase         0000000180008360 f   LIBCMT:pesect.obj
+ 0001:00007390       RtlUnwindEx                0000000180008390 f   kernel32:KERNEL32.dll
+ 0001:00007a40       __IMPORT_DESCRIPTOR_KERNEL32 0000000180008a40     kernel32:KERNEL32.dll
+ 0001:00007a54       __IMPORT_DESCRIPTOR_USER32 0000000180008a54     user32:USER32.dll
+ 0001:00007a68       __IMPORT_DESCRIPTOR_SHELL32 0000000180008a68     shell32:SHELL32.dll
+ 0001:00007a7c       __IMPORT_DESCRIPTOR_ole32  0000000180008a7c     ole32:ole32.dll
+ 0001:00007a90       __NULL_IMPORT_DESCRIPTOR   0000000180008a90     kernel32:KERNEL32.dll
+ 0002:00000000       ?g_szTopicMain@@3PEB_WEB   000000018000a000     Plugin.obj
+ 0002:00000008       ?g_szTopicConfig@@3PEB_WEB 000000018000a008     Plugin.obj
+ 0002:00000010       ?g_szTopicChooseMenuType@@3PEB_WEB 000000018000a010     Plugin.obj
+ 0002:00000018       ?g_szTopicContextMenu@@3PEB_WEB 000000018000a018     Plugin.obj
+ 0002:00000020       ?g_szTopicMyComp@@3PEB_WEB 000000018000a020     Plugin.obj
+ 0002:00000028       ?g_szTopicError0@@3PEB_WEB 000000018000a028     Plugin.obj
+ 0002:00000030       ?g_szTopicError1@@3PEB_WEB 000000018000a030     Plugin.obj
+ 0002:00000038       ?g_szTopicError2@@3PEB_WEB 000000018000a038     Plugin.obj
+ 0002:00000040       ?g_szTopicClose@@3PEB_WEB  000000018000a040     Plugin.obj
+ 0002:00000050       ?thePlug@@3PEAVCPlugin@@EA 000000018000a050     EMenu.obj
+ 0002:00000058       ?hNeedInvoke@OleThread@@3PEAVCHandle@@EA 000000018000a058     OleThread.obj
+ 0002:00000060       ?hInvokeDone@OleThread@@3PEAVCHandle@@EA 000000018000a060     OleThread.obj
+ 0002:00000068       ?hStop@OleThread@@3PEAVCHandle@@EA 000000018000a068     OleThread.obj
+ 0002:00000070       ?hShowMenu@OleThread@@3PEAVCHandle@@EA 000000018000a070     OleThread.obj
+ 0002:00000078       ?hMenuDone@OleThread@@3PEAVCHandle@@EA 000000018000a078     OleThread.obj
+ 0002:00000080       ?hTerminator@OleThread@@3PEAVCThreadTerminator@1@EA 000000018000a080     OleThread.obj
+ 0002:00000088       ?nOpenFrom@OpenPluginArgs@OleThread@@3HA 000000018000a088     OleThread.obj
+ 0002:0000008c       ?enRes@OpenPluginArgs@OleThread@@3W4EDoMenu@CPlugin@@A 000000018000a08c     OleThread.obj
+ 0002:00000090       ?nItem@OpenPluginArgs@OleThread@@3_JA 000000018000a090     OleThread.obj
+ 0002:00000098       ?Menu@ShowMenuArgs@OleThread@@3PEAVCFarMenu@@EA 000000018000a098     OleThread.obj
+ 0002:000000a0       ?szTitle@ShowMenuArgs@OleThread@@3PEB_WEB 000000018000a0a0     OleThread.obj
+ 0002:000000a8       ?nSelItem@ShowMenuArgs@OleThread@@3HA 000000018000a0a8     OleThread.obj
+ 0002:000000ac       ?bAtCursorPos@ShowMenuArgs@OleThread@@3_NA 000000018000a0ac     OleThread.obj
+ 0002:000000b0       ?Res@ShowMenuArgs@OleThread@@3HA 000000018000a0b0     OleThread.obj
+ 0002:000000b8       ?hThread@OleThread@@3PEAXEA 000000018000a0b8     OleThread.obj
+ 0002:000008d0       _pDestructExceptionObject  000000018000a8d0     <common>
+
+ entry point at        0001:00000980
+
+ Static symbols
+
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     ole32:ole32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     ole32:ole32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     shell32:SHELL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     shell32:SHELL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     shell32:SHELL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     kernel32:KERNEL32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0000:ffff2000       .debug$S                   0000000180000000     user32:USER32.dll
+ 0001:000002cc       empty_wstr                 00000001800012cc     FarMenu.obj
+ 0001:000007c0       $$000000                   00000001800017c0     chkstk.obj
+ 0001:000016fc       $LN30                      00000001800026fc     FarMenu.obj
+ 0001:00001710       $LN29                      0000000180002710     FarMenu.obj
+ 0001:000027f4       $LN28                      00000001800037f4     Plugin.obj
+ 0001:00003958       $LN289                     0000000180004958     Plugin.obj
+ 0001:00003984       $LN288                     0000000180004984     Plugin.obj
+ 0001:000039b0       $LN287                     00000001800049b0     Plugin.obj
+ 0001:000039dc       $LN286                     00000001800049dc     Plugin.obj
+ 0001:00003a08       $LN285                     0000000180004a08     Plugin.obj
+ 0001:00003a34       $LN284                     0000000180004a34     Plugin.obj
+ 0001:00004fe8       $LN21                      0000000180005fe8     Plugin.obj
+ 0001:00007240       $$000000                   0000000180008240     LIBCMT:jmpuwind.obj
+ 0001:000073a0       _IsNonwritableInCurrentImage$filt$0 00000001800083a0 f   LIBCMT:pesect.obj
+ 0001:000073c0       $xdatasym                  00000001800083c0     chkstk.obj
+ 0001:000073c8       $unwind$ConfigureW         00000001800083c8     EMenu.obj
+ 0001:000073c8       $unwind$??9auto_sz@@QEAA_NPEB_W@Z 00000001800083c8     EMenu.obj
+ 0001:000073c8       $unwind$_DllMainCRTStartup 00000001800083c8     EMenu.obj
+ 0001:000073c8       $unwind$?ShowMenu@OleThread@@YAHAEAVCFarMenu@@PEB_WH_N@Z 00000001800083c8     EMenu.obj
+ 0001:000073c8       $unwind$?Len@auto_sz@@QEBA_KXZ 00000001800083c8     EMenu.obj
+ 0001:000073d0       $unwind$??0auto_sz@@QEAA@AEBU_STRRET@@PEFBU_ITEMIDLIST@@@Z 00000001800083d0     auto_sz.obj
+ 0001:000073d8       $chain$1$??0auto_sz@@QEAA@AEBU_STRRET@@PEFBU_ITEMIDLIST@@@Z 00000001800083d8     auto_sz.obj
+ 0001:000073f0       $chain$2$??0auto_sz@@QEAA@AEBU_STRRET@@PEFBU_ITEMIDLIST@@@Z 00000001800083f0     auto_sz.obj
+ 0001:00007400       $unwind$?Realloc@auto_sz@@QEAAX_K@Z 0000000180008400     auto_sz.obj
+ 0001:00007410       $unwind$??0CFarMenu@@QEAA@PEB_WPEBU_GUID@@I@Z 0000000180008410     FarMenu.obj
+ 0001:00007410       $unwind$??0auto_sz@@QEAA@PEB_W_K@Z 0000000180008410     FarMenu.obj
+ 0001:00007410       $unwind$?CreateCheckBoxBinding@PluginDialogBuilder@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAHH@Z 0000000180008410     FarMenu.obj
+ 0001:00007410       $unwind$??Yauto_sz@@QEAAAEAV0@PEB_W@Z 0000000180008410     FarMenu.obj
+ 0001:00007420       $unwind$??1?$DialogBuilderBase@UFarDialogItem@@@@MEAA@XZ 0000000180008420     FarMenu.obj
+ 0001:00007420       $unwind$??1CFarMenu@@QEAA@XZ 0000000180008420     FarMenu.obj
+ 0001:0000742c       $chain$0$??1CFarMenu@@QEAA@XZ 000000018000842c     FarMenu.obj
+ 0001:00007440       $chain$1$??1CFarMenu@@QEAA@XZ 0000000180008440     FarMenu.obj
+ 0001:00007450       $unwind$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 0000000180008450     FarMenu.obj
+ 0001:00007460       $chain$1$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 0000000180008460     FarMenu.obj
+ 0001:00007478       $chain$2$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 0000000180008478     FarMenu.obj
+ 0001:0000748c       $chain$3$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 000000018000848c     FarMenu.obj
+ 0001:0000749c       $unwind$?AddSeparator@CFarMenu@@QEAAXXZ 000000018000849c     FarMenu.obj
+ 0001:000074a8       $chain$1$?AddSeparator@CFarMenu@@QEAAXXZ 00000001800084a8     FarMenu.obj
+ 0001:000074c0       $chain$2$?AddSeparator@CFarMenu@@QEAAXXZ 00000001800084c0     FarMenu.obj
+ 0001:000074d0       $unwind$?Show@CFarMenu@@QEAAHPEB_WH_N@Z 00000001800084d0     FarMenu.obj
+ 0001:000074ec       $unwind$?GetCursorXY@CFarMenu@@QEAAXPEAH0@Z 00000001800084ec     FarMenu.obj
+ 0001:000074f8       $chain$0$?GetCursorXY@CFarMenu@@QEAAXPEAH0@Z 00000001800084f8     FarMenu.obj
+ 0001:0000750c       $chain$1$?GetCursorXY@CFarMenu@@QEAAXPEAH0@Z 000000018000850c     FarMenu.obj
+ 0001:0000751c       $unwind$?AddArrows@CFarMenu@@IEAAXXZ 000000018000851c     FarMenu.obj
+ 0001:00007524       $chain$3$?AddArrows@CFarMenu@@IEAAXXZ 0000000180008524     FarMenu.obj
+ 0001:00007544       $chain$6$?AddArrows@CFarMenu@@IEAAXXZ 0000000180008544     FarMenu.obj
+ 0001:00007560       $chain$7$?AddArrows@CFarMenu@@IEAAXXZ 0000000180008560     FarMenu.obj
+ 0001:00007570       $chain$8$?AddArrows@CFarMenu@@IEAAXXZ 0000000180008570     FarMenu.obj
+ 0001:00007580       $unwind$?MenuDlgProc@@YAHPEAUHWND__@@I_K_J@Z 0000000180008580     MenuDlg.obj
+ 0001:00007594       $unwind$?AddItem@CFarMenu@@QEAAIPEB_W_NW4ECheck@1@1@Z 0000000180008594     OleThread.obj
+ 0001:00007594       $unwind$?EnsureThreadStarted@OleThread@@YA_NXZ 0000000180008594     OleThread.obj
+ 0001:00007594       $unwind$?OpenPlugin@OleThread@@YA?AW4EDoMenu@CPlugin@@H_J@Z 0000000180008594     OleThread.obj
+ 0001:0000759c       $unwind$?DoShowDialog@PluginDialogBuilder@@MEAA_JXZ 000000018000859c     OleThread.obj
+ 0001:0000759c       $unwind$?ThreadProc@OleThread@@YAKPEAX@Z 000000018000859c     OleThread.obj
+ 0001:000075a8       $chain$0$?EnsureThreadStarted@OleThread@@YA_NXZ 00000001800085a8     OleThread.obj
+ 0001:000075bc       $chain$1$?EnsureThreadStarted@OleThread@@YA_NXZ 00000001800085bc     OleThread.obj
+ 0001:000075cc       $unwind$?EnsureSpace@CPidl@@QEAAXXZ 00000001800085cc     Pidl.obj
+ 0001:000075d8       $chain$0$?EnsureSpace@CPidl@@QEAAXXZ 00000001800085d8     Pidl.obj
+ 0001:000075ec       $chain$1$?EnsureSpace@CPidl@@QEAAXXZ 00000001800085ec     Pidl.obj
+ 0001:000075fc       $unwind$?Add@CPidl@@QEAAXPEFAU_ITEMIDLIST@@@Z 00000001800085fc     Pidl.obj
+ 0001:000075fc       $unwind$?Insert@CPidl@@QEAAXIPEFAU_ITEMIDLIST@@@Z 00000001800085fc     Pidl.obj
+ 0001:0000760c       $chain$0$?Add@CPidl@@QEAAXPEFAU_ITEMIDLIST@@@Z 000000018000860c     Pidl.obj
+ 0001:00007620       $chain$1$?Add@CPidl@@QEAAXPEFAU_ITEMIDLIST@@@Z 0000000180008620     Pidl.obj
+ 0001:00007630       $chain$0$?Insert@CPidl@@QEAAXIPEFAU_ITEMIDLIST@@@Z 0000000180008630     Pidl.obj
+ 0001:00007644       $chain$1$?Insert@CPidl@@QEAAXIPEFAU_ITEMIDLIST@@@Z 0000000180008644     Pidl.obj
+ 0001:00007654       $unwind$??0CPlugin@@QEAA@PEBUPluginStartupInfo@@@Z 0000000180008654     Plugin.obj
+ 0001:0000766c       $unwind$?OpenPlugin@CPlugin@@QEAAPEAXH_J@Z 000000018000866c     Plugin.obj
+ 0001:0000767c       $unwind$?OpenPluginBkg@CPlugin@@QEAA?AW4EDoMenu@1@H_J@Z 000000018000867c     Plugin.obj
+ 0001:00007690       $unwind$?Configure@CPlugin@@QEAAHXZ 0000000180008690     Plugin.obj
+ 0001:000076ac       $unwind$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4CallMode@1@@Z 00000001800086ac     Plugin.obj
+ 0001:000076b4       $chain$4$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4CallMode@1@@Z 00000001800086b4     Plugin.obj
+ 0001:000076d8       $chain$5$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4CallMode@1@@Z 00000001800086d8     Plugin.obj
+ 0001:000076e8       $unwind$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 00000001800086e8     Plugin.obj
+ 0001:000076f8       $chain$1$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 00000001800086f8     Plugin.obj
+ 0001:00007710       $chain$2$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 0000000180008710     Plugin.obj
+ 0001:00007724       $chain$3$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 0000000180008724     Plugin.obj
+ 0001:00007734       $chain$4$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 0000000180008734     Plugin.obj
+ 0001:00007744       $unwind$?MenuForPanelOrCmdLine@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4EAutoItem@1@@Z 0000000180008744     Plugin.obj
+ 0001:0000775c       $chain$0$?MenuForPanelOrCmdLine@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4EAutoItem@1@@Z 000000018000875c     Plugin.obj
+ 0001:00007770       $chain$1$?MenuForPanelOrCmdLine@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4EAutoItem@1@@Z 0000000180008770     Plugin.obj
+ 0001:00007780       $unwind$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@QEAPEB_WIIPEB_WW4EAutoItem@1@@Z 0000000180008780     Plugin.obj
+ 0001:0000779c       $unwind$?ShowGuiMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAH@Z 000000018000879c     Plugin.obj
+ 0001:000077ac       $unwind$?ShowTextMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAHPEB_WPEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@I@Z 00000001800087ac     Plugin.obj
+ 0001:000077bc       $chain$0$?ShowTextMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAHPEB_WPEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@I@Z 00000001800087bc     Plugin.obj
+ 0001:000077d0       $chain$2$?ShowTextMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAHPEB_WPEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@I@Z 00000001800087d0     Plugin.obj
+ 0001:000077e4       $unwind$?ShowFolder@CPlugin@@IEAA_NPEAUIShellFolder@@PEFBU_ITEMIDLIST@@PEAHPEB_WPEAPEAUIDropTarget@@@Z 00000001800087e4     Plugin.obj
+ 0001:000077f8       $unwind$?GetFilesFromParams@CPlugin@@IEAA_NPEA_WPEAPEAPEB_WPEAI2PEAVauto_sz@@_N@Z 00000001800087f8     Plugin.obj
+ 0001:00007814       $unwind$?GetFilesFromPanel@CPlugin@@IEAA_NPEAPEAPEB_WPEAI1PEAVauto_sz@@@Z 0000000180008814     Plugin.obj
+ 0001:00007834       $unwind$?ReadRegValues@CPlugin@@IEAAXXZ 0000000180008834     Plugin.obj
+ 0001:0000784c       $unwind$?CfgDlgProcStatic@CPlugin@@KA_JPEAX_J10@Z 000000018000884c     Plugin.obj
+ 0001:0000784c       $unwind$?CompareExcluding@auto_sz@@QEAA_NPEB_W_W@Z 000000018000884c     Plugin.obj
+ 0001:00007860       $unwind$?CfgDlgProc@CPlugin@@IEAAXPEAX_J10@Z 0000000180008860     Plugin.obj
+ 0001:00007874       $unwind$?GetAdditionalString@CPlugin@@IEAA_NPEAUIContextMenu@@IW4EAdditionalStr@1@PEAVauto_sz@@@Z 0000000180008874     Plugin.obj
+ 0001:000078a4       $unwind$?ReallocDialogItems@?$DialogBuilderBase@UFarDialogItem@@@@IEAAXXZ 00000001800088a4     Plugin.obj
+ 0001:000078b4       $unwind$?UpdateBorderSize@?$DialogBuilderBase@UFarDialogItem@@@@IEAAXXZ 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$??4auto_sz@@QEAAAEAV0@AEBV0@@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$??_G?$DialogBuilderBase@UFarDialogItem@@@@MEAAPEAXI@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$?InitDialogItem@PluginDialogBuilder@@MEAAXPEAUFarDialogItem@@PEB_W@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$??0PluginIntEditFieldBinding@@QEAA@AEBUPluginStartupInfo@@PEAPEAXHPEAHH@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$??_GPluginDialogBuilder@@UEAAPEAXI@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$??1CPidl@@QEAA@XZ  00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$?SaveValue@PluginRadioButtonBinding@@UEAAXPEAUFarDialogItem@@H@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$?CreateRadioButtonBinding@PluginDialogBuilder@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAH@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$??4auto_sz@@QEAAAEAV0@PEB_W@Z 00000001800088b4     Plugin.obj
+ 0001:000078b4       $unwind$?RemoveTrailing@auto_sz@@QEAAX_W@Z 00000001800088b4     Plugin.obj
+ 0001:000078c0       $unwind$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 00000001800088c0     Plugin.obj
+ 0001:000078d0       $chain$1$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 00000001800088d0     Plugin.obj
+ 0001:000078e8       $chain$2$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 00000001800088e8     Plugin.obj
+ 0001:000078f8       $chain$3$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 00000001800088f8     Plugin.obj
+ 0001:00007910       $chain$0$??1?$DialogBuilderBase@UFarDialogItem@@@@MEAA@XZ 0000000180008910     Plugin.obj
+ 0001:00007924       $chain$1$??1?$DialogBuilderBase@UFarDialogItem@@@@MEAA@XZ 0000000180008924     Plugin.obj
+ 0001:00007934       $unwind$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 0000000180008934     Plugin.obj
+ 0001:00007944       $chain$2$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 0000000180008944     Plugin.obj
+ 0001:00007960       $chain$3$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 0000000180008960     Plugin.obj
+ 0001:00007970       $chain$4$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 0000000180008970     Plugin.obj
+ 0001:0000798c       $unwind$?AddIntEditField@PluginDialogBuilder@@UEAAPEAUFarDialogItem@@PEAHH@Z 000000018000898c     Plugin.obj
+ 0001:000079a4       $unwind$free               00000001800089a4     libCRT64:free.obj
+ 0001:000079ac       $unwind$??ICPidl@@QEAAPEAPEFAU_ITEMIDLIST@@XZ 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$??1auto_sz@@QEAA@XZ 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$malloc             00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$?Cleanup@OleThread@@YAXXZ 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$??_GPluginRadioButtonBinding@@UEAAPEAXI@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$?GetPluginInfo@CPlugin@@QEAAXPEAUPluginInfo@@@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$ExitFARW           00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$SetStartupInfoW    00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$??_GPluginCheckBoxBinding@@UEAAPEAXI@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$??_G?$DialogItemBinding@UFarDialogItem@@@@UEAAPEAXI@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$?SaveValue@PluginIntEditFieldBinding@@UEAAXPEAUFarDialogItem@@H@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$??_GPluginIntEditFieldBinding@@UEAAPEAXI@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$??0auto_sz@@QEAA@PEB_W@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$?GetArray@CPidl@@QEAAPEAPEFBU_ITEMIDLIST@@XZ 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$?SaveValue@PluginCheckBoxBinding@@UEAAXPEAUFarDialogItem@@H@Z 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079ac       $unwind$?Startup@OleThread@@YAXXZ 00000001800089ac     libCRT64:malloc.obj
+ 0001:000079b4       $unwind$memset             00000001800089b4     libCRT64:memset.obj
+ 0001:000079bc       $chain$0$memset            00000001800089bc     libCRT64:memset.obj
+ 0001:000079d0       $chain$1$memset            00000001800089d0     libCRT64:memset.obj
+ 0001:000079e0       $unwind$__C_specific_handler 00000001800089e0     LIBCMT:chandler.obj
+ 0001:00007a00       $xdatasym                  0000000180008a00     LIBCMT:jmpuwind.obj
+ 0001:00007a14       $unwind$_IsNonwritableInCurrentImage 0000000180008a14     LIBCMT:pesect.obj
+ 0001:00007a38       $unwind$_IsNonwritableInCurrentImage$filt$0 0000000180008a38     LIBCMT:pesect.obj
+ 0001:00007e18       .idata$6                   0000000180008e18     kernel32:KERNEL32.dll
+ 0001:00007f9c       .idata$6                   0000000180008f9c     user32:USER32.dll
+ 0001:00007fea       .idata$6                   0000000180008fea     shell32:SHELL32.dll
+ 0001:0000801a       .idata$6                   000000018000901a     ole32:ole32.dll
+ 0001:00008040       .edata                     0000000180009040     EMenu.exp
+ 0001:00008068       rgpv                       0000000180009068     EMenu.exp
+ 0001:00008080       rgszName                   0000000180009080     EMenu.exp
+ 0001:00008098       rgwOrd                     0000000180009098     EMenu.exp
+ 0001:000080a4       szName                     00000001800090a4     EMenu.exp
+ 0001:000080ae       $N00001                    00000001800090ae     EMenu.exp
+ 0001:000080b9       $N00002                    00000001800090b9     EMenu.exp
+ 0001:000080c2       $N00003                    00000001800090c2     EMenu.exp
+ 0001:000080d1       $N00004                    00000001800090d1     EMenu.exp
+ 0001:000080e0       $N00005                    00000001800090e0     EMenu.exp
+ 0001:000080e6       $N00006                    00000001800090e6     EMenu.exp
+ 0002:000000c0       ?PluginMenuStrings@?1??GetPluginInfo@CPlugin@@QEAAXPEAUPluginInfo@@@Z@4PAPEB_WA 000000018000a0c0     Plugin.obj
+ 0002:000000c8       ?pThis@?1??CfgDlgProcStatic@CPlugin@@KA_JPEAX_J10@Z@4PEAV2@EA 000000018000a0c8     Plugin.obj
+ 0002:000000d0       ?szFNameTmp@?BK@??GetFilesFromPanel@CPlugin@@IEAA_NPEAPEAPEB_WPEAI1PEAVauto_sz@@@Z@4PA_WA 000000018000a0d0     Plugin.obj
+ 0003:0000000c       $pdata$ConfigureW          000000018000b00c     EMenu.obj
+ 0003:00000018       $pdata$ExitFARW            000000018000b018     EMenu.obj
+ 0003:00000024       $pdata$SetStartupInfoW     000000018000b024     EMenu.obj
+ 0003:00000030       $pdata$_DllMainCRTStartup  000000018000b030     EMenu.obj
+ 0003:0000003c       $pdata$??0auto_sz@@QEAA@AEBU_STRRET@@PEFBU_ITEMIDLIST@@@Z 000000018000b03c     auto_sz.obj
+ 0003:00000048       $pdata$1$??0auto_sz@@QEAA@AEBU_STRRET@@PEFBU_ITEMIDLIST@@@Z 000000018000b048     auto_sz.obj
+ 0003:00000054       $pdata$2$??0auto_sz@@QEAA@AEBU_STRRET@@PEFBU_ITEMIDLIST@@@Z 000000018000b054     auto_sz.obj
+ 0003:00000060       $pdata$??0auto_sz@@QEAA@PEB_W@Z 000000018000b060     auto_sz.obj
+ 0003:0000006c       $pdata$??0auto_sz@@QEAA@PEB_W_K@Z 000000018000b06c     auto_sz.obj
+ 0003:00000078       $pdata$??1auto_sz@@QEAA@XZ 000000018000b078     auto_sz.obj
+ 0003:00000084       $pdata$??4auto_sz@@QEAAAEAV0@AEBV0@@Z 000000018000b084     auto_sz.obj
+ 0003:00000090       $pdata$??4auto_sz@@QEAAAEAV0@PEB_W@Z 000000018000b090     auto_sz.obj
+ 0003:0000009c       $pdata$??9auto_sz@@QEAA_NPEB_W@Z 000000018000b09c     auto_sz.obj
+ 0003:000000a8       $pdata$??Yauto_sz@@QEAAAEAV0@PEB_W@Z 000000018000b0a8     auto_sz.obj
+ 0003:000000b4       $pdata$?CompareExcluding@auto_sz@@QEAA_NPEB_W_W@Z 000000018000b0b4     auto_sz.obj
+ 0003:000000c0       $pdata$?Len@auto_sz@@QEBA_KXZ 000000018000b0c0     auto_sz.obj
+ 0003:000000cc       $pdata$?Realloc@auto_sz@@QEAAX_K@Z 000000018000b0cc     auto_sz.obj
+ 0003:000000d8       $pdata$?RemoveTrailing@auto_sz@@QEAAX_W@Z 000000018000b0d8     auto_sz.obj
+ 0003:000000e4       $pdata$??0CFarMenu@@QEAA@PEB_WPEBU_GUID@@I@Z 000000018000b0e4     FarMenu.obj
+ 0003:000000f0       $pdata$??1CFarMenu@@QEAA@XZ 000000018000b0f0     FarMenu.obj
+ 0003:000000fc       $pdata$0$??1CFarMenu@@QEAA@XZ 000000018000b0fc     FarMenu.obj
+ 0003:00000108       $pdata$1$??1CFarMenu@@QEAA@XZ 000000018000b108     FarMenu.obj
+ 0003:00000114       $pdata$?AddArrows@CFarMenu@@IEAAXXZ 000000018000b114     FarMenu.obj
+ 0003:00000120       $pdata$3$?AddArrows@CFarMenu@@IEAAXXZ 000000018000b120     FarMenu.obj
+ 0003:0000012c       $pdata$6$?AddArrows@CFarMenu@@IEAAXXZ 000000018000b12c     FarMenu.obj
+ 0003:00000138       $pdata$7$?AddArrows@CFarMenu@@IEAAXXZ 000000018000b138     FarMenu.obj
+ 0003:00000144       $pdata$8$?AddArrows@CFarMenu@@IEAAXXZ 000000018000b144     FarMenu.obj
+ 0003:00000150       $pdata$?AddItem@CFarMenu@@QEAAIPEB_W_NW4ECheck@1@1@Z 000000018000b150     FarMenu.obj
+ 0003:0000015c       $pdata$?AddSeparator@CFarMenu@@QEAAXXZ 000000018000b15c     FarMenu.obj
+ 0003:00000168       $pdata$1$?AddSeparator@CFarMenu@@QEAAXXZ 000000018000b168     FarMenu.obj
+ 0003:00000174       $pdata$2$?AddSeparator@CFarMenu@@QEAAXXZ 000000018000b174     FarMenu.obj
+ 0003:00000180       $pdata$?GetCursorXY@CFarMenu@@QEAAXPEAH0@Z 000000018000b180     FarMenu.obj
+ 0003:0000018c       $pdata$0$?GetCursorXY@CFarMenu@@QEAAXPEAH0@Z 000000018000b18c     FarMenu.obj
+ 0003:00000198       $pdata$1$?GetCursorXY@CFarMenu@@QEAAXPEAH0@Z 000000018000b198     FarMenu.obj
+ 0003:000001a4       $pdata$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 000000018000b1a4     FarMenu.obj
+ 0003:000001b0       $pdata$1$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 000000018000b1b0     FarMenu.obj
+ 0003:000001bc       $pdata$2$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 000000018000b1bc     FarMenu.obj
+ 0003:000001c8       $pdata$3$?InsertItem@CFarMenu@@QEAAIIPEB_W_NW4ECheck@1@1@Z 000000018000b1c8     FarMenu.obj
+ 0003:000001d4       $pdata$?Show@CFarMenu@@QEAAHPEB_WH_N@Z 000000018000b1d4     FarMenu.obj
+ 0003:000001e0       $pdata$?MenuDlgProc@@YAHPEAUHWND__@@I_K_J@Z 000000018000b1e0     MenuDlg.obj
+ 0003:000001ec       $pdata$?Cleanup@OleThread@@YAXXZ 000000018000b1ec     OleThread.obj
+ 0003:000001f8       $pdata$?EnsureThreadStarted@OleThread@@YA_NXZ 000000018000b1f8     OleThread.obj
+ 0003:00000204       $pdata$0$?EnsureThreadStarted@OleThread@@YA_NXZ 000000018000b204     OleThread.obj
+ 0003:00000210       $pdata$1$?EnsureThreadStarted@OleThread@@YA_NXZ 000000018000b210     OleThread.obj
+ 0003:0000021c       $pdata$?OpenPlugin@OleThread@@YA?AW4EDoMenu@CPlugin@@H_J@Z 000000018000b21c     OleThread.obj
+ 0003:00000228       $pdata$?ShowMenu@OleThread@@YAHAEAVCFarMenu@@PEB_WH_N@Z 000000018000b228     OleThread.obj
+ 0003:00000234       $pdata$?Startup@OleThread@@YAXXZ 000000018000b234     OleThread.obj
+ 0003:00000240       $pdata$?ThreadProc@OleThread@@YAKPEAX@Z 000000018000b240     OleThread.obj
+ 0003:0000024c       $pdata$??1CPidl@@QEAA@XZ   000000018000b24c     Pidl.obj
+ 0003:00000258       $pdata$?Add@CPidl@@QEAAXPEFAU_ITEMIDLIST@@@Z 000000018000b258     Pidl.obj
+ 0003:00000264       $pdata$0$?Add@CPidl@@QEAAXPEFAU_ITEMIDLIST@@@Z 000000018000b264     Pidl.obj
+ 0003:00000270       $pdata$1$?Add@CPidl@@QEAAXPEFAU_ITEMIDLIST@@@Z 000000018000b270     Pidl.obj
+ 0003:0000027c       $pdata$?EnsureSpace@CPidl@@QEAAXXZ 000000018000b27c     Pidl.obj
+ 0003:00000288       $pdata$0$?EnsureSpace@CPidl@@QEAAXXZ 000000018000b288     Pidl.obj
+ 0003:00000294       $pdata$1$?EnsureSpace@CPidl@@QEAAXXZ 000000018000b294     Pidl.obj
+ 0003:000002a0       $pdata$?GetArray@CPidl@@QEAAPEAPEFBU_ITEMIDLIST@@XZ 000000018000b2a0     Pidl.obj
+ 0003:000002a0       $pdata$??ICPidl@@QEAAPEAPEFAU_ITEMIDLIST@@XZ 000000018000b2a0     Pidl.obj
+ 0003:000002ac       $pdata$?Insert@CPidl@@QEAAXIPEFAU_ITEMIDLIST@@@Z 000000018000b2ac     Pidl.obj
+ 0003:000002b8       $pdata$0$?Insert@CPidl@@QEAAXIPEFAU_ITEMIDLIST@@@Z 000000018000b2b8     Pidl.obj
+ 0003:000002c4       $pdata$1$?Insert@CPidl@@QEAAXIPEFAU_ITEMIDLIST@@@Z 000000018000b2c4     Pidl.obj
+ 0003:000002d0       $pdata$??0CPlugin@@QEAA@PEBUPluginStartupInfo@@@Z 000000018000b2d0     Plugin.obj
+ 0003:000002dc       $pdata$??0PluginIntEditFieldBinding@@QEAA@AEBUPluginStartupInfo@@PEAPEAXHPEAHH@Z 000000018000b2dc     Plugin.obj
+ 0003:000002e8       $pdata$??1?$DialogBuilderBase@UFarDialogItem@@@@MEAA@XZ 000000018000b2e8     Plugin.obj
+ 0003:000002f4       $pdata$0$??1?$DialogBuilderBase@UFarDialogItem@@@@MEAA@XZ 000000018000b2f4     Plugin.obj
+ 0003:00000300       $pdata$1$??1?$DialogBuilderBase@UFarDialogItem@@@@MEAA@XZ 000000018000b300     Plugin.obj
+ 0003:0000030c       $pdata$??_G?$DialogBuilderBase@UFarDialogItem@@@@MEAAPEAXI@Z 000000018000b30c     Plugin.obj
+ 0003:00000318       $pdata$??_GPluginDialogBuilder@@UEAAPEAXI@Z 000000018000b318     Plugin.obj
+ 0003:00000324       $pdata$??_GPluginCheckBoxBinding@@UEAAPEAXI@Z 000000018000b324     Plugin.obj
+ 0003:00000324       $pdata$??_GPluginRadioButtonBinding@@UEAAPEAXI@Z 000000018000b324     Plugin.obj
+ 0003:00000324       $pdata$??_GPluginIntEditFieldBinding@@UEAAPEAXI@Z 000000018000b324     Plugin.obj
+ 0003:00000324       $pdata$??_G?$DialogItemBinding@UFarDialogItem@@@@UEAAPEAXI@Z 000000018000b324     Plugin.obj
+ 0003:00000330       $pdata$?AddIntEditField@PluginDialogBuilder@@UEAAPEAUFarDialogItem@@PEAHH@Z 000000018000b330     Plugin.obj
+ 0003:0000033c       $pdata$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 000000018000b33c     Plugin.obj
+ 0003:00000348       $pdata$2$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 000000018000b348     Plugin.obj
+ 0003:00000354       $pdata$3$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 000000018000b354     Plugin.obj
+ 0003:00000360       $pdata$4$?AddRadioButtons@?$DialogBuilderBase@UFarDialogItem@@@@QEAAXPEAHHQEBH_N@Z 000000018000b360     Plugin.obj
+ 0003:0000036c       $pdata$?CfgDlgProc@CPlugin@@IEAAXPEAX_J10@Z 000000018000b36c     Plugin.obj
+ 0003:00000378       $pdata$?CfgDlgProcStatic@CPlugin@@KA_JPEAX_J10@Z 000000018000b378     Plugin.obj
+ 0003:00000384       $pdata$?Configure@CPlugin@@QEAAHXZ 000000018000b384     Plugin.obj
+ 0003:00000390       $pdata$?CreateCheckBoxBinding@PluginDialogBuilder@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAHH@Z 000000018000b390     Plugin.obj
+ 0003:0000039c       $pdata$?CreateRadioButtonBinding@PluginDialogBuilder@@MEAAPEAU?$DialogItemBinding@UFarDialogItem@@@@PEAH@Z 000000018000b39c     Plugin.obj
+ 0003:000003a8       $pdata$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@QEAPEB_WIIPEB_WW4EAutoItem@1@@Z 000000018000b3a8     Plugin.obj
+ 0003:000003b4       $pdata$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4CallMode@1@@Z 000000018000b3b4     Plugin.obj
+ 0003:000003c0       $pdata$4$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4CallMode@1@@Z 000000018000b3c0     Plugin.obj
+ 0003:000003cc       $pdata$5$?DoMenu@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4CallMode@1@@Z 000000018000b3cc     Plugin.obj
+ 0003:000003d8       $pdata$?DoShowDialog@PluginDialogBuilder@@MEAA_JXZ 000000018000b3d8     Plugin.obj
+ 0003:000003e4       $pdata$?GetAdditionalString@CPlugin@@IEAA_NPEAUIContextMenu@@IW4EAdditionalStr@1@PEAVauto_sz@@@Z 000000018000b3e4     Plugin.obj
+ 0003:000003f0       $pdata$?GetFilesFromPanel@CPlugin@@IEAA_NPEAPEAPEB_WPEAI1PEAVauto_sz@@@Z 000000018000b3f0     Plugin.obj
+ 0003:000003fc       $pdata$?GetFilesFromParams@CPlugin@@IEAA_NPEA_WPEAPEAPEB_WPEAI2PEAVauto_sz@@_N@Z 000000018000b3fc     Plugin.obj
+ 0003:00000408       $pdata$?GetPluginInfo@CPlugin@@QEAAXPEAUPluginInfo@@@Z 000000018000b408     Plugin.obj
+ 0003:00000414       $pdata$?InitDialogItem@PluginDialogBuilder@@MEAAXPEAUFarDialogItem@@PEB_W@Z 000000018000b414     Plugin.obj
+ 0003:00000420       $pdata$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 000000018000b420     Plugin.obj
+ 0003:0000042c       $pdata$1$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 000000018000b42c     Plugin.obj
+ 0003:00000438       $pdata$2$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 000000018000b438     Plugin.obj
+ 0003:00000444       $pdata$3$?MaxTextWidth@?$DialogBuilderBase@UFarDialogItem@@@@IEAA_JXZ 000000018000b444     Plugin.obj
+ 0003:00000450       $pdata$?MenuForPanelOrCmdLine@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4EAutoItem@1@@Z 000000018000b450     Plugin.obj
+ 0003:0000045c       $pdata$0$?MenuForPanelOrCmdLine@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4EAutoItem@1@@Z 000000018000b45c     Plugin.obj
+ 0003:00000468       $pdata$1$?MenuForPanelOrCmdLine@CPlugin@@IEAA?AW4EDoMenu@1@PEA_WW4EAutoItem@1@@Z 000000018000b468     Plugin.obj
+ 0003:00000474       $pdata$?OpenPlugin@CPlugin@@QEAAPEAXH_J@Z 000000018000b474     Plugin.obj
+ 0003:00000480       $pdata$?OpenPluginBkg@CPlugin@@QEAA?AW4EDoMenu@1@H_J@Z 000000018000b480     Plugin.obj
+ 0003:0000048c       $pdata$?ReadRegValues@CPlugin@@IEAAXXZ 000000018000b48c     Plugin.obj
+ 0003:00000498       $pdata$?ReallocDialogItems@?$DialogBuilderBase@UFarDialogItem@@@@IEAAXXZ 000000018000b498     Plugin.obj
+ 0003:000004a4       $pdata$?SaveValue@PluginCheckBoxBinding@@UEAAXPEAUFarDialogItem@@H@Z 000000018000b4a4     Plugin.obj
+ 0003:000004b0       $pdata$?SaveValue@PluginIntEditFieldBinding@@UEAAXPEAUFarDialogItem@@H@Z 000000018000b4b0     Plugin.obj
+ 0003:000004bc       $pdata$?SaveValue@PluginRadioButtonBinding@@UEAAXPEAUFarDialogItem@@H@Z 000000018000b4bc     Plugin.obj
+ 0003:000004c8       $pdata$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 000000018000b4c8     Plugin.obj
+ 0003:000004d4       $pdata$1$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 000000018000b4d4     Plugin.obj
+ 0003:000004e0       $pdata$2$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 000000018000b4e0     Plugin.obj
+ 0003:000004ec       $pdata$3$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 000000018000b4ec     Plugin.obj
+ 0003:000004f8       $pdata$4$?SelectDrive@CPlugin@@IEAA?AW4EDoMenu@1@XZ 000000018000b4f8     Plugin.obj
+ 0003:00000504       $pdata$?ShowFolder@CPlugin@@IEAA_NPEAUIShellFolder@@PEFBU_ITEMIDLIST@@PEAHPEB_WPEAPEAUIDropTarget@@@Z 000000018000b504     Plugin.obj
+ 0003:00000510       $pdata$?ShowGuiMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAH@Z 000000018000b510     Plugin.obj
+ 0003:0000051c       $pdata$?ShowTextMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAHPEB_WPEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@I@Z 000000018000b51c     Plugin.obj
+ 0003:00000528       $pdata$0$?ShowTextMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAHPEB_WPEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@I@Z 000000018000b528     Plugin.obj
+ 0003:00000534       $pdata$2$?ShowTextMenu@CPlugin@@IEAA_NPEAUHMENU__@@PEAUIContextMenu@@PEAUIContextMenu2@@PEAUIContextMenu3@@PEAHPEB_WPEAUIShellFolder@@PEAPEFBU_ITEMIDLIST@@I@Z 000000018000b534     Plugin.obj
+ 0003:00000540       $pdata$?UpdateBorderSize@?$DialogBuilderBase@UFarDialogItem@@@@IEAAXXZ 000000018000b540     Plugin.obj
+ 0003:0000054c       $pdata$free                000000018000b54c     libCRT64:free.obj
+ 0003:00000558       $pdata$malloc              000000018000b558     libCRT64:malloc.obj
+ 0003:00000564       $pdata$memset              000000018000b564     libCRT64:memset.obj
+ 0003:00000570       $pdata$0$memset            000000018000b570     libCRT64:memset.obj
+ 0003:0000057c       $pdata$1$memset            000000018000b57c     libCRT64:memset.obj
+ 0003:00000588       $pdata$__C_specific_handler 000000018000b588     LIBCMT:chandler.obj
+ 0003:000005c4       $pdata$_IsNonwritableInCurrentImage 000000018000b5c4     LIBCMT:pesect.obj
+ 0003:000005d0       $pdata$_IsNonwritableInCurrentImage$filt$0 000000018000b5d0     LIBCMT:pesect.obj
+ 0004:000000a0       $R000000                   000000018000c0a0     EMenu.res
+ 0004:00000408       $R000368                   000000018000c408     EMenu.res

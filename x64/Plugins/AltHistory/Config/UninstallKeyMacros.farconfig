@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<farconfig>
+    <macros>
+        <constants>
+            <constant name="ALT_HISTORY"></constant>
+        </constants>
+        <keymacros>
+            <macro area="Shell"  key="AltF8"></macro>
+            <macro area="Viewer" key="AltF8"></macro>
+            <macro area="Editor" key="AltF8"></macro>
+            <macro area="Info"   key="AltF8"></macro>
+            <macro area="Qview"  key="AltF8"></macro>
+            <macro area="Tree"   key="AltF8"></macro>
+            <macro area="Dialog" key="AltF8"></macro>
+
+            <macro area="Shell"  key="AltF11"></macro>
+            <macro area="Viewer" key="AltF11"></macro>
+            <macro area="Editor" key="AltF11"></macro>
+            <macro area="Info"   key="AltF11"></macro>
+            <macro area="Qview"  key="AltF11"></macro>
+            <macro area="Tree"   key="AltF11"></macro>
+            <macro area="Dialog" key="AltF11"></macro>
+
+            <macro area="Shell"  key="AltF12"></macro>
+            <macro area="Viewer" key="AltF12"></macro>
+            <macro area="Editor" key="AltF12"></macro>
+            <macro area="Info"   key="AltF12"></macro>
+            <macro area="Qview"  key="AltF12"></macro>
+            <macro area="Tree"   key="AltF12"></macro>
+            <macro area="Dialog" key="AltF12"></macro>
+
+            <macro area="Shell"  key="CtrlSpace"></macro>
+            <macro area="Info"   key="CtrlSpace"></macro>
+            <macro area="Qview"  key="CtrlSpace"></macro>
+            <macro area="Tree"   key="CtrlSpace"></macro>
+
+            <macro area="Dialog" key="CtrlShiftX"></macro>
+
+            <macro area="Shell"  key="CtrlAltF8"></macro>
+            <macro area="Viewer" key="CtrlAltF8"></macro>
+            <macro area="Editor" key="CtrlAltF8"></macro>
+            <macro area="Info"   key="CtrlAltF8"></macro>
+            <macro area="Qview"  key="CtrlAltF8"></macro>
+            <macro area="Tree"   key="CtrlAltF8"></macro>
+
+            <macro area="Shell"  key="CtrlAltF11"></macro>
+            <macro area="Viewer" key="CtrlAltF11"></macro>
+            <macro area="Editor" key="CtrlAltF11"></macro>
+            <macro area="Info"   key="CtrlAltF11"></macro>
+            <macro area="Qview"  key="CtrlAltF11"></macro>
+            <macro area="Tree"   key="CtrlAltF11"></macro>
+
+            <macro area="Shell"  key="CtrlAltF12"></macro>
+            <macro area="Info"   key="CtrlAltF12"></macro>
+            <macro area="Qview"  key="CtrlAltF12"></macro>
+            <macro area="Tree"   key="CtrlAltF12"></macro>
+        </keymacros>
+    </macros>
+</farconfig>

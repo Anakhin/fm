@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<farconfig>
+    <macros>
+        <constants>
+            <constant name="ALT_HISTORY" type="text"><text>FF8FC1AE-0F35-4134-9BAB-56D71B1D47B9</text></constant>
+        </constants>
+        <keymacros>
+        <!--
+		cfmCommandHistory         = 1,
+		cfmViewHistory            = 2,
+		cfmFolderHistory          = 3,
+		cfmFilteredCommandHistory = 4,
+		cfmPrevCommand            = 5,
+		cfmNextCommand            = 6,
+
+		cfmXLat                   = 255
+        -->
+            <!-- Macros for replace with AltHistory standard history -->
+            <macro area="Shell"  key="AltF8" flags="DisableOutput" description="Alternative commands history"><text>if not Plugin.Call(ALT_HISTORY, 1) then Keys(AKey(2)) end</text></macro>
+            <macro area="Viewer" key="AltF8" flags="DisableOutput" description="Alternative commands history"><text>if not Plugin.Call(ALT_HISTORY, 1) then Keys(AKey(2)) end</text></macro>
+            <macro area="Editor" key="AltF8" flags="DisableOutput" description="Alternative commands history"><text>if not Plugin.Call(ALT_HISTORY, 1) then Keys(AKey(2)) end</text></macro>
+            <macro area="Info"   key="AltF8" flags="DisableOutput" description="Alternative commands history"><text>if not Plugin.Call(ALT_HISTORY, 1) then Keys(AKey(2)) end</text></macro>
+            <macro area="Qview"  key="AltF8" flags="DisableOutput" description="Alternative commands history"><text>if not Plugin.Call(ALT_HISTORY, 1) then Keys(AKey(2)) end</text></macro>
+            <macro area="Tree"   key="AltF8" flags="DisableOutput" description="Alternative commands history"><text>if not Plugin.Call(ALT_HISTORY, 1) then Keys(AKey(2)) end</text></macro>
+            <macro area="Dialog" key="AltF8" flags="DisableOutput" description="Alternative commands history"><text>if not Plugin.Call(ALT_HISTORY, 1) then Keys(AKey(2)) end</text></macro>
+
+            <macro area="Shell"  key="AltF11" flags="DisableOutput" description="Alternative file view history"><text>if not Plugin.Call(ALT_HISTORY, 2) then Keys(AKey(2)) end</text></macro>
+            <macro area="Viewer" key="AltF11" flags="DisableOutput" description="Alternative file view history"><text>if not Plugin.Call(ALT_HISTORY, 2) then Keys(AKey(2)) end</text></macro>
+            <macro area="Editor" key="AltF11" flags="DisableOutput" description="Alternative file view history"><text>if not Plugin.Call(ALT_HISTORY, 2) then Keys(AKey(2)) end</text></macro>
+            <macro area="Info"   key="AltF11" flags="DisableOutput" description="Alternative file view history"><text>if not Plugin.Call(ALT_HISTORY, 2) then Keys(AKey(2)) end</text></macro>
+            <macro area="Qview"  key="AltF11" flags="DisableOutput" description="Alternative file view history"><text>if not Plugin.Call(ALT_HISTORY, 2) then Keys(AKey(2)) end</text></macro>
+            <macro area="Tree"   key="AltF11" flags="DisableOutput" description="Alternative file view history"><text>if not Plugin.Call(ALT_HISTORY, 2) then Keys(AKey(2)) end</text></macro>
+            <macro area="Dialog" key="AltF11" flags="DisableOutput" description="Alternative file view history"><text>if not Plugin.Call(ALT_HISTORY, 2) then Keys(AKey(2)) end</text></macro>
+
+            <macro area="Shell"  key="AltF12" flags="DisableOutput" description="Alternative folders history"><text>if not Plugin.Call(ALT_HISTORY, 3) then Keys(AKey(2)) end</text></macro>
+            <macro area="Viewer" key="AltF12" flags="DisableOutput" description="Alternative folders history"><text>if not Plugin.Call(ALT_HISTORY, 3) then Keys(AKey(2)) end</text></macro>
+            <macro area="Editor" key="AltF12" flags="DisableOutput" description="Alternative folders history"><text>if not Plugin.Call(ALT_HISTORY, 3) then Keys(AKey(2)) end</text></macro>
+            <macro area="Info"   key="AltF12" flags="DisableOutput" description="Alternative folders history"><text>if not Plugin.Call(ALT_HISTORY, 3) then Keys(AKey(2)) end</text></macro>
+            <macro area="Qview"  key="AltF12" flags="DisableOutput" description="Alternative folders history"><text>if not Plugin.Call(ALT_HISTORY, 3) then Keys(AKey(2)) end</text></macro>
+            <macro area="Tree"   key="AltF12" flags="DisableOutput" description="Alternative folders history"><text>if not Plugin.Call(ALT_HISTORY, 3) then Keys(AKey(2)) end</text></macro>
+            <macro area="Dialog" key="AltF12" flags="DisableOutput" description="Alternative folders history"><text>if not Plugin.Call(ALT_HISTORY, 3) then Keys(AKey(2)) end</text></macro>
+
+            <macro area="Shell"  key="CtrlSpace" flags="DisableOutput" description="Alternative history: list of filtered commands"><text>if not Plugin.Call(ALT_HISTORY, 4) then Keys(AKey(2)) end</text></macro>
+            <macro area="Info"   key="CtrlSpace" flags="DisableOutput" description="Alternative history: list of filtered commands"><text>if not Plugin.Call(ALT_HISTORY, 4) then Keys(AKey(2)) end</text></macro>
+            <macro area="Qview"  key="CtrlSpace" flags="DisableOutput" description="Alternative history: list of filtered commands"><text>if not Plugin.Call(ALT_HISTORY, 4) then Keys(AKey(2)) end</text></macro>
+            <macro area="Tree"   key="CtrlSpace" flags="DisableOutput" description="Alternative history: list of filtered commands"><text>if not Plugin.Call(ALT_HISTORY, 4) then Keys(AKey(2)) end</text></macro>
+
+            <macro area="Dialog" key="CtrlShiftX" flags="DisableOutput" description="Alternative history: xlat filter"><text>
+            	if dlg.info.id == "86ED68B6-7C55-4B2D-AEEB-E354B5F04CA9" then Plugin.Call(ALT_HISTORY, 255) else Keys('Xlat') end
+            </text></macro>
+
+            <!-- Macros for call standard history (or other actions) -->
+            <macro area="Shell"  key="CtrlAltF8" flags="DisableOutput" description="Standard commands history"><text>Keys('AltF8')</text></macro>
+            <macro area="Viewer" key="CtrlAltF8" flags="DisableOutput" description="Go to"><text>Keys('AltF8')</text></macro>
+            <macro area="Editor" key="CtrlAltF8" flags="DisableOutput" description="Go to position"><text>Keys('AltF8')</text></macro>
+            <macro area="Info"   key="CtrlAltF8" flags="DisableOutput" description="Go to or Standard commands history"><text>Keys('AltF8')</text></macro>
+            <macro area="Qview"  key="CtrlAltF8" flags="DisableOutput" description="Go to or Standard commands history"><text>Keys('AltF8')</text></macro>
+            <macro area="Tree"   key="CtrlAltF8" flags="DisableOutput" description="Standard commands history"><text>Keys('AltF8')</text></macro>
+
+            <macro area="Shell"  key="CtrlAltF11" flags="DisableOutput" description="Standard file view history"><text>Keys('AltF11')</text></macro>
+            <macro area="Viewer" key="CtrlAltF11" flags="DisableOutput" description="Standard file view history"><text>Keys('AltF11')</text></macro>
+            <macro area="Editor" key="CtrlAltF11" flags="DisableOutput" description="Standard file view history"><text>Keys('AltF11')</text></macro>
+            <macro area="Info"   key="CtrlAltF11" flags="DisableOutput" description="Standard file view history"><text>Keys('AltF11')</text></macro>
+            <macro area="Qview"  key="CtrlAltF11" flags="DisableOutput" description="Standard file view history"><text>Keys('AltF11')</text></macro>
+            <macro area="Tree"   key="CtrlAltF11" flags="DisableOutput" description="Standard file view history"><text>Keys('AltF11')</text></macro>
+
+            <macro area="Shell"  key="CtrlAltF12" flags="DisableOutput" description="Standard folders history"><text>Keys('AltF12')</text></macro>
+            <macro area="Info"   key="CtrlAltF12" flags="DisableOutput" description="Standard folders history"><text>Keys('AltF12')</text></macro>
+            <macro area="Qview"  key="CtrlAltF12" flags="DisableOutput" description="Standard folders history"><text>Keys('AltF12')</text></macro>
+            <macro area="Tree"   key="CtrlAltF12" flags="DisableOutput" description="Standard folders history"><text>Keys('AltF12')</text></macro>
+        </keymacros>
+    </macros>
+</farconfig>

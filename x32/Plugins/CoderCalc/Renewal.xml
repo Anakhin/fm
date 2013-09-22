@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<renewal>
+	<plugin guid="{256C8EBC-F874-4905-AA51-EFDA1BB62800}">
+		<url arch="any">http://code.google.com/p/farplugs/downloads/list</url>
+		<home arch="any">http://code.google.com/p/farplugs</home>
+		<changelog arch="any">http://farplugs.googlecode.com/svn/trunk/CoderCalc/dist/ChangeLog</changelog>
+		<regex arch="x64">//farplugs\.googlecode\.com/files/FarCoderCalc_(\d+)\.(\d+)\.(\d+)\.(\d+)_x64\.zip</regex>
+		<regex arch="x86">//farplugs\.googlecode\.com/files/FarCoderCalc_(\d+)\.(\d+)\.(\d+)\.(\d+)_x86\.zip</regex>
+		<srcpath arch="any">CoderCalc</srcpath>
+	</plugin>
+</renewal>

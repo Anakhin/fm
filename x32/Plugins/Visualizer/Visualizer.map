@@ -1,0 +1,169 @@
+ Visualizer
+
+ Timestamp is 51884a96 (Tue May 07 03:28:06 2013)
+
+ Preferred load address is 10000000
+
+ Start         Length     Name                   Class
+ 0001:00000000 00000024H .idata$5                CODE
+ 0001:00000030 00000b8aH .rdata                  CODE
+ 0001:00000bbc 0000006cH .rdata$debug            CODE
+ 0001:00000c30 000031deH .text                   CODE
+ 0001:00003e10 00000014H .idata$2                CODE
+ 0001:00003e24 00000014H .idata$3                CODE
+ 0001:00003e38 00000024H .idata$4                CODE
+ 0001:00003e5c 0000009aH .idata$6                CODE
+ 0001:00003f00 000000b1H .edata                  CODE
+ 0002:00000000 000002e4H .data                   DATA
+ 0002:000002e8 000002f4H .bss                    DATA
+ 0003:00000000 00000058H .rsrc$01                DATA
+ 0003:00000060 000002b8H .rsrc$02                DATA
+
+  Address         Publics by Value              Rva+Base       Lib:Object
+
+ 0000:00000000       ___safe_se_handler_table   00000000     <absolute>
+ 0000:00000000       ___safe_se_handler_count   00000000     <absolute>
+ 0001:00000000       __imp__GetStdHandle@4      10001000     kernel32:KERNEL32.dll
+ 0001:00000004       __imp__GetModuleHandleW@4  10001004     kernel32:KERNEL32.dll
+ 0001:00000008       __imp__GetProcAddress@8    10001008     kernel32:KERNEL32.dll
+ 0001:0000000c       __imp__lstrlenW@4          1000100c     kernel32:KERNEL32.dll
+ 0001:00000010       __imp__WriteConsoleOutputCharacterW@20 10001010     kernel32:KERNEL32.dll
+ 0001:00000014       __imp__HeapFree@12         10001014     kernel32:KERNEL32.dll
+ 0001:00000018       __imp__GetProcessHeap@0    10001018     kernel32:KERNEL32.dll
+ 0001:0000001c       __imp__HeapAlloc@12        1000101c     kernel32:KERNEL32.dll
+ 0001:00000020       \177KERNEL32_NULL_THUNK_DATA 10001020     kernel32:KERNEL32.dll
+ 0001:000000a8       ??_C@_11LOCGONAA@?$AA?$AA@ 100010a8     Visualizer.obj
+ 0001:000000ac       ??_C@_1BI@KEDGNNFD@?$AAO?$AAn?$AAO?$AAf?$AAf?$AAS?$AAw?$AAi?$AAt?$AAc?$AAh?$AA?$AA@ 100010ac     Visualizer.obj
+ 0001:000000c4       ??_C@_1CE@OCGNMENO@?$AAS?$AAh?$AAo?$AAw?$AAR?$AAi?$AAg?$AAh?$AAt?$AAB?$AAo?$AAr?$AAd?$AAe?$AAr?$AAO?$AAn?$AA?$AA@ 100010c4     Visualizer.obj
+ 0001:000000e8       ??_C@_1BE@NOJKMEAJ@?$AAS?$AAh?$AAo?$AAw?$AAE?$AAO?$AAL?$AAO?$AAn?$AA?$AA@ 100010e8     Visualizer.obj
+ 0001:000000fc       ??_C@_1BE@EPFKNIMB@?$AAS?$AAh?$AAo?$AAw?$AAE?$AAO?$AAF?$AAO?$AAn?$AA?$AA@ 100010fc     Visualizer.obj
+ 0001:00000110       ??_C@_1BG@NDIJJFHE@?$AAS?$AAh?$AAo?$AAw?$AAT?$AAa?$AAb?$AAs?$AAO?$AAn?$AA?$AA@ 10001110     Visualizer.obj
+ 0001:00000128       ??_C@_1BI@JBPPMGJD@?$AAS?$AAh?$AAo?$AAw?$AAC?$AAr?$AAo?$AAs?$AAs?$AAO?$AAn?$AA?$AA@ 10001128     Visualizer.obj
+ 0001:00000140       ??_C@_1BK@DAIJOKII@?$AAS?$AAh?$AAo?$AAw?$AAC?$AAu?$AAr?$AAs?$AAo?$AAr?$AAO?$AAn?$AA?$AA@ 10001140     Visualizer.obj
+ 0001:0000015c       ??_C@_1CE@BMEIABMC@?$AAS?$AAh?$AAo?$AAw?$AAL?$AAi?$AAn?$AAe?$AAN?$AAu?$AAm?$AAb?$AAe?$AAr?$AAs?$AAO?$AAn?$AA?$AA@ 1000115c     Visualizer.obj
+ 0001:00000180       ??_C@_1CA@HBPJFHEL@?$AAS?$AAh?$AAo?$AAw?$AAR?$AAi?$AAg?$AAh?$AAt?$AAB?$AAo?$AAr?$AAd?$AAe?$AAr?$AA?$AA@ 10001180     Visualizer.obj
+ 0001:000001a0       ??_C@_1BA@ENLDKHAO@?$AAS?$AAh?$AAo?$AAw?$AAE?$AAO?$AAL?$AA?$AA@ 100011a0     Visualizer.obj
+ 0001:000001b0       ??_C@_1BC@LGINKHPA@?$AAS?$AAh?$AAo?$AAw?$AAT?$AAa?$AAb?$AAs?$AA?$AA@ 100011b0     Visualizer.obj
+ 0001:000001c4       ??_C@_1BE@KJIEFEA@?$AAS?$AAh?$AAo?$AAw?$AAC?$AAr?$AAo?$AAs?$AAs?$AA?$AA@ 100011c4     Visualizer.obj
+ 0001:000001d8       ??_C@_1BO@JMICENIP@?$AAS?$AAh?$AAo?$AAw?$AAC?$AAr?$AAo?$AAs?$AAs?$AAO?$AAn?$AAT?$AAo?$AAp?$AA?$AA@ 100011d8     Visualizer.obj
+ 0001:000001f8       ??_C@_1BM@FBBAJHKC@?$AAS?$AAh?$AAo?$AAw?$AAT?$AAa?$AAb?$AAS?$AAy?$AAm?$AAb?$AAo?$AAl?$AA?$AA@ 100011f8     Visualizer.obj
+ 0001:00000214       ??_C@_1BE@BINNKFM@?$AAT?$AAa?$AAb?$AAS?$AAy?$AAm?$AAb?$AAo?$AAl?$AA?$AA@ 10001214     Visualizer.obj
+ 0001:00000228       ??_C@_1BM@EHGPKJPJ@?$AAS?$AAh?$AAo?$AAw?$AAB?$AAo?$AAo?$AAk?$AAm?$AAa?$AAr?$AAk?$AAs?$AA?$AA@ 10001228     Visualizer.obj
+ 0001:00000244       ??_C@_1CG@CKADJJGD@?$AAS?$AAh?$AAo?$AAw?$AAS?$AAt?$AAa?$AAc?$AAk?$AAB?$AAo?$AAo?$AAk?$AAm?$AAa?$AAr?$AAk?$AAs?$AA?$AA@ 10001244     Visualizer.obj
+ 0001:0000026c       ??_C@_1CG@EOLODCPD@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAR?$AAi?$AAg?$AAh?$AAt?$AAB?$AAo?$AAr?$AAd?$AAe?$AAr?$AA?$AA@ 1000126c     Visualizer.obj
+ 0001:00000294       ??_C@_1CC@DCMANMEO@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAE?$AAO?$AAL?$AAN?$AAo?$AAr?$AAm?$AAa?$AAl?$AA?$AA@ 10001294     Visualizer.obj
+ 0001:000002b8       ??_C@_1BK@OAJFBODI@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAE?$AAO?$AAL?$AAC?$AAR?$AA?$AA@ 100012b8     Visualizer.obj
+ 0001:000002d4       ??_C@_1BK@MOLIGMCF@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAE?$AAO?$AAL?$AAL?$AAF?$AA?$AA@ 100012d4     Visualizer.obj
+ 0001:000002f0       ??_C@_1BO@NJHIGNCI@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAE?$AAO?$AAL?$AAN?$AAU?$AAL?$AAL?$AA?$AA@ 100012f0     Visualizer.obj
+ 0001:00000310       ??_C@_1BG@POBEDMM@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAE?$AAO?$AAF?$AA?$AA@ 10001310     Visualizer.obj
+ 0001:00000328       ??_C@_1BI@EJLNFFGJ@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAT?$AAa?$AAb?$AAs?$AA?$AA@ 10001328     Visualizer.obj
+ 0001:00000340       ??_C@_1BK@PFBMAMAC@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAT?$AAa?$AAb?$AAs?$AA2?$AA?$AA@ 10001340     Visualizer.obj
+ 0001:0000035c       ??_C@_1CK@JAIIBCHK@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAC?$AAr?$AAo?$AAs?$AAs?$AAV?$AAe?$AAr?$AAt?$AAi?$AAc?$AAa?$AAl?$AA?$AA@ 1000135c     Visualizer.obj
+ 0001:00000388       ??_C@_1CO@DBJMONLI@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAC?$AAr?$AAo?$AAs?$AAs?$AAH?$AAo?$AAr?$AAi?$AAz?$AAo?$AAn?$AAt?$AAa?$AAl?$AA?$AA@ 10001388     Visualizer.obj
+ 0001:000003b8       ??_C@_1BM@GBGJGJEM@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAC?$AAu?$AAr?$AAs?$AAo?$AAr?$AA?$AA@ 100013b8     Visualizer.obj
+ 0001:000003d4       ??_C@_1CC@NFCKPIIL@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAB?$AAo?$AAo?$AAk?$AAm?$AAa?$AAr?$AAk?$AAs?$AA?$AA@ 100013d4     Visualizer.obj
+ 0001:000003f8       ??_C@_1CM@KELMDCGP@?$AAC?$AAo?$AAl?$AAo?$AAr?$AAO?$AAf?$AAS?$AAt?$AAa?$AAc?$AAk?$AAB?$AAo?$AAo?$AAk?$AAm?$AAa?$AAr?$AAk?$AAs?$AA?$AA@ 100013f8     Visualizer.obj
+ 0001:00000424       ??_C@_1BG@KCBAFMBP@?$AAV?$AAi?$AAs?$AAu?$AAa?$AAl?$AAi?$AAz?$AAe?$AAr?$AA?$AA@ 10001424     Visualizer.obj
+ 0001:00000440       ??_C@_1JE@KBEEOOI@?$AAV?$AAi?$AAs?$AAu?$AAa?$AAl?$AAi?$AAz?$AAe?$AA?5?$AAo?$AAt?$AAh?$AAe?$AAr?$AAw?$AAi?$AAs?$AAe?$AA?5?$AAn?$AAo?$AAt?$AA?5?$AAs?$AAo?$AA?5?$AAe?$AAa?$AAs?$AAi?$AAl@ 10001440     Visualizer.obj
+ 0001:000004d4       ??_C@_1CC@CCKBGCJJ@?$AAA?$AAl?$AAe?$AAx?$AA?5?$AAY?$AAa?$AAr?$AAo?$AAs?$AAl?$AAa?$AAv?$AAs?$AAk?$AAy?$AA?$AA@ 100014d4     Visualizer.obj
+ 0001:000004f8       ??_C@_1BA@JCGNNGOF@?$AAe?$AAs?$AAc?$AA?4?$AAd?$AAl?$AAl?$AA?$AA@ 100014f8     Visualizer.obj
+ 0001:00000508       ??_C@_0BD@HGMILDMI@GetEditorSettingsW?$AA@ 10001508     Visualizer.obj
+ 0001:00000b60       ??_C@_1M@GMNCKIEF@?$AAx?$AAH?$AAH?$AAH?$AAH?$AA?$AA@ 10001b60     Visualizer.obj
+ 0001:00000b6c       ??_C@_19KBJOGOJG@?$AA?$CF?$AA0?$AA4?$AAX?$AA?$AA@ 10001b6c     Visualizer.obj
+ 0001:00000b78       ??_C@_13EIMBECHO@?$CB?$JD?$AA?$AA@ 10001b78     Visualizer.obj
+ 0001:00000b7c       ??_C@_13LGOAANNG@?$CGj?$AA?$AA@ 10001b7c     Visualizer.obj
+ 0001:00000b80       ??_C@_13LLGBFCPL@?$CF?Y?$AA?$AA@ 10001b80     Visualizer.obj
+ 0001:00000b84       ??_C@_19EOACODOG@?$AAw?$AAr?$AAa?$AAp?$AA?$AA@ 10001b84     Visualizer.obj
+ 0001:00000b90       ??_C@_1BC@MODAJLEE@?$AAa?$AAu?$AAt?$AAo?$AAw?$AAr?$AAa?$AAp?$AA?$AA@ 10001b90     Visualizer.obj
+ 0001:00000ba4       ??_C@_15KNBIKKIN@?$AA?$CF?$AAd?$AA?$AA@ 10001ba4     Visualizer.obj
+ 0001:00000bac       ??_C@_1O@HBMHBBIG@?$AA?3?$AA?$CF?$AA?$CK?$AA?4?$AA?$CK?$AAd?$AA?$AA@ 10001bac     Visualizer.obj
+ 0001:00000c30       __chkstk                   10001c30 f   chkstk.obj
+ 0001:00000c30       __alloca_probe             10001c30     chkstk.obj
+ 0001:00002fb0       _GetGlobalInfoW@4          10003fb0 f   Visualizer.obj
+ 0001:00003070       _GetPluginInfoW@4          10004070 f   Visualizer.obj
+ 0001:000030c0       _OpenW@4                   100040c0 f   Visualizer.obj
+ 0001:00003710       _ProcessEditorEventW@4     10004710 f   Visualizer.obj
+ 0001:00003b40       _SetStartupInfoW@4         10004b40 f   Visualizer.obj
+ 0001:00003bb0       _free                      10004bb0 f   libCRT:free.obj
+ 0001:00003bd0       _malloc                    10004bd0 f   libCRT:malloc.obj
+ 0001:00003d90       _wcstol                    10004d90 f   libCRT:strtol.obj
+ 0001:00003db0       _memcpy                    10004db0 f   libCRT:memcpy.obj
+ 0001:00003de0       _memset                    10004de0 f   libCRT:memset.obj
+ 0001:00003e10       __IMPORT_DESCRIPTOR_KERNEL32 10004e10     kernel32:KERNEL32.dll
+ 0001:00003e24       __NULL_IMPORT_DESCRIPTOR   10004e24     kernel32:KERNEL32.dll
+ 0002:000002e8       ?GetEditorSettings@@3P6GHHPB_WPAX@ZA 100052e8     Visualizer.obj
+
+ entry point at        0000:00000000
+
+ Static symbols
+
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0000:ffff8000       .debug$S                   10000000     kernel32:KERNEL32.dll
+ 0001:00000068       _MainGuid                  10001068     Visualizer.obj
+ 0001:00000078       _MenuGuid                  10001078     Visualizer.obj
+ 0001:00000088       _ConfigDialogGuid          10001088     Visualizer.obj
+ 0001:00000098       _ConfigCologDialogGuid     10001098     Visualizer.obj
+ 0001:00000520       ?PreDialogItems@?1??ConfigColor@@YAXPAUOptions@@@Z@4QBUInitDialogItem@@B 10001520     Visualizer.obj
+ 0001:000007c8       ?PreDialogItems@?1??OpenW@@9@4@4QBUInitDialogItem@@B 100017c8     Visualizer.obj
+ 0001:00000c30       $$000000                   10001c30     chkstk.obj
+ 0001:00000c60       ?ConfigColor@@YAXPAUOptions@@@Z 10001c60 f   Visualizer.obj
+ 0001:00000e00       $LN31                      10001e00     Visualizer.obj
+ 0001:00000e40       ?InitDialogItems@@YAXPBUInitDialogItem@@PAUFarDialogItem@@H@Z 10001e40 f   Visualizer.obj
+ 0001:00000ee0       ?InitList@@YAXPAUFarList@@HI@Z 10001ee0 f   Visualizer.obj
+ 0001:00000f50       ?ReadSettings@@YAXXZ       10001f50 f   Visualizer.obj
+ 0001:00001cc0       ?VisualizeBookmarks@@YAX_N@Z 10002cc0 f   Visualizer.obj
+ 0001:00001e20       ?VisualizeCross@@YAXHHHHHH@Z 10002e20 f   Visualizer.obj
+ 0001:00002000       ?VisualizeCursor@@YAXHHH@Z 10003000 f   Visualizer.obj
+ 0001:000020c0       ?VisualizeEndOfFile@@YAXHHH@Z 100030c0 f   Visualizer.obj
+ 0001:00002150       ?VisualizeEndOfLine@@YAXHHPB_WHHHH@Z 10003150 f   Visualizer.obj
+ 0001:00002490       ?VisualizeRightBorder@@YAXHHH@Z 10003490 f   Visualizer.obj
+ 0001:00002540       ?VisualizeTabs@@YAXHH_WPB_WHHH@Z 10003540 f   Visualizer.obj
+ 0001:00002750       ?WriteSettings@@YAXXZ      10003750 f   Visualizer.obj
+ 0001:00003bf0       ?strtoxl@@YAKPB_WPAPA_WHH@Z 10004bf0 f   libCRT:strtol.obj
+ 0001:00003ee8       .idata$6                   10004ee8     kernel32:KERNEL32.dll
+ 0001:00003f00       .edata                     10004f00     Visualizer.exp
+ 0001:00003f28       rgpv                       10004f28     Visualizer.exp
+ 0001:00003f3c       rgszName                   10004f3c     Visualizer.exp
+ 0001:00003f50       rgwOrd                     10004f50     Visualizer.exp
+ 0001:00003f5a       szName                     10004f5a     Visualizer.exp
+ 0001:00003f69       $N00001                    10004f69     Visualizer.exp
+ 0001:00003f78       $N00002                    10004f78     Visualizer.exp
+ 0001:00003f87       $N00003                    10004f87     Visualizer.exp
+ 0001:00003f8d       $N00004                    10004f8d     Visualizer.exp
+ 0001:00003fa1       $N00005                    10004fa1     Visualizer.exp
+ 0002:00000000       ?ecp@?1??VisualizeRightBorder@@YAXHHH@Z@4UEditorConvertPos@@A 10005000     Visualizer.obj
+ 0002:00000010       ?ec@?1??VisualizeRightBorder@@YAXHHH@Z@4UEditorColor@@A 10005010     Visualizer.obj
+ 0002:00000058       ?ecp@?1??VisualizeEndOfLine@@YAXHHPB_WHHHH@Z@4UEditorConvertPos@@A 10005058     Visualizer.obj
+ 0002:00000068       ?ec@?1??VisualizeEndOfLine@@YAXHHPB_WHHHH@Z@4UEditorColor@@A 10005068     Visualizer.obj
+ 0002:000000b0       ?ec@?1??VisualizeEndOfFile@@YAXHHH@Z@4UEditorColor@@A 100050b0     Visualizer.obj
+ 0002:000000f8       ?ecp@?1??VisualizeTabs@@YAXHH_WPB_WHHH@Z@4UEditorConvertPos@@A 100050f8     Visualizer.obj
+ 0002:00000108       ?ec@?1??VisualizeTabs@@YAXHH_WPB_WHHH@Z@4UEditorColor@@A 10005108     Visualizer.obj
+ 0002:00000150       ?ec2@?1??VisualizeTabs@@YAXHH_WPB_WHHH@Z@4UEditorColor@@A 10005150     Visualizer.obj
+ 0002:00000198       ?ecp@?1??VisualizeCross@@YAXHHHHHH@Z@4UEditorConvertPos@@A 10005198     Visualizer.obj
+ 0002:000001a8       ?ec@?1??VisualizeCross@@YAXHHHHHH@Z@4UEditorColor@@A 100051a8     Visualizer.obj
+ 0002:000001f0       ?ecp@?1??VisualizeCursor@@YAXHHH@Z@4UEditorConvertPos@@A 100051f0     Visualizer.obj
+ 0002:00000200       ?ec@?1??VisualizeCursor@@YAXHHH@Z@4UEditorColor@@A 10005200     Visualizer.obj
+ 0002:00000248       ?ec@?N@??VisualizeBookmarks@@YAX_N@Z@4UEditorColor@@A 10005248     Visualizer.obj
+ 0002:00000290       ?esp@?1??ProcessEditorEventW@@9@4@4UEditorSetPosition@@A 10005290     Visualizer.obj
+ 0002:000002ac       ?egs@?1??ProcessEditorEventW@@9@4@4UEditorGetString@@A 100052ac     Visualizer.obj
+ 0002:000002c8       ?edc@?1??ProcessEditorEventW@@9@4@4UEditorDeleteColor@@A 100052c8     Visualizer.obj
+ 0002:000002ec       _hEsc                      100052ec     Visualizer.obj
+ 0002:000002f0       _Info                      100052f0     Visualizer.obj
+ 0002:00000378       _FSF                       10005378     Visualizer.obj
+ 0002:00000438       _Opt                       10005438     Visualizer.obj
+ 0002:000005b8       ?PluginMenuStrings@?1??GetPluginInfoW@@9@4@4PAPB_WA 100055b8     Visualizer.obj
+ 0002:000005bc       ?$S1@?1??VisualizeRightBorder@@YAXHHH@Z@4IA 100055bc     Visualizer.obj
+ 0002:000005c0       ?$S2@?1??VisualizeEndOfLine@@YAXHHPB_WHHHH@Z@4IA 100055c0     Visualizer.obj
+ 0002:000005c4       ?$S3@?1??VisualizeEndOfFile@@YAXHHH@Z@4IA 100055c4     Visualizer.obj
+ 0002:000005c8       ?$S4@?1??VisualizeTabs@@YAXHH_WPB_WHHH@Z@4IA 100055c8     Visualizer.obj
+ 0002:000005cc       ?$S5@?1??VisualizeCross@@YAXHHHHHH@Z@4IA 100055cc     Visualizer.obj
+ 0002:000005d0       ?$S6@?1??VisualizeCursor@@YAXHHH@Z@4IA 100055d0     Visualizer.obj
+ 0002:000005d4       ?$S7@?N@??VisualizeBookmarks@@YAX_N@Z@4IA 100055d4     Visualizer.obj
+ 0002:000005d8       ?$S8@?1??ProcessEditorEventW@@9@4@4IA 100055d8     Visualizer.obj
+ 0003:00000060       $R000000                   10006060     Visualizer.res
