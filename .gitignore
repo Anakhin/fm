@@ -26,3 +26,4 @@ shortcuts.db*
 localconfig.db*
 Plugins!/
 Profile!/
+*.db-journal
