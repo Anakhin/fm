@@ -31,7 +31,7 @@
 
 @Contents
 $^#File and archive manager#
-$^#3.0 build 3682 x64#
+$^#3.0 build 3684 x64#
 $^#Copyright © 1996-2000 Eugene Roshal#
 $^#Copyright © 2000-2013 Far Group#
    ~Help file index~@Index@
@@ -4981,9 +4981,6 @@ $ #Макросы: Список установленных макросов#
     Ниже приведен список разделов, в которых можно узнать какие ~макросы~@KeyMacro@
 действуют в текущей сессии Far Manager.
 
-  ~Список переменных~@KeyMacroVarList@
-  ~Список констант~@KeyMacroConstList@
-
   ~Общие макросы#~@KeyMacroCommonList@
 
   ~Панели~@KeyMacroShellList@
@@ -5009,22 +5006,6 @@ $ #Макросы: Список установленных макросов#
   ~Файл помощи#~@KeyMacroHelpList@
 
   ~Остальные области~@KeyMacroOtherList@
-
-@KeyMacroVarList
-$ #Макросы: Список переменных#
-    Ниже приведен список переменных, которые можно использовать в макросах.
-
-<!Macro:Vars!>
-
-    См. также ~"Список установленных макросов"~@KeyMacroList@
-
-@KeyMacroConstList
-$ #Макросы: Список констант#
-    Ниже приведен список констант, которые можно использовать в макросах.
-
-<!Macro:Consts!>
-
-    См. также ~"Список установленных макросов"~@KeyMacroList@
 
 @KeyMacroCommonList
 $ #Макросы: Общие#
@@ -6317,8 +6298,6 @@ $ #Index help file#
    ~Макросы: Программа просмотра~@KeyMacroViewerList@
    ~Макросы: Прочие меню~@KeyMacroMenuList@
    ~Макросы: Редактор~@KeyMacroEditList@
-   ~Макросы: Список констант~@KeyMacroConstList@
-   ~Макросы: Список переменных~@KeyMacroVarList@
    ~Макросы: Список установленных макросов~@KeyMacroList@
    ~Макросы: Файл помощи~@KeyMacroHelpList@
    ~Настройка информационной панели~@InfoPanelSettings@
